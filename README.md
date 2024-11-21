@@ -64,27 +64,28 @@ Hi there! ❤️ I built mac apps in public and also maintain this repo! Follow 
 [⬆️ Go to Top](#table-of-contents)
 
 ## 🖥️ System Utilities
-| Icon | App | Category | Description | Deal |
-|:---:|:---|:---|:---|:---|
-| ⭐ | [Radar](https://getradar.co) | System Monitoring | Track important metrics from your menubar with analytics & threshold alerts. Available for macOS, Windows, Linux, Android & iOS. | 30% OFF with code **BLACK24** |
-| 🪟 | [Lasso](https://thelasso.app) | Window Management | Lasso is a powerful window manager for macOS that allows you to easily move and resize windows with your mouse or keybord. | 45% OFF with code **BLACKFRIDAY24** |
-| 🖥️ | [Wins - Brand New Window Manager](https://wins.cool) | Window Management | A New Mac Window Manager. Dock Window Previewer, Aero shake, Mission Control Pro and more. Bring System-level Arrange Window features to Mac | 40% OFF with code **BLACKFRIDAY_2024** |
-| 💰 | [CleanClip](https://cleanclip.cc?ref=fndxmacappsutils) | Clipboard Manager | The cleanest Clipboard Manager for macOS, Clean UI/Immersive menu/Unlimited Storage/Paste Queue/Smart List | 30% OFF with code **BF2024** |
-| 💰 | [DisplayBuddy](https://displaybuddy.app/?r=awesome) | Display Control | Control the brightness of monitors directly from your Mac - no need to touch your monitor buttons! | 25% OFF with code **BLACKFRIDAY** |
-| 📸 | [FaceCam](https://gracehuang.gumroad.com/l/facecam/BLACKFRIDAY24) | Video Recording | A macOS app for recording face overlay in videos with customizable settings. One-time payment alternative to Loom. | 40% OFF with code **BLACKFRIDAY24** |
-| ⚡ | [TextSniper](https://textsniper.app/) | Text Extraction | Extract text (OCR) from visuals, scan QR codes/barcodes, and more from anywhere on your Mac. | 60% OFF with code **BFCM24** |
-| ⭐ | [Badgeify](https://badgeify.app) | Menu Bar Tool | Add Any App to Your Mac Menu Bar. | 30% OFF with code **BLACKFRIDAY2024** |
-| 💰 | [Tim Time Tracker](https://tim.neat.software) | Time Tracking | Native macOS time tracker with menu bar app, scripting, powerful charts and data organization. | 30% OFF with code **BF24NSCO** |
-| 🔥 | [Fileside](https://www.fileside.app/?ref=abfcm) | File Management | A modern multi-pane file manager with a twist. For Mac and Windows. | 66% OFF lifetime license between 25 Nov and 2 Dec |
-| 🖥️ | [ScreenMemory](https://screenmemory.app) | Screen Recording | Photographic memory for your macOS screen, rewind time on your screen | **BLACKFRIDAY2024** 25% off |
-| 🔊 | [AudioWrangler](https://audiowrangler.app) | Audio Management | Prioritize which sound devices macOS switches to | 50% off between 15 Nov and 3 Dec |
-| ☀️ | [IlluminateMe](https://apps.apple.com/us/app/illuminateme/id6447471704?mt=12) | Lighting Tool | Use your monitor as a light source | 50% off between 15 Nov and 3 Dec |
-| 🌐 | [Browser Deputy](https://anybox.ltd/browser-deputy) | Browser Tool | A command palette for macOS browsers. Search bookmarks and history. | 50% off with Code **BF2024** |
-| 💰 | [EagleFiler](https://c-command.com/eaglfiler/) | File Management | Organize files on your Mac, archive e-mails, save Web pages and notes, search everything. | **BLACKFRIDAY2024** 25% off |
-| 🛠️ | [CompressX](https://compressx.app) | Media Compression | Easily compress your media with significantly file size reduction, work 100% offline. | 30% off of all plans **BF24** |
-| 💰 | [Ping](https://ping.neat.software) | Network Monitor | Native macOS uptime monitor that uses your Mac's internet connection. Keep track of the status & speed of your websites, APIs, servers or any endpoint. | 30% OFF with code **BF24NSCO** |
-| 🪄 | [Protego for Reddit](https://getprotego.app) | Content Filter | Like a spell shield for your mental health, Protego is a browswer extension for Safari on Mac which lets you filter out unwanted posts and keep your Reddit browsing focused on what matters to you. | 25% off one time purchase |
-| 📂 | [FileMinutes](https://www.fileminutes.com) | File Management | Work Smarter with Files on MacOS | 50% OFF with code **BF2024** |
+| Icon | App | Category          | Description | Deal |
+|:----:|:---|:------------------|:---|:---|
+|  ⭐   | [Radar](https://getradar.co) | System Monitoring | Track important metrics from your menubar with analytics & threshold alerts. Available for macOS, Windows, Linux, Android & iOS. | 30% OFF with code **BLACK24** |
+|  🪟  | [Lasso](https://thelasso.app) | Window Management | Lasso is a powerful window manager for macOS that allows you to easily move and resize windows with your mouse or keybord. | 45% OFF with code **BLACKFRIDAY24** |
+| 🖥️  | [Wins - Brand New Window Manager](https://wins.cool) | Window Management | A New Mac Window Manager. Dock Window Previewer, Aero shake, Mission Control Pro and more. Bring System-level Arrange Window features to Mac | 40% OFF with code **BLACKFRIDAY_2024** |
+|  💰  | [CleanClip](https://cleanclip.cc?ref=fndxmacappsutils) | Clipboard Manager | The cleanest Clipboard Manager for macOS, Clean UI/Immersive menu/Unlimited Storage/Paste Queue/Smart List | 30% OFF with code **BF2024** |
+|  💰  | [DisplayBuddy](https://displaybuddy.app/?r=awesome) | Display Control   | Control the brightness of monitors directly from your Mac - no need to touch your monitor buttons! | 25% OFF with code **BLACKFRIDAY** |
+|  📸  | [FaceCam](https://gracehuang.gumroad.com/l/facecam/BLACKFRIDAY24) | Video Recording   | A macOS app for recording face overlay in videos with customizable settings. One-time payment alternative to Loom. | 40% OFF with code **BLACKFRIDAY24** |
+|  ⚡   | [TextSniper](https://textsniper.app/) | Text Extraction   | Extract text (OCR) from visuals, scan QR codes/barcodes, and more from anywhere on your Mac. | 60% OFF with code **BFCM24** |
+|  ⭐   | [Badgeify](https://badgeify.app) | Menu Bar Tool     | Add Any App to Your Mac Menu Bar. | 30% OFF with code **BLACKFRIDAY2024** |
+|  💰  | [Tim Time Tracker](https://tim.neat.software) | Time Tracking     | Native macOS time tracker with menu bar app, scripting, powerful charts and data organization. | 30% OFF with code **BF24NSCO** |
+|  🔥  | [Fileside](https://www.fileside.app/?ref=abfcm) | File Management   | A modern multi-pane file manager with a twist. For Mac and Windows. | 66% OFF lifetime license between 25 Nov and 2 Dec |
+| 🖥️  | [ScreenMemory](https://screenmemory.app) | Screen Recording  | Photographic memory for your macOS screen, rewind time on your screen | **BLACKFRIDAY2024** 25% off |
+|  🔊  | [AudioWrangler](https://audiowrangler.app) | Audio Management  | Prioritize which sound devices macOS switches to | 50% off between 15 Nov and 3 Dec |
+|  ☀️  | [IlluminateMe](https://apps.apple.com/us/app/illuminateme/id6447471704?mt=12) | Lighting Tool     | Use your monitor as a light source | 50% off between 15 Nov and 3 Dec |
+|  🌐  | [Browser Deputy](https://anybox.ltd/browser-deputy) | Browser Tool      | A command palette for macOS browsers. Search bookmarks and history. | 50% off with Code **BF2024** |
+|  💰  | [EagleFiler](https://c-command.com/eaglfiler/) | File Management   | Organize files on your Mac, archive e-mails, save Web pages and notes, search everything. | **BLACKFRIDAY2024** 25% off |
+| 🛠️  | [CompressX](https://compressx.app) | Media Compression | Easily compress your media with significantly file size reduction, work 100% offline. | 30% off of all plans **BF24** |
+|  💰  | [Ping](https://ping.neat.software) | Network Monitor   | Native macOS uptime monitor that uses your Mac's internet connection. Keep track of the status & speed of your websites, APIs, servers or any endpoint. | 30% OFF with code **BF24NSCO** |
+|  🪄  | [Protego for Reddit](https://getprotego.app) | Content Filter    | Like a spell shield for your mental health, Protego is a browswer extension for Safari on Mac which lets you filter out unwanted posts and keep your Reddit browsing focused on what matters to you. | 25% off one time purchase |
+|  📂  | [FileMinutes](https://www.fileminutes.com) | File Management   | Work Smarter with Files on MacOS | 50% OFF with code **BF2024** |
+|  ⏳   | [Timeular](https://timeular.com/lp/best-deal-2024/) | Time Tracking     | Track your time effortlessly using multiple intuitive methods, including a physical time tracking cube, automated time tracking and keyboard shortcuts. | All annual plans 30% OFF with code **BF30**       |
 
 [⬆️ Go to Top](#table-of-contents)
 
