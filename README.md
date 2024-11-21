@@ -100,6 +100,7 @@ Hi there! ❤️ I built mac apps in public and also maintain this repo! Follow 
 | ♿️ | [Contrasts](https://contrasts.app) | Accessibility Tool | One-click color contrast checking... | 40% OFF on lifetime deal |
 | 📺 | [Screen Canvas](https://www.screencanvas.app/) | Digital Signage | Create Custom Designs on Your Apple TV... | **50% OFF** |
 | ⭐ | [screenpipe](https://screenpi.pe/) | Screen Recording | rewind.ai x cursor.com = AI assistant... | 30% OFF |
+| 🆂 | [Sitely](https://sitely.app) | Visual + AI Website Builder | Formerly known as Sparkle, build the website you always wanted | 50% OFF |
 
 [⬆️ Go to Top](#table-of-contents)
 
