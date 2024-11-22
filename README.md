@@ -64,7 +64,6 @@ Hi there! ❤️ I built mac apps in public and also maintain this repo! Follow 
 [⬆️ Go to Top](#table-of-contents)
 
 ## 🖥️ System Utilities
-## 🖥️ System Utilities
 | Icon | App | Category | Description | Deal |
 |:---:|:---|:---|:---|:---|
 | ⭐ | [Radar](https://getradar.co) | System Monitoring | Track important metrics from your menubar with analytics & threshold alerts. Available for macOS, Windows, Linux, Android & iOS. | 30% OFF with code **BLACK24** |
