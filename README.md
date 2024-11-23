@@ -86,6 +86,7 @@ Hi there! ❤️ I built mac apps in public and also maintain this repo! Follow 
 | 💰 | [Ping](https://ping.neat.software) | Network Monitor | Native macOS uptime monitor that uses your Mac's internet connection. Keep track of the status & speed of your websites, APIs, servers or any endpoint. | 30% OFF with code **BF24NSCO** |
 | 🪄 | [Protego for Reddit](https://getprotego.app) | Content Filter | Like a spell shield for your mental health, Protego is a browswer extension for Safari on Mac which lets you filter out unwanted posts and keep your Reddit browsing focused on what matters to you. | 25% off one time purchase |
 | 📂 | [FileMinutes](https://www.fileminutes.com) | File Management | Work Smarter with Files on MacOS | 50% OFF with code **BF2024** |
+| ⏳ | [Timeular](https://timeular.com/lp/best-deal-2024/) | Time Tracking | Track your time effortlessly using multiple intuitive methods, including a physical time tracking cube, automated time tracking and keyboard shortcuts. | All annual plans 30% OFF with code **BF30** |
 
 [⬆️ Go to Top](#table-of-contents)
 
