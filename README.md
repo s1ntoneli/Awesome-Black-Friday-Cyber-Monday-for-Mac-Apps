@@ -133,6 +133,6 @@ Hi there! ❤️ I built mac apps in public and also maintain this repo! Follow 
 | 💤 | [Dark Sleep](https://www.darksleep.app) | Sleep Aid | Sleep Sounds & Sunrise Alarm for Apple TV... | 50% Off |
 | 💡 | [Mood Lights](https://www.moodlights.app) | Ambient Lighting | Make Your TV a Mood Lamp... | 50% Off |
 | 📷 | [Darkroom](https://darkroom.co) | Photo & Video Editing | Apple Design Award winning, premium creative app designed for creators who value workflow speed, simplicity, and power.  | First Year 50% OFF |
-| 💵 | [SubManager](https://submanager.app) | Subscription Tracker | Track your subscriptions in one place and get notified before a subscription is renewed. | SubManager+ Premium IAP 80% off at $0.99
+| 💵 | [SubManager](https://submanager.app) | Subscription Tracker | Track your subscriptions in one place and get notified before a subscription is renewed. | SubManager+ Premium IAP 80% off at $0.99 |
 
 [⬆️ Go to Top](#table-of-contents)
