@@ -88,8 +88,8 @@ Hi there! ❤️ I built mac apps in public and also maintain this repo! Follow 
 | 🪄 | [Protego for Reddit](https://getprotego.app) | Content Filter | Like a spell shield for your mental health, Protego is a browswer extension for Safari on Mac which lets you filter out unwanted posts and keep your Reddit browsing focused on what matters to you. | 25% off one time purchase |
 | 📂 | [FileMinutes](https://www.fileminutes.com) | File Management | Work Smarter with Files on MacOS | 50% OFF with code **BF2024** |
 | ⏳ | [Timeular](https://timeular.com/lp/best-deal-2024/) | Time Tracking | Track your time effortlessly using multiple intuitive methods, including a physical time tracking cube, automated time tracking and keyboard shortcuts. | All annual plans 30% OFF with code **BF30** |
+| 📡 | [PingDoctor](https://geo.itunes.apple.com/us/app/pingdoctor/id1350044974?mt=12) | Visual Trace Route | Analyze LAN & WAN network performance or stability issues with pinpoint accuracy and ease. | 50% OFF until Dec 4th |
 | 🌅 | [XGetter](https://xgetter.com/?utm_source=aw_bf2024) | Media Downloader | Download media on 50+ platforms like Youtube, X, Tiktok, Instagram, Facebook, Youku, Weibo, DailyMotion, QQ,... | 60% OFF with code **BLACKFRIDAY2024** |
-
 [⬆️ Go to Top](#table-of-contents)
 
 ## 🌅 Design Tools
