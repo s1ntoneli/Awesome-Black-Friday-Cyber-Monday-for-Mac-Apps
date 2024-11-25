@@ -46,6 +46,8 @@ Hi there! ❤️ I built mac apps in public and also maintain this repo! Follow 
 | 🏃‍♂️ | [Atomic](https://indiegoodies.com/atomic) | Habit Tracking | The simple app to build good habits, break bad habits, and achieve greatness! Available on iOS/iPadOS/MacOS. | 55% OFF Lifetime PRO |
 | 💰 | [SpamSieve](https://c-command.com/spamsieve/) | Email Filter | Save time by adding powerful spam filtering to the e-mail client on your Mac. | **BLACKFRIDAY2024** 25% off |
 | 💵 | [Wealthfolio](https://wealthfolio.app) | Investment Tracking | Beautiful, Simple, and Secure Desktop Investment Tracker. | 50% OFF (automatic) |
+| 💥 | [Paste](https://pasteapp.io/black-friday-2024) | Clipboard Manager | Keep, search, and organize everything you copy on your Mac, iPhone, and iPad | 50% OFF First Year Mac + iOS |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -88,7 +90,8 @@ Hi there! ❤️ I built mac apps in public and also maintain this repo! Follow 
 | 🪄 | [Protego for Reddit](https://getprotego.app) | Content Filter | Like a spell shield for your mental health, Protego is a browswer extension for Safari on Mac which lets you filter out unwanted posts and keep your Reddit browsing focused on what matters to you. | 25% off one time purchase |
 | 📂 | [FileMinutes](https://www.fileminutes.com) | File Management | Work Smarter with Files on MacOS | 50% OFF with code **BF2024** |
 | ⏳ | [Timeular](https://timeular.com/lp/best-deal-2024/) | Time Tracking | Track your time effortlessly using multiple intuitive methods, including a physical time tracking cube, automated time tracking and keyboard shortcuts. | All annual plans 30% OFF with code **BF30** |
-
+| 📡 | [PingDoctor](https://geo.itunes.apple.com/us/app/pingdoctor/id1350044974?mt=12) | Visual Trace Route | Analyze LAN & WAN network performance or stability issues with pinpoint accuracy and ease. | 50% OFF until Dec 4th |
+| 🌅 | [XGetter](https://xgetter.com/?utm_source=aw_bf2024) | Media Downloader | Download media on 50+ platforms like Youtube, X, Tiktok, Instagram, Facebook, Youku, Weibo, DailyMotion, QQ,... | 60% OFF with code **BLACKFRIDAY2024** |
 [⬆️ Go to Top](#table-of-contents)
 
 ## 🌅 Design Tools
@@ -118,6 +121,7 @@ Hi there! ❤️ I built mac apps in public and also maintain this repo! Follow 
 | 🖥️ | [DevControls](https://jontelang.com/DevControls) | Project Management | Project management and shortcuts... | **BLACKFRIDAY2024** 25% off |
 | 🦄 | [Kaleidoscope](https://kaleidoscope.app) | Code Comparison | The world's most powerful file comparison... | First Year 40% OFF |
 | 🔥 | [Webhookify](https://webhookify.io?ref=abfcmma) | Effortless Webhook Integrations for Developers. | 70% OFF |
+| 👨‍💻 | [RunJS](https://runjs.app) | Code Playground | Run JavaScript and TypeScript with zero config needed | 30% OFF |
 | 💰 | [Tower](https://www.git-tower.com/) | Git client | Powerful, native Git client for Mac and Windows | First Year 30% OFF |
 
 [⬆️ Go to Top](#table-of-contents)
