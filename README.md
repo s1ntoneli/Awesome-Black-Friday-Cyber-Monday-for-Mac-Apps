@@ -46,6 +46,8 @@ Hi there! ❤️ I built mac apps in public and also maintain this repo! Follow 
 | 🏃‍♂️ | [Atomic](https://indiegoodies.com/atomic) | Habit Tracking | The simple app to build good habits, break bad habits, and achieve greatness! Available on iOS/iPadOS/MacOS. | 55% OFF Lifetime PRO |
 | 💰 | [SpamSieve](https://c-command.com/spamsieve/) | Email Filter | Save time by adding powerful spam filtering to the e-mail client on your Mac. | **BLACKFRIDAY2024** 25% off |
 | 💵 | [Wealthfolio](https://wealthfolio.app) | Investment Tracking | Beautiful, Simple, and Secure Desktop Investment Tracker. | 50% OFF (automatic) |
+| 💥 | [Paste](https://pasteapp.io/black-friday-2024) | Clipboard Manager | Keep, search, and organize everything you copy on your Mac, iPhone, and iPad | 50% OFF First Year Mac + iOS |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
