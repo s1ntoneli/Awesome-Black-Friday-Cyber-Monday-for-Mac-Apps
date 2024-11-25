@@ -117,7 +117,7 @@ Hi there! ❤️ I built mac apps in public and also maintain this repo! Follow 
 | 🐳 | [WhaleDeck](https://apple.co/3NQJi4w) | Docker Management | The only Docker manager you will ever need... | Lifetime 20% off |
 | 🖥️ | [DevControls](https://jontelang.com/DevControls) | Project Management | Project management and shortcuts... | **BLACKFRIDAY2024** 25% off |
 | 🦄 | [Kaleidoscope](https://kaleidoscope.app) | Code Comparison | The world's most powerful file comparison... | First Year 40% OFF |
-| 🔥 | [Webhookify](https://webhookify.io?ref=abfcmma) | Effortless Webhook Integrations for Developers. | 70% OFF 
+| 🔥 | [Webhookify](https://webhookify.io?ref=abfcmma) | Effortless Webhook Integrations for Developers. | 70% OFF |
 
 [⬆️ Go to Top](#table-of-contents)
 
