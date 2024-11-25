@@ -118,6 +118,7 @@ Hi there! ❤️ I built mac apps in public and also maintain this repo! Follow 
 | 🖥️ | [DevControls](https://jontelang.com/DevControls) | Project Management | Project management and shortcuts... | **BLACKFRIDAY2024** 25% off |
 | 🦄 | [Kaleidoscope](https://kaleidoscope.app) | Code Comparison | The world's most powerful file comparison... | First Year 40% OFF |
 | 🔥 | [Webhookify](https://webhookify.io?ref=abfcmma) | Effortless Webhook Integrations for Developers. | 70% OFF |
+| 💰 | [Tower](https://www.git-tower.com/) | Git client | Powerful, native Git client for Mac and Windows | First Year 30% OFF |
 
 [⬆️ Go to Top](#table-of-contents)
 
