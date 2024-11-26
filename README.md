@@ -92,6 +92,8 @@ Hi there! ❤️ I built mac apps in public and also maintain this repo! Follow 
 | ⏳ | [Timeular](https://timeular.com/lp/best-deal-2024/) | Time Tracking | Track your time effortlessly using multiple intuitive methods, including a physical time tracking cube, automated time tracking and keyboard shortcuts. | All annual plans 30% OFF with code **BF30** |
 | 📡 | [PingDoctor](https://geo.itunes.apple.com/us/app/pingdoctor/id1350044974?mt=12) | Visual Trace Route | Analyze LAN & WAN network performance or stability issues with pinpoint accuracy and ease. | 50% OFF until Dec 4th |
 | 🌅 | [XGetter](https://xgetter.com/?utm_source=aw_bf2024) | Media Downloader | Download media on 50+ platforms like Youtube, X, Tiktok, Instagram, Facebook, Youku, Weibo, DailyMotion, QQ,... | 60% OFF with code **BLACKFRIDAY2024** |
+| 🌅 | [DynamicLakePro](https://www.dynamiclake.com) | Quick System Utils | DynamicLakePro transforms your Mac's unused notch into a productivity powerhouse, offering seamless quick actions like instant media controls, swift replies in your favorite messaging app, effortless file sharing, and much more | 35% OFF with code **PBUBUTA** |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
