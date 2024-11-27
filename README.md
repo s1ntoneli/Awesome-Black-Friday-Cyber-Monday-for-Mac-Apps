@@ -48,6 +48,7 @@ Hi there! ❤️ I built mac apps in public and also maintain this repo! Follow 
 | 💵 | [Wealthfolio](https://wealthfolio.app) | Investment Tracking | Beautiful, Simple, and Secure Desktop Investment Tracker. | 50% OFF (automatic) |
 | 💥 | [Paste](https://pasteapp.io/black-friday-2024) | Clipboard Manager | Keep, search, and organize everything you copy on your Mac, iPhone, and iPad | 50% OFF First Year Mac + iOS |
 | 🤡 | [ScreenSage](https://screensage.macaify.com/) | Screen Recorder | Professional Screen Recording & Tutorial Creation Tool for macOS. Auto-zoom screen recorder that makes every event count. | Lifetime 50% OFF with code **BFS2024** |
+| 🟢 | [QuickWhisper](https://iwtcom.gumroad.com/l/quickwhisper?code=BFRIDAY2024) | Audio Transcriptions | QuickWhisper turns any audio or video into accurate text instantly on your Mac, handling everything from meetings to podcasts with lightning-fast speed and accuracy. | 50% OFF with **BFRIDAY2024** |
 
 [⬆️ Go to Top](#table-of-contents)
 
