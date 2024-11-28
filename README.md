@@ -144,5 +144,6 @@ Hi there! ❤️ I built mac apps in public and also maintain this repo! Follow 
 | 💡 | [Mood Lights](https://www.moodlights.app) | Ambient Lighting | Make Your TV a Mood Lamp... | 50% Off |
 | 📷 | [Darkroom](https://darkroom.co) | Photo & Video Editing | Apple Design Award winning, premium creative app designed for creators who value workflow speed, simplicity, and power.  | First Year 50% OFF |
 | 💵 | [SubManager](https://submanager.app) | Subscription Tracker | Track your subscriptions in one place and get notified before a subscription is renewed. | SubManager+ Premium IAP 80% off at $0.99 |
+|  🪄 | [Protego for Reddit](https://apps.apple.com/us/app/protego-for-reddit/id6737959724) | Post Filter for Reddit | Like a spell shield for your mental health, Protego is a browser extension for Safari which lets you filter out unwanted posts from Reddit and customize your browsing experience to focus on what matters to you. | 25% off one time purchase |
 
 [⬆️ Go to Top](#table-of-contents)
