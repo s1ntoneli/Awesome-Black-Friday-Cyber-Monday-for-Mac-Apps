@@ -48,6 +48,7 @@ Hi there! ❤️ I built mac apps in public and also maintain this repo! Follow 
 | 💵 | [Wealthfolio](https://wealthfolio.app) | Investment Tracking | Beautiful, Simple, and Secure Desktop Investment Tracker. | 50% OFF (automatic) |
 | 💥 | [Paste](https://pasteapp.io/black-friday-2024) | Clipboard Manager | Keep, search, and organize everything you copy on your Mac, iPhone, and iPad | 50% OFF First Year Mac + iOS |
 | 🤡 | [ScreenSage](https://screensage.macaify.com/) | Screen Recorder | Professional Screen Recording & Tutorial Creation Tool for macOS. Auto-zoom screen recorder that makes every event count. | Lifetime 50% OFF with code **BFS2024** |
+| 🕓 | [Minizones](https://minizones.app) | Menubar Timezone Clocks | Quickly glance at different timezones, right from your menubar. | 50% OFF (till 3rd Dec) **Automatically applied** |
 
 [⬆️ Go to Top](#table-of-contents)
 
