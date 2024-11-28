@@ -48,6 +48,7 @@ Hi there! ❤️ I built mac apps in public and also maintain this repo! Follow 
 | 💵 | [Wealthfolio](https://wealthfolio.app) | Investment Tracking | Beautiful, Simple, and Secure Desktop Investment Tracker. | 50% OFF (automatic) |
 | 💥 | [Paste](https://pasteapp.io/black-friday-2024) | Clipboard Manager | Keep, search, and organize everything you copy on your Mac, iPhone, and iPad | 50% OFF First Year Mac + iOS |
 | 🤡 | [ScreenSage](https://screensage.macaify.com/) | Screen Recorder | Professional Screen Recording & Tutorial Creation Tool for macOS. Auto-zoom screen recorder that makes every event count. | Lifetime 50% OFF with code **BFS2024** |
+| 🕓 | [Minizones](https://minizones.app) | Menubar Timezone Clocks | Quickly glance at different timezones, right from your menubar. | 50% OFF (till 3rd Dec) **Automatically applied** |
 | 🟢 | [QuickWhisper](https://iwtcom.gumroad.com/l/quickwhisper?code=BFRIDAY2024) | Audio Transcriptions | QuickWhisper turns any audio or video into accurate text instantly on your Mac, handling everything from meetings to podcasts with lightning-fast speed and accuracy. | 50% OFF with **BFRIDAY2024** |
 
 [⬆️ Go to Top](#table-of-contents)
@@ -93,6 +94,8 @@ Hi there! ❤️ I built mac apps in public and also maintain this repo! Follow 
 | ⏳ | [Timeular](https://timeular.com/lp/best-deal-2024/) | Time Tracking | Track your time effortlessly using multiple intuitive methods, including a physical time tracking cube, automated time tracking and keyboard shortcuts. | All annual plans 30% OFF with code **BF30** |
 | 📡 | [PingDoctor](https://geo.itunes.apple.com/us/app/pingdoctor/id1350044974?mt=12) | Visual Trace Route | Analyze LAN & WAN network performance or stability issues with pinpoint accuracy and ease. | 50% OFF until Dec 4th |
 | 🌅 | [XGetter](https://xgetter.com/?utm_source=aw_bf2024) | Media Downloader | Download media on 50+ platforms like Youtube, X, Tiktok, Instagram, Facebook, Youku, Weibo, DailyMotion, QQ,... | 60% OFF with code **BLACKFRIDAY2024** |
+| 🌅 | [DynamicLakePro](https://www.dynamiclake.com) | Quick System Utils | DynamicLakePro transforms your Mac's unused notch into a productivity powerhouse, offering seamless quick actions like instant media controls, swift replies in your favorite messaging app, effortless file sharing, and much more | 35% OFF with code **PBUBUTA** |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -142,5 +145,6 @@ Hi there! ❤️ I built mac apps in public and also maintain this repo! Follow 
 | 💡 | [Mood Lights](https://www.moodlights.app) | Ambient Lighting | Make Your TV a Mood Lamp... | 50% Off |
 | 📷 | [Darkroom](https://darkroom.co) | Photo & Video Editing | Apple Design Award winning, premium creative app designed for creators who value workflow speed, simplicity, and power.  | First Year 50% OFF |
 | 💵 | [SubManager](https://submanager.app) | Subscription Tracker | Track your subscriptions in one place and get notified before a subscription is renewed. | SubManager+ Premium IAP 80% off at $0.99 |
+|  🪄 | [Protego for Reddit](https://apps.apple.com/us/app/protego-for-reddit/id6737959724) | Post Filter for Reddit | Like a spell shield for your mental health, Protego is a browser extension for Safari which lets you filter out unwanted posts from Reddit and customize your browsing experience to focus on what matters to you. | 25% off one time purchase |
 
 [⬆️ Go to Top](#table-of-contents)
