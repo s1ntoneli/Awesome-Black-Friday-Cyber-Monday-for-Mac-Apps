@@ -50,6 +50,9 @@ Hi there! ❤️ I built mac apps in public and also maintain this repo! Follow 
 | 🤡 | [ScreenSage](https://screensage.macaify.com/) | Screen Recorder | Professional Screen Recording & Tutorial Creation Tool for macOS. Auto-zoom screen recorder that makes every event count. | Lifetime 50% OFF with code **BFS2024** |
 | 🕓 | [Minizones](https://minizones.app) | Menubar Timezone Clocks | Quickly glance at different timezones, right from your menubar. | 50% OFF (till 3rd Dec) **Automatically applied** |
 | 🟢 | [QuickWhisper](https://iwtcom.gumroad.com/l/quickwhisper?code=BFRIDAY2024) | Audio Transcriptions | QuickWhisper turns any audio or video into accurate text instantly on your Mac, handling everything from meetings to podcasts with lightning-fast speed and accuracy. | 50% OFF with **BFRIDAY2024** |
+| 📝 | [SideNotes](https://www.apptorium.com/sidenotes) | Note Taking | Take notes on the side of your screen | Lifetime 40% OFF |
+| 🖥 | [Workspaces](https://www.apptorium.com/workspaces) | Launcher | Project-based launcher that opens your files, folders, websites, apps etc. with one click. | Lifetime 50% OFF |
+| 📝 | [FiveNotes](https://www.apptorium.com/fivenotes) | Note Taking | Five quick notes in your Menubar. | Lifetime 37% OFF |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -95,6 +98,7 @@ Hi there! ❤️ I built mac apps in public and also maintain this repo! Follow 
 | 📡 | [PingDoctor](https://geo.itunes.apple.com/us/app/pingdoctor/id1350044974?mt=12) | Visual Trace Route | Analyze LAN & WAN network performance or stability issues with pinpoint accuracy and ease. | 50% OFF until Dec 4th |
 | 🌅 | [XGetter](https://xgetter.com/?utm_source=aw_bf2024) | Media Downloader | Download media on 50+ platforms like Youtube, X, Tiktok, Instagram, Facebook, Youku, Weibo, DailyMotion, QQ,... | 60% OFF with code **BLACKFRIDAY2024** |
 | 🌅 | [DynamicLakePro](https://www.dynamiclake.com) | Quick System Utils | DynamicLakePro transforms your Mac's unused notch into a productivity powerhouse, offering seamless quick actions like instant media controls, swift replies in your favorite messaging app, effortless file sharing, and much more | 35% OFF with code **PBUBUTA** |
+| 🖥 | [Cursor Teleporter](https://www.apptorium.com/cursor-teleporter) | Mouse Utility | Teleport your cursor across your displays. | Lifetime 50% OFF |
 
 
 [⬆️ Go to Top](#table-of-contents)
