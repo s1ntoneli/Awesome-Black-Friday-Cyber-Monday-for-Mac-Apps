@@ -32,7 +32,7 @@ Don't forget to:
 ## 🔥 Productivity
 | Badge | App | Category | Description | Deal | Start-End Date |
 |:---:|:---|:---|:---|:---|:---:|
-| 💎 | [CleanClip](https://cleanclip.cc?ref=fndxmacappspro) | Clipboard Manager | The cleanest system-level clipboard manager for Mac, Clean UI/Immersive menu/Paste Queue/Smart List/Unlimited Storage | 30% OFF with code **BF2025** | |
+| 💎 | [CleanClip](https://cleanclip.cc?ref=fndxmacappspro) | Clipboard Manager | The cleanest system-level clipboard manager for Mac, Clean UI/Immersive menu/Paste Queue/Smart List/Unlimited Storage | 30% OFF with code **BF2025** |  Nov 1 - Dec 7  |
 
 [⬆️ Go to Top](#table-of-contents)
 
