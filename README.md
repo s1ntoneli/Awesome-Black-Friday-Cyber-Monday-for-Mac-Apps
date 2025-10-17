@@ -27,48 +27,48 @@ Don't forget to:
 - [🌅 Design Tools](#-design-tools)
 - [🖥️ System Utilities](#%EF%B8%8F-system-utilities)
 - [👨‍💻 Developer Tools](#-developer-tools)
-- [👨‍🎨 Others](#-others)
+- [👨‍🎨 Others](#%EF%B8%8F-others)
 
 ## 🔥 Productivity
-| Badge | App | Category | Description | Deal | Demo Video(optional) |
+| Badge | App | Category | Description | Deal | Start-End Date |
 |:---:|:---|:---|:---|:---|:---:|
-| 💎 | [CleanClip](https://cleanclip.cc?ref=fndxmacappspro) | Clipboard Manager | The cleanest system-level clipboard manager for Mac, Clean UI/Immersive menu/Paste Queue/Smart List/Unlimited Storage | 30% OFF with code **BF2025** | [Demo](https://cleanclip.cc/docs/cleanclip/mac/features/quick-use.html) |
+| 💎 | [CleanClip](https://cleanclip.cc?ref=fndxmacappspro) | Clipboard Manager | The cleanest system-level clipboard manager for Mac, Clean UI/Immersive menu/Paste Queue/Smart List/Unlimited Storage | 30% OFF with code **BF2025** | |
 
 [⬆️ Go to Top](#table-of-contents)
 
 ## 🎬 Content Creation
-| Badge | App | Category | Description | Deal | Demo Video(optional)  |
-|:---:|:---|:---|:---|:---|:---|
+| Badge | App | Category | Description | Deal | Start-End Date |
+|:---:|:---|:---|:---|:---|:---:|
 
 [⬆️ Go to Top](#table-of-contents)
 
 ## 🤖 AI Tools
-| Badge | App | Category | Description | Deal | Demo Video(optional)  |
-|:---:|:---|:---|:---|:---|:---|
+| Badge | App | Category | Description | Deal | Start-End Date |
+|:---:|:---|:---|:---|:---|:---:|
 
 [⬆️ Go to Top](#table-of-contents)
 
 ## 🌅 Design Tools
-| Badge | App | Category | Description | Deal | Demo Video(optional)  |
-|:---:|:---|:---|:---|:---|:---|
+| Badge | App | Category | Description | Deal | Start-End Date |
+|:---:|:---|:---|:---|:---|:---:|
 
 [⬆️ Go to Top](#table-of-contents)
 
 ## 🖥️ System Utilities
-| Badge | App | Category | Description | Deal | Demo Video(optional)  |
-|:---:|:---|:---|:---|:---|:---|
+| Badge | App | Category | Description | Deal | Start-End Date |
+|:---:|:---|:---|:---|:---|:---:|
 
 
 [⬆️ Go to Top](#table-of-contents)
 
 ## 👨‍💻 Developer Tools
-| Badge | App | Category | Description | Deal | Demo Video(optional)  |
-|:---:|:---|:---|:---|:---|:---|
+| Badge | App | Category | Description | Deal | Start-End Date |
+|:---:|:---|:---|:---|:---|:---:|
 
 [⬆️ Go to Top](#table-of-contents)
 
 ## 👨‍🎨 Others
-| Badge | App | Category | Description | Deal | Demo Video(optional)  |
-|:---:|:---|:---|:---|:---|:---|
+| Badge | App | Category | Description | Deal | Start-End Date |
+|:---:|:---|:---|:---|:---|:---:|
 
 [⬆️ Go to Top](#table-of-contents)
