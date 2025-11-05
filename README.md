@@ -64,6 +64,7 @@ Don't forget to:
 ## 👨‍💻 Developer Tools
 | Badge | App | Category | Description | Deal | Start-End Date |
 |:---:|:---|:---|:---|:---|:---:|
+|🔥|[Dash](https://kapeli.com/dash)|Documentation Browser|Offline API Documentation browser and snippet manager|50% OFF with code [BLACKFRIDAY](https://kapeli.com/subscribe?coupon=BLACKFRIDAY)|Nov 4 - Nov 12|
 
 [⬆️ Go to Top](#table-of-contents)
 
