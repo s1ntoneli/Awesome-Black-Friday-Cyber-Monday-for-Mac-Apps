@@ -47,7 +47,7 @@ Don't forget to:
 ## 🤖 AI Tools
 | Badge | App | Category | Description | Deal | Start-End Date |
 |:---:|:---|:---|:---|:---|:---:|
-| 💎 | [KeygenGo](https://orchard.5km.tech) | Productivity | Orchard bridges MCP‑compatible AI assistants with your Apple ecosystem, turning plain language into real actions across native macOS apps—privately, instantly, and locally. | 50% OFF for Lifetime Plan with copde **BF2025** |  Nov 20 - Dec 2  |
+| 💎 | [Orchard](https://orchard.5km.tech) | Productivity | Orchard bridges MCP‑compatible AI assistants with your Apple ecosystem, turning plain language into real actions across native macOS apps—privately, instantly, and locally. | 50% OFF for Lifetime Plan with copde **BF2025** |  Nov 20 - Dec 2  |
 
 [⬆️ Go to Top](#table-of-contents)
 
