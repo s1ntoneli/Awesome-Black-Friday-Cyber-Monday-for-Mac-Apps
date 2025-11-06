@@ -68,6 +68,7 @@ Don't forget to:
 | Badge | App | Category | Description | Deal | Start-End Date |
 |:---:|:---|:---|:---|:---|:---:|
 | 🔥 | [KeygenGo](https://keygengo.5km.tech) | Licensing & Distribution | A native macOS app that transforms your Keygen.sh experience. Manage licenses, track users, and monitor products through an elegant visual interface. | 50% OFF for Lifetime Plan with code **BF2025** |  Nov 20 - Dec 2  |
+| 🔥 | [Dash](https://kapeli.com/dash)|Documentation Browser|Offline API Documentation browser and snippet manager|50% OFF with code [BLACKFRIDAY](https://kapeli.com/subscribe?coupon=BLACKFRIDAY)|Nov 4 - Nov 12|
 
 [⬆️ Go to Top](#table-of-contents)
 
