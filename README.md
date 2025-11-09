@@ -48,6 +48,7 @@ Don't forget to:
 | Badge | App | Category | Description | Deal | Start-End Date |
 |:---:|:---|:---|:---|:---|:---:|
 | 💎 | [Orchard](https://orchard.5km.tech) | Productivity | Orchard bridges MCP‑compatible AI assistants with your Apple ecosystem, turning plain language into real actions across native macOS apps—privately, instantly, and locally. | 50% OFF for Lifetime Plan with copde **BF2025** |  Nov 20 - Dec 2  |
+| ✍️ | [RewriteBar](https://rewritebar.com?ref=s1ntoneli) | Writing Assistant | A Complete AI Writing Toolkit for macOS. Fix grammar, adjust tone, translate, rewrite, summarize — plus powerful custom actions and templates. | 50% OFF for first Transaction with code **BF2025** |  Nov 10 - Dec 1  |
 
 [⬆️ Go to Top](#table-of-contents)
 
