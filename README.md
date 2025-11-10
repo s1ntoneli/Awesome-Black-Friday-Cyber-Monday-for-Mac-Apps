@@ -48,6 +48,7 @@ Don't forget to:
 | Badge | App | Category | Description | Deal | Start-End Date |
 |:---:|:---|:---|:---|:---|:---:|
 | 💎 | [Orchard](https://orchard.5km.tech) | Productivity | Orchard bridges MCP‑compatible AI assistants with your Apple ecosystem, turning plain language into real actions across native macOS apps—privately, instantly, and locally. | 50% OFF for Lifetime Plan with copde **BF2025** |  Nov 20 - Dec 2  |
+| 🔥 | [TypingMind](https://typingmind.com/) | Productivity | Personal AI workspace. Frontend for ChatGPT, Claude, Gemini to use with your API key. Support Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF with code **BLACKFRIDAY2025** | Nov 5 - Dec 1 |
 
 [⬆️ Go to Top](#table-of-contents)
 
