@@ -48,6 +48,7 @@ Don't forget to:
 | Badge | App | Category | Description | Deal | Start-End Date |
 |:---:|:---|:---|:---|:---|:---:|
 | 💎 | [Orchard](https://orchard.5km.tech) | Productivity | Orchard bridges MCP‑compatible AI assistants with your Apple ecosystem, turning plain language into real actions across native macOS apps—privately, instantly, and locally. | 50% OFF for Lifetime Plan with copde **BF2025** |  Nov 20 - Dec 2  |
+| 🔥 | [TypeBoost](https://www.typeboost.ai)| Productivity | Build your personal AI toolkit. Use anywhere you type on Mac. Write, translate, improve, explain, brainstorm... | **60% OFF** all plans for 6 months with code **BF2025** |  Nov 21 - Dec 5  |
 
 [⬆️ Go to Top](#table-of-contents)
 
