@@ -53,6 +53,7 @@ Don't forget to:
 
 ## 🌅 Design Tools
 | Badge | App | Category | Description | Deal | Start-End Date |
+| 🔥 | [Sitely 6](https://sitely.app) | Visual + AI Website Builder | Create the website you always wanted with AI and real WYSIWYG editor | 50% OFF automatically applied |  Nov 12 - Dec 5  |
 |:---:|:---|:---|:---|:---|:---:|
 
 [⬆️ Go to Top](#table-of-contents)
