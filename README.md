@@ -48,6 +48,7 @@ Don't forget to:
 | Badge | App | Category | Description | Deal | Start-End Date |
 |:---:|:---|:---|:---|:---|:---:|
 | 💎 | [Orchard](https://orchard.5km.tech) | Productivity | Orchard bridges MCP‑compatible AI assistants with your Apple ecosystem, turning plain language into real actions across native macOS apps—privately, instantly, and locally. | 50% OFF for Lifetime Plan with copde **BF2025** |  Nov 20 - Dec 2  |
+| 🔥 | [TypeBoost](https://www.typeboost.ai)| Productivity | Build your personal AI toolkit. Use anywhere you type on Mac. Write, translate, improve, explain, brainstorm... | **60% OFF** all plans for 6 months with code **BF2025** |  Nov 21 - Dec 5  |
 | 🔥 | [TypingMind](https://typingmind.com/) | Productivity | Personal AI workspace. Frontend for ChatGPT, Claude, Gemini to use with your API key. Support Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF with code **BLACKFRIDAY2025** | Nov 5 - Dec 1 |
 | ✍️ | [RewriteBar](https://rewritebar.com?ref=s1ntoneli) | Writing Assistant | A Complete AI Writing Toolkit for macOS. Fix grammar, adjust tone, translate, rewrite, summarize — plus powerful custom actions and templates. | 50% OFF for first Transaction with code **BF2025** |  Nov 10 - Dec 1  |
 
