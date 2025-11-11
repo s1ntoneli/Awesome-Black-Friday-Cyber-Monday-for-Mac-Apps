@@ -26,7 +26,7 @@ Don't forget to:
 - [🤖 AI Tools](#-ai-tools)
 - [🌅 Design Tools](#-design-tools)
 - [🖥️ System Utilities](#%EF%B8%8F-system-utilities)
-- [👨‍💻 Developer Tools](#-developer-tools)
+- [👨‍💻 Developer Tools](#%E2%80%8D-developer-tools)
 - [👨‍🎨 Others](#%EF%B8%8F-others)
 
 ## 🔥 Productivity
@@ -49,11 +49,14 @@ Don't forget to:
 |:---:|:---|:---|:---|:---|:---:|
 | 💎 | [Orchard](https://orchard.5km.tech) | Productivity | Orchard bridges MCP‑compatible AI assistants with your Apple ecosystem, turning plain language into real actions across native macOS apps—privately, instantly, and locally. | 50% OFF for Lifetime Plan with copde **BF2025** |  Nov 20 - Dec 2  |
 | 🔥 | [TypeBoost](https://www.typeboost.ai)| Productivity | Build your personal AI toolkit. Use anywhere you type on Mac. Write, translate, improve, explain, brainstorm... | **60% OFF** all plans for 6 months with code **BF2025** |  Nov 21 - Dec 5  |
+| 🔥 | [TypingMind](https://typingmind.com/) | Productivity | Personal AI workspace. Frontend for ChatGPT, Claude, Gemini to use with your API key. Support Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF with code **BLACKFRIDAY2025** | Nov 5 - Dec 1 |
+| ✍️ | [RewriteBar](https://rewritebar.com?ref=s1ntoneli) | Writing Assistant | A Complete AI Writing Toolkit for macOS. Fix grammar, adjust tone, translate, rewrite, summarize — plus powerful custom actions and templates. | 50% OFF for first Transaction with code **BF2025** |  Nov 10 - Dec 1  |
 
 [⬆️ Go to Top](#table-of-contents)
 
 ## 🌅 Design Tools
 | Badge | App | Category | Description | Deal | Start-End Date |
+| 🔥 | [Sitely 6](https://sitely.app) | Visual + AI Website Builder | Create the website you always wanted with AI and real WYSIWYG editor | 50% OFF automatically applied |  Nov 12 - Dec 5  |
 |:---:|:---|:---|:---|:---|:---:|
 
 [⬆️ Go to Top](#table-of-contents)
@@ -68,8 +71,8 @@ Don't forget to:
 ## 👨‍💻 Developer Tools
 | Badge | App | Category | Description | Deal | Start-End Date |
 |:---:|:---|:---|:---|:---|:---:|
+| 🔥 | [Dash](https://kapeli.com/dash)|Documentation Browser|Offline API Documentation browser and snippet manager|50% OFF with code [BLACKFRIDAY](https://kapeli.com/subscribe?coupon=BLACKFRIDAY)|Nov 4 - Dec 2|
 | 🔥 | [KeygenGo](https://keygengo.5km.tech) | Licensing & Distribution | A native macOS app that transforms your Keygen.sh experience. Manage licenses, track users, and monitor products through an elegant visual interface. | 50% OFF for Lifetime Plan with code **BF2025** |  Nov 20 - Dec 2  |
-| 🔥 | [Dash](https://kapeli.com/dash)|Documentation Browser|Offline API Documentation browser and snippet manager|50% OFF with code [BLACKFRIDAY](https://kapeli.com/subscribe?coupon=BLACKFRIDAY)|Nov 4 - Nov 12|
 
 [⬆️ Go to Top](#table-of-contents)
 
