@@ -21,13 +21,16 @@ Don't forget to:
 *Use these badges in the "Badge" column to help users quickly identify the best deals!*
 
 ### Table of Contents
-- [🔥 Productivity](#-productivity)
-- [🎬 Content Creation](#-content-creation)
-- [🤖 AI Tools](#-ai-tools)
-- [🌅 Design Tools](#-design-tools)
-- [🖥️ System Utilities](#%EF%B8%8F-system-utilities)
-- [👨‍💻 Developer Tools](#-developer-tools)
-- [👨‍🎨 Others](#%EF%B8%8F-others)
+- [💵 Awesome-Black-Friday-Cyber-Monday-for-Mac-Apps 🤑](#-awesome-black-friday-cyber-monday-for-mac-apps-)
+  - [📊 Badge Guide - Discount Levels](#-badge-guide---discount-levels)
+    - [Table of Contents](#table-of-contents)
+  - [🔥 Productivity](#-productivity)
+  - [🎬 Content Creation](#-content-creation)
+  - [🤖 AI Tools](#-ai-tools)
+  - [🌅 Design Tools](#-design-tools)
+  - [🖥️ System Utilities](#️-system-utilities)
+  - [👨‍💻 Developer Tools](#-developer-tools)
+  - [👨‍🎨 Others](#-others)
 
 ## 🔥 Productivity
 | Badge | App | Category | Description | Deal | Start-End Date |
@@ -35,6 +38,8 @@ Don't forget to:
 | 💎 | [CleanClip](https://cleanclip.cc?ref=fndxmacappspro) | Clipboard Manager | The cleanest system-level clipboard manager for Mac, Clean UI/Immersive menu/Paste Queue/Smart List/Unlimited Storage | 30% OFF with code **BF2025** |  Nov 1 - Dec 7  |
 | 💎 | [Zipic](https://zipic.app?ref=fndxmacappspro) | Media file Optimization | A Mac image compression tool that optimizes images while preserving quality. Features multiple formats, batch processing, automated workflows, and local processing. | 33% OFF with code **BF2025** |  Nov 20 - Dec 2  |
 | 🔥 | [TimeGo-Clock](https://apps.apple.com/cn/app/timego-clock/id6448658165?l=en-GB&mt=12) | Focus & Time | TimeGo is a lightweight timer app with a fresh 2.0 Ul. Create custom countdown combinations for your workflow. | 50%+ OFF |  Nov 20 - Dec 2  |
+| 💎 | [Wins](https://wins.cool) | Window Manager | Enhances the system App Switcher with Cmd-Tab Plus, improves Dock efficiency with Dock Preview, and offers many other practical features — all designed to feel just like Apple’s built-in features. | 40% OFF with code **BLACKFRIDAY2025** |  Nov 11 - Dec 2  |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -60,6 +65,7 @@ Don't forget to:
 ## 🖥️ System Utilities
 | Badge | App | Category | Description | Deal | Start-End Date |
 |:---:|:---|:---|:---|:---|:---:|
+| 💎 | [Wins](https://wins.cool) | Window Manager | Mac window manager — enhances the system App Switcher with Cmd-Tab Plus, improves Dock efficiency with Dock Preview, and offers many other practical features — all designed to feel just like Apple’s built-in features. | 40% OFF |  Nov 11 - Dec 2  |
 
 
 [⬆️ Go to Top](#table-of-contents)
