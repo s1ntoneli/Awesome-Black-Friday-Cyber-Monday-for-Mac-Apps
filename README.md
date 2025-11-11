@@ -37,6 +37,7 @@ Don't forget to:
 | 🔥 | [TimeGo-Clock](https://apps.apple.com/cn/app/timego-clock/id6448658165?l=en-GB&mt=12) | Focus & Time | TimeGo is a lightweight timer app with a fresh 2.0 Ul. Create custom countdown combinations for your workflow. | 50%+ OFF |  Nov 20 - Dec 2  |
 | 💎 | [Wins](https://wins.cool) | Window Manager | Enhances the system App Switcher with Cmd-Tab Plus, improves Dock efficiency with Dock Preview, and offers many other practical features — all designed to feel just like Apple’s built-in features. | 40% OFF with code **BLACKFRIDAY2025** |  Nov 11 - Dec 2  |
 | 💎 | [DynamicLake](https://dynamiclake.com) | Island | Dynamic Island for Mac with Liquid Glass. **30% off** | Nov 20 - Dec 2  |
+| 🔥 | [DeskRest](https://deskrest.com) | Break Reminder | Smart break and posture reminder for macOS. Transform your workday. **50% off** | Nov 10 - Dec 2  |
 
 [⬆️ Go to Top](#table-of-contents)
 
