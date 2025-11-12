@@ -68,7 +68,7 @@ Don't forget to:
 | Badge | App | Category | Description | Deal | Start-End Date |
 |:---:|:---|:---|:---|:---|:---:|
 | 💎 | [Wins](https://wins.cool) | Window Manager | Mac window manager — enhances the system App Switcher with Cmd-Tab Plus, improves Dock efficiency with Dock Preview, and offers many other practical features — all designed to feel just like Apple’s built-in features. | 40% OFF |  Nov 11 - Dec 2  |
-| 💎 | [DockX](https://DockX.app) | System Status | Magic app that allows you to display any content in the Dock and Menu bar, you can just sneak a peek anytime without opening any app. | App Store **28% OFF** <br> **or** Code **BF2025** | Nov 11 - Dec 2  |
+| 💎 | [DockX](https://DockX.app) | System Status | Magic app that allows you to display any content in the Dock and Menu bar, you can just sneak a peek anytime without opening any app. | App Store **25% OFF** <br> **or** Code **BF2025** | Nov 11 - Dec 2  |
 
 
 [⬆️ Go to Top](#table-of-contents)
