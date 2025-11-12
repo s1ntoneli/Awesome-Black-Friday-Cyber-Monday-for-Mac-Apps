@@ -39,6 +39,7 @@ Don't forget to:
 | 💎 | [DynamicLake](https://dynamiclake.com) | Island | Dynamic Island for Mac with Liquid Glass. | **30% off** | Nov 20 - Dec 2  |
 | 💎 | [MenubarX](https://MenubarX.app) | Menu bar Browser | Powful macOS menu bar browser that helps you to add any web pages to the menu bar just like Native Apps. | App Store **28% OFF** <br> **or** Code **BF2025** | Nov 11 - Dec 2  |
 | 🔥 | [DeskRest](https://deskrest.com) | Break Reminder | Smart break and posture reminder for macOS. Transform your workday. | **50% off** | Nov 10 - Dec 2  |
+| 🔥 | [Capture](https://apps.apple.com/app/apple-store/id6458535284) | Quick Notes | Easily capture your thoughts & ideas on the go and export them to your favourite apps. | **50% OFF** Lifetime plan with code **BLACKFRIDAY** | Nov 12 - Dec 2 |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -89,5 +90,6 @@ Don't forget to:
 ## 👨‍🎨 Others
 | Badge | App | Category | Description | Deal | Start-End Date |
 |:---:|:---|:---|:---|:---|:---:|
+| 🔥 | [Reporting](https://apps.apple.com/app/apple-store/id1559813249) | Ad Network Reports | Track and monitor your daily, weekly, and monthly ad network revenue effortlessly in a single convenient location. | **50% OFF** lifetime plan. No code needed. | Nov 12 - Dec 2 |
 
 [⬆️ Go to Top](#table-of-contents)
