@@ -56,6 +56,8 @@ Don't forget to:
 | 🔥 | [TypeBoost](https://www.typeboost.ai)| Productivity | Build your personal AI toolkit. Use anywhere you type on Mac. Write, translate, improve, explain, brainstorm... | **60% OFF** all plans for 6 months with code **BF2025** |  Nov 21 - Dec 5  |
 | 🔥 | [TypingMind](https://typingmind.com/) | Productivity | Personal AI workspace. Frontend for ChatGPT, Claude, Gemini to use with your API key. Support Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF with code **BLACKFRIDAY2025** | Nov 5 - Dec 1 |
 | ✍️ | [RewriteBar](https://rewritebar.com?ref=s1ntoneli) | Writing Assistant | A Complete AI Writing Toolkit for macOS. Fix grammar, adjust tone, translate, rewrite, summarize — plus powerful custom actions and templates. | 50% OFF for first Transaction with code **BF2025** |  Nov 10 - Dec 1  |
+| 🔥 | [BoltAI v2](https://boltai.com/?utm_source=s1ntoneli) | Productivity | Best AI client for Mac. Instantly switch between 300+ AI models. Feature-packed, Native Performance, Private by default. Now with iOS app too! | 51% OFF with code **BFCM25** | Nov 12 - Dec 1 |
+| 🔥 | [PDF Pals](https://pdfpals.com/?utm_source=s1ntoneli) | Productivity | Instantly chat with any PDF on your Mac. Native, fast and respect your privacy. | 51% OFF with code **BFCM25** | Nov 12 - Dec 1 |
 
 [⬆️ Go to Top](#table-of-contents)
 
