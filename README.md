@@ -32,7 +32,7 @@ Don't forget to:
 ## 🔥 Productivity
 | Badge | App | Category | Description | Deal | Start-End Date |
 |:---:|:---|:---|:---|:---|:---:|
-| 💎 | [CleanClip](https://cleanclip.cc?ref=fndxmacappspro) | Clipboard Manager | The cleanest system-level clipboard manager for Mac, Clean UI/Immersive menu/Paste Queue/Smart List/Unlimited Storage | 30% OFF with code **BF2025** |  Nov 1 - Dec 7  |
+| 💎 | [CleanClip](https://cleanclip.cc?ref=fndxmacappspro) | Clipboard Manager | The cleanest system-level clipboard manager for Mac, Clean UI/Immersive menu/Paste Queue/Smart List/Unlimited Storage | 30% OFF with code **BFC2025** |  Nov 7 - Dec 7  |
 | 💎 | [Zipic](https://zipic.app?ref=fndxmacappspro) | Media file Optimization | A Mac image compression tool that optimizes images while preserving quality. Features multiple formats, batch processing, automated workflows, and local processing. | 33% OFF with code **BF2025** |  Nov 20 - Dec 2  |
 | 🔥 | [TimeGo-Clock](https://apps.apple.com/cn/app/timego-clock/id6448658165?l=en-GB&mt=12) | Focus & Time | TimeGo is a lightweight timer app with a fresh 2.0 Ul. Create custom countdown combinations for your workflow. | 50%+ OFF |  Nov 20 - Dec 2  |
 | 💎 | [Wins](https://wins.cool) | Window Manager | Enhances the system App Switcher with Cmd-Tab Plus, improves Dock efficiency with Dock Preview, and offers many other practical features — all designed to feel just like Apple’s built-in features. | 40% OFF with code **BLACKFRIDAY2025** |  Nov 11 - Dec 2  |
@@ -46,6 +46,7 @@ Don't forget to:
 ## 🎬 Content Creation
 | Badge | App | Category | Description | Deal | Start-End Date |
 |:---:|:---|:---|:---|:---|:---:|
+| 💎 | [ScreeSage Pro](https://screensage.pro?ref=fndxmacappspro) | Screen Recorder | A screen recording app on maOS that simultaneously captures your screen, webcam, microphone. Create 2D/3D auto zoom with cursor tracking for beautiful demos; smooth A‑roll/B‑roll switching for beautiful vlogs | 53% OFF with code **BFS2025** |  Nov 12 - Dec 12  |
 
 [⬆️ Go to Top](#table-of-contents)
 
