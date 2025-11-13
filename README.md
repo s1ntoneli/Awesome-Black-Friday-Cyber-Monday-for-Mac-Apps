@@ -95,5 +95,6 @@ Don't forget to:
 | Badge | App | Category | Description | Deal | Start-End Date |
 |:---:|:---|:---|:---|:---|:---:|
 | 🔥 | [Reporting](https://apps.apple.com/app/apple-store/id1559813249) | Ad Network Reports | Track and monitor your daily, weekly, and monthly ad network revenue effortlessly in a single convenient location. | **50% OFF** lifetime plan. No code needed. | Nov 12 - Dec 2 |
+| 🔥 | [SubManager](https://submanager.app) | Subscription Tracker | Track your subscriptions in one place on all your Apple devices and get notified whenever a subscription is due for renewal. | 75% off SubManager+ IAP ($1.49) |  Nov 28 - Dec 3  |
 
 [⬆️ Go to Top](#table-of-contents)
