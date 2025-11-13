@@ -84,6 +84,7 @@ Don't forget to:
 |:---:|:---|:---|:---|:---|:---:|
 | 🔥 | [Dash](https://kapeli.com/dash)|Documentation Browser|Offline API Documentation browser and snippet manager|50% OFF with code [BLACKFRIDAY](https://kapeli.com/subscribe?coupon=BLACKFRIDAY)|Nov 4 - Dec 2|
 | 🔥 | [KeygenGo](https://keygengo.5km.tech) | Licensing & Distribution | A native macOS app that transforms your Keygen.sh experience. Manage licenses, track users, and monitor products through an elegant visual interface. | 50% OFF for Lifetime Plan with code **BF2025** |  Nov 20 - Dec 2  |
+| 🔥 | [HTTP Toolkit](https://httptoolkit.com/?ref=Awesome-Black-Friday-Cyber-Monday-for-Mac-Apps) | HTTP debugger | Open-source HTTP debugger & client, with instant one-click setup for Android, Docker, node.js & more | **50% off** forever on annual subscriptions, with code **BLACKFRIDAY25** |
 | 🔥 | [DevUtils](https://devutils.com) | Licensing & Distribution | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY2025** |  Nov 12 - Dec 2  |
 
 [⬆️ Go to Top](#table-of-contents)
