@@ -42,13 +42,15 @@ Don't forget to:
 | 🔥 | [Capture](https://apps.apple.com/app/apple-store/id6458535284) | Quick Notes | Easily capture your thoughts & ideas on the go and export them to your favourite apps. | **50% OFF** Lifetime plan with code **BLACKFRIDAY** | Nov 12 - Dec 2 |
 | 💎 | [Compresto](https://compresto.app/pricing?ref=Awesome-Black-Friday-Cyber-Monday) |Productivity| Video, Image & PDF Compression for macOS. | 40% OFF with code **BFCM25** |Nov 11 - Dec 2|
 | 🔥 | [HyperWhisper](https://hyperwhisper.com/?utm_source=s1ntoneli) | Voice to text | Highly customizable speech-to-text. Ultra-fast and accurate. Offline models. 8+ STT providers. | 50% OFF Lifetime **BLACKFRIDAY2025** | Nov 21 - Nov 31 |
+| 🔥 | [Pretty Progress](https://apps.apple.com/es/app/countdown-pretty-progress/id1597616326?l=en-GB
+Countdown - Pretty Progress) | Countdown | Beautiful countdown widgets on your Desktop. | 50% OFF Lifetime | Nov 24 - Dec 3 |
 
 [⬆️ Go to Top](#table-of-contents)
 
 ## 🎬 Content Creation
 | Badge | App | Category | Description | Deal | Start-End Date |
 |:---:|:---|:---|:---|:---|:---:|
-| 💎 | [ScreeSage Pro](https://screensage.pro?ref=fndxmacappspro) | Screen Recorder | A screen recording app on maOS that simultaneously captures your screen, webcam, microphone. Create 2D/3D auto zoom with cursor tracking for beautiful demos; smooth A‑roll/B‑roll switching for beautiful vlogs | 53% OFF with code **BFS2025** |  Nov 12 - Dec 12  |
+| 💎 | [ScreenSage Pro](https://screensage.pro?ref=fndxmacappspro) | Screen Recorder | A screen recording app on maOS that simultaneously captures your screen, webcam, microphone. Create 2D/3D auto zoom with cursor tracking for beautiful demos; smooth A‑roll/B‑roll switching for beautiful vlogs | 53% OFF with code **BFS2025** |  Nov 12 - Dec 12  |
 | 💎 | [Presentify](https://presentifyapp.com) | Screen annotation app for Mac, featured by Apple 4 times. | 30% OFF (Nov 21 - Dec 2) No code Needed |
 | 💎 | [FaceScreen](https://facescreenapp.com) | Show your face and brand on top of everything else. | 30% OFF (Nov 21 - Dec 2) No code Needed |
 | 💎 | [KeyScreen](https://keyscreenapp.com) | The most customizable keystrokes viewer for Mac. | 30% OFF (Nov 21 - Dec 2) No code Needed |
@@ -93,6 +95,7 @@ Don't forget to:
 | 🔥 | [KeygenGo](https://keygengo.5km.tech) | Licensing & Distribution | A native macOS app that transforms your Keygen.sh experience. Manage licenses, track users, and monitor products through an elegant visual interface. | 50% OFF for Lifetime Plan with code **BF2025** |  Nov 20 - Dec 2  |
 | 🔥 | [HTTP Toolkit](https://httptoolkit.com/?ref=Awesome-Black-Friday-Cyber-Monday-for-Mac-Apps) | HTTP debugger | Open-source HTTP debugger & client, with instant one-click setup for Android, Docker, node.js & more | **50% off** forever on annual subscriptions, with code **BLACKFRIDAY25** |
 | 🔥 | [DevUtils](https://devutils.com) | Licensing & Distribution | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY2025** |  Nov 12 - Dec 2  |
+| 🔥 | [Dataflare](https://dataflare.app) | Database GUI tool | Fast, simple, and lightweight database manager with intuitive GUI for 20+ databases: PostgreSQL, MySQL, SQLite, ClickHouse, DuckDB, Redis, and more. | **50% OFF** with code **BF2025** |  Nov 20 - Dec 2  |
 
 [⬆️ Go to Top](#table-of-contents)
 
