@@ -40,13 +40,20 @@ Don't forget to:
 | 💎 | [MenubarX](https://MenubarX.app) | Menu bar Browser | Powful macOS menu bar browser that helps you to add any web pages to the menu bar just like Native Apps. | App Store **28% OFF** <br> **or** Code **BF2025** | Nov 11 - Dec 2  |
 | 🔥 | [DeskRest](https://deskrest.com) | Break Reminder | Smart break and posture reminder for macOS. Transform your workday. | **50% off** | Nov 10 - Dec 2  |
 | 🔥 | [MailMaven](https://smallcubed.com/pricing) | MailMaven  | The email app for professionals. Make email mangement more effective by tagging messages,  automating tasks, and customizing templates and signatures.  | **50% off** | Nov 27 - Dec 2  |
+| 🔥 | [Capture](https://apps.apple.com/app/apple-store/id6458535284) | Quick Notes | Easily capture your thoughts & ideas on the go and export them to your favourite apps. | **50% OFF** Lifetime plan with code **BLACKFRIDAY** | Nov 12 - Dec 2 |
+| 💎 | [Compresto](https://compresto.app/pricing?ref=Awesome-Black-Friday-Cyber-Monday) |Productivity| Video, Image & PDF Compression for macOS. | 40% OFF with code **BFCM25** |Nov 11 - Dec 2|
+| 🔥 | [HyperWhisper](https://hyperwhisper.com/?utm_source=s1ntoneli) | Voice to text | Highly customizable speech-to-text. Ultra-fast and accurate. Offline models. 8+ STT providers. | 50% OFF Lifetime **BLACKFRIDAY2025** | Nov 21 - Nov 31|
+| 🔥 | [Pretty Progress](https://apps.apple.com/es/app/countdown-pretty-progress/id1597616326?l=en-GB) | Countdown | Beautiful countdown widgets on your Desktop. | 50% OFF Lifetime | Nov 24 - Dec 3 |
 
 [⬆️ Go to Top](#table-of-contents)
 
 ## 🎬 Content Creation
 | Badge | App | Category | Description | Deal | Start-End Date |
 |:---:|:---|:---|:---|:---|:---:|
-| 💎 | [ScreeSage Pro](https://screensage.pro?ref=fndxmacappspro) | Screen Recorder | A screen recording app on maOS that simultaneously captures your screen, webcam, microphone. Create 2D/3D auto zoom with cursor tracking for beautiful demos; smooth A‑roll/B‑roll switching for beautiful vlogs | 53% OFF with code **BFS2025** |  Nov 12 - Dec 12  |
+| 💎 | [ScreenSage Pro](https://screensage.pro?ref=fndxmacappspro) | Screen Recorder | A screen recording app on maOS that simultaneously captures your screen, webcam, microphone. Create 2D/3D auto zoom with cursor tracking for beautiful demos; smooth A‑roll/B‑roll switching for beautiful vlogs | 53% OFF with code **BFS2025** |  Nov 12 - Dec 12  |
+| 💎 | [Presentify](https://presentifyapp.com) | Screen annotation | Screen annotation app for Mac, featured by Apple 4 times. | 30% OFF (Nov 21 - Dec 2) No code Needed |
+| 💎 | [FaceScreen](https://facescreenapp.com) | | Show your face and brand on top of everything else. | 30% OFF (Nov 21 - Dec 2) No code Needed |
+| 💎 | [KeyScreen](https://keyscreenapp.com) | Keystroke | The most customizable keystrokes viewer for Mac. | 30% OFF (Nov 21 - Dec 2) No code Needed |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -75,6 +82,8 @@ Don't forget to:
 |:---:|:---|:---|:---|:---|:---:|
 | 💎 | [Wins](https://wins.cool) | Window Manager | Mac window manager — enhances the system App Switcher with Cmd-Tab Plus, improves Dock efficiency with Dock Preview, and offers many other practical features — all designed to feel just like Apple’s built-in features. | 40% OFF |  Nov 11 - Dec 2  |
 | 💎 | [DockX](https://DockX.app) | System Status | Magic app that allows you to display any content in the Dock and Menu bar, you can just sneak a peek anytime without opening any app. | App Store **25% OFF** <br> **or** Code **BF2025** | Nov 11 - Dec 2  |
+| 🔥 | [Badgeify](https://badgeify.app/?ref=s1ntoneli) | System Status | Get instant notifications from Messages, Mail, Slack, and more directly in your menu bar. Perfect for Mac users who hide their Dock or want better notification management. | 50% OFF with code **BLACKFRIDAY2025** | Nov 11 - Dec 2  |
+| 💎 | [Tower](https://www.git-tower.com/) | Git client | A native macOS app with Undo, Drag and Drop, Workflows, and support for Stacked Branches | 30% OFF any plan for new customers only (no coupon code needed) |  Nov 25 - Dec 7  |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -84,11 +93,16 @@ Don't forget to:
 |:---:|:---|:---|:---|:---|:---:|
 | 🔥 | [Dash](https://kapeli.com/dash)|Documentation Browser|Offline API Documentation browser and snippet manager|50% OFF with code [BLACKFRIDAY](https://kapeli.com/subscribe?coupon=BLACKFRIDAY)|Nov 4 - Dec 2|
 | 🔥 | [KeygenGo](https://keygengo.5km.tech) | Licensing & Distribution | A native macOS app that transforms your Keygen.sh experience. Manage licenses, track users, and monitor products through an elegant visual interface. | 50% OFF for Lifetime Plan with code **BF2025** |  Nov 20 - Dec 2  |
+| 🔥 | [HTTP Toolkit](https://httptoolkit.com/?ref=Awesome-Black-Friday-Cyber-Monday-for-Mac-Apps) | HTTP debugger | Open-source HTTP debugger & client, with instant one-click setup for Android, Docker, node.js & more | **50% off** forever on annual subscriptions, with code **BLACKFRIDAY25** |
+| 🔥 | [DevUtils](https://devutils.com) | Licensing & Distribution | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY2025** |  Nov 12 - Dec 2  |
+| 🔥 | [Dataflare](https://dataflare.app) | Database GUI tool | Fast, simple, and lightweight database manager with intuitive GUI for 20+ databases: PostgreSQL, MySQL, SQLite, ClickHouse, DuckDB, Redis, and more. | **50% OFF** with code **BF2025** |  Nov 20 - Dec 2  |
 
 [⬆️ Go to Top](#table-of-contents)
 
 ## 👨‍🎨 Others
 | Badge | App | Category | Description | Deal | Start-End Date |
 |:---:|:---|:---|:---|:---|:---:|
+| 🔥 | [Reporting](https://apps.apple.com/app/apple-store/id1559813249) | Ad Network Reports | Track and monitor your daily, weekly, and monthly ad network revenue effortlessly in a single convenient location. | **50% OFF** lifetime plan. No code needed. | Nov 12 - Dec 2 |
+| 🔥 | [SubManager](https://submanager.app) | Subscription Tracker | Track your subscriptions in one place on all your Apple devices and get notified whenever a subscription is due for renewal. | 75% off SubManager+ IAP ($1.49) |  Nov 28 - Dec 3  |
 
 [⬆️ Go to Top](#table-of-contents)
