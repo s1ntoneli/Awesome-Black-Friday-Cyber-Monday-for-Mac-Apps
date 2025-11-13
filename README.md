@@ -41,9 +41,8 @@ Don't forget to:
 | 🔥 | [DeskRest](https://deskrest.com) | Break Reminder | Smart break and posture reminder for macOS. Transform your workday. | **50% off** | Nov 10 - Dec 2  |
 | 🔥 | [Capture](https://apps.apple.com/app/apple-store/id6458535284) | Quick Notes | Easily capture your thoughts & ideas on the go and export them to your favourite apps. | **50% OFF** Lifetime plan with code **BLACKFRIDAY** | Nov 12 - Dec 2 |
 | 💎 | [Compresto](https://compresto.app/pricing?ref=Awesome-Black-Friday-Cyber-Monday) |Productivity| Video, Image & PDF Compression for macOS. | 40% OFF with code **BFCM25** |Nov 11 - Dec 2|
-| 🔥 | [HyperWhisper](https://hyperwhisper.com/?utm_source=s1ntoneli) | Voice to text | Highly customizable speech-to-text. Ultra-fast and accurate. Offline models. 8+ STT providers. | 50% OFF Lifetime **BLACKFRIDAY2025** | Nov 21 - Nov 31 |
-| 🔥 | [Pretty Progress](https://apps.apple.com/es/app/countdown-pretty-progress/id1597616326?l=en-GB
-Countdown - Pretty Progress) | Countdown | Beautiful countdown widgets on your Desktop. | 50% OFF Lifetime | Nov 24 - Dec 3 |
+| 🔥 | [HyperWhisper](https://hyperwhisper.com/?utm_source=s1ntoneli) | Voice to text | Highly customizable speech-to-text. Ultra-fast and accurate. Offline models. 8+ STT providers. | 50% OFF Lifetime **BLACKFRIDAY2025** | Nov 21 - Nov 31|
+| 🔥 | [Pretty Progress](https://apps.apple.com/es/app/countdown-pretty-progress/id1597616326?l=en-GB) | Countdown | Beautiful countdown widgets on your Desktop. | 50% OFF Lifetime | Nov 24 - Dec 3 |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -51,9 +50,9 @@ Countdown - Pretty Progress) | Countdown | Beautiful countdown widgets on your D
 | Badge | App | Category | Description | Deal | Start-End Date |
 |:---:|:---|:---|:---|:---|:---:|
 | 💎 | [ScreenSage Pro](https://screensage.pro?ref=fndxmacappspro) | Screen Recorder | A screen recording app on maOS that simultaneously captures your screen, webcam, microphone. Create 2D/3D auto zoom with cursor tracking for beautiful demos; smooth A‑roll/B‑roll switching for beautiful vlogs | 53% OFF with code **BFS2025** |  Nov 12 - Dec 12  |
-| 💎 | [Presentify](https://presentifyapp.com) | Screen annotation app for Mac, featured by Apple 4 times. | 30% OFF (Nov 21 - Dec 2) No code Needed |
-| 💎 | [FaceScreen](https://facescreenapp.com) | Show your face and brand on top of everything else. | 30% OFF (Nov 21 - Dec 2) No code Needed |
-| 💎 | [KeyScreen](https://keyscreenapp.com) | The most customizable keystrokes viewer for Mac. | 30% OFF (Nov 21 - Dec 2) No code Needed |
+| 💎 | [Presentify](https://presentifyapp.com) | Screen annotation | Screen annotation app for Mac, featured by Apple 4 times. | 30% OFF (Nov 21 - Dec 2) No code Needed |
+| 💎 | [FaceScreen](https://facescreenapp.com) | | Show your face and brand on top of everything else. | 30% OFF (Nov 21 - Dec 2) No code Needed |
+| 💎 | [KeyScreen](https://keyscreenapp.com) | Keystroke | The most customizable keystrokes viewer for Mac. | 30% OFF (Nov 21 - Dec 2) No code Needed |
 
 [⬆️ Go to Top](#table-of-contents)
 
