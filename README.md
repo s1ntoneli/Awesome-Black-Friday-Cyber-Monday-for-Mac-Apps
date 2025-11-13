@@ -48,7 +48,7 @@ Don't forget to:
 ## 🎬 Content Creation
 | Badge | App | Category | Description | Deal | Start-End Date |
 |:---:|:---|:---|:---|:---|:---:|
-| 💎 | [ScreeSage Pro](https://screensage.pro?ref=fndxmacappspro) | Screen Recorder | A screen recording app on maOS that simultaneously captures your screen, webcam, microphone. Create 2D/3D auto zoom with cursor tracking for beautiful demos; smooth A‑roll/B‑roll switching for beautiful vlogs | 53% OFF with code **BFS2025** |  Nov 12 - Dec 12  |
+| 💎 | [ScreenSage Pro](https://screensage.pro?ref=fndxmacappspro) | Screen Recorder | A screen recording app on maOS that simultaneously captures your screen, webcam, microphone. Create 2D/3D auto zoom with cursor tracking for beautiful demos; smooth A‑roll/B‑roll switching for beautiful vlogs | 53% OFF with code **BFS2025** |  Nov 12 - Dec 12  |
 
 [⬆️ Go to Top](#table-of-contents)
 
