@@ -43,6 +43,7 @@ Don't forget to:
 | 💎 | [Compresto](https://compresto.app/pricing?ref=Awesome-Black-Friday-Cyber-Monday) |Productivity| Video, Image & PDF Compression for macOS. | 40% OFF with code **BFCM25** |Nov 11 - Dec 2|
 | 🔥 | [HyperWhisper](https://hyperwhisper.com/?utm_source=s1ntoneli) | Voice to text | Highly customizable speech-to-text. Ultra-fast and accurate. Offline models. 8+ STT providers. | 50% OFF Lifetime **BLACKFRIDAY2025** | Nov 21 - Nov 31|
 | 🔥 | [Pretty Progress](https://apps.apple.com/es/app/countdown-pretty-progress/id1597616326?l=en-GB) | Countdown | Beautiful countdown widgets on your Desktop. | 50% OFF Lifetime | Nov 24 - Dec 3 |
+| 🔥 | [Fenn](https://www.usefenn.com/?utm_source=s1ntoneli) | File search engine | AI File Search Agent for MacOS. | 50% OFF with code **BLACKFRIDAY** | Nov 12 - Dec 3 |
 
 [⬆️ Go to Top](#table-of-contents)
 
