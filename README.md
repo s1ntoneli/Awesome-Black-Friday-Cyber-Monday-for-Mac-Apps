@@ -65,6 +65,7 @@ Don't forget to:
 | ✍️ | [RewriteBar](https://rewritebar.com?ref=s1ntoneli) | Writing Assistant | A Complete AI Writing Toolkit for macOS. Fix grammar, adjust tone, translate, rewrite, summarize — plus powerful custom actions and templates. | 50% OFF for first Transaction with code **BF2025** |  Nov 10 - Dec 1  |
 | 🔥 | [BoltAI v2](https://boltai.com/?utm_source=s1ntoneli) | Productivity | Best AI client for Mac. Instantly switch between 300+ AI models. Feature-packed, Native Performance, Private by default. Now with iOS app too! | 51% OFF with code **BFCM25** | Nov 12 - Dec 1 |
 | 🔥 | [PDF Pals](https://pdfpals.com/?utm_source=s1ntoneli) | Productivity | Instantly chat with any PDF on your Mac. Native, fast and respect your privacy. | 51% OFF with code **BFCM25** | Nov 12 - Dec 1 |
+| 🔥 | [TranscribeX](https://www.transcribex.io/) | Productivity | Local AI Transcription, Built for Privacy. No Cloud. Convert your audio and video into accurate transcripts — lightning-fast, fully local, and completely private. | 70% OFF with code **4OH6Y0D** | Nov 12 - Dec 1 |
 
 [⬆️ Go to Top](#table-of-contents)
 
