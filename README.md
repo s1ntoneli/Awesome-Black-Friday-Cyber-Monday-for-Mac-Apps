@@ -97,6 +97,7 @@ Don't forget to:
 | 🔥 | [HTTP Toolkit](https://httptoolkit.com/?ref=Awesome-Black-Friday-Cyber-Monday-for-Mac-Apps) | HTTP debugger | Open-source HTTP debugger & client, with instant one-click setup for Android, Docker, node.js & more | **50% off** forever on annual subscriptions, with code **BLACKFRIDAY25** |
 | 🔥 | [DevUtils](https://devutils.com) | Licensing & Distribution | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY2025** |  Nov 12 - Dec 2  |
 | 🔥 | [Dataflare](https://dataflare.app) | Database GUI tool | Fast, simple, and lightweight database manager with intuitive GUI for 20+ databases: PostgreSQL, MySQL, SQLite, ClickHouse, DuckDB, Redis, and more. | **50% OFF** with code **BF2025** |  Nov 20 - Dec 2  |
+| 🔥 | [RunJS](https://runjs.app) | REPL App | JavaScript and TypeScript playground. Zero config needed. Write and run code with instant feedback. | **30% OFF** with code **BLACKFRIDAY2025** | Nov 17 - Dec 2 |
 
 [⬆️ Go to Top](#table-of-contents)
 
