@@ -44,6 +44,7 @@ Don't forget to:
 | 🔥 | [HyperWhisper](https://hyperwhisper.com/?utm_source=s1ntoneli) | Voice to text | Highly customizable speech-to-text. Ultra-fast and accurate. Offline models. 8+ STT providers. | 50% OFF Lifetime **BLACKFRIDAY2025** | Nov 21 - Nov 31|
 | 🔥 | [Pretty Progress](https://apps.apple.com/es/app/countdown-pretty-progress/id1597616326?l=en-GB) | Countdown | Beautiful countdown widgets on your Desktop. | 50% OFF Lifetime | Nov 24 - Dec 3 |
 | 🔥 | [Fenn](https://www.usefenn.com/?utm_source=s1ntoneli) | File search engine | AI File Search Agent for MacOS. | 50% OFF with code **BLACKFRIDAY** | Nov 12 - Dec 3 |
+| 💎 | [XGetter](https://xgetter.com/?utm_source=Awesome-Black-Friday-Cyber-Monday) | Media downloader | Download media from YouTube, Douyin, Instagram, X, TikTok and 50+ platforms | 30% OFF with code **BLACKFRIDAY2025** | Nov 17 - Dec 1 |
 
 [⬆️ Go to Top](#table-of-contents)
 
