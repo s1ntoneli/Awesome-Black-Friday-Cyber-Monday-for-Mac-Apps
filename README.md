@@ -29,6 +29,17 @@ Don't forget to:
 - [👨‍💻 Developer Tools](#%E2%80%8D-developer-tools)
 - [👨‍🎨 Others](#%EF%B8%8F-others)
 
+
+## Sponsored Deals
+
+Hi there! ❤️ I built mac apps in public and also maintain this repo! Follow me on Twitter: https://x.com/sintoneli
+
+| [ScreenSage Pro](https://screensage.pro?ref=abfmapps2025) (macOS app)🔥 **53% OFF** | [CleanClip](https://cleanclip.cc?ref=fndxmacappspro) (macOS app)<br/> 🔥 **30% OFF** | [Macaify](https://macaify.com?ref=fndx) (macOS app) <br/> 🔥 **Free & Open Source** |
+| --- | --- | ------ |
+| <a href="https://screensage.pro?ref=abfmapps2025"><img src="https://screensage.pro/images/og.png"></a>  | <a href="https://cleanclip.cc?ref=fndxmacappspro"><img src="https://cleanclip.cc/images/twitter_card2.webp"></a> | <a href="https://macaify.com?ref=fndx"><img src="https://github.com/user-attachments/assets/0c8806dd-7bc4-441e-9252-689589b6a6ec"></a> |
+| Professional Screen Recording & Tutorial Creation Tool for macOS <br/><br/> ⭕️ 2D/3D auto zoom with cursor tracking <br/>⭕️ Smooth A‑roll/B‑roll switching <br/>⭕️ Record iPhone/iPad on Mac <br/>⭕️ Beautiful demos & vlogs <br/>⭕️ Fast updates | The cleanest Clipboard Manager on macOS, ever! <br/><br/>🔵 Native macOS app, fast & beautiful. <br/>🔵 True minimalist UI<br/> 🔵 Auto Save Copies <br/>🔵 Nearby Text Cursor Popup Menu<br/>🔵 Paste Stack | Unlock 🧠 Fast use of ChatGPT <br/><br/>🟢 Free & Open Source <br/>🟢 Native macOS app, fast & beautiful. <br/>🟢 Customize predefined robots <br/>🟢 1000+ robot templates <br/>🟢 Mouse-free, all keyboard operation |
+
+
 ## 🔥 Productivity
 | Badge | App | Category | Description | Deal | Start-End Date |
 |:---:|:---|:---|:---|:---|:---:|
