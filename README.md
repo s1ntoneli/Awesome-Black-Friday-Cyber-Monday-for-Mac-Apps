@@ -65,6 +65,7 @@ Hi there! ❤️ I built mac apps in public and also maintain this repo! Follow 
 | 💎 | [XGetter](https://xgetter.com/?utm_source=Awesome-Black-Friday-Cyber-Monday) | Media downloader | Download media from YouTube, Douyin, Instagram, X, TikTok and 50+ platforms | 30% OFF with code **BLACKFRIDAY2025** | Nov 17 - Dec 1 |
 | 🔥 | [TextSniper](https://textsniper.app/) | Text Recogntion | Extract text (OCR) from images/videos/PDFs, scan QR codes, and listen with text-to-speech on your Mac | 75% OFF with code **ABF25** | Nov 18 - Dec 3 |
 | 🔥 | [Koofr](https://koofr.eu/black-friday/) | Cloud storage | Koofr is a secure, reliable, and user-friendly European cloud storage service. Backup, sync and share files while maintaining complete privacy - Koofr doesn't use trackers, cookies nor ads. | Use code **BF2025** for **55% OFF** on yearly plans **100 GB** or larger. | Nov 17 - Dec 1 |
+| 🔥 | [MailMaven](https://smallcubed.com/pricing) | Email Client | The email app for professionals. Make email mangement more effective by tagging messages,  automating tasks, and customizing templates and signatures.| 50% OFF automatically applied | Nov 27 - Dec 2 |
 
 [⬆️ Go to Top](#table-of-contents)
 
