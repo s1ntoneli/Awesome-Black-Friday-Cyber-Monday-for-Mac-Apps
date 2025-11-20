@@ -122,5 +122,6 @@ Hi there! ❤️ I built mac apps in public and also maintain this repo! Follow 
 |:---:|:---|:---|:---|:---|:---:|
 | 🔥 | [Reporting](https://apps.apple.com/app/apple-store/id1559813249) | Ad Network Reports | Track and monitor your daily, weekly, and monthly ad network revenue effortlessly in a single convenient location. | **50% OFF** lifetime plan. No code needed. | Nov 12 - Dec 2 |
 | 🔥 | [SubManager](https://submanager.app) | Subscription Tracker | Track your subscriptions in one place on all your Apple devices and get notified whenever a subscription is due for renewal. | 75% off SubManager+ IAP ($1.49) |  Nov 28 - Dec 3  |
+| 🛡️ | [Beagle Security](https://beaglesecurity.com/black-friday-sale) | Security | Beagle Security is an AI-powered automated pentesting platform that simulates real-world attacks to uncover vulnerabilities in web apps, APIs, and GraphQL. With agentic AI agents, it streamlines testing, analyzes results, and delivers actionable insights for faster, smarter vulnerability management. | **35% OFF annual** (Code **BFCMY25**) & **20% OFF monthly** (Code **BFCMM25**) — Valid for both Advanced & Essential plans for the next 6 months | **Nov 25 – Dec 4, 2025** |
 
 [⬆️ Go to Top](#table-of-contents)
