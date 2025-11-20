@@ -1,6 +1,13 @@
 # 💵 Awesome-Black-Friday-Cyber-Monday-for-Mac-Apps 🤑
-Awesome deals on Black Friday 2025 for Mac Apps.
 
+---
+## 🔥 Find More Black Friday Mac App Deals!
+
+Explore [**TheMacApps.com**](https://themacapps.com) for curated Black Friday discounts, detailed comparisons, and exclusive offers on premium Mac applications!
+
+---
+
+Awesome deals on Black Friday 2025 for Mac Apps.
 
 Feel free to add your app's deal below [with a Pull Request](https://github.com/s1ntoneli/Awesome-Black-Friday-Cyber-Monday-for-Mac-Apps/issues/1).
 
