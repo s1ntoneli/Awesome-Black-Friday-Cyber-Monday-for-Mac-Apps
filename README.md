@@ -93,6 +93,7 @@ Hi there! ❤️ I built mac apps in public and also maintain this repo! Follow 
 | 🔥 | [PDF Pals](https://pdfpals.com/?utm_source=s1ntoneli) | Productivity | Instantly chat with any PDF on your Mac. Native, fast and respect your privacy. | 51% OFF with code **BFCM25** | Nov 12 - Dec 1 |
 | 🔥 | [TranscribeX](https://www.transcribex.io/) | Productivity | Local AI Transcription, Built for Privacy. No Cloud. Convert your audio and video into accurate transcripts — lightning-fast, fully local, and completely private. | 70% OFF with code **4OH6Y0D** | Nov 12 - Dec 1 |
 | 💎 | [Migi](https://migiapp.com/) | Productivity | Make your prompt templates just once and bring them up instantly with ⌥ Space. Just fill in the blanks, and in a second you'll have a custom prompt ready to go. | $19.99 from $29.99 lifetime | Nov 21 - Dec 2 |
+| 🔥 | [Alter](https://alterhq.com) | Productivity | Most AI tools are chat windows. Alter is a system. It captures context from your apps. Learns your voice and workflow to deliver one-click outcomes. | **70% off** Exclusive Lifetime Bundle with 40,000 AI requests included + 2,000 tools | Nov 21 - Dec 1 |
 
 
 [⬆️ Go to Top](#table-of-contents)
