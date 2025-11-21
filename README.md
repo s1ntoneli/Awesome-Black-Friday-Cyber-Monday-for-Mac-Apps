@@ -68,6 +68,9 @@ Hi there! ❤️ I built mac apps in public and also maintain this repo! Follow 
 | 🔥 | [QuickWhisper](https://quickwhisper.app/) | Transcription, Dictation, Summaries | QuickWhisper turns your Mac into a voice-first workspace. Speak instead of typing anywhere with system-wide dictation, automatically record and transcribe your meetings, then get instant AI summaries of everything you've recorded. | Get **65% OFF** with **[BFRIDAY25](https://iwtcom.gumroad.com/l/quickwhisper/BFRIDAY25)** | Nov 20 - Dec 4 |
 | 🔥 | [LaunchOS](https://launchosapp.com/) | Launchpad | The best launchpad alternative for macOS 26 (Tahoe). Built to feel instantly familiar, effortlessly smooth, and surprisingly powerful. | **60% OFF** plus an additional **5% OFF** with code **EARLYBIRDBLACKFRIDAY** | Nov 17 - Dec 5 |
 | 🔥 | [MailMaven](https://smallcubed.com/pricing) | Email Client | The email app for professionals. Make email mangement more effective by tagging messages,  automating tasks, and customizing templates and signatures.| 50% OFF automatically applied | Nov 27 - Dec 2 |
+| 🔥 | [FiveNotes](https://www.apptorium.com/fivenotes) | Note Taking | Teleport your cursor across your screens. | 50% OFF Lifetime | Nov 21th - Dec 3th |
+| 🔥 | [Workspaces 2](https://www.apptorium.com/workspaces) | Launcher | Project-based launcher that opens your files, folders, websites, apps etc. with one click. | 50% OFF Lifetime | Nov 21th - Dec 3th |
+| 💎 | [SideNotes](https://www.apptorium.com/sidenotes) | Note Taking | Take notes on your screen side with no distraction. | 40% OFF Lifetime | Nov 21th - Dec 3th |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -113,7 +116,7 @@ Hi there! ❤️ I built mac apps in public and also maintain this repo! Follow 
 | 🔥 | [Badgeify](https://badgeify.app/?ref=s1ntoneli) | System Status | Get instant notifications from Messages, Mail, Slack, and more directly in your menu bar. Perfect for Mac users who hide their Dock or want better notification management. | 50% OFF with code **BLACKFRIDAY2025** | Nov 11 - Dec 2  |
 | 💎 | [Tower](https://www.git-tower.com/) | Git client | A native macOS app with Undo, Drag and Drop, Workflows, and support for Stacked Branches | 30% OFF any plan for new customers only (no coupon code needed) |  Nov 25 - Dec 7  |
 | 🔥 | [LaunchOS](https://launchosapp.com/) | Launchpad | The best launchpad alternative for macOS 26 (Tahoe). Built to feel instantly familiar, effortlessly smooth, and surprisingly powerful. | **60% OFF** plus an additional **5% OFF** with code **EARLYBIRDBLACKFRIDAY** | Nov 17 - Dec 5 |
-
+| 💸 | [Cursor Teleporter](https://www.apptorium.com/cursor-teleporter) | Mouse Cursor Helper | Teleport your cursor across your screens. | 50% OFF Lifetime, Nov 21th - Dec 3th |
 
 [⬆️ Go to Top](#table-of-contents)
 
