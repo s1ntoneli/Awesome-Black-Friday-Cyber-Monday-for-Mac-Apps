@@ -96,6 +96,8 @@ Hi there! ❤️ I built mac apps in public and also maintain this repo! Follow 
 | Badge | App | Category | Description | Deal | Start-End Date |
 |:---:|:---|:---|:---|:---|:---:|
 | 🔥 | [Sitely 6](https://sitely.app) | Visual + AI Website Builder | Create the website you always wanted with AI and real WYSIWYG editor | 50% OFF automatically applied |  Nov 12 - Dec 5  |
+| 💎 | [Viso](https://getviso.app) | Beautiful minimal image viewer for macOS | 30% OFF LIFETIME - NO CODE REQUIRED | Nov 24th - Dec 4th |
+| 💎 | [Litur](https://litur.app) | A designer’s best-kept secret, a developer's best friend. Litur helps you manage and improve your colors and design workflow. | 30% OFF Lifetime - NO CODE REQUIRED | Nov 24th - Dec 4th |
 
 
 [⬆️ Go to Top](#table-of-contents)
