@@ -68,6 +68,7 @@ Hi there! ❤️ I built mac apps in public and also maintain this repo! Follow 
 | 🔥 | [QuickWhisper](https://quickwhisper.app/) | Transcription, Dictation, Summaries | QuickWhisper turns your Mac into a voice-first workspace. Speak instead of typing anywhere with system-wide dictation, automatically record and transcribe your meetings, then get instant AI summaries of everything you've recorded. | Get **65% OFF** with **[BFRIDAY25](https://iwtcom.gumroad.com/l/quickwhisper/BFRIDAY25)** | Nov 20 - Dec 4 |
 | 🔥 | [LaunchOS](https://launchosapp.com/) | Launchpad | The best launchpad alternative for macOS 26 (Tahoe). Built to feel instantly familiar, effortlessly smooth, and surprisingly powerful. | **60% OFF** plus an additional **5% OFF** with code **EARLYBIRDBLACKFRIDAY** | Nov 17 - Dec 5 |
 | 🔥 | [MailMaven](https://smallcubed.com/pricing) | Email Client | The email app for professionals. Make email mangement more effective by tagging messages,  automating tasks, and customizing templates and signatures.| 50% OFF automatically applied | Nov 27 - Dec 2 |
+| 🔥 | [SwiftBiu](https://apps.apple.com/us/app/swiftbiu/id6754772331?mt=12) | Productivity | SwiftBiu: A more AI-powered text efficiency tool for macOS, featuring multi-modal AI (text-to-text, text-to-image), JS plugins, and HTML mini-apps. It dramatically improves your workflow by providing quick actions for selected text. | 50% OFF Founder's Deal | Nov 24 - Dec 31 |
 
 [⬆️ Go to Top](#table-of-contents)
 
