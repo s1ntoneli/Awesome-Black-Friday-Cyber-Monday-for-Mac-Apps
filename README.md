@@ -66,6 +66,8 @@ Hi there! ❤️ I built mac apps in public and also maintain this repo! Follow 
 | 🔥 | [TextSniper](https://textsniper.app/) | Text Recogntion | Extract text (OCR) from images/videos/PDFs, scan QR codes, and listen with text-to-speech on your Mac | 75% OFF with code **ABF25** | Nov 18 - Dec 3 |
 | 🔥 | [Koofr](https://koofr.eu/black-friday/) | Cloud storage | Koofr is a secure, reliable, and user-friendly European cloud storage service. Backup, sync and share files while maintaining complete privacy - Koofr doesn't use trackers, cookies nor ads. | Use code **BF2025** for **55% OFF** on yearly plans **100 GB** or larger. | Nov 17 - Dec 1 |
 | 🔥 | [QuickWhisper](https://quickwhisper.app/) | Transcription, Dictation, Summaries | QuickWhisper turns your Mac into a voice-first workspace. Speak instead of typing anywhere with system-wide dictation, automatically record and transcribe your meetings, then get instant AI summaries of everything you've recorded. | Get **65% OFF** with **[BFRIDAY25](https://iwtcom.gumroad.com/l/quickwhisper/BFRIDAY25)** | Nov 20 - Dec 4 |
+| 🔥 | [LaunchOS](https://launchosapp.com/) | Launchpad | The best launchpad alternative for macOS 26 (Tahoe). Built to feel instantly familiar, effortlessly smooth, and surprisingly powerful. | **60% OFF** plus an additional **5% OFF** with code **EARLYBIRDBLACKFRIDAY** | Nov 17 - Dec 5 |
+| 🔥 | [MailMaven](https://smallcubed.com/pricing) | Email Client | The email app for professionals. Make email mangement more effective by tagging messages,  automating tasks, and customizing templates and signatures.| 50% OFF automatically applied | Nov 27 - Dec 2 |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -90,6 +92,8 @@ Hi there! ❤️ I built mac apps in public and also maintain this repo! Follow 
 | 🔥 | [BoltAI v2](https://boltai.com/?utm_source=s1ntoneli) | Productivity | Best AI client for Mac. Instantly switch between 300+ AI models. Feature-packed, Native Performance, Private by default. Now with iOS app too! | 51% OFF with code **BFCM25** | Nov 12 - Dec 1 |
 | 🔥 | [PDF Pals](https://pdfpals.com/?utm_source=s1ntoneli) | Productivity | Instantly chat with any PDF on your Mac. Native, fast and respect your privacy. | 51% OFF with code **BFCM25** | Nov 12 - Dec 1 |
 | 🔥 | [TranscribeX](https://www.transcribex.io/) | Productivity | Local AI Transcription, Built for Privacy. No Cloud. Convert your audio and video into accurate transcripts — lightning-fast, fully local, and completely private. | 70% OFF with code **4OH6Y0D** | Nov 12 - Dec 1 |
+| 💎 | [Migi](https://migiapp.com/) | Productivity | Make your prompt templates just once and bring them up instantly with ⌥ Space. Just fill in the blanks, and in a second you'll have a custom prompt ready to go. | $19.99 from $29.99 lifetime | Nov 21 - Dec 2 |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -108,6 +112,7 @@ Hi there! ❤️ I built mac apps in public and also maintain this repo! Follow 
 | 💎 | [DockX](https://DockX.app) | System Status | Magic app that allows you to display any content in the Dock and Menu bar, you can just sneak a peek anytime without opening any app. | App Store **25% OFF** <br> **or** Code **BF2025** | Nov 11 - Dec 2  |
 | 🔥 | [Badgeify](https://badgeify.app/?ref=s1ntoneli) | System Status | Get instant notifications from Messages, Mail, Slack, and more directly in your menu bar. Perfect for Mac users who hide their Dock or want better notification management. | 50% OFF with code **BLACKFRIDAY2025** | Nov 11 - Dec 2  |
 | 💎 | [Tower](https://www.git-tower.com/) | Git client | A native macOS app with Undo, Drag and Drop, Workflows, and support for Stacked Branches | 30% OFF any plan for new customers only (no coupon code needed) |  Nov 25 - Dec 7  |
+| 🔥 | [LaunchOS](https://launchosapp.com/) | Launchpad | The best launchpad alternative for macOS 26 (Tahoe). Built to feel instantly familiar, effortlessly smooth, and surprisingly powerful. | **60% OFF** plus an additional **5% OFF** with code **EARLYBIRDBLACKFRIDAY** | Nov 17 - Dec 5 |
 
 
 [⬆️ Go to Top](#table-of-contents)
