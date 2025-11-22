@@ -54,7 +54,8 @@ Hi there! ❤️ I built mac apps in public and also maintain this repo! Follow 
 | 💎 | [Zipic](https://zipic.app?ref=fndxmacappspro) | Media file Optimization | A Mac image compression tool that optimizes images while preserving quality. Features multiple formats, batch processing, automated workflows, and local processing. | 33% OFF with code **BF2025** |  Nov 20 - Dec 2  |
 | 🔥 | [TimeGo-Clock](https://apps.apple.com/cn/app/timego-clock/id6448658165?l=en-GB&mt=12) | Focus & Time | TimeGo is a lightweight timer app with a fresh 2.0 Ul. Create custom countdown combinations for your workflow. | 50%+ OFF |  Nov 20 - Dec 2  |
 | 💎 | [Wins](https://wins.cool) | Window Manager | Enhances the system App Switcher with Cmd-Tab Plus, improves Dock efficiency with Dock Preview, and offers many other practical features — all designed to feel just like Apple’s built-in features. | 40% OFF with code **BLACKFRIDAY2025** |  Nov 11 - Dec 2  |
-| 💎 | [DynamicLake](https://dynamiclake.com) | Island | Dynamic Island for Mac with Liquid Glass. | **30% off** | Nov 20 - Dec 2  |
+| 💎 | [DynamicLake](https://dynamiclake.com) | Island | Dynamic Island for Mac with Liquid Glass. | **25% off** | Nov 20 - Dec 2  |
+| 💎 | [Liqoria](https://www.liqoria.com) | Music App | Beautiful Liquid Glass music app that supports Apple Music, Spotify, YouTube, browser players and more | **25% off** | Nov 20 - Dec 2  |
 | 💎 | [MenubarX](https://MenubarX.app) | Menu bar Browser | Powful macOS menu bar browser that helps you to add any web pages to the menu bar just like Native Apps. | App Store **28% OFF** <br> **or** Code **BF2025** | Nov 11 - Dec 2  |
 | 🔥 | [DeskRest](https://deskrest.com) | Break Reminder | Smart break and posture reminder for macOS. Transform your workday. | **50% off** | Nov 10 - Dec 2  |
 | 🔥 | [Capture](https://apps.apple.com/app/apple-store/id6458535284) | Quick Notes | Easily capture your thoughts & ideas on the go and export them to your favourite apps. | **50% OFF** Lifetime plan with code **BLACKFRIDAY** | Nov 12 - Dec 2 |
@@ -63,12 +64,16 @@ Hi there! ❤️ I built mac apps in public and also maintain this repo! Follow 
 | 🔥 | [Pretty Progress](https://apps.apple.com/es/app/countdown-pretty-progress/id1597616326?l=en-GB) | Countdown | Beautiful countdown widgets on your Desktop. | 50% OFF Lifetime | Nov 24 - Dec 3 |
 | 🔥 | [Fenn](https://www.usefenn.com/?utm_source=s1ntoneli) | File search engine | AI File Search Agent for MacOS. | 50% OFF with code **BLACKFRIDAY** | Nov 12 - Dec 3 |
 | 💎 | [XGetter](https://xgetter.com/?utm_source=Awesome-Black-Friday-Cyber-Monday) | Media downloader | Download media from YouTube, Douyin, Instagram, X, TikTok and 50+ platforms | 30% OFF with code **BLACKFRIDAY2025** | Nov 17 - Dec 1 |
-| 🔥 | [TextSniper](https://textsniper.app/) | Text Recogntion | Extract text (OCR) from images/videos/PDFs, scan QR codes, and listen with text-to-speech on your Mac | 75% OFF with code **ABF25** | Nov 18 - Dec 3 |
+| 🔥 | [TextSniper](https://textsniper.app/) | Text Recognition | Extract text (OCR) from images/videos/PDFs, scan QR codes, and listen with text-to-speech on your Mac | 75% OFF with code **ABF25** | Nov 18 - Dec 3 |
 | 🔥 | [Koofr](https://koofr.eu/black-friday/) | Cloud storage | Koofr is a secure, reliable, and user-friendly European cloud storage service. Backup, sync and share files while maintaining complete privacy - Koofr doesn't use trackers, cookies nor ads. | Use code **BF2025** for **55% OFF** on yearly plans **100 GB** or larger. | Nov 17 - Dec 1 |
 | 🔥 | [QuickWhisper](https://quickwhisper.app/) | Transcription, Dictation, Summaries | QuickWhisper turns your Mac into a voice-first workspace. Speak instead of typing anywhere with system-wide dictation, automatically record and transcribe your meetings, then get instant AI summaries of everything you've recorded. | Get **65% OFF** with **[BFRIDAY25](https://iwtcom.gumroad.com/l/quickwhisper/BFRIDAY25)** | Nov 20 - Dec 4 |
 | 🔥 | [LaunchOS](https://launchosapp.com/) | Launchpad | The best launchpad alternative for macOS 26 (Tahoe). Built to feel instantly familiar, effortlessly smooth, and surprisingly powerful. | **60% OFF** plus an additional **5% OFF** with code **EARLYBIRDBLACKFRIDAY** | Nov 17 - Dec 5 |
 | 🔥 | [MailMaven](https://smallcubed.com/pricing) | Email Client | The email app for professionals. Make email mangement more effective by tagging messages,  automating tasks, and customizing templates and signatures.| 50% OFF automatically applied | Nov 27 - Dec 2 |
 | 🔥 | [Lattix](https://www.lattix.app) | Launcher/Window manager | Lattix is a powerful launcher which helps you to open any app or file with preset layouts across your monitors. Save your workspace once and open it anytime from menubar or using hotkeys with just a click. | Use code BLACKFRIDAY25 for 50% off. | Nov 21 - Dec 1 |
+| 🔥 | [FiveNotes](https://www.apptorium.com/fivenotes) | Note Taking | Teleport your cursor across your screens. | 50% OFF Lifetime | Nov 21th - Dec 3th |
+| 🔥 | [Workspaces 2](https://www.apptorium.com/workspaces) | Launcher | Project-based launcher that opens your files, folders, websites, apps etc. with one click. | 50% OFF Lifetime | Nov 21th - Dec 3th |
+| 💎 | [SideNotes](https://www.apptorium.com/sidenotes) | Note Taking | Take notes on your screen side with no distraction. | 40% OFF Lifetime | Nov 21th - Dec 3th |
+| 🔥 | [SwiftBiu](https://apps.apple.com/us/app/swiftbiu/id6754772331?mt=12) | Productivity | SwiftBiu: A more AI-powered text efficiency tool for macOS, featuring multi-modal AI (text-to-text, text-to-image), JS plugins, and HTML mini-apps. It dramatically improves your workflow by providing quick actions for selected text. | 50% OFF Founder's Deal | Nov 24 - Dec 31 |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -94,6 +99,7 @@ Hi there! ❤️ I built mac apps in public and also maintain this repo! Follow 
 | 🔥 | [PDF Pals](https://pdfpals.com/?utm_source=s1ntoneli) | Productivity | Instantly chat with any PDF on your Mac. Native, fast and respect your privacy. | 51% OFF with code **BFCM25** | Nov 12 - Dec 1 |
 | 🔥 | [TranscribeX](https://www.transcribex.io/) | Productivity | Local AI Transcription, Built for Privacy. No Cloud. Convert your audio and video into accurate transcripts — lightning-fast, fully local, and completely private. | 70% OFF with code **4OH6Y0D** | Nov 12 - Dec 1 |
 | 💎 | [Migi](https://migiapp.com/) | Productivity | Make your prompt templates just once and bring them up instantly with ⌥ Space. Just fill in the blanks, and in a second you'll have a custom prompt ready to go. | $19.99 from $29.99 lifetime | Nov 21 - Dec 2 |
+| 🔥 | [Alter](https://alterhq.com) | Productivity | Most AI tools are chat windows. Alter is a system. It captures context from your apps. Learns your voice and workflow to deliver one-click outcomes. | **70% off** Exclusive Lifetime Bundle with 40,000 AI requests included + 2,000 tools | Nov 21 - Dec 1 |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -102,6 +108,8 @@ Hi there! ❤️ I built mac apps in public and also maintain this repo! Follow 
 | Badge | App | Category | Description | Deal | Start-End Date |
 |:---:|:---|:---|:---|:---|:---:|
 | 🔥 | [Sitely 6](https://sitely.app) | Visual + AI Website Builder | Create the website you always wanted with AI and real WYSIWYG editor | 50% OFF automatically applied |  Nov 12 - Dec 5  |
+| 💎 | [Viso](https://getviso.app) | Beautiful minimal image viewer for macOS | 30% OFF LIFETIME - NO CODE REQUIRED | Nov 24th - Dec 4th |
+| 💎 | [Litur](https://litur.app) | A designer’s best-kept secret, a developer's best friend. Litur helps you manage and improve your colors and design workflow. | 30% OFF Lifetime - NO CODE REQUIRED | Nov 24th - Dec 4th |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -114,7 +122,7 @@ Hi there! ❤️ I built mac apps in public and also maintain this repo! Follow 
 | 🔥 | [Badgeify](https://badgeify.app/?ref=s1ntoneli) | System Status | Get instant notifications from Messages, Mail, Slack, and more directly in your menu bar. Perfect for Mac users who hide their Dock or want better notification management. | 50% OFF with code **BLACKFRIDAY2025** | Nov 11 - Dec 2  |
 | 💎 | [Tower](https://www.git-tower.com/) | Git client | A native macOS app with Undo, Drag and Drop, Workflows, and support for Stacked Branches | 30% OFF any plan for new customers only (no coupon code needed) |  Nov 25 - Dec 7  |
 | 🔥 | [LaunchOS](https://launchosapp.com/) | Launchpad | The best launchpad alternative for macOS 26 (Tahoe). Built to feel instantly familiar, effortlessly smooth, and surprisingly powerful. | **60% OFF** plus an additional **5% OFF** with code **EARLYBIRDBLACKFRIDAY** | Nov 17 - Dec 5 |
-
+| 💸 | [Cursor Teleporter](https://www.apptorium.com/cursor-teleporter) | Mouse Cursor Helper | Teleport your cursor across your screens. | 50% OFF Lifetime, Nov 21th - Dec 3th |
 
 [⬆️ Go to Top](#table-of-contents)
 
