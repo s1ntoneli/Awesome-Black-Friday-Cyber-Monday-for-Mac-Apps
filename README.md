@@ -83,8 +83,8 @@ Hi there! ❤️ I built mac apps in public and also maintain this repo! Follow 
 |:---:|:---|:---|:---|:---|:---:|
 | 💎 | [ScreenSage Pro](https://screensage.pro?ref=fndxmacappspro) | Screen Recorder | A screen recording app on maOS that simultaneously captures your screen, webcam, microphone. Create 2D/3D auto zoom with cursor tracking for beautiful demos; smooth A‑roll/B‑roll switching for beautiful vlogs | 53% OFF with code **BFS2025** |  Nov 12 - Dec 12  |
 | 💎 | [Presentify](https://presentifyapp.com) | Screen annotation | Screen annotation app for Mac, featured by Apple 4 times. | 30% OFF (Nov 21 - Dec 2) No code Needed |
-| 💎 | [FaceScreen](https://facescreenapp.com) | | Show your face and brand on top of everything else. | 30% OFF (Nov 21 - Dec 2) No code Needed |
-| 💎 | [KeyScreen](https://keyscreenapp.com) | Keystroke | The most customizable keystrokes viewer for Mac. | 30% OFF (Nov 21 - Dec 2) No code Needed |
+| 💎 | [FaceScreen](https://facescreenapp.com) | Live cam | Show your face and brand on top of everything else. | 40% OFF (Nov 21 - Dec 2) No code Needed |
+| 💎 | [KeyScreen](https://keyscreenapp.com) | Keystroke | The most customizable keystrokes viewer for Mac. | 40% OFF (Nov 21 - Dec 2) No code Needed |
 | 💎 | [Keystro](https://keystro.app) | Keystroke | Display keystrokes, highlight cursor, and virtualize mechanical keyboard sounds. Massively enhance your tutorial and presentation. Available for Windows and MacOS for free with watermark. | **30% OFF** with code **BFDISC25** at checkout| Nov 17 - Dec 2, 2025 |
 
 [⬆️ Go to Top](#table-of-contents)
