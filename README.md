@@ -57,7 +57,7 @@ Hi there! ❤️ I built mac apps in public and also maintain this repo! Follow 
 | 💎 | [DynamicLake](https://dynamiclake.com) | Island | Dynamic Island for Mac with Liquid Glass. | **25% off** | Nov 20 - Dec 2  |
 | 💎 | [Liqoria](https://www.liqoria.com) | Music App | Beautiful Liquid Glass music app that supports Apple Music, Spotify, YouTube, browser players and more | **25% off** | Nov 20 - Dec 2  |
 | 💎 | [MenubarX](https://MenubarX.app) | Menu bar Browser | Powful macOS menu bar browser that helps you to add any web pages to the menu bar just like Native Apps. | App Store **28% OFF** <br> **or** Code **BF2025** | Nov 11 - Dec 2  |
-| 🔥 | [DeskRest](https://deskrest.com) | Break Reminder | Smart break and posture reminder for macOS. Transform your workday. | **50% off** | Nov 10 - Dec 2  |
+| 🔥 | [DeskRest](https://deskrest.com) | Break Reminder | Smart break and posture reminder for macOS. Transform your workday. | **60% off** | Nov 10 - Dec 2  |
 | 🔥 | [Capture](https://apps.apple.com/app/apple-store/id6458535284) | Quick Notes | Easily capture your thoughts & ideas on the go and export them to your favourite apps. | **50% OFF** Lifetime plan with code **BLACKFRIDAY** | Nov 12 - Dec 2 |
 | 💎 | [Compresto](https://compresto.app/pricing?ref=Awesome-Black-Friday-Cyber-Monday) |Productivity| Video, Image & PDF Compression for macOS. | 40% OFF with code **BFCM25** |Nov 11 - Dec 2|
 | 🔥 | [HyperWhisper](https://hyperwhisper.com/?utm_source=s1ntoneli) | Voice to text | Highly customizable speech-to-text. Ultra-fast and accurate. Offline models. 8+ STT providers. | 50% OFF Lifetime **BLACKFRIDAY2025** | Nov 21 - Nov 31|
