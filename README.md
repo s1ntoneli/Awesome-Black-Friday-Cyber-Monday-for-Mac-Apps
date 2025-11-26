@@ -87,6 +87,7 @@ Hi there! ❤️ I built mac apps in public and also maintain this repo! Follow 
 | 💎 | [FaceScreen](https://facescreenapp.com) | Live cam | Show your face and brand on top of everything else. | 40% OFF (Nov 21 - Dec 2) No code Needed |
 | 💎 | [KeyScreen](https://keyscreenapp.com) | Keystroke | The most customizable keystrokes viewer for Mac. | 40% OFF (Nov 21 - Dec 2) No code Needed |
 | 💎 | [Keystro](https://keystro.app) | Keystroke | Display keystrokes, highlight cursor, and virtualize mechanical keyboard sounds. Massively enhance your tutorial and presentation. Available for Windows and MacOS for free with watermark. | **30% OFF** with code **BFDISC25** at checkout| Nov 17 - Dec 2, 2025 |
+| 🔥 | [ScreenSnap Pro](https://www.screensnap.pro/) | Screenshot App | Turn ordinary screenshots into stunning visuals in seconds. Add gorgeous backgrounds, annotate with 14 tools, and cloud share instantly. | **50% OFF** Lifetime and Subscription **EZNZQWNW** | Nov 20 - Dec 31, 2025 |
 
 [⬆️ Go to Top](#table-of-contents)
 
