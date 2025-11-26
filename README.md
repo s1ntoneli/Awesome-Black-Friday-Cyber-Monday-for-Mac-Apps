@@ -76,6 +76,7 @@ Hi there! ❤️ I built mac apps in public and also maintain this repo! Follow 
 | 🔥 | [SwiftBiu](https://apps.apple.com/us/app/swiftbiu/id6754772331?mt=12) | Productivity | SwiftBiu: A more AI-powered text efficiency tool for macOS, featuring multi-modal AI (text-to-text, text-to-image), JS plugins, and HTML mini-apps. It dramatically improves your workflow by providing quick actions for selected text. | 50% OFF Founder's Deal | Nov 24 - Dec 31 |
 | 🔥 | [Motionik](https://motionik.com) | Productivity | A screen recorder for Windows & macOS with a built-in editor for creating engaging product demos & tutorials with auto zoom, cursor effects & more. | **50% OFF** lifetime plan with code **BF50** | Nov 24 - Nov 30 |
 | 🔥 | [DoubleMemory](https://doublememory.com) | Productivity | A different kind of bookmarking / read-later / clipboard app in one stunning board. iOS/iPadOS/macOS. | **60% OFF** lifetime plan with code **CYBERWEEK**. All Subs **50% OFF** | Nov 20 - Dec 8 |
+| 💎 | [Craft Docs](https://www.craft.do/) | Productivity | Create stunning documents, manage tasks, build dynamic collections, and structure your ideas your way. | **40% LIFETIME OFF** – No code required | Nov 20 - Dec 2 |
 
 [⬆️ Go to Top](#table-of-contents)
 
