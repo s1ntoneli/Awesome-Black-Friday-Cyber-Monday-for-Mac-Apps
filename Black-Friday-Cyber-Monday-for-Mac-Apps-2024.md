@@ -69,6 +69,7 @@ Hi there! ❤️ I built mac apps in public and also maintain this repo! Follow 
 | 🧠 | [Elephas](https://elephas.app/pricing) | Knowledge Assistant | Elephas is your very own AI Powered Knowledge Assistant. Personal ChatGPT for all your local documents, notes and research on your Mac | 20% OFF all LTD plan - Use the coupon code: **BFCM24** |
 | 🤯 | [PaletteBrain 3](https://www.palettebrain.com/?utm_source=github&utm_medium_social&utm_campaign=bf2024&utm_content=abfcmfma) | Productivity | Access the power of ChatGPT across all your macOS apps with the press of a shortcut. Stop wasting time switching between windows and copying-pasting texts. | 51% OFF LIFETIME FAMILY PLAN: "**LASTLTDBF51**" |
 | 💸 | [HammerAI](https://www.hammerai.com/) | chat ai | Private and uncensored character chat app - either run models locally with Ollama, or use our cloud-hosted models. | 50% OFF with code **BZAOH18** |
+| ✨️ | [Enconvo](https://www.enconvo.com/) | AI Assistant | The Always‑Online AI Companion That Knows You Best, contextually aware of your screen and apps, delivering the perfect response to automate your complex tasks. |  50% OFF with code **BLACK-FRIDAY-2025-LTD** |
 
 [⬆️ Go to Top](#table-of-contents)
 
