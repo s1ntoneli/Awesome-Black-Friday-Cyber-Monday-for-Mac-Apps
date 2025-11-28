@@ -75,6 +75,7 @@ Hi there! ❤️ I built mac apps in public and also maintain this repo! Follow 
 | 💎 | [SideNotes](https://www.apptorium.com/sidenotes) | Note Taking | Take notes on your screen side with no distraction. | 40% OFF Lifetime | Nov 21th - Dec 3th |
 | 🔥 | [SwiftBiu](https://apps.apple.com/us/app/swiftbiu/id6754772331?mt=12) | Productivity | SwiftBiu: A more AI-powered text efficiency tool for macOS, featuring multi-modal AI (text-to-text, text-to-image), JS plugins, and HTML mini-apps. It dramatically improves your workflow by providing quick actions for selected text. | 50% OFF Founder's Deal | Nov 24 - Dec 31 |
 | 🔥 | [Motionik](https://motionik.com) | Productivity | A screen recorder for Windows & macOS with a built-in editor for creating engaging product demos & tutorials with auto zoom, cursor effects & more. | **50% OFF** lifetime plan with code **BF50** | Nov 24 - Nov 30 |
+| 🔥 | [Paste](https://pasteapp.io) | Paste keeps everything you copy organized and searchable. Lightweight, intuitive, packed with smart features, and private by design. | **50% OFF** Mac + iOS, on the Apple App Store or with code **BLACKFRIDAY2025** | Nov 24 - Dec 1 |
 | 🔥 | [DoubleMemory](https://doublememory.com) | Productivity | A different kind of bookmarking / read-later / clipboard app in one stunning board. iOS/iPadOS/macOS. | **60% OFF** lifetime plan with code **CYBERWEEK**. All Subs **50% OFF** | Nov 20 - Dec 8 |
 
 [⬆️ Go to Top](#table-of-contents)
