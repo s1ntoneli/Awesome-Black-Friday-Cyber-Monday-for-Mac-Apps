@@ -87,6 +87,7 @@ Hi there! ❤️ I built mac apps in public and also maintain this repo! Follow 
 | 💎 | [Spencer](https://macspencer.app) | Productivity | Save & restore window positions — across all virtual Desktops. Launch the right apps, hide others, and adjust number of Desktops to match your saved setup. Create layouts for different display setups and different tasks to stay organized and focused. | 40% OFF Lifetime | Nov 26 - Dec 2|
 | 🔥 | [Chronos Planner](https://bosc.app/chronos.html) | Daily planner | Take control of your day with better daily planning. Features daily pages, a fully-featured editor, calendar integration, fast local searching, and many more helpful tools. | **50% OFF** one-time purchase (no code necessary) | Nov 23 - Dec 8 |
 | 🔥 | [Chronoid](https://www.chronoid.app/) | Productivity | AI-powered time tracking with website blocking and productivity insights. Automatically categorize activities, block distractions, stay focused, all private on Mac. | **50% OFF** Lifetime Version **BLACKFRIDAY** | Nov 20 - Dec 04 |
+| 🔥 | [Unclutter](https://unclutterapp.com/bundle/?coupon=UN-BLACKFRIDAY-2025&s=git#UNCLUTTER) | Productivity | A smart space on your desktop to store and organize your everyday files, notes, and clipboard data. | **50% OFF** Lifetime ($20 → $10) | Nov 26 - Dec 07 |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -144,6 +145,7 @@ Hi there! ❤️ I built mac apps in public and also maintain this repo! Follow 
 | 💎 | [Tower](https://www.git-tower.com/) | Git client | A native macOS app with Undo, Drag and Drop, Workflows, and support for Stacked Branches | 30% OFF any plan for new customers only (no coupon code needed) |  Nov 25 - Dec 7  |
 | 🔥 | [LaunchOS](https://launchosapp.com/) | Launchpad | The best launchpad alternative for macOS 26 (Tahoe). Built to feel instantly familiar, effortlessly smooth, and surprisingly powerful. | **60% OFF** plus an additional **5% OFF** with code **EARLYBIRDBLACKFRIDAY** | Nov 17 - Dec 5 |
 | 💸 | [Cursor Teleporter](https://www.apptorium.com/cursor-teleporter) | Mouse Cursor Helper | Teleport your cursor across your screens. | 50% OFF Lifetime, Nov 21th - Dec 3th |
+| 🔥 | [DaisyDisk](https://unclutterapp.com/bundle/?coupon=UN-BLACKFRIDAY-2025&s=git#DAISYDISK) | Disk Utility | Find out what’s taking up your disk space and recover it in the most efficient and easy way. | **50% OFF** Lifetime ($10 → $5) | Nov 26 - Dec 07 |
 
 [⬆️ Go to Top](#table-of-contents)
 
