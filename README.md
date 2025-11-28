@@ -79,6 +79,7 @@ Hi there! ❤️ I built mac apps in public and also maintain this repo! Follow 
 | 🔥 | [DeskMinder²](https://appps.od.ua/deskminder/) | Productivity | A simple yet effective app for people who get easily distracted. Create quick reminders & start tasks on your desktop | **50% OFF** lifetime plan | Nov 24 - Nov 30 |
 | 🔥 | [Paste](https://pasteapp.io) | Paste keeps everything you copy organized and searchable. Lightweight, intuitive, packed with smart features, and private by design. | **50% OFF** Mac + iOS, on the Apple App Store or with code **BLACKFRIDAY2025** | Nov 24 - Dec 1 |
 | 🔥 | [DoubleMemory](https://doublememory.com) | Productivity | A different kind of bookmarking / read-later / clipboard app in one stunning board. iOS/iPadOS/macOS. | **60% OFF** lifetime plan with code **CYBERWEEK**. All Subs **50% OFF** | Nov 20 - Dec 8 |
+| 🔥 | [Chronoid](https://www.chronoid.app/) | Productivity | AI-powered time tracking with website blocking and productivity insights. Automatically categorize activities, block distractions, stay focused, all private on Mac. | **50% OFF** Lifetime Version **BLACKFRIDAY** | Nov 20 - Dec 04 |
 
 [⬆️ Go to Top](#table-of-contents)
 
