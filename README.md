@@ -158,6 +158,7 @@ Hi there! ❤️ I built mac apps in public and also maintain this repo! Follow 
 | 🔥 | [RunJS](https://runjs.app) | REPL App | JavaScript and TypeScript playground. Zero config needed. Write and run code with instant feedback. | **30% OFF** with code **BLACKFRIDAY2025** | Nov 17 - Dec 2 |
 | 🪣 | [BucketMate](https://bucketmate.app/pricing?ref=s1ntoneli-awesome) | S3-compatible GUI tool | MacOS native app for managing S3-compatible storage with a Finder-like UI/UX. | **70% OFF** with code **BLACKFRIDAY11** | Nov 5 - Dec 5 |
 | 💎 | [JuxtaCode](https://juxtacode.app) | Compare Git branches and resolve merge conflicts with ease | 25% OFF with code **BLACKFRIDAY25** | Nov 20 - Nov 30 |
+| 💎 | [CodeMenu](https://extiri.com/codemenu.html) | developer knowledge base for macOS | store your code snippets, prompts, design palettes, images and notes and use graphs, groups, on-device AI, semantic search, reusable placeholders and lightning-fast access, so you never waste time digging through folders again. | One-time plan is 30% OFF | Nov 28 - Nov 30 |
 
 [⬆️ Go to Top](#table-of-contents)
 
