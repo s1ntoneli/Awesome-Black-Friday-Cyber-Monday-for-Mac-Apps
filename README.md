@@ -3,7 +3,7 @@
 ---
 ## 🔥 Find More Black Friday Mac App Deals!
 
-Explore [**TheMacApps.com**](https://themacapps.com) for curated Black Friday discounts, detailed comparisons, and exclusive offers on premium Mac applications!
+Explore [**TheMacApps.com**](https://themacapps.com) and [**Apps.Deals**](https://apps.deals) for curated Black Friday discounts, detailed comparisons, and exclusive offers on premium Mac applications!
 
 ---
 
