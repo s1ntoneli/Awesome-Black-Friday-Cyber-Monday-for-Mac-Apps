@@ -144,6 +144,7 @@ Hi there! ❤️ I built mac apps in public and also maintain this repo! Follow 
 | 💎 | [Tower](https://www.git-tower.com/) | Git client | A native macOS app with Undo, Drag and Drop, Workflows, and support for Stacked Branches | 30% OFF any plan for new customers only (no coupon code needed) |  Nov 25 - Dec 7  |
 | 🔥 | [LaunchOS](https://launchosapp.com/) | Launchpad | The best launchpad alternative for macOS 26 (Tahoe). Built to feel instantly familiar, effortlessly smooth, and surprisingly powerful. | **60% OFF** plus an additional **5% OFF** with code **EARLYBIRDBLACKFRIDAY** | Nov 17 - Dec 5 |
 | 💸 | [Cursor Teleporter](https://www.apptorium.com/cursor-teleporter) | Mouse Cursor Helper | Teleport your cursor across your screens. | 50% OFF Lifetime, Nov 21th - Dec 3th |
+| 💎 | [NeoTiler](https://getneotiler.com/?utm_source=s1ntoneli-awesome) | Window Manager | Native macOS window manager with keyboard & drag-to-edge snapping, Smart Workspaces, trackpad gestures, Shake to Focus, and Windows-style live Dock previews. | **30% OFF** Lifetime ($6.99) with code **BF30** | Oct 30 - Dec 1, 2026 |
 
 [⬆️ Go to Top](#table-of-contents)
 
