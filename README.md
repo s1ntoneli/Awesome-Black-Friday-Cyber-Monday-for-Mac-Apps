@@ -120,6 +120,7 @@ Hi there! ❤️ I built mac apps in public and also maintain this repo! Follow 
 | 🔥 | Clappia | Productivity / SaaS / No-Code | Clappia is an AI-powered no-code app builder that lets you create business apps using 100+ pre-built components. Automate workflows, build dashboards, capture GPS & photos, and launch apps instantly — without writing code. | 50% OFF all annual plans with code BLCKFRD25 | Nov 25 – Dec 5 |
 | ✨ | [Semantic Pen](https://www.semanticpen.com/) | Content Creation | AI Content Writer - Generate high-quality content with AI | 20% OFF with code **20BF2025** | Nov 25 - Dec 31 |
 | ✨ | [Manzoni](https://manzoni.app) | Productivity | Word processor that runs LLMs entirely on your device to help you brainstorm, draft, and edit text without cloud processing or data tracking. | **10% OFF LIFETIME** with code **BLACKFRIDAY10** | Nov 28 - Dec 4 |
+| 🔥 | [TypingMind](https://www.typingmind.com/?utm_source=s1ntoneli) | Productivity | Advanced chat UI for ChatGPT, Claude, Gemini and more, with all models in one place, MCP & plugins, AI agents, and private local storage | **60% OFF** Lifetime Premium with code **BLACKFRIDAY2026** | Nov 2 - Dec 15 |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -158,6 +159,7 @@ Hi there! ❤️ I built mac apps in public and also maintain this repo! Follow 
 | 🔥 | [RunJS](https://runjs.app) | REPL App | JavaScript and TypeScript playground. Zero config needed. Write and run code with instant feedback. | **30% OFF** with code **BLACKFRIDAY2025** | Nov 17 - Dec 2 |
 | 🪣 | [BucketMate](https://bucketmate.app/pricing?ref=s1ntoneli-awesome) | S3-compatible GUI tool | MacOS native app for managing S3-compatible storage with a Finder-like UI/UX. | **70% OFF** with code **BLACKFRIDAY11** | Nov 5 - Dec 5 |
 | 💎 | [JuxtaCode](https://juxtacode.app) | Compare Git branches and resolve merge conflicts with ease | 25% OFF with code **BLACKFRIDAY25** | Nov 20 - Nov 30 |
+| 🔥 | [DevUtils](https://devutils.com/?utm_source=s1ntoneli) | Developer Toolbox | Offline all-in-one toolbox for developers on macOS. Fully supports Apple Silicon. | **60% OFF** all plans with code **BLACKFRIDAY2026** | Nov 2 - Dec 30 |
 
 [⬆️ Go to Top](#table-of-contents)
 
