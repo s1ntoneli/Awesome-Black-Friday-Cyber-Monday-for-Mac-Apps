@@ -87,6 +87,7 @@ Hi there! ❤️ I built mac apps in public and also maintain this repo! Follow 
 | 💎 | [Spencer](https://macspencer.app) | Productivity | Save & restore window positions — across all virtual Desktops. Launch the right apps, hide others, and adjust number of Desktops to match your saved setup. Create layouts for different display setups and different tasks to stay organized and focused. | 40% OFF Lifetime | Nov 26 - Dec 2|
 | 🔥 | [Chronos Planner](https://bosc.app/chronos.html) | Daily planner | Take control of your day with better daily planning. Features daily pages, a fully-featured editor, calendar integration, fast local searching, and many more helpful tools. | **50% OFF** one-time purchase (no code necessary) | Nov 23 - Dec 8 |
 | 🔥 | [Chronoid](https://www.chronoid.app/) | Productivity | AI-powered time tracking with website blocking and productivity insights. Automatically categorize activities, block distractions, stay focused, all private on Mac. | **50% OFF** Lifetime Version **BLACKFRIDAY** | Nov 20 - Dec 04 |
+| 🔥 | [Shiori](https://shioriapp.io) | Bookmark Manager | Fast bookmark manager with tags and folders, for Mac, web and Chrome. | **50% OFF** all Lifetime licenses with code **BLACK2026FRIDAY50** |  Nov 12 - Dec 1  |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -144,6 +145,10 @@ Hi there! ❤️ I built mac apps in public and also maintain this repo! Follow 
 | 💎 | [Tower](https://www.git-tower.com/) | Git client | A native macOS app with Undo, Drag and Drop, Workflows, and support for Stacked Branches | 30% OFF any plan for new customers only (no coupon code needed) |  Nov 25 - Dec 7  |
 | 🔥 | [LaunchOS](https://launchosapp.com/) | Launchpad | The best launchpad alternative for macOS 26 (Tahoe). Built to feel instantly familiar, effortlessly smooth, and surprisingly powerful. | **60% OFF** plus an additional **5% OFF** with code **EARLYBIRDBLACKFRIDAY** | Nov 17 - Dec 5 |
 | 💸 | [Cursor Teleporter](https://www.apptorium.com/cursor-teleporter) | Mouse Cursor Helper | Teleport your cursor across your screens. | 50% OFF Lifetime, Nov 21th - Dec 3th |
+| 🔥 | [ExtraDock](https://extradock.app) | Dock | Create unlimited floating docks and place them anywhere on any screen. Native macOS app. | **50% OFF** all Lifetime licenses with code **BLACK2026FRIDAY50** |  Nov 12 - Dec 1  |
+| 🔥 | [DockFlow](https://dockflowapp.io) | Dock | Save Dock presets and switch between them instantly. Native macOS app. | **50% OFF** all Lifetime licenses with code **BLACK2026FRIDAY50** |  Nov 12 - Dec 1  |
+| 🔥 | [CoolDock](https://cooldock.app) | Dock & Widgets | A second Dock with live widgets for music, calendar, weather, to-dos and system stats. Native macOS app. | **50% OFF** all Lifetime licenses with code **BLACK2026FRIDAY50** |  Nov 12 - Dec 1  |
+| 🔥 | [ExtraBar](https://extrabar.app) | Menu Bar | Customize the menu bar with shortcuts, quick actions and deep links. Native macOS app. | **50% OFF** all Lifetime licenses with code **BLACK2026FRIDAY50** |  Nov 12 - Dec 1  |
 
 [⬆️ Go to Top](#table-of-contents)
 
