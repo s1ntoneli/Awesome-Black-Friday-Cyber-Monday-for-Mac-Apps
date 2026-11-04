@@ -120,6 +120,7 @@ Hi there! ❤️ I built mac apps in public and also maintain this repo! Follow 
 | 🔥 | Clappia | Productivity / SaaS / No-Code | Clappia is an AI-powered no-code app builder that lets you create business apps using 100+ pre-built components. Automate workflows, build dashboards, capture GPS & photos, and launch apps instantly — without writing code. | 50% OFF all annual plans with code BLCKFRD25 | Nov 25 – Dec 5 |
 | ✨ | [Semantic Pen](https://www.semanticpen.com/) | Content Creation | AI Content Writer - Generate high-quality content with AI | 20% OFF with code **20BF2025** | Nov 25 - Dec 31 |
 | ✨ | [Manzoni](https://manzoni.app) | Productivity | Word processor that runs LLMs entirely on your device to help you brainstorm, draft, and edit text without cloud processing or data tracking. | **10% OFF LIFETIME** with code **BLACKFRIDAY10** | Nov 28 - Dec 4 |
+| 💎 | [Fluent 2](https://fluentmac.app/?ref=s1ntoneli) | Productivity | Not another chat window: press ⌥Space in any app and Fluent works with what's in front of you. Polish the email you're writing, summarize a page or YouTube video, find a better price, or let it click through an app for you. Hire AI teammates and save hours on routine tasks, like drafting emails or sorting your Downloads folder. Use the ChatGPT or Claude plan you already pay for, 500+ models or local AI. Desktop pet included. One-time purchase. | **25% OFF** lifetime licenses with code **BF2026** | Nov 1 - Dec 1 |
 
 
 [⬆️ Go to Top](#table-of-contents)
