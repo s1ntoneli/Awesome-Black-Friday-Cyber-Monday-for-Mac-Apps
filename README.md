@@ -131,6 +131,7 @@ Hi there! ❤️ I built mac apps in public and also maintain this repo! Follow 
 | 💎 | [Viso](https://getviso.app) | Beautiful minimal image viewer for macOS | 30% OFF LIFETIME - NO CODE REQUIRED | Nov 24th - Dec 4th |
 | 💎 | [Litur](https://litur.app) | A designer’s best-kept secret, a developer's best friend. Litur helps you manage and improve your colors and design workflow. | 30% OFF Lifetime - NO CODE REQUIRED | Nov 24th - Dec 4th |
 | 🔥 | [Pixpa](https://www.pixpa.com/?via=blfpixpa55) | Website Builder | Pixpa is a no-code website builder for creatives and small businesses to showcase work, run blogs, sell online, and manage client galleries. | **55%** discount on Pixpa’s annual plans. **BLFPIXPA55** | Nov 28 - Dec 31 |
+| 🎬 | MatchCut FCP | Video Editing Utility | Turn your audio into SRT timed & aligned video clips in seconds. MatchCut transcribes your audio file and automatically aligns ordered media assets to caption timestamps in Final Cut Pro. | 40% discount on lifetime license. BLACKFRIDAY26 | Nov 4 - Dec 1 |
 
 
 [⬆️ Go to Top](#table-of-contents)
