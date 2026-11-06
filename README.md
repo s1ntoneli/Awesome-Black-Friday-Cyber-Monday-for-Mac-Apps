@@ -1,6 +1,6 @@
 # Black Friday & Cyber Monday 2026 — Mac App Deals 🎁
 
-A curated list of **29 Mac-friendly app deals** for Black Friday / Cyber Monday 2026. Updated November 6, 2026.
+A curated list of **Mac-friendly app deals** for Black Friday / Cyber Monday 2026. Updated November 6, 2026.
 
 > **Check before purchasing:** Discounts, coupon codes, and dates are creator-submitted and not independently checkout-verified. Some sales start later in November; don't assume an offer is live yet. Prices and terms may change.
 
@@ -24,12 +24,12 @@ This list is maintained by the indie developer behind [ScreenSage Pro](https://s
 
 ## Categories
 
-- [Productivity (3)](#productivity)
-- [Content Creation (6)](#content-creation)
-- [AI Tools (3)](#ai-tools)
-- [Design Tools (1)](#design-tools)
-- [System Utilities (13)](#system-utilities)
-- [Developer Tools (3)](#developer-tools)
+- [Productivity](#productivity)
+- [Content Creation](#content-creation)
+- [AI Tools](#ai-tools)
+- [Design Tools](#design-tools)
+- [System Utilities](#system-utilities)
+- [Developer Tools](#developer-tools)
 
 ## Productivity
 
