@@ -56,6 +56,7 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
 | 💎 | [FaceScreen](https://facescreen.app) | Live cam | Floating camera overlay plus a text overlay (name, handle) and a ring light, for screen recordings and video calls. Mac, iPhone, and iPad, one-time purchase. | **30% OFF** ($5.99 → $4.19) with code **FACESCREEN30**, direct purchase from the website | Nov 18 - Dec 2, 2026 |
 | 💎 | [KeyScreen](https://keyscreen.app) | Keystroke | Shows the keys you press on screen, for tutorials, streams, and live demos. Native Mac app, one-time purchase. | **30% OFF** ($5.99 → $4.19) with code **KEYSCREEN30**, direct purchase from the website | Nov 18 - Dec 2, 2026 |
 | 💎 | [MatchCut FCP](https://matchcutfcp.aquaflamingolabs.com?utm_source=github&utm_campaign=blackfriday26) | Video Editing Utility | Turn your audio into SRT timed & aligned video clips in seconds. MatchCut transcribes your audio file and automatically aligns ordered media assets to caption timestamps in Final Cut Pro. | 40% discount on lifetime license. BLACKFRIDAY26 | Nov 4 - Dec 2, 2026 |
+| 💎 | [FaceCam](https://gracehuang.gumroad.com/l/facecam/BLACKFRIDAY26) | Floating Camera Overlay (macOS) | Floating camera overlay for recordings and video calls — customizable shape, size, zoom, and mirror. One-time purchase. | **40% OFF** ($10 → $6) with code **BLACKFRIDAY26** | Nov 1 - Dec 2, 2026 |
 
 ## AI Tools
 
@@ -70,6 +71,8 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
 | Badge | App | Type | Description | Offer | 2026 dates |
 |:---:|:---|:---|:---|:---|:---|
 | 💎 | [BirdFrame](https://getbirdframe.com/?utm_source=bf26-s1ntoneli#black-friday) | Photo Tool | Mac app that crops thousands of bird photos in one go, from the full-size original (no downscaling). Apple Photos albums or folders, JPEG, HEIC or RAW. Free for 50 photos per run. | **33% OFF** one-time unlock: ~~$29.99~~ $19.99, no code needed | Nov 20 - Dec 1, 2026 |
+| 💎 | [ResizeGenius](https://gracehuang.gumroad.com/l/resizegenius/BLACKFRIDAY26) | Image Resizer (macOS) | Batch-resize images on Mac with built-in presets and drag-and-drop; exports JPEG, PNG, HEIC, WebP, and TIFF. One-time purchase. | **40% OFF** ($10 → $6) with code **BLACKFRIDAY26** | Nov 1 - Dec 2, 2026 |
+| 💎 | [Redac](https://gracehuang.gumroad.com/l/redac/BLACKFRIDAY26) | Image Redaction (macOS) | Redact text in images on Mac before you share them. One-time purchase. | **40% OFF** ($5 → $3) with code **BLACKFRIDAY26** | Nov 1 - Dec 2, 2026 |
 
 ## System Utilities
 
