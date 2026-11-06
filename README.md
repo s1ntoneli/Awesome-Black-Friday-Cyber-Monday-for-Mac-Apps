@@ -160,6 +160,7 @@ Hi there! ❤️ I built mac apps in public and also maintain this repo! Follow 
 | 🔥 | [RunJS](https://runjs.app) | REPL App | JavaScript and TypeScript playground. Zero config needed. Write and run code with instant feedback. | **30% OFF** with code **BLACKFRIDAY2025** | Nov 17 - Dec 2 |
 | 🪣 | [BucketMate](https://bucketmate.app/pricing?ref=s1ntoneli-awesome) | S3-compatible GUI tool | MacOS native app for managing S3-compatible storage with a Finder-like UI/UX. | **70% OFF** with code **BLACKFRIDAY11** | Nov 5 - Dec 5 |
 | 💎 | [JuxtaCode](https://juxtacode.app) | Compare Git branches and resolve merge conflicts with ease | 25% OFF with code **BLACKFRIDAY25** | Nov 20 - Nov 30 |
+| 💎 | [ClipAudit](https://clipaudit.app) | Clipboard Security | macOS clipboard manager that detects 700+ types of API keys and secrets and keeps them out of shell history and apps reading the clipboard. | **40% OFF** ($29 → $17.40) with code **BLACKFRIDAY2026** | Nov 27 - Dec 1 |
 
 [⬆️ Go to Top](#table-of-contents)
 
