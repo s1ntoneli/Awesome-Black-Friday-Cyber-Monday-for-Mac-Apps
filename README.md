@@ -87,6 +87,7 @@ Hi there! ❤️ I built mac apps in public and also maintain this repo! Follow 
 | 💎 | [Spencer](https://macspencer.app) | Productivity | Save & restore window positions — across all virtual Desktops. Launch the right apps, hide others, and adjust number of Desktops to match your saved setup. Create layouts for different display setups and different tasks to stay organized and focused. | 40% OFF Lifetime | Nov 26 - Dec 2|
 | 🔥 | [Chronos Planner](https://bosc.app/chronos.html) | Daily planner | Take control of your day with better daily planning. Features daily pages, a fully-featured editor, calendar integration, fast local searching, and many more helpful tools. | **50% OFF** one-time purchase (no code necessary) | Nov 23 - Dec 8 |
 | 🔥 | [Chronoid](https://www.chronoid.app/) | Productivity | AI-powered time tracking with website blocking and productivity insights. Automatically categorize activities, block distractions, stay focused, all private on Mac. | **50% OFF** Lifetime Version **BLACKFRIDAY** | Nov 20 - Dec 04 |
+| 🔥 | [SupaSidebar](https://supasidebar.com?r=s1n) | Tab & Bookmark Manager | Arc-like sidebar for all browsers. View or fuzzy search open tabs, bookmarks and Finder files, one shortcut away. | **50% OFF** Lifetime · code `SIDEBARBF50` | Nov 9 - Dec 7 |
 
 [⬆️ Go to Top](#table-of-contents)
 
