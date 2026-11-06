@@ -89,6 +89,7 @@ This list is maintained by the indie developer behind [ScreenSage Pro](https://s
 | 💎 | [ClipAudit](https://clipaudit.app) | Clipboard Security | macOS clipboard manager that detects 700+ types of API keys and secrets and keeps them out of shell history and apps reading the clipboard. | **40% OFF** ($29 → $17.40) with code **BLACKFRIDAY2026** | Nov 27 - Dec 1, 2026 |
 | 🔥 | [DevUtils](https://devutils.com/?utm_source=s1ntoneli) | Developer Toolbox | Offline all-in-one toolbox for developers on macOS. Fully supports Apple Silicon. | **60% OFF** all plans with code **BLACKFRIDAY2026** | Nov 2 - Dec 30, 2026 |
 | 💎 | [ContextClip](https://noteifyapp.com/contextclip/) | Developer tool | Captures screen context and hands it to your coding agents. | 30% OFF with code **MACPLUSBLACKFRIDAY26** ($9.99 → $6.99) | Nov 1 - Nov 30, 2026 |
+| 💎 | [JuxtaCode](https://juxtacode.app/black-friday/) | Git Diff & Merge | Native macOS app to compare Git branches and resolve merge conflicts with ease. | **40% OFF** ($40 → $24, one-time purchase) with code **BLACKFRIDAY26**; direct purchase only, not the Mac App Store | Nov 20 - Dec 1, 2026 |
 
 ## Archive & credits
 
