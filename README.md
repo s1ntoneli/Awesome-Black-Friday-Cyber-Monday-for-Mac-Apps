@@ -45,6 +45,8 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
 | 🔥 | [Shiori](https://shioriapp.io) | Bookmark Manager | Fast bookmark manager with tags and folders, for Mac, web and Chrome. | **50% OFF** all Lifetime licenses with code **BLACK2026FRIDAY50** | Nov 12 - Dec 1, 2026 |
 | 💎 | [Tab Finder 2](https://noteifyapp.com/tab-finder/) | Browser tabs | Search all your open browser tabs and switch to the right one in a keystroke. | 30% OFF with code **MACPLUSBLACKFRIDAY26** ($14.99 → $10.49, Lifetime $39.99 → $27.99) | Nov 1 - Nov 30, 2026 |
 | 💎 | [Tree Outliner](https://noteifyapp.com/tree-outliner/) | Outliner | An outliner for Mac: write as an outline list or see the same notes as a sideways tree. | 30% OFF with code **MACPLUSBLACKFRIDAY26** ($14.99 → $10.49, Lifetime $29.99 → $20.99) | Nov 1 - Nov 30, 2026 |
+| 🔥 | [PastePal](https://indiegoodies.com/pastepal) | Clipboard Manager (macOS, iOS) | Clipboard manager for Mac, iPhone and iPad that keeps everything you copy searchable, organized and synced through iCloud. Native, private, one-time purchase. | **50% OFF** lifetime license ($14.99 → $7.49) with code **INDIEGOODIESBF26**, standalone Mac version | Nov 20 - Nov 30, 2026 |
+| 🔥 | [Overcal](https://indiegoodies.com/overcal) | Menu Bar Calendar (macOS) | Your calendar in the Mac menu bar: month view, agenda, world clocks, and a countdown with one-click join for your next meeting. | **50% OFF** lifetime license ($7.99 → $3.99) with code **INDIEGOODIESBF26** | Nov 20 - Nov 30, 2026 |
 
 ## Content Creation
 
@@ -88,6 +90,7 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
 | 💎 | [Classic Commander](https://noteifyapp.com/classic-commander/) | File manager | A two-panel file manager for Mac with classic commander keyboard shortcuts. | 30% OFF with code **MACPLUSBLACKFRIDAY26** ($29.99 → $20.99) | Nov 1 - Nov 30, 2026 |
 | 💎 | [Quick Exposé 3](https://noteifyapp.com/quick-expose/) | Window manager | Brings classic Exposé back to modern macOS: see all windows at once and pick one instantly. | 30% OFF with code **MACPLUSBLACKFRIDAY26** ($39.99 → $27.99) | Nov 1 - Nov 30, 2026 |
 | 💎 | [Stage View](https://noteifyapp.com/stage-view/) | Window manager | Shows window previews for your Stage Manager groups so you can find and switch windows faster. | 30% OFF with code **MACPLUSBLACKFRIDAY26** ($7.99 → $5.59, Lifetime $19.99 → $13.99) | Nov 1 - Nov 30, 2026 |
+| 🔥 | [Almighty](https://indiegoodies.com/almighty) | Mac Tweaks & Utilities | Over 100 Mac tweaks and utilities in one native app, from hidden settings to notch actions. | **50% OFF** lifetime license ($14.99 → $7.49) with code **INDIEGOODIESBF26** | Nov 20 - Nov 30, 2026 |
 
 ## Developer Tools
 
