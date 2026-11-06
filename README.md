@@ -1,10 +1,10 @@
 # Black Friday & Cyber Monday 2026 — Mac App Deals 🎁
 
-A curated list of **27 Mac-friendly app deals** for Black Friday / Cyber Monday 2026. Updated November 6, 2026.
+A curated list of **29 Mac-friendly app deals** for Black Friday / Cyber Monday 2026. Updated November 6, 2026.
 
 > **Check before purchasing:** Discounts, coupon codes, and dates are creator-submitted and not independently checkout-verified. Some sales start later in November; don't assume an offer is live yet. Prices and terms may change.
 
-**Browse:** [TheMacApps](https://themacapps.com) · [Apps.Deals](https://apps.deals) · [2025 archive](Black-Friday-Cyber-Monday-for-Mac-Apps-2025.md) · [2024 archive](Black-Friday-Cyber-Monday-for-Mac-Apps-2024.md)
+**Browse:** [TheMacApps](https://themacapps.com) · [Apps.Deals](https://apps.deals) · [IndieMarkdowns](https://indiemarkdowns.com) · [2025 archive](Black-Friday-Cyber-Monday-for-Mac-Apps-2025.md) · [2024 archive](Black-Friday-Cyber-Monday-for-Mac-Apps-2024.md)
 
 ## Submit a deal
 
@@ -20,13 +20,13 @@ A curated list of **27 Mac-friendly app deals** for Black Friday / Cyber Monday 
 
 ## From the maintainer
 
-This collection is maintained by the indie developer behind [ScreenSage Pro](https://screensage.pro) (screen recording) and [CleanClip](https://cleanclip.cc) (clipboard management). Current prices and promotions are on their official sites; **2025 coupons are not presented as 2026 offers**.
+This list is maintained by the indie developer behind [ScreenSage Pro](https://screensage.pro/?ref=abfmapps2026) and [CleanClip](https://cleanclip.cc). **ScreenSage Pro Black Friday 2026: 53% OFF with code BFS2026** (see the official site for eligible plans and sale dates). Historical 2025 coupons remain only in the archive.
 
 ## Categories
 
 - [Productivity (3)](#productivity)
-- [Content Creation (5)](#content-creation)
-- [AI Tools (2)](#ai-tools)
+- [Content Creation (6)](#content-creation)
+- [AI Tools (3)](#ai-tools)
 - [Design Tools (1)](#design-tools)
 - [System Utilities (13)](#system-utilities)
 - [Developer Tools (3)](#developer-tools)
@@ -43,16 +43,18 @@ This collection is maintained by the indie developer behind [ScreenSage Pro](htt
 
 | Badge | App | Type | Description | Offer | 2026 dates |
 |:---:|:---|:---|:---|:---|:---|
+| 🔥 | [ScreenSage Pro](https://screensage.pro/?ref=abfmapps2026) | Screen Recorder & Video Editor (macOS) | Record screen, camera and microphone, add cursor-following zoom and edit polished tutorials or product demos. | **53% OFF** with code **BFS2026** | 2026 sale dates: confirm on site |
 | 💎 | [Bindrik](https://bindrik.com/en?ref=macappsbf) | Book Layout for Amazon KDP | Turns your artwork into a KDP-ready interior and cover for Amazon KDP: bleed, gutter, spine width and barcode zone worked out from your real page count. One-time purchase, runs offline on your Mac. | **43% OFF**, $39 (was $69), one-time purchase, with code **BLACKFRIDAY2026** | Nov 23 - Nov 30, 2026 |
 | 💎 | [Presentify](https://presentifyapp.com) | Screen annotation | Draw and annotate on your screen, highlight your cursor and clicks, spotlight, and zoom. For presentations, calls, demos, and teaching. Native Mac app, featured by Apple, one-time purchase. | **30% OFF** ($14 → $9.80) with code **PRESENTIFY30**, direct purchase from the website | Nov 18 - Dec 2, 2026 |
 | 💎 | [FaceScreen](https://facescreen.app) | Live cam | Floating camera overlay plus a text overlay (name, handle) and a ring light, for screen recordings and video calls. Mac, iPhone, and iPad, one-time purchase. | **30% OFF** ($5.99 → $4.19) with code **FACESCREEN30**, direct purchase from the website | Nov 18 - Dec 2, 2026 |
 | 💎 | [KeyScreen](https://keyscreen.app) | Keystroke | Shows the keys you press on screen, for tutorials, streams, and live demos. Native Mac app, one-time purchase. | **30% OFF** ($5.99 → $4.19) with code **KEYSCREEN30**, direct purchase from the website | Nov 18 - Dec 2, 2026 |
-| 💎 | [MatchCut FCP](https://matchcutfcp.aquaflamingolabs.com?utm_source=github&utm_campaign=blackfriday26) | Video Editing Utility | Turn your audio into SRT timed & aligned video clips in seconds. MatchCut transcribes your audio file and automatically aligns ordered media assets to caption timestamps in Final Cut Pro. | 40% discount on lifetime license. BLACKFRIDAY26 | Nov 4 - Dec 1, 2026 |
+| 💎 | [MatchCut FCP](https://matchcutfcp.aquaflamingolabs.com?utm_source=github&utm_campaign=blackfriday26) | Video Editing Utility | Turn your audio into SRT timed & aligned video clips in seconds. MatchCut transcribes your audio file and automatically aligns ordered media assets to caption timestamps in Final Cut Pro. | 40% discount on lifetime license. BLACKFRIDAY26 | Nov 4 - Dec 2, 2026 |
 
 ## AI Tools
 
 | Badge | App | Type | Description | Offer | 2026 dates |
 |:---:|:---|:---|:---|:---|:---|
+| 💎 | [Layerwise](https://layerwise.app/pricing) | Web SaaS / Full-stack AI App Builder | Build apps with database, authentication, email and cloud storage; works with existing ChatGPT or Claude subscriptions. Web-based, not a native Mac app. | **20% OFF for 12 months** (monthly and annual plans), code **BLACKFRIDAY2026** | Nov 3 - Dec 2, 2026 |
 | 💎 | [Fluent 2](https://fluentmac.app/?ref=s1ntoneli) | Productivity | Native Mac AI assistant with app context, computer actions, shortcuts, local models, and ChatGPT/Claude plan support. | **25% OFF** lifetime licenses with code **BF2026** | Nov 1 - Dec 1, 2026 |
 | 🔥 | [TypingMind](https://www.typingmind.com/?utm_source=s1ntoneli) | Productivity | Advanced chat UI for ChatGPT, Claude, Gemini and more, with all models in one place, MCP & plugins, AI agents, and private local storage | **60% OFF** Lifetime Premium with code **BLACKFRIDAY2026** | Nov 2 - Dec 15, 2026 |
 
