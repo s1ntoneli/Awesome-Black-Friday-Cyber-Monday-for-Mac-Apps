@@ -22,12 +22,12 @@ A curated list of **Mac-friendly app deals** for Black Friday / Cyber Monday 202
 
 Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on [X](https://x.com/sintoneli).
 
-| [ScreenSage Pro](https://screensage.pro/?ref=abfmapps2026) (macOS) · 🔥 **53% OFF** | [CleanClip](https://cleanclip.cc?ref=fndxmacappspro) (macOS) · **2026 offer: check site** |
+| [ScreenSage Pro](https://screensage.pro/?ref=abfmapps2026) (macOS) · 🔥 **53% OFF** | [CleanClip](https://cleanclip.cc?ref=fndxmacappspro) (macOS) · 💎 **30% OFF · BF2026** |
 |:---|:---|
 | [![ScreenSage Pro](https://screensage.pro/images/og.png)](https://screensage.pro/?ref=abfmapps2026) | [![CleanClip](https://cleanclip.cc/images/twitter_card2.webp)](https://cleanclip.cc?ref=fndxmacappspro) |
-| Screen recording & video editing for macOS<br/><br/>⭕️ Automatic 2D/3D zoom with cursor tracking<br/>⭕️ Flexible screen & camera layouts<br/>⭕️ iPhone/iPad recording<br/>⭕️ **2026 code: BFS2026** | Minimalist clipboard manager for macOS<br/><br/>🔵 Fast native Mac app<br/>🔵 Clipboard history & smart lists<br/>🔵 Cursor-position quick menu<br/>🔵 Paste Stack<br/>🔵 [See current offers](https://cleanclip.cc/discounts) |
+| Screen recording & video editing for macOS<br/><br/>⭕️ Automatic 2D/3D zoom with cursor tracking<br/>⭕️ Flexible screen & camera layouts<br/>⭕️ iPhone/iPad recording<br/>⭕️ **2026 code: BFS2026** | Minimalist clipboard manager for macOS<br/><br/>🔵 Fast native Mac app<br/>🔵 Clipboard history & smart lists<br/>🔵 Cursor-position quick menu<br/>🔵 Paste Stack<br/>🔵 **2026 code: BF2026** |
 
-*Maintainer products are listed first in their respective categories below. CleanClip's BFC2025 discount was advertised in 2025, but its checkout validity for 2026 has not been confirmed.*
+*Maintainer products are listed first in their respective categories below. The new CleanClip code **BF2026** replaces the 2025 campaign code; confirm the final discount at checkout.*
 
 ## Categories
 
@@ -42,7 +42,7 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
 
 | Badge | App | Type | Description | Offer | 2026 dates |
 |:---:|:---|:---|:---|:---|:---|
-| 💎 | [CleanClip](https://cleanclip.cc?ref=fndxmacappspro) | Clipboard Manager (macOS) | Native, minimalist clipboard history with cursor-position quick menu, smart lists and Paste Stack. | **2026 Black Friday offer not confirmed**; [see current offers](https://cleanclip.cc/discounts). | To be confirmed |
+| 💎 | [CleanClip](https://cleanclip.cc?ref=fndxmacappspro) | Clipboard Manager (macOS) | Native, minimalist clipboard history with cursor-position quick menu, smart lists and Paste Stack. | **30% OFF** with code **BF2026** (confirm at checkout) | 2026 offer; end date to be announced |
 | 🔥 | [Shiori](https://shioriapp.io) | Bookmark Manager | Fast bookmark manager with tags and folders, for Mac, web and Chrome. | **50% OFF** all Lifetime licenses with code **BLACK2026FRIDAY50** | Nov 12 - Dec 1, 2026 |
 | 💎 | [Tab Finder 2](https://noteifyapp.com/tab-finder/) | Browser tabs | Search all your open browser tabs and switch to the right one in a keystroke. | 30% OFF with code **MACPLUSBLACKFRIDAY26** ($14.99 → $10.49, Lifetime $39.99 → $27.99) | Nov 1 - Nov 30, 2026 |
 | 💎 | [Tree Outliner](https://noteifyapp.com/tree-outliner/) | Outliner | An outliner for Mac: write as an outline list or see the same notes as a sideways tree. | 30% OFF with code **MACPLUSBLACKFRIDAY26** ($14.99 → $10.49, Lifetime $29.99 → $20.99) | Nov 1 - Nov 30, 2026 |
