@@ -18,9 +18,16 @@ A curated list of **Mac-friendly app deals** for Black Friday / Cyber Monday 202
 | 💎 | 20–49% |
 | ✨ | Under 20% |
 
-## From the maintainer
+## Sponsored Deals — From the Maintainer
 
-This list is maintained by the indie developer behind [ScreenSage Pro](https://screensage.pro/?ref=abfmapps2026) and [CleanClip](https://cleanclip.cc). **ScreenSage Pro Black Friday 2026: 53% OFF with code BFS2026** (see the official site for eligible plans and sale dates). Historical 2025 coupons remain only in the archive.
+Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on [X](https://x.com/sintoneli).
+
+| [ScreenSage Pro](https://screensage.pro/?ref=abfmapps2026) (macOS) · 🔥 **53% OFF** | [CleanClip](https://cleanclip.cc?ref=fndxmacappspro) (macOS) · **2026 offer: check site** | [Macaify](https://macaify.com?ref=fndx) (macOS) · **Free & Open Source** |
+|:---|:---|:---|
+| [![ScreenSage Pro](https://screensage.pro/images/og.png)](https://screensage.pro/?ref=abfmapps2026) | [![CleanClip](https://cleanclip.cc/images/twitter_card2.webp)](https://cleanclip.cc?ref=fndxmacappspro) | [![Macaify](https://github.com/user-attachments/assets/0c8806dd-7bc4-441e-9252-689589b6a6ec)](https://macaify.com?ref=fndx) |
+| Screen recording & video editing for macOS<br/><br/>⭕️ Automatic 2D/3D zoom with cursor tracking<br/>⭕️ Flexible screen & camera layouts<br/>⭕️ iPhone/iPad recording<br/>⭕️ **2026 code: BFS2026** | Minimalist clipboard manager for macOS<br/><br/>🔵 Fast native Mac app<br/>🔵 Clipboard history & smart lists<br/>🔵 Cursor-position quick menu<br/>🔵 Paste Stack<br/>🔵 [See current offers](https://cleanclip.cc/discounts) | AI in any Mac app, without app switching<br/><br/>🟢 Free & open-source core<br/>🟢 Select → shortcut → AI action<br/>🟢 Bring your own AI API key<br/>🟢 Optional paid model plans |
+
+*Maintainer products are listed first in their respective categories below. CleanClip's 2025 Black Friday coupon is not advertised as a 2026 offer until a new promotion is confirmed.*
 
 ## Categories
 
@@ -35,6 +42,7 @@ This list is maintained by the indie developer behind [ScreenSage Pro](https://s
 
 | Badge | App | Type | Description | Offer | 2026 dates |
 |:---:|:---|:---|:---|:---|:---|
+| 💎 | [CleanClip](https://cleanclip.cc?ref=fndxmacappspro) | Clipboard Manager (macOS) | Native, minimalist clipboard history with cursor-position quick menu, smart lists and Paste Stack. | **2026 Black Friday offer not confirmed**; [see current offers](https://cleanclip.cc/discounts). | To be confirmed |
 | 🔥 | [Shiori](https://shioriapp.io) | Bookmark Manager | Fast bookmark manager with tags and folders, for Mac, web and Chrome. | **50% OFF** all Lifetime licenses with code **BLACK2026FRIDAY50** | Nov 12 - Dec 1, 2026 |
 | 💎 | [Tab Finder 2](https://noteifyapp.com/tab-finder/) | Browser tabs | Search all your open browser tabs and switch to the right one in a keystroke. | 30% OFF with code **MACPLUSBLACKFRIDAY26** ($14.99 → $10.49, Lifetime $39.99 → $27.99) | Nov 1 - Nov 30, 2026 |
 | 💎 | [Tree Outliner](https://noteifyapp.com/tree-outliner/) | Outliner | An outliner for Mac: write as an outline list or see the same notes as a sideways tree. | 30% OFF with code **MACPLUSBLACKFRIDAY26** ($14.99 → $10.49, Lifetime $29.99 → $20.99) | Nov 1 - Nov 30, 2026 |
@@ -54,6 +62,7 @@ This list is maintained by the indie developer behind [ScreenSage Pro](https://s
 
 | Badge | App | Type | Description | Offer | 2026 dates |
 |:---:|:---|:---|:---|:---|:---|
+| ✨ | [Macaify](https://macaify.com?ref=fndx) | Native AI Assistant (macOS) | Run AI on selected text directly inside Mac apps without context switching; free open-source core with BYOK. | **Free & Open Source** core; optional paid model plans, no coupon needed | Year-round |
 | 💎 | [Layerwise](https://layerwise.app/pricing) | Web SaaS / Full-stack AI App Builder | Build apps with database, authentication, email and cloud storage; works with existing ChatGPT or Claude subscriptions. Web-based, not a native Mac app. | **20% OFF for 12 months** (monthly and annual plans), code **BLACKFRIDAY2026** | Nov 3 - Dec 2, 2026 |
 | 💎 | [Fluent 2](https://fluentmac.app/?ref=s1ntoneli) | Productivity | Native Mac AI assistant with app context, computer actions, shortcuts, local models, and ChatGPT/Claude plan support. | **25% OFF** lifetime licenses with code **BF2026** | Nov 1 - Dec 1, 2026 |
 | 🔥 | [TypingMind](https://www.typingmind.com/?utm_source=s1ntoneli) | Productivity | Advanced chat UI for ChatGPT, Claude, Gemini and more, with all models in one place, MCP & plugins, AI agents, and private local storage | **60% OFF** Lifetime Premium with code **BLACKFRIDAY2026** | Nov 2 - Dec 15, 2026 |
