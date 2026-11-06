@@ -27,7 +27,6 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
 | [![ScreenSage Pro](https://screensage.pro/images/og.png)](https://screensage.pro/?ref=abfmapps2026) | [![CleanClip](https://cleanclip.cc/images/twitter_card2.webp)](https://cleanclip.cc?ref=fndxmacappspro) |
 | Screen recording & video editing for macOS<br/><br/>⭕️ Automatic 2D/3D zoom with cursor tracking<br/>⭕️ Flexible screen & camera layouts<br/>⭕️ iPhone/iPad recording<br/>⭕️ **2026 code: BFS2026** | Minimalist clipboard manager for macOS<br/><br/>🔵 Fast native Mac app<br/>🔵 Clipboard history & smart lists<br/>🔵 Cursor-position quick menu<br/>🔵 Paste Stack<br/>🔵 **2026 code: BF2026** |
 
-*Maintainer products are listed first in their respective categories below. The new CleanClip code **BF2026** replaces the 2025 campaign code; confirm the final discount at checkout.*
 
 ## Categories
 
@@ -42,7 +41,7 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
 
 | Badge | App | Type | Description | Offer | 2026 dates |
 |:---:|:---|:---|:---|:---|:---|
-| 💎 | [CleanClip](https://cleanclip.cc?ref=fndxmacappspro) | Clipboard Manager (macOS) | Native, minimalist clipboard history with cursor-position quick menu, smart lists and Paste Stack. | **30% OFF** with code **BF2026** (confirm at checkout) | 2026 offer; end date to be announced |
+| 💎 | [CleanClip](https://cleanclip.cc?ref=fndxmacappspro) | Clipboard Manager (macOS) | Native, minimalist clipboard history with cursor-position quick menu, smart lists and Paste Stack. | **30% OFF** with code **BF2026** | Nov 4 - Dec 15, 2026 |
 | 🔥 | [Shiori](https://shioriapp.io) | Bookmark Manager | Fast bookmark manager with tags and folders, for Mac, web and Chrome. | **50% OFF** all Lifetime licenses with code **BLACK2026FRIDAY50** | Nov 12 - Dec 1, 2026 |
 | 💎 | [Tab Finder 2](https://noteifyapp.com/tab-finder/) | Browser tabs | Search all your open browser tabs and switch to the right one in a keystroke. | 30% OFF with code **MACPLUSBLACKFRIDAY26** ($14.99 → $10.49, Lifetime $39.99 → $27.99) | Nov 1 - Nov 30, 2026 |
 | 💎 | [Tree Outliner](https://noteifyapp.com/tree-outliner/) | Outliner | An outliner for Mac: write as an outline list or see the same notes as a sideways tree. | 30% OFF with code **MACPLUSBLACKFRIDAY26** ($14.99 → $10.49, Lifetime $29.99 → $20.99) | Nov 1 - Nov 30, 2026 |
@@ -51,7 +50,7 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
 
 | Badge | App | Type | Description | Offer | 2026 dates |
 |:---:|:---|:---|:---|:---|:---|
-| 🔥 | [ScreenSage Pro](https://screensage.pro/?ref=abfmapps2026) | Screen Recorder & Video Editor (macOS) | Record screen, camera and microphone, add cursor-following zoom and edit polished tutorials or product demos. | **53% OFF** with code **BFS2026** | 2026 sale dates: confirm on site |
+| 🔥 | [ScreenSage Pro](https://screensage.pro/?ref=abfmapps2026) | Screen Recorder & Video Editor (macOS) | Record screen, camera and microphone, add cursor-following zoom and edit polished tutorials or product demos. | **53% OFF** with code **BFS2026** | Nov 4 - Dec 15, 2026 |
 | 💎 | [Bindrik](https://bindrik.com/en?ref=macappsbf) | Book Layout for Amazon KDP | Turns your artwork into a KDP-ready interior and cover for Amazon KDP: bleed, gutter, spine width and barcode zone worked out from your real page count. One-time purchase, runs offline on your Mac. | **43% OFF**, $39 (was $69), one-time purchase, with code **BLACKFRIDAY2026** | Nov 23 - Nov 30, 2026 |
 | 💎 | [Presentify](https://presentifyapp.com) | Screen annotation | Draw and annotate on your screen, highlight your cursor and clicks, spotlight, and zoom. For presentations, calls, demos, and teaching. Native Mac app, featured by Apple, one-time purchase. | **30% OFF** ($14 → $9.80) with code **PRESENTIFY30**, direct purchase from the website | Nov 18 - Dec 2, 2026 |
 | 💎 | [FaceScreen](https://facescreen.app) | Live cam | Floating camera overlay plus a text overlay (name, handle) and a ring light, for screen recordings and video calls. Mac, iPhone, and iPad, one-time purchase. | **30% OFF** ($5.99 → $4.19) with code **FACESCREEN30**, direct purchase from the website | Nov 18 - Dec 2, 2026 |
