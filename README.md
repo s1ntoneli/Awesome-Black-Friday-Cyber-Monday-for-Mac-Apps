@@ -45,6 +45,8 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
 | 🔥 | [Shiori](https://shioriapp.io) | Bookmark Manager | Fast bookmark manager with tags and folders, for Mac, web and Chrome. | **50% OFF** all Lifetime licenses with code **BLACK2026FRIDAY50** | Nov 12 - Dec 1, 2026 |
 | 💎 | [Tab Finder 2](https://noteifyapp.com/tab-finder/) | Browser tabs | Search all your open browser tabs and switch to the right one in a keystroke. | 30% OFF with code **MACPLUSBLACKFRIDAY26** ($14.99 → $10.49, Lifetime $39.99 → $27.99) | Nov 1 - Nov 30, 2026 |
 | 💎 | [Tree Outliner](https://noteifyapp.com/tree-outliner/) | Outliner | An outliner for Mac: write as an outline list or see the same notes as a sideways tree. | 30% OFF with code **MACPLUSBLACKFRIDAY26** ($14.99 → $10.49, Lifetime $29.99 → $20.99) | Nov 1 - Nov 30, 2026 |
+| 💎 | [DropToDo](https://apps.apple.com/app/id6762462645?utm_source=awesomebflist&utm_medium=deal&utm_campaign=bf2026) | Menu Bar Timer (macOS) | Press the menu bar icon and drag down — the distance is the time. Glowing guide line, frosted-glass countdown card, live menu bar countdown. One-time purchase. | **40% OFF** ($4.99 → $2.99) on the Mac App Store, no code needed | Nov 26 - Dec 1, 2026 |
+| 🔥 | [Keymap](https://keymap.app?utm_source=awesomebflist&utm_medium=deal&utm_campaign=bf2026) | Shortcut Finder (macOS) | Double-press Command to see every shortcut of the current app in a floating panel. Conflict detection with smart suggestions, optional remapping. Data stays local, one-time purchase. | **50% OFF** ($6.99 → $3.49) with code **BF2026** | Nov 26 - Dec 1, 2026 |
 
 ## Content Creation
 
@@ -56,6 +58,7 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
 | 💎 | [FaceScreen](https://facescreen.app) | Live cam | Floating camera overlay plus a text overlay (name, handle) and a ring light, for screen recordings and video calls. Mac, iPhone, and iPad, one-time purchase. | **30% OFF** ($5.99 → $4.19) with code **FACESCREEN30**, direct purchase from the website | Nov 18 - Dec 2, 2026 |
 | 💎 | [KeyScreen](https://keyscreen.app) | Keystroke | Shows the keys you press on screen, for tutorials, streams, and live demos. Native Mac app, one-time purchase. | **30% OFF** ($5.99 → $4.19) with code **KEYSCREEN30**, direct purchase from the website | Nov 18 - Dec 2, 2026 |
 | 💎 | [MatchCut FCP](https://matchcutfcp.aquaflamingolabs.com?utm_source=github&utm_campaign=blackfriday26) | Video Editing Utility | Turn your audio into SRT timed & aligned video clips in seconds. MatchCut transcribes your audio file and automatically aligns ordered media assets to caption timestamps in Final Cut Pro. | 40% discount on lifetime license. BLACKFRIDAY26 | Nov 4 - Dec 2, 2026 |
+| 🔥 | [PicXure](https://picxure.app?utm_source=awesomebflist&utm_medium=deal&utm_campaign=bf2026) | Screenshot & Annotation (macOS) | Region/window/scrolling capture with a 9-tool annotator. OCR and mosaic are free forever; Pro adds Backdrop, Pin, and Watermark. 1 license = 3 Macs, lifetime updates. | **50% OFF** ($18.99 → $9.49) with code **BF2026** | Nov 26 - Dec 1, 2026 |
 
 ## AI Tools
 
@@ -70,6 +73,8 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
 | Badge | App | Type | Description | Offer | 2026 dates |
 |:---:|:---|:---|:---|:---|:---|
 | 💎 | [BirdFrame](https://getbirdframe.com/?utm_source=bf26-s1ntoneli#black-friday) | Photo Tool | Mac app that crops thousands of bird photos in one go, from the full-size original (no downscaling). Apple Photos albums or folders, JPEG, HEIC or RAW. Free for 50 photos per run. | **33% OFF** one-time unlock: ~~$29.99~~ $19.99, no code needed | Nov 20 - Dec 1, 2026 |
+| 💎 | [PixelColor](https://apps.apple.com/app/id6763493579?utm_source=awesomebflist&utm_medium=deal&utm_campaign=bf2026) | Color Picker (macOS) | Pick any color from your screen and edit it in RGB, HSB, or HSL. Save favorites, copy in HEX/rgb()/hsl(), zero network access. macOS 14+, Universal. | **43% OFF** ($6.99 → $3.99) on the Mac App Store, no code needed | Nov 26 - Dec 1, 2026 |
+| 🔥 | [FloatViewer](https://apps.apple.com/app/id6768883420?utm_source=awesomebflist&utm_medium=deal&utm_campaign=bf2026) | Image Viewer (macOS) | Borderless floating image viewer with 32+ formats (RAW, PSD, AVIF, SVG), EXIF inspector, histogram, and OCR. Smooth on 100MB+ images. Free app; code unlocks Lifetime. | **50% OFF** Lifetime ($29.99 → $14.99) with code **BF2026** | Nov 26 - Dec 1, 2026 |
 
 ## System Utilities
 
@@ -88,6 +93,8 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
 | 💎 | [Classic Commander](https://noteifyapp.com/classic-commander/) | File manager | A two-panel file manager for Mac with classic commander keyboard shortcuts. | 30% OFF with code **MACPLUSBLACKFRIDAY26** ($29.99 → $20.99) | Nov 1 - Nov 30, 2026 |
 | 💎 | [Quick Exposé 3](https://noteifyapp.com/quick-expose/) | Window manager | Brings classic Exposé back to modern macOS: see all windows at once and pick one instantly. | 30% OFF with code **MACPLUSBLACKFRIDAY26** ($39.99 → $27.99) | Nov 1 - Nov 30, 2026 |
 | 💎 | [Stage View](https://noteifyapp.com/stage-view/) | Window manager | Shows window previews for your Stage Manager groups so you can find and switch windows faster. | 30% OFF with code **MACPLUSBLACKFRIDAY26** ($7.99 → $5.59, Lifetime $19.99 → $13.99) | Nov 1 - Nov 30, 2026 |
+| 💎 | [VibeCursor](https://apps.apple.com/app/id6763036198?utm_source=awesomebflist&utm_medium=deal&utm_campaign=bf2026) | Cursor Effects (macOS) | Smooth cursor trails, click particles, and sound effects — with zero system permissions. 120Hz smooth, multi-display, native Metal rendering. | **33% OFF** ($2.99 → $1.99) on the Mac App Store, no code needed | Nov 26 - Dec 1, 2026 |
+| 💎 | [WebDAV Lite](https://apps.apple.com/app/id6779282964?utm_source=awesomebflist&utm_medium=deal&utm_campaign=bf2026) | WebDAV Server (macOS) | Turn any Mac folder into a WebDAV server — browse, stream, and download from any device on your network, with HTTPS encryption. Free app; code unlocks Pro: read & write from Finder, Files app, Infuse. | **33% OFF** Full Unlock ($2.99 → $1.99) with code **BF2026**, limited to 5,000 redemptions | Nov 26 - Dec 1, 2026 |
 
 ## Developer Tools
 
