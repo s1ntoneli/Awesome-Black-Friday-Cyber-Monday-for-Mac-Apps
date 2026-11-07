@@ -88,6 +88,7 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
 | 💎 | [Classic Commander](https://noteifyapp.com/classic-commander/) | File manager | A two-panel file manager for Mac with classic commander keyboard shortcuts. | 30% OFF with code **MACPLUSBLACKFRIDAY26** ($29.99 → $20.99) | Nov 1 - Nov 30, 2026 |
 | 💎 | [Quick Exposé 3](https://noteifyapp.com/quick-expose/) | Window manager | Brings classic Exposé back to modern macOS: see all windows at once and pick one instantly. | 30% OFF with code **MACPLUSBLACKFRIDAY26** ($39.99 → $27.99) | Nov 1 - Nov 30, 2026 |
 | 💎 | [Stage View](https://noteifyapp.com/stage-view/) | Window manager | Shows window previews for your Stage Manager groups so you can find and switch windows faster. | 30% OFF with code **MACPLUSBLACKFRIDAY26** ($7.99 → $5.59, Lifetime $19.99 → $13.99) | Nov 1 - Nov 30, 2026 |
+| 💎 | [SnowWall](https://snowwall.app) | Desktop Effects | Weather for the Mac desktop: snow settles on your windows and slides off when you drag them, rain fogs the glass, frost grows in from the edges. Native menu bar app, macOS 26+. | **33% OFF** SnowWall Pro one-time in-app purchase (~~$14.99~~ $9.99 in the US, about a third off in every storefront), **no code needed**, free download on the Mac App Store | Nov 27 - Dec 1, 2026 |
 
 ## Developer Tools
 
