@@ -41,6 +41,9 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
 
 | Badge | App | Type | Description | Offer | 2026 dates |
 |:---:|:---|:---|:---|:---|:---|
+| 🆓 | [Cockpit](https://github.com/Yvsleyen00941/Cockpit) | Menu Bar HUD (macOS) | Native macOS menu bar productivity HUD with calendar, timer, and notes. | **100% FREE** Open Source | Always Free |
+| 🆓 | [Tape](https://github.com/Yvsleyen00941/Tape) | Desktop Ticker (macOS) | Native macOS stock ticker living in the unused corner space beside the Dock. | **100% FREE** Open Source | Always Free |
+| 🆓 | [Rime](https://github.com/Yvsleyen00941/Rime) | Markdown Reader (macOS) | Distraction-free native markdown editor and reader for macOS. | **100% FREE** Open Source | Always Free |
 | 💎 | [CleanClip](https://cleanclip.cc?ref=fndxmacappspro) | Clipboard Manager (macOS) | Native, minimalist clipboard history with cursor-position quick menu, smart lists and Paste Stack. | **30% OFF** with code **BF2026** | Nov 4 - Dec 15, 2026 |
 | 🔥 | [Shiori](https://shioriapp.io) | Bookmark Manager | Fast bookmark manager with tags and folders, for Mac, web and Chrome. | **50% OFF** all Lifetime licenses with code **BLACK2026FRIDAY50** | Nov 12 - Dec 1, 2026 |
 | 💎 | [Tab Finder 2](https://noteifyapp.com/tab-finder/) | Browser tabs | Search all your open browser tabs and switch to the right one in a keystroke. | 30% OFF with code **MACPLUSBLACKFRIDAY26** ($14.99 → $10.49, Lifetime $39.99 → $27.99) | Nov 1 - Nov 30, 2026 |
