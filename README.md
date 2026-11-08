@@ -64,6 +64,7 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
 | 💎 | [Layerwise](https://layerwise.app/pricing) | Web SaaS / Full-stack AI App Builder | Build apps with database, authentication, email and cloud storage; works with existing ChatGPT or Claude subscriptions. Web-based, not a native Mac app. | **20% OFF for 12 months** (monthly and annual plans), code **BLACKFRIDAY2026** | Nov 3 - Dec 2, 2026 |
 | 💎 | [Fluent 2](https://fluentmac.app/?ref=s1ntoneli) | Productivity | Native Mac AI assistant with app context, computer actions, shortcuts, local models, and ChatGPT/Claude plan support. | **25% OFF** lifetime licenses with code **BF2026** | Nov 1 - Dec 1, 2026 |
 | 🔥 | [TypingMind](https://www.typingmind.com/?utm_source=s1ntoneli) | Productivity | Advanced chat UI for ChatGPT, Claude, Gemini and more, with all models in one place, MCP & plugins, AI agents, and private local storage | **60% OFF** Lifetime Premium with code **BLACKFRIDAY2026** | Nov 2 - Dec 15, 2026 |
+| 🔥 | [RewriteBar](https://rewritebar.com?ref=s1ntoneli) | Writing Assistant | Native Mac menu bar app that fixes grammar, adjusts tone, translates and rewrites selected text in any app, with built-in AI or your own API key. | **50% OFF** the first purchase with code **BF2026** (Standard lifetime license ~~$29~~ $14.50) | Nov 2 - Dec 3, 2026 |
 
 ## Design Tools
 
