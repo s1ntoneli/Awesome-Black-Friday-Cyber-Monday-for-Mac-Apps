@@ -64,6 +64,7 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
 | 💎 | [Layerwise](https://layerwise.app/pricing) | Web SaaS / Full-stack AI App Builder | Build apps with database, authentication, email and cloud storage; works with existing ChatGPT or Claude subscriptions. Web-based, not a native Mac app. | **20% OFF for 12 months** (monthly and annual plans), code **BLACKFRIDAY2026** | Nov 3 - Dec 2, 2026 |
 | 💎 | [Fluent 2](https://fluentmac.app/?ref=s1ntoneli) | Productivity | Native Mac AI assistant with app context, computer actions, shortcuts, local models, and ChatGPT/Claude plan support. | **25% OFF** lifetime licenses with code **BF2026** | Nov 1 - Dec 1, 2026 |
 | 🔥 | [TypingMind](https://www.typingmind.com/?utm_source=s1ntoneli) | Productivity | Advanced chat UI for ChatGPT, Claude, Gemini and more, with all models in one place, MCP & plugins, AI agents, and private local storage | **60% OFF** Lifetime Premium with code **BLACKFRIDAY2026** | Nov 2 - Dec 15, 2026 |
+| ✨ | [Files Magic AI](https://1dot.ai/files-magic-ai) | File Organizer / Renamer (macOS) | Native Mac app that organizes folders and renames files by what is inside them, with local AI models, rule-based batch rename, a system cleaner and cloud folder support. You review the plan before anything moves, and every change can be undone. | **17% OFF** the one-time Lifetime plan ($59.99 → $49.99), no code needed. Monthly and yearly plans are not discounted | Oct 29 - Nov 30, 2026 |
 
 ## Design Tools
 
