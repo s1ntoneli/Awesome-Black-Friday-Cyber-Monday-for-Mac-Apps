@@ -45,6 +45,7 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
 | 🔥 | [Shiori](https://shioriapp.io) | Bookmark Manager | Fast bookmark manager with tags and folders, for Mac, web and Chrome. | **50% OFF** all Lifetime licenses with code **BLACK2026FRIDAY50** | Nov 12 - Dec 1, 2026 |
 | 💎 | [Tab Finder 2](https://noteifyapp.com/tab-finder/) | Browser tabs | Search all your open browser tabs and switch to the right one in a keystroke. | 30% OFF with code **MACPLUSBLACKFRIDAY26** ($14.99 → $10.49, Lifetime $39.99 → $27.99) | Nov 1 - Nov 30, 2026 |
 | 💎 | [Tree Outliner](https://noteifyapp.com/tree-outliner/) | Outliner | An outliner for Mac: write as an outline list or see the same notes as a sideways tree. | 30% OFF with code **MACPLUSBLACKFRIDAY26** ($14.99 → $10.49, Lifetime $29.99 → $20.99) | Nov 1 - Nov 30, 2026 |
+| 💎 | [OneMax](https://onemaxagent.com/en?utm_source=bfcm&utm_medium=deals&utm_campaign=bfcm2026&utm_content=s1ntoneli) | Voice dictation (macOS) | Speak in any Mac app and get clean, punctuated text; every note also lands in a cloud notebook that groups it into topics and next steps. Free plan: 8,000 words/week. | **33% OFF** Pro, no code needed: $30 → $20/month, $300 → $200/year, locked while subscribed. First 100 subscribers. Submitted by the maker. | Now - Dec 31, 2026 |
 
 ## Content Creation
 
