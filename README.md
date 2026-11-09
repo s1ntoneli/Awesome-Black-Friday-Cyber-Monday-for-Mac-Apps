@@ -106,3 +106,6 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
 Thanks to the 2026 contributors whose submitted deal details informed this refresh: [#94](https://github.com/s1ntoneli/Awesome-Black-Friday-Cyber-Monday-for-Mac-Apps/pull/94), [#98](https://github.com/s1ntoneli/Awesome-Black-Friday-Cyber-Monday-for-Mac-Apps/pull/98), [#101](https://github.com/s1ntoneli/Awesome-Black-Friday-Cyber-Monday-for-Mac-Apps/pull/101), [#103](https://github.com/s1ntoneli/Awesome-Black-Friday-Cyber-Monday-for-Mac-Apps/pull/103), [#104](https://github.com/s1ntoneli/Awesome-Black-Friday-Cyber-Monday-for-Mac-Apps/pull/104), [#105](https://github.com/s1ntoneli/Awesome-Black-Friday-Cyber-Monday-for-Mac-Apps/pull/105), [#106](https://github.com/s1ntoneli/Awesome-Black-Friday-Cyber-Monday-for-Mac-Apps/pull/106), [#99](https://github.com/s1ntoneli/Awesome-Black-Friday-Cyber-Monday-for-Mac-Apps/pull/99), [#100](https://github.com/s1ntoneli/Awesome-Black-Friday-Cyber-Monday-for-Mac-Apps/pull/100), [#107](https://github.com/s1ntoneli/Awesome-Black-Friday-Cyber-Monday-for-Mac-Apps/pull/107).
 
 *Only the seller can confirm whether a deal is active and which plans qualify.*
+
+
+- [Needle](https://github.com/Yvsleyen00941/Needle) - 100% Free: What's playing in the corner beside the Dock on macOS.
