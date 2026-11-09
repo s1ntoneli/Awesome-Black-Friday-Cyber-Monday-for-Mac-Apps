@@ -45,6 +45,7 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
 | 🔥 | [Shiori](https://shioriapp.io) | Bookmark Manager | Fast bookmark manager with tags and folders, for Mac, web and Chrome. | **50% OFF** all Lifetime licenses with code **BLACK2026FRIDAY50** | Nov 12 - Dec 1, 2026 |
 | 💎 | [Tab Finder 2](https://noteifyapp.com/tab-finder/) | Browser tabs | Search all your open browser tabs and switch to the right one in a keystroke. | 30% OFF with code **MACPLUSBLACKFRIDAY26** ($14.99 → $10.49, Lifetime $39.99 → $27.99) | Nov 1 - Nov 30, 2026 |
 | 💎 | [Tree Outliner](https://noteifyapp.com/tree-outliner/) | Outliner | An outliner for Mac: write as an outline list or see the same notes as a sideways tree. | 30% OFF with code **MACPLUSBLACKFRIDAY26** ($14.99 → $10.49, Lifetime $29.99 → $20.99) | Nov 1 - Nov 30, 2026 |
+| 🔥 | [Copet](https://andretan0.gumroad.com/l/btdicz/BLACKFRIDAY) | Desktop Pet (macOS) | A tiny cat-bunny that hangs from your Mac's top bar and reacts to your day: happy when Claude Code finishes, panics before meetings, asks for a pet after an hour without a break. Nothing leaves your Mac. | **60% OFF** ($9.67 → $3.82, one-time purchase) with code **BLACKFRIDAY** | Nov 27 - Nov 28, 2026 |
 
 ## Content Creation
 
@@ -97,6 +98,7 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
 | 🔥 | [DevUtils](https://devutils.com/?utm_source=s1ntoneli) | Developer Toolbox | Offline all-in-one toolbox for developers on macOS. Fully supports Apple Silicon. | **60% OFF** all plans with code **BLACKFRIDAY2026** | Nov 2 - Dec 30, 2026 |
 | 💎 | [ContextClip](https://noteifyapp.com/contextclip/) | Developer tool | Captures screen context and hands it to your coding agents. | 30% OFF with code **MACPLUSBLACKFRIDAY26** ($9.99 → $6.99) | Nov 1 - Nov 30, 2026 |
 | 💎 | [JuxtaCode](https://juxtacode.app/black-friday/) | Git Diff & Merge | Native macOS app to compare Git branches and resolve merge conflicts with ease. | **40% OFF** ($40 → $24, one-time purchase) with code **BLACKFRIDAY26**; direct purchase only, not the Mac App Store | Nov 20 - Dec 1, 2026 |
+| 🔥 | [Needling](https://andretan0.gumroad.com/l/leqnw/BLACKFRIDAY) | Claude Code Status (macOS) | Claude Code status around the MacBook notch: two thin eyes show what Claude is doing, two bars show your 5-hour and weekly limits, and it nudges you when Claude needs you. Independent app, not made by Anthropic. | **60% OFF** ($9.67 → $3.82, one-time purchase) with code **BLACKFRIDAY** | Nov 27 - Nov 28, 2026 |
 
 ## Archive & credits
 
