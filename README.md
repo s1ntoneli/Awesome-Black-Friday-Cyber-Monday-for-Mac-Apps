@@ -56,6 +56,7 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
 | 💎 | [FaceScreen](https://facescreen.app) | Live cam | Floating camera overlay plus a text overlay (name, handle) and a ring light, for screen recordings and video calls. Mac, iPhone, and iPad, one-time purchase. | **30% OFF** ($5.99 → $4.19) with code **FACESCREEN30**, direct purchase from the website | Nov 18 - Dec 2, 2026 |
 | 💎 | [KeyScreen](https://keyscreen.app) | Keystroke | Shows the keys you press on screen, for tutorials, streams, and live demos. Native Mac app, one-time purchase. | **30% OFF** ($5.99 → $4.19) with code **KEYSCREEN30**, direct purchase from the website | Nov 18 - Dec 2, 2026 |
 | 💎 | [MatchCut FCP](https://matchcutfcp.aquaflamingolabs.com?utm_source=github&utm_campaign=blackfriday26) | Video Editing Utility | Turn your audio into SRT timed & aligned video clips in seconds. MatchCut transcribes your audio file and automatically aligns ordered media assets to caption timestamps in Final Cut Pro. | 40% discount on lifetime license. BLACKFRIDAY26 | Nov 4 - Dec 2, 2026 |
+| 💎 | [SmoothCut](https://smoothcut.studio/pricing) | Screen Recorder (macOS, Windows) | Screen recorder that auto-zooms on your clicks, smooths the cursor and adds a camera bubble and on-device captions, so recordings look edited without editing. Free to use; one-time purchase, no subscription. | **40% OFF** Personal ($79 → $47.40) and Pro ($169 → $101.40) with code **BLACKFRIDAY40**, applied automatically at checkout | Nov 10 - Dec 1, 2026 |
 
 ## AI Tools
 
