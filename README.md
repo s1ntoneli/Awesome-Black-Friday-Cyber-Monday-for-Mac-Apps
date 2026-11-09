@@ -36,6 +36,7 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
 - [Design Tools](#design-tools)
 - [System Utilities](#system-utilities)
 - [Developer Tools](#developer-tools)
+- [Finance](#finance)
 
 ## Productivity
 
@@ -97,6 +98,12 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
 | 🔥 | [DevUtils](https://devutils.com/?utm_source=s1ntoneli) | Developer Toolbox | Offline all-in-one toolbox for developers on macOS. Fully supports Apple Silicon. | **60% OFF** all plans with code **BLACKFRIDAY2026** | Nov 2 - Dec 30, 2026 |
 | 💎 | [ContextClip](https://noteifyapp.com/contextclip/) | Developer tool | Captures screen context and hands it to your coding agents. | 30% OFF with code **MACPLUSBLACKFRIDAY26** ($9.99 → $6.99) | Nov 1 - Nov 30, 2026 |
 | 💎 | [JuxtaCode](https://juxtacode.app/black-friday/) | Git Diff & Merge | Native macOS app to compare Git branches and resolve merge conflicts with ease. | **40% OFF** ($40 → $24, one-time purchase) with code **BLACKFRIDAY26**; direct purchase only, not the Mac App Store | Nov 20 - Dec 1, 2026 |
+
+## Finance
+
+| Badge | App | Type | Description | Offer | 2026 dates |
+|:---:|:---|:---|:---|:---|:---|
+| 🔥 | [SubManager](https://submanager.app) | Subscription Tracker | Track subscriptions across iOS, macOS and visionOS and never miss a renewal. | **50% OFF** SubManager+ for lifetime | Nov 27 - Nov 30, 2026 |
 
 ## Archive & credits
 
