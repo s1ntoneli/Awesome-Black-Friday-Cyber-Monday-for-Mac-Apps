@@ -45,6 +45,7 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
 | 🔥 | [Shiori](https://shioriapp.io) | Bookmark Manager | Fast bookmark manager with tags and folders, for Mac, web and Chrome. | **50% OFF** all Lifetime licenses with code **BLACK2026FRIDAY50** | Nov 12 - Dec 1, 2026 |
 | 💎 | [Tab Finder 2](https://noteifyapp.com/tab-finder/) | Browser tabs | Search all your open browser tabs and switch to the right one in a keystroke. | 30% OFF with code **MACPLUSBLACKFRIDAY26** ($14.99 → $10.49, Lifetime $39.99 → $27.99) | Nov 1 - Nov 30, 2026 |
 | 💎 | [Tree Outliner](https://noteifyapp.com/tree-outliner/) | Outliner | An outliner for Mac: write as an outline list or see the same notes as a sideways tree. | 30% OFF with code **MACPLUSBLACKFRIDAY26** ($14.99 → $10.49, Lifetime $29.99 → $20.99) | Nov 1 - Nov 30, 2026 |
+| 💎 | [Ratio](https://useratio.app/?ref=s1ntoneli) | Calculator | Notepad calculator: write sums like a note and see the answer as you type, with 160+ live currencies, units, dates and time zones. Native Mac app, also on Windows and Linux. One-time purchase. | **30% OFF** with code **BLACKFRIDAY26** ($9.99 → $6.99, 2 computers $14.99 → $10.49, 3 computers $19.99 → $13.99), direct purchase from the website | Nov 24 - Dec 1, 2026 |
 
 ## Content Creation
 
