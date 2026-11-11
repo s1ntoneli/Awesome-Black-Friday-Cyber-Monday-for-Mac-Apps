@@ -88,6 +88,7 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
 | 💎 | [Classic Commander](https://noteifyapp.com/classic-commander/) | File manager | A two-panel file manager for Mac with classic commander keyboard shortcuts. | 30% OFF with code **MACPLUSBLACKFRIDAY26** ($29.99 → $20.99) | Nov 1 - Nov 30, 2026 |
 | 💎 | [Quick Exposé 3](https://noteifyapp.com/quick-expose/) | Window manager | Brings classic Exposé back to modern macOS: see all windows at once and pick one instantly. | 30% OFF with code **MACPLUSBLACKFRIDAY26** ($39.99 → $27.99) | Nov 1 - Nov 30, 2026 |
 | 💎 | [Stage View](https://noteifyapp.com/stage-view/) | Window manager | Shows window previews for your Stage Manager groups so you can find and switch windows faster. | 30% OFF with code **MACPLUSBLACKFRIDAY26** ($7.99 → $5.59, Lifetime $19.99 → $13.99) | Nov 1 - Nov 30, 2026 |
+| 💎 | [DisplayBuddy](https://displaybuddy.app) | Display control | Control external-monitor brightness, contrast, volume, input source, and presets directly from your Mac. | **33% OFF** all direct lifetime license tiers with code **BLACKFRIDAY26**; submitted by the maker | Nov 16 - Dec 31, 2026 |
 
 ## Developer Tools
 
