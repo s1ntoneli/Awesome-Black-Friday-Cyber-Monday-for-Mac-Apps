@@ -70,6 +70,8 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
 | Badge | App | Type | Description | Offer | 2026 dates |
 |:---:|:---|:---|:---|:---|:---|
 | 💎 | [BirdFrame](https://getbirdframe.com/?utm_source=bf26-s1ntoneli#black-friday) | Photo Tool | Mac app that crops thousands of bird photos in one go, from the full-size original (no downscaling). Apple Photos albums or folders, JPEG, HEIC or RAW. Free for 50 photos per run. | **33% OFF** one-time unlock: ~~$29.99~~ $19.99, no code needed | Nov 20 - Dec 1, 2026 |
+| ✨ | [LS Graphics](https://www.ls.graphics/) | Mockup & Design Tool | Browser-based mockup editor with static scenes, animated 3D devices, and keyframe animation. Plus, 100+ branding and device mockup bundles with downloadable PSD, Figma, and Sketch source files. | **50% OFF** all bundles, monthly plans, and annual plans | Nov 6 - Dec 1, 2026 |
+
 
 ## System Utilities
 
