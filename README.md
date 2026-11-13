@@ -45,6 +45,7 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
 | 🔥 | [Shiori](https://shioriapp.io) | Bookmark Manager | Fast bookmark manager with tags and folders, for Mac, web and Chrome. | **50% OFF** all Lifetime licenses with code **BLACK2026FRIDAY50** | Nov 12 - Dec 1, 2026 |
 | 💎 | [Tab Finder 2](https://noteifyapp.com/tab-finder/) | Browser tabs | Search all your open browser tabs and switch to the right one in a keystroke. | 30% OFF with code **MACPLUSBLACKFRIDAY26** ($14.99 → $10.49, Lifetime $39.99 → $27.99) | Nov 1 - Nov 30, 2026 |
 | 💎 | [Tree Outliner](https://noteifyapp.com/tree-outliner/) | Outliner | An outliner for Mac: write as an outline list or see the same notes as a sideways tree. | 30% OFF with code **MACPLUSBLACKFRIDAY26** ($14.99 → $10.49, Lifetime $29.99 → $20.99) | Nov 1 - Nov 30, 2026 |
+| 💎 | [SimpleFill](https://simplefill.app) | Text expander and form filler (browser extension for Chrome, Firefox, and Edge; Safari via the Mac App Store) | Expand shortcuts into snippets, run AI actions, and fill whole web forms in one click. | **25% OFF** one-time purchase with code **LAUNCH** (Standard $29 → $21.75, Pro $59 → $44.25), on the Chrome, Firefox, and Edge checkout | Nov 10 - Dec 7, 2026 |
 
 ## Content Creation
 
