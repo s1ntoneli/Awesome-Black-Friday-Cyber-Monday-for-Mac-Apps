@@ -97,6 +97,7 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
 | 🔥 | [DevUtils](https://devutils.com/?utm_source=s1ntoneli) | Developer Toolbox | Offline all-in-one toolbox for developers on macOS. Fully supports Apple Silicon. | **60% OFF** all plans with code **BLACKFRIDAY2026** | Nov 2 - Dec 30, 2026 |
 | 💎 | [ContextClip](https://noteifyapp.com/contextclip/) | Developer tool | Captures screen context and hands it to your coding agents. | 30% OFF with code **MACPLUSBLACKFRIDAY26** ($9.99 → $6.99) | Nov 1 - Nov 30, 2026 |
 | 💎 | [JuxtaCode](https://juxtacode.app/black-friday/) | Git Diff & Merge | Native macOS app to compare Git branches and resolve merge conflicts with ease. | **40% OFF** ($40 → $24, one-time purchase) with code **BLACKFRIDAY26**; direct purchase only, not the Mac App Store | Nov 20 - Dec 1, 2026 |
+| 🔥 | [Ascope](https://ascope.app/#pricing) | ASO & Keyword Tracker | Native app that tracks App Store and Google Play keyword rankings daily in 50+ countries, with popularity and difficulty for every keyword. Includes an MCP server for Cursor and Claude. Also on Windows. | **63% OFF** Lifetime license ($189 → $69, one-time), no code needed | Nov 1 - Nov 30, 2026 |
 
 ## Archive & credits
 
