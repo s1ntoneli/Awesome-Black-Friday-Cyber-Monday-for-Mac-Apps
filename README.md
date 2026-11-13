@@ -70,7 +70,7 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
 | Badge | App | Type | Description | Offer | 2026 dates |
 |:---:|:---|:---|:---|:---|:---|
 | 💎 | [BirdFrame](https://getbirdframe.com/?utm_source=bf26-s1ntoneli#black-friday) | Photo Tool | Mac app that crops thousands of bird photos in one go, from the full-size original (no downscaling). Apple Photos albums or folders, JPEG, HEIC or RAW. Free for 50 photos per run. | **33% OFF** one-time unlock: ~~$29.99~~ $19.99, no code needed | Nov 20 - Dec 1, 2026 |
-| 🔥 | [Sip](https://sipapp.io/blackfriday/) | Color Picker | Modern color picker for Mac that brings ease to color organization and team collaboration. Native macOS app. | **50% OFF** with code **BLACKFRIDAY26** on [Black Friday](https://sipapp.io/blackfriday/) and **CYBERMONDAY26** on [Cyber Monday](https://sipapp.io/cybermonday/) (license $29.99 per seat, includes 1 year of updates) | Nov 27–29 and Nov 30–Dec 2, 2026 |
+| 🔥 | [Sip](https://sipapp.io/blackfriday/) | Color Picker | Native macOS color picker for collecting, organizing, editing, and sharing colors and palettes. | **50% OFF** with code **BLACKFRIDAY26** on [Black Friday](https://sipapp.io/blackfriday/) and **CYBERMONDAY26** on [Cyber Monday](https://sipapp.io/cybermonday/) (subscription, $29.99 per seat, includes 1 year of updates) | Nov 27–29 and Nov 30–Dec 2, 2026 |
 
 ## System Utilities
 
