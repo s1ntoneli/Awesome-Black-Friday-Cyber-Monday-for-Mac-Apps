@@ -4,7 +4,7 @@ A curated list of **Mac-friendly app deals** for Black Friday / Cyber Monday 202
 
 > **Check before purchasing:** Discounts, coupon codes, and dates are creator-submitted and not independently checkout-verified. Some sales start later in November; don't assume an offer is live yet. Prices and terms may change.
 
-**Browse:** [TheMacApps](https://themacapps.com) · [Apps.Deals](https://apps.deals) · [IndieMarkdowns](https://indiemarkdowns.com) · [2025 archive](Black-Friday-Cyber-Monday-for-Mac-Apps-2025.md) · [2024 archive](Black-Friday-Cyber-Monday-for-Mac-Apps-2024.md)
+**Browse:** [TheMacApps — Black Friday](https://themacapps.com/topics/black-friday) · [2025 archive](Black-Friday-Cyber-Monday-for-Mac-Apps-2025.md) · [2024 archive](Black-Friday-Cyber-Monday-for-Mac-Apps-2024.md)
 
 ## Submit a deal
 
@@ -22,10 +22,10 @@ A curated list of **Mac-friendly app deals** for Black Friday / Cyber Monday 202
 
 Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on [X](https://x.com/sintoneli).
 
-| [ScreenSage Pro](https://screensage.pro/bf2026?ref=abfmapps2026) (macOS) · 🔥 **53% OFF** | [CleanClip](https://cleanclip.cc?ref=fndxmacappspro) (macOS) · 💎 **30% OFF · BF2026** |
-|:---|:---|
-| [![ScreenSage Pro](https://screensage.pro/images/og.png)](https://screensage.pro/bf2026?ref=abfmapps2026) | [![CleanClip](https://cleanclip.cc/images/twitter_card2.webp)](https://cleanclip.cc?ref=fndxmacappspro) |
-| Screen recording & video editing for macOS<br/><br/>⭕️ Automatic 2D/3D zoom with cursor tracking<br/>⭕️ Flexible screen & camera layouts<br/>⭕️ iPhone/iPad recording<br/>⭕️ **2026 codes: BFS2026L / BFS2026P** | Minimalist clipboard manager for macOS<br/><br/>🔵 Fast native Mac app<br/>🔵 Clipboard history & smart lists<br/>🔵 Cursor-position quick menu<br/>🔵 Paste Stack<br/>🔵 **2026 code: BF2026** |
+| [ScreenSage Pro](https://screensage.pro/bf2026?ref=abfmapps2026) (macOS) · 🔥 **53% OFF** | [CleanClip](https://cleanclip.cc?ref=fndxmacappspro) (macOS) · 💎 **30% OFF · BF2026** | [Wovo](https://wovo.one/#pricing) (macOS & Linux) · 🔥 **50% OFF Pro & Max** |
+|:---|:---|:---|
+| [![ScreenSage Pro](https://screensage.pro/images/og.png)](https://screensage.pro/bf2026?ref=abfmapps2026) | [![CleanClip](https://cleanclip.cc/images/twitter_card2.webp)](https://cleanclip.cc?ref=fndxmacappspro) | [<img src="https://wovo.one/home/assets/wovo-mark.svg" alt="Wovo logo" width="140" />](https://wovo.one/#pricing) |
+| Screen recording & video editing for macOS<br/><br/>⭕️ Automatic 2D/3D zoom with cursor tracking<br/>⭕️ Flexible screen & camera layouts<br/>⭕️ iPhone/iPad recording<br/>⭕️ **2026 codes: BFS2026L / BFS2026P** | Minimalist clipboard manager for macOS<br/><br/>🔵 Fast native Mac app<br/>🔵 Clipboard history & smart lists<br/>🔵 Cursor-position quick menu<br/>🔵 Paste Stack<br/>🔵 **2026 code: BF2026** | Connect ChatGPT, Claude and coding agents to all your Macs and Linux computers.<br/><br/>🖥️ One MCP connection, multiple computers<br/>⚡ Remote code, browser and desktop tools<br/>🔒 Permission-controlled access<br/>🔥 **Pro $144 → $72/yr · Max $348 → $174/yr**<br/>🎟️ **No code needed · ends Dec 15, 2026** |
 
 
 ## Categories
