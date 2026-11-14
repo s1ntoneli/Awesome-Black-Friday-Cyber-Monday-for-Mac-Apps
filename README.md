@@ -22,10 +22,10 @@ A curated list of **Mac-friendly app deals** for Black Friday / Cyber Monday 202
 
 Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on [X](https://x.com/sintoneli).
 
-| [ScreenSage Pro](https://screensage.pro/?ref=abfmapps2026) (macOS) · 🔥 **53% OFF** | [CleanClip](https://cleanclip.cc?ref=fndxmacappspro) (macOS) · 💎 **30% OFF · BF2026** |
+| [ScreenSage Pro](https://screensage.pro/bf2026?ref=abfmapps2026) (macOS) · 🔥 **53% OFF** | [CleanClip](https://cleanclip.cc?ref=fndxmacappspro) (macOS) · 💎 **30% OFF · BF2026** |
 |:---|:---|
-| [![ScreenSage Pro](https://screensage.pro/images/og.png)](https://screensage.pro/?ref=abfmapps2026) | [![CleanClip](https://cleanclip.cc/images/twitter_card2.webp)](https://cleanclip.cc?ref=fndxmacappspro) |
-| Screen recording & video editing for macOS<br/><br/>⭕️ Automatic 2D/3D zoom with cursor tracking<br/>⭕️ Flexible screen & camera layouts<br/>⭕️ iPhone/iPad recording<br/>⭕️ **2026 code: BFS2026** | Minimalist clipboard manager for macOS<br/><br/>🔵 Fast native Mac app<br/>🔵 Clipboard history & smart lists<br/>🔵 Cursor-position quick menu<br/>🔵 Paste Stack<br/>🔵 **2026 code: BF2026** |
+| [![ScreenSage Pro](https://screensage.pro/images/og.png)](https://screensage.pro/bf2026?ref=abfmapps2026) | [![CleanClip](https://cleanclip.cc/images/twitter_card2.webp)](https://cleanclip.cc?ref=fndxmacappspro) |
+| Screen recording & video editing for macOS<br/><br/>⭕️ Automatic 2D/3D zoom with cursor tracking<br/>⭕️ Flexible screen & camera layouts<br/>⭕️ iPhone/iPad recording<br/>⭕️ **2026 codes: BFS2026L / BFS2026P** | Minimalist clipboard manager for macOS<br/><br/>🔵 Fast native Mac app<br/>🔵 Clipboard history & smart lists<br/>🔵 Cursor-position quick menu<br/>🔵 Paste Stack<br/>🔵 **2026 code: BF2026** |
 
 
 ## Categories
@@ -50,7 +50,7 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
 
 | Badge | App | Type | Description | Offer | 2026 dates |
 |:---:|:---|:---|:---|:---|:---|
-| 🔥 | [ScreenSage Pro](https://screensage.pro/?ref=abfmapps2026) | Screen Recorder & Video Editor (macOS) | Record screen, camera and microphone, add cursor-following zoom and edit polished tutorials or product demos. | **53% OFF** with code **BFS2026** | Nov 4 - Dec 15, 2026 |
+| 🔥 | [ScreenSage Pro](https://screensage.pro/bf2026?ref=abfmapps2026) | Screen Recorder & Video Editor (macOS) | Record screen, camera and microphone, add cursor-following zoom and edit polished tutorials or product demos. | **53% OFF Lifetime** ($449 → $209.90, code **BFS2026L**); **46% OFF Pro** ($149 → $79.90, code **BFS2026P**) | Nov 4 - Dec 15, 2026 |
 | 💎 | [Bindrik](https://bindrik.com/en?ref=macappsbf) | Book Layout for Amazon KDP | Turns your artwork into a KDP-ready interior and cover for Amazon KDP: bleed, gutter, spine width and barcode zone worked out from your real page count. One-time purchase, runs offline on your Mac. | **43% OFF**, $39 (was $69), one-time purchase, with code **BLACKFRIDAY2026** | Nov 23 - Nov 30, 2026 |
 | 💎 | [Presentify](https://presentifyapp.com) | Screen annotation | Draw and annotate on your screen, highlight your cursor and clicks, spotlight, and zoom. For presentations, calls, demos, and teaching. Native Mac app, featured by Apple, one-time purchase. | **30% OFF** ($14 → $9.80) with code **PRESENTIFY30**, direct purchase from the website | Nov 18 - Dec 2, 2026 |
 | 💎 | [FaceScreen](https://facescreen.app) | Live cam | Floating camera overlay plus a text overlay (name, handle) and a ring light, for screen recordings and video calls. Mac, iPhone, and iPad, one-time purchase. | **30% OFF** ($5.99 → $4.19) with code **FACESCREEN30**, direct purchase from the website | Nov 18 - Dec 2, 2026 |
@@ -64,6 +64,8 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
 | 💎 | [Layerwise](https://layerwise.app/pricing) | Web SaaS / Full-stack AI App Builder | Build apps with database, authentication, email and cloud storage; works with existing ChatGPT or Claude subscriptions. Web-based, not a native Mac app. | **20% OFF for 12 months** (monthly and annual plans), code **BLACKFRIDAY2026** | Nov 3 - Dec 2, 2026 |
 | 💎 | [Fluent 2](https://fluentmac.app/?ref=s1ntoneli) | Productivity | Native Mac AI assistant with app context, computer actions, shortcuts, local models, and ChatGPT/Claude plan support. | **25% OFF** lifetime licenses with code **BF2026** | Nov 1 - Dec 1, 2026 |
 | 🔥 | [TypingMind](https://www.typingmind.com/?utm_source=s1ntoneli) | Productivity | Advanced chat UI for ChatGPT, Claude, Gemini and more, with all models in one place, MCP & plugins, AI agents, and private local storage | **60% OFF** Lifetime Premium with code **BLACKFRIDAY2026** | Nov 2 - Dec 15, 2026 |
+
+| 🔥 | [Wovo](https://wovo.one/#pricing) | AI Agent / MCP Connector (macOS & Linux) | One MCP address lets your AI work across approved Mac and Linux computers remotely, without SSH or tunnels. | **50% OFF Pro yearly** ($144 → $72/year), **no code needed**; founding rate locked while subscribed | Nov 12 - Dec 15, 2026 |
 
 ## Design Tools
 
