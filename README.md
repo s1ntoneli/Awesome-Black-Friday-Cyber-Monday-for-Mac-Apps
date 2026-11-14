@@ -483,6 +483,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>17% OFF</strong> Lifetime · $49.99 · No code</td>
       <td>Oct 29 - Nov 30, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://www.vinaa.ai/pricing/?utm_source=s1ntoneli">Vinaa</a></td>
+      <td>AI Chat (macOS)</td>
+      <td>Native Mac app for chatting with cloud and local AI models. Projects, folders, and private iCloud sync.<br>Web search, MCP tools, full-text search, multiple tabs and windows, and a prompt library.</td>
+      <td><strong>Up to 45% OFF</strong> Lifetime · No code</td>
+      <td>Nov 6 - Nov 30, 2026</td>
+    </tr>
   </tbody>
 </table>
 
