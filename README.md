@@ -47,6 +47,8 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
 | 💎 | [Tree Outliner](https://noteifyapp.com/tree-outliner/) | Outliner | An outliner for Mac: write as an outline list or see the same notes as a sideways tree. | 30% OFF with code **MACPLUSBLACKFRIDAY26** ($14.99 → $10.49, Lifetime $29.99 → $20.99) | Nov 1 - Nov 30, 2026 |
 | 💎 | [Forma](https://useforma.app) | Task & Project Planning (macOS) | Free-form canvas for daily tasks and project planning: sticky cards with markdown, checklists and a marker, native on Mac. Free to use; Pro adds unlimited boards, card colors, iCloud sync and PDF export. By the maker of this submission. | **47% OFF** Lifetime Pro ($14.99 → $7.99) with code **BLACKFRIDAY50**; redeem in the app via "Have a code?" or the Mac App Store | Nov 20 - Dec 1, 2026 |
 
+| 💎 | [Daily Time Tracking](https://dailytimetracking.com/?utm_source=bf2026-themacapps) | Time tracker (native macOS) | Tracks time by periodically asking what you're doing, without timers or activity monitoring. Export CSV, JSON and PDF; integrate via API or MCP; automate via Zapier or AppleScript. | Annual: US$39.99 → US$29.99 (25%) for one upcoming year with **DAILYBF2026**, then standard renewal; new, existing and expired subscribers subject to Apple terms. Lifetime: US$99.99 → US$69.99 (30%), one-time in-app purchase, **no code needed**. Same EUR prices; local savings vary. Compare preserved rates before redeeming. | Nov 23–30, 2026 |
+
 ## Content Creation
 
 | Badge | App | Type | Description | Offer | 2026 dates |
@@ -58,6 +60,8 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
 | 💎 | [KeyScreen](https://keyscreen.app) | Keystroke | Shows the keys you press on screen, for tutorials, streams, and live demos. Native Mac app, one-time purchase. | **30% OFF** ($5.99 → $4.19) with code **KEYSCREEN30**, direct purchase from the website | Nov 18 - Dec 2, 2026 |
 | 💎 | [MatchCut FCP](https://matchcutfcp.aquaflamingolabs.com?utm_source=github&utm_campaign=blackfriday26) | Video Editing Utility | Turn your audio into SRT timed & aligned video clips in seconds. MatchCut transcribes your audio file and automatically aligns ordered media assets to caption timestamps in Final Cut Pro. | 40% discount on lifetime license. BLACKFRIDAY26 | Nov 4 - Dec 2, 2026 |
 | 💎 | [Crisp](https://crispvideo.app/pricing/?utm_source=s1ntoneli&utm_medium=deals) | Video Enhancer (native Mac, also Windows) | Restores, denoises and upscales old video to 4K on your own Mac or Windows PC, offline, with a timeline editor. Free version available. Mac needs Apple silicon and macOS 14+. | **Black Friday sale: $9.99 once, 31% off our November price of $14.50, through December 2. Then $19.** One-time purchase, no code needed (the Buy button applies it) | Nov 13 - Dec 2, 2026 |
+
+| 🔥 | [MotionShine](https://motionshine.com/?utm_source=github&utm_medium=deal-list&utm_campaign=black-friday-2026) | Screen Recorder & Video Editor (macOS) | Native Mac screen recorder that adds auto zoom, a smooth cursor, backgrounds and captions for you, with a built-in editor. Free version with no watermark. | **50% OFF** every paid plan with code **BF50** (Pro Forever $99 → $49.50, one-time), direct purchase from the website | Nov 12 - Dec 5, 2026 |
 
 ## AI Tools
 
