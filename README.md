@@ -871,6 +871,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> SubManager+ Lifetime</td>
       <td>Nov 27 - Nov 30, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://www.pulseticker.app/?utm_source=awesomebflist&amp;utm_medium=deal&amp;utm_campaign=bf2026">Pulse</a></td>
+      <td>Market tracker (native macOS)</td>
+      <td>Menu bar app for stocks, crypto and prediction markets: live quotes, intraday charts, watchlists and position P&amp;L. One-time purchase with a 30-day free trial. Submitted by the maker.</td>
+      <td><strong>40% OFF</strong> website license · $19.99 → $11.99 · <code>BLACKFRIDAY</code></td>
+      <td>Nov 20 - Dec 1, 2026</td>
+    </tr>
   </tbody>
 </table>
 
