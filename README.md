@@ -386,6 +386,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td>Pro <strong>€4.99</strong> (regular €9.99; 30-day low €4.99) · No code</td>
       <td>Nov 27 - Nov 30, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://www.palmscreen.app/black-friday/">palmscreen</a></td>
+      <td>Native Mac</td>
+      <td>Mac screen recorder: every click becomes a smooth zoom, with a calm cursor and a clean background. Editor to move zooms, cut, change the background and export MP4, ProRes or GIF; screenshots with arrows, text, numbered steps and blur. macOS 15+, 14-day free trial. Maker disclosure: submitted by palmstudio GmbH, the maker.</td>
+      <td>One-time license for one Mac <strong>$19</strong> (regular $29, 34% off) · code <code>BLACKWEEK</code> (active from Nov 23)</td>
+      <td>Nov 23 - Nov 30, 2026</td>
+    </tr>
   </tbody>
 </table>
 
