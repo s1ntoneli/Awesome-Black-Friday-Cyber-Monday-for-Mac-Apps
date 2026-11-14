@@ -56,6 +56,9 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
 | 🔥 | [Copet](https://andretan0.gumroad.com/l/btdicz/BLACKFRIDAY) | Desktop Pet (macOS) | A tiny cat-bunny that hangs from your Mac's top bar and reacts to your day: happy when Claude Code finishes, panics before meetings, asks for a pet after an hour without a break. Nothing leaves your Mac. | **60% OFF** ($9.67 → $3.82, one-time purchase) with code **BLACKFRIDAY** | Nov 27 - Nov 28, 2026 |
 | 🔥 | [Everlog Journal](https://apps.apple.com/app/everlog-journal/id1519935634) | Journal (native Mac, iPhone, iPad) | Private journal with Markdown entries, photos, places, moods and workouts, synced through iCloud. | **50% OFF** Premium: Lifetime $59.99 → $29.99, or the first year of Yearly $29.99 → $14.99. No code needed, shown in the app | Nov 27 - Dec 1, 2026 |
 
+| 💎 | [DropToDo](https://apps.apple.com/app/id6762462645?utm_source=awesomebflist&utm_medium=deal&utm_campaign=bf2026) | Menu Bar Timer (macOS) | Press the menu bar icon and drag down — the distance is the time. Glowing guide line, frosted-glass countdown card, live menu bar countdown. One-time purchase. | **40% OFF** ($4.99 → $2.99) on the Mac App Store, no code needed | Nov 26 - Dec 1, 2026 |
+| 🔥 | [Keymap](https://keymap.app?utm_source=awesomebflist&utm_medium=deal&utm_campaign=bf2026) | Shortcut Finder (macOS) | Double-press Command to see every shortcut of the current app in a floating panel. Conflict detection with smart suggestions, optional remapping. Data stays local, one-time purchase. | **50% OFF** ($6.99 → $3.49) with code **BF2026** | Nov 26 - Dec 1, 2026 |
+
 ## Content Creation
 
 | Badge | App | Type | Description | Offer | 2026 dates |
@@ -76,6 +79,11 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
 | 💎 | [Pimosa](https://pimosa.app) | Video, audio, image & PDF toolkit (macOS, Windows) | Offline desktop toolkit with 36 tools for video, audio, images, GIFs and PDFs. macOS 12.4+ (Apple Silicon) and Windows. One-time purchase. | **40% OFF** with code **BLACKFRIDAY40**, auto-applied at checkout: Personal $17.40 (was $29), Plus $29.40 (was $49) | Nov 10 - Nov 30, 2026 |
 | 💎 | [SmoothCut](https://smoothcut.studio/pricing) | Screen Recorder (macOS, Windows) | Screen recorder that auto-zooms on your clicks, smooths the cursor and adds a camera bubble and on-device captions, so recordings look edited without editing. Free to use; one-time purchase, no subscription. | **40% OFF** Personal ($79 → $47.40) and Pro ($169 → $101.40) with code **BLACKFRIDAY40**, applied automatically at checkout | Nov 10 - Dec 1, 2026 |
 
+| 🔥 | [Recorder.app](https://apps.apple.com/app/apple-store/id6740995613?pt=551454&ct=bfcm26-gh-s1ntoneli&mt=8) | Screen Recorder (macOS) | Record screen, windows, camera, mic and system audio at the same time, into separate, perfectly synced files. App and window filters, up to 8K. Native Mac app. | **60% OFF** the Lifetime unlock ($44.99 → $17.99), one-time purchase on the Mac App Store, **No code needed** | Nov 20 - Dec 1, 2026 |
+| 🔥 | [AudioRecorder.app](https://apps.apple.com/app/apple-store/id6742782372?pt=551454&ct=bfcm26-gh-s1ntoneli&mt=8) | Audio Recorder (macOS) | Record system audio and microphone on your Mac in one click, no drivers needed. Native Mac app, macOS 15.2+. | **60% OFF** the Lifetime unlock ($24.99 → $9.99), one-time purchase on the Mac App Store, **No code needed** | Nov 20 - Dec 1, 2026 |
+| 🔥 | [PicXure](https://picxure.app?utm_source=awesomebflist&utm_medium=deal&utm_campaign=bf2026) | Screenshot & Annotation (macOS) | Region/window/scrolling capture with a 9-tool annotator. OCR and mosaic are free forever; Pro adds Backdrop, Pin, and Watermark. 1 license = 3 Macs, lifetime updates. | **50% OFF** ($18.99 → $9.49) with code **BF2026** | Nov 26 - Dec 1, 2026 |
+| 💎 | [FaceCam](https://gracehuang.gumroad.com/l/facecam/BLACKFRIDAY26) | Floating Camera Overlay (macOS) | Floating camera overlay for recordings and video calls — customizable shape, size, zoom, and mirror. One-time purchase. | **40% OFF** ($10 → $6) with code **BLACKFRIDAY26** | Nov 1 - Dec 2, 2026 |
+
 ## AI Tools
 
 | Badge | App | Type | Description | Offer | 2026 dates |
@@ -92,6 +100,9 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
 | 💎 | [BoltAI](https://boltai.com/pricing?utm_source=awesomebfmacapps&utm_medium=partner&utm_campaign=bf2026) | AI Chat & Agents (macOS) | Native AI workspace for Mac: ChatGPT, Claude, Gemini and local AI models in one app, now with agents that browse in Chrome and use the apps you allow. | **40% OFF** Pro, Pro+ and Lifetime with code **BFCM2026** (Lifetime $399 → $239.40, one-time purchase) | Nov 2 - Dec 1, 2026 |
 | 💎 | [PDF Pals](https://pdfpals.com/buy?utm_source=awesomebfmacapps&utm_medium=partner&utm_campaign=bf2026) | Document Chat (macOS) | Chat with your PDF, Word, Excel, PowerPoint, EPUB and Markdown files on Mac, with cited answers and built-in local AI models. | **40% OFF** Lifetime ($249 → $149), no code needed; **20% OFF** Basic and Plus with code **BF20** | Nov 2 - Dec 1, 2026 |
 
+| 🔥 | [RewriteBar](https://rewritebar.com?ref=s1ntoneli) | Writing Assistant | Native Mac menu bar app that fixes grammar, adjusts tone, translates and rewrites selected text in any app, with built-in AI or your own API key. | **50% OFF** the first purchase with code **BF2026** (Standard lifetime license ~~$29~~ $14.50) | Nov 2 - Dec 3, 2026 |
+| ✨ | [Files Magic AI](https://1dot.ai/files-magic-ai) | File Organizer / Renamer (macOS) | Native Mac app that organizes folders and renames files by what is inside them, with local AI models, rule-based batch rename, a system cleaner and cloud folder support. You review the plan before anything moves, and every change can be undone. | **17% OFF** the one-time Lifetime plan ($59.99 → $49.99), no code needed. Monthly and yearly plans are not discounted | Oct 29 - Nov 30, 2026 |
+
 ## Design Tools
 
 | Badge | App | Type | Description | Offer | 2026 dates |
@@ -99,6 +110,11 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
 | 💎 | [BirdFrame](https://getbirdframe.com/?utm_source=bf26-s1ntoneli#black-friday) | Photo Tool | Mac app that crops thousands of bird photos in one go, from the full-size original (no downscaling). Apple Photos albums or folders, JPEG, HEIC or RAW. Free for 50 photos per run. | **33% OFF** one-time unlock: ~~$29.99~~ $19.99, no code needed | Nov 20 - Dec 1, 2026 |
 
 | 🔥 | [Sip](https://sipapp.io/blackfriday/) | Color Picker | Native macOS color picker for collecting, organizing, editing, and sharing colors and palettes. | **50% OFF** with code **BLACKFRIDAY26** on [Black Friday](https://sipapp.io/blackfriday/) and **CYBERMONDAY26** on [Cyber Monday](https://sipapp.io/cybermonday/) (subscription, $29.99 per seat, includes 1 year of updates) | Nov 27–29 and Nov 30–Dec 2, 2026 |
+
+| 💎 | [PixelColor](https://apps.apple.com/app/id6763493579?utm_source=awesomebflist&utm_medium=deal&utm_campaign=bf2026) | Color Picker (macOS) | Pick any color from your screen and edit it in RGB, HSB, or HSL. Save favorites, copy in HEX/rgb()/hsl(), zero network access. macOS 14+, Universal. | **43% OFF** ($6.99 → $3.99) on the Mac App Store, no code needed | Nov 26 - Dec 1, 2026 |
+| 🔥 | [FloatViewer](https://apps.apple.com/app/id6768883420?utm_source=awesomebflist&utm_medium=deal&utm_campaign=bf2026) | Image Viewer (macOS) | Borderless floating image viewer with 32+ formats (RAW, PSD, AVIF, SVG), EXIF inspector, histogram, and OCR. Smooth on 100MB+ images. Free app; code unlocks Lifetime. | **50% OFF** Lifetime ($29.99 → $14.99) with code **BF2026** | Nov 26 - Dec 1, 2026 |
+| 💎 | [ResizeGenius](https://gracehuang.gumroad.com/l/resizegenius/BLACKFRIDAY26) | Image Resizer (macOS) | Batch-resize images on Mac with built-in presets and drag-and-drop; exports JPEG, PNG, HEIC, WebP, and TIFF. One-time purchase. | **40% OFF** ($10 → $6) with code **BLACKFRIDAY26** | Nov 1 - Dec 2, 2026 |
+| 💎 | [Redac](https://gracehuang.gumroad.com/l/redac/BLACKFRIDAY26) | Image Redaction (macOS) | Redact text in images on Mac before you share them. One-time purchase. | **40% OFF** ($5 → $3) with code **BLACKFRIDAY26** | Nov 1 - Dec 2, 2026 |
 
 ## System Utilities
 
@@ -124,6 +140,12 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
 | 💎 | [DisplayBuddy](https://displaybuddy.app) | Display control | Control external-monitor brightness, contrast, volume, input source, and presets directly from your Mac. | **33% OFF** all direct lifetime license tiers with code **BLACKFRIDAY26**; submitted by the maker | Nov 16 - Dec 31, 2026 |
 
 | 🔥 | [Fileside](https://www.fileside.app/?ref=abfcmfma) | File Manager | Create workspaces for your projects. Build layouts of your folders. | 50% OFF lifetime Duo license at ~~$33~~ $16.50 with code **BLKFRD26** | Nov 23 - Nov 30, 2026 |
+
+| 💎 | [Kilobat Pro](https://kilobat.app) | Network Utility (native macOS) | Monitor app connections, diagnose network problems and manage hotspot data. | **30% OFF** Pro (US$29 → US$20.30 before tax) with code **BLACKFRIDAY30**; one-time license for two Macs, includes v1 updates | Nov 20 - Nov 30, 2026 (upcoming) |
+| 💎 | [VibeCursor](https://apps.apple.com/app/id6763036198?utm_source=awesomebflist&utm_medium=deal&utm_campaign=bf2026) | Cursor Effects (macOS) | Smooth cursor trails, click particles, and sound effects — with zero system permissions. 120Hz smooth, multi-display, native Metal rendering. | **33% OFF** ($2.99 → $1.99) on the Mac App Store, no code needed | Nov 26 - Dec 1, 2026 |
+| 💎 | [WebDAV Lite](https://apps.apple.com/app/id6779282964?utm_source=awesomebflist&utm_medium=deal&utm_campaign=bf2026) | WebDAV Server (macOS) | Turn any Mac folder into a WebDAV server — browse, stream, and download from any device on your network, with HTTPS encryption. Free app; code unlocks Pro: read & write from Finder, Files app, Infuse. | **33% OFF** Full Unlock ($2.99 → $1.99) with code **BF2026**, limited to 5,000 redemptions | Nov 26 - Dec 1, 2026 |
+| 💎 | [Iruka](https://iruka.sh/black-friday) | File manager (macOS) | Native file manager with dual panes, previews, and a terminal that follows your folder. | **30% OFF** new licences with code **BF30** | Nov 6 - Dec 3, 2026 |
+| 💎 | [Wins](https://wins.cool/) | Window Manager | Native macOS window manager with window snapping, Dock previews, and keyboard shortcuts. | **40% OFF** Single, Pro, and X lifetime licenses and eligible update renewals with code **BF_26** | Nov 11 - Dec 1, 2026 |
 
 ## Developer Tools
 
