@@ -225,6 +225,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> Lifetime · $29.99 · No code</td>
       <td>Nov 20 - Dec 1, 2026</td>
     </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://koofr.eu/black-friday/">Koofr</a></td>
+      <td>Cloud Storage &amp; Desktop Sync</td>
+      <td>Secure EU cloud storage and syncing with a native Mac desktop app, automatic backups, WebDAV and rclone.</td>
+      <td><strong>55% OFF</strong> yearly (250 GB–5 TB) · <code>BF2026</code> (gift cards too)</td>
+      <td>Nov 16 - Nov 30, 2026</td>
+    </tr>
   </tbody>
 </table>
 
