@@ -30,6 +30,7 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
 
 ## Categories
 
+- [Finance](#finance)
 - [Productivity](#productivity)
 - [Content Creation](#content-creation)
 - [AI Tools](#ai-tools)
@@ -64,6 +65,8 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
 | 💎 | [InfiniDesk](https://infinidesk.app/?ref=Awesome-Black-Friday-Cyber-Monday-for-Mac-Apps) | Multiple Desktops | Create multiple desktop 'surfaces' on your Mac, each with its own layout of file and folder icons, widget visibility, and wallpaper. | 30% OFF with code **INFINIBLACK** ($12.99 → $8.99) | Nov 25 - Dec 4, 2026 |
 | 🔥 | [SupaSidebar](https://supasidebar.com?r=s1n) | Tab & Bookmark Manager | Arc-like sidebar for all browsers. View or fuzzy search open tabs, bookmarks and Finder files, one shortcut away. | **50% OFF** Lifetime · code `SIDEBARBF50` | Nov 9 - Dec 7, 2026 |
 
+| 🔥 | [Pretty Progress](https://prettyprogress.app/download) | Countdown widgets (Mac-compatible) | Customizable countdown and progress widgets to track events and deadlines on your desktop. | **50% OFF Lifetime**, $59.99 → $29.99 USD; automatically applied in the app, **No code needed** | Nov 20 - Dec 1, 2026 |
+
 ## Content Creation
 
 | Badge | App | Type | Description | Offer | 2026 dates |
@@ -88,6 +91,8 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
 | 🔥 | [AudioRecorder.app](https://apps.apple.com/app/apple-store/id6742782372?pt=551454&ct=bfcm26-gh-s1ntoneli&mt=8) | Audio Recorder (macOS) | Record system audio and microphone on your Mac in one click, no drivers needed. Native Mac app, macOS 15.2+. | **60% OFF** the Lifetime unlock ($24.99 → $9.99), one-time purchase on the Mac App Store, **No code needed** | Nov 20 - Dec 1, 2026 |
 | 🔥 | [PicXure](https://picxure.app?utm_source=awesomebflist&utm_medium=deal&utm_campaign=bf2026) | Screenshot & Annotation (macOS) | Region/window/scrolling capture with a 9-tool annotator. OCR and mosaic are free forever; Pro adds Backdrop, Pin, and Watermark. 1 license = 3 Macs, lifetime updates. | **50% OFF** ($18.99 → $9.49) with code **BF2026** | Nov 26 - Dec 1, 2026 |
 | 💎 | [FaceCam](https://gracehuang.gumroad.com/l/facecam/BLACKFRIDAY26) | Floating Camera Overlay (macOS) | Floating camera overlay for recordings and video calls — customizable shape, size, zoom, and mirror. One-time purchase. | **40% OFF** ($10 → $6) with code **BLACKFRIDAY26** | Nov 1 - Dec 2, 2026 |
+
+| 💎 | [MultiTrim](https://multitrim.app) | Audio Silence Trimmer (macOS) | Detects and trims leading and trailing silence from whole folders of MP3, WAV, FLAC, AIFF, AAC/ALAC and Ogg files without re-encoding. Free for single files; Pro adds batches. One-time purchase on the Mac App Store. | Pro **€4.99** one-time in-app purchase (regular €9.99; lowest price in the previous 30 days €4.99), no code needed, local prices vary | Nov 27 - Nov 30, 2026 |
 
 ## AI Tools
 
@@ -169,6 +174,12 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
 | 💎 | [Perch](https://perch.run/black-friday?ref=s1ntoneli) | AI Agent Monitor | Native macOS menu bar app for Claude Code, Codex, Cursor and six more AI coding agents: see every session, and approve from your iPhone and Apple Watch. | **40% OFF** one-time licence ($29 → $17.40), solo or per team seat, code **BLACKFRIDAY2026**; first 500 orders | Nov 2 - Dec 1, 2026 |
 
 | 🔥 | [Needling](https://andretan0.gumroad.com/l/leqnw/BLACKFRIDAY) | Claude Code Status (macOS) | Claude Code status around the MacBook notch: two thin eyes show what Claude is doing, two bars show your 5-hour and weekly limits, and it nudges you when Claude needs you. Independent app, not made by Anthropic. | **60% OFF** ($9.67 → $3.82, one-time purchase) with code **BLACKFRIDAY** | Nov 27 - Nov 28, 2026 |
+
+## Finance
+
+| Badge | App | Type | Description | Offer | 2026 dates |
+|:---:|:---|:---|:---|:---|:---|
+| 🔥 | [SubManager](https://submanager.app) | Subscription Tracker | Track subscriptions across iOS, macOS and visionOS and never miss a renewal. | **50% OFF** SubManager+ for lifetime | Nov 27 - Nov 30, 2026 |
 
 ## Archive & credits
 
