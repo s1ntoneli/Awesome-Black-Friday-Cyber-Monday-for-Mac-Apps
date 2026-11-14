@@ -233,6 +233,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>55% OFF</strong> yearly (250 GB–5 TB) · <code>BF2026</code> (gift cards too)</td>
       <td>Nov 16 - Nov 30, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://www.getmushroom.app">Mushroom</a></td>
+      <td>Desktop Pet &amp; Break Reminders</td>
+      <td>A pixel pet for Mac and Windows that reminds you to drink water, take breaks and rest your eyes, timed by how long you have actually been at the desk.</td>
+      <td><strong>30% OFF</strong> one-time license ($9.99 → $6.99, 5 devices) · <code>BLACKFRIDAY30</code></td>
+      <td>Nov 27 - Dec 1, 2026</td>
+    </tr>
   </tbody>
 </table>
 
