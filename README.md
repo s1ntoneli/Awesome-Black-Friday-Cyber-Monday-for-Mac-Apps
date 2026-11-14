@@ -757,6 +757,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> Lifetime · <code>INDIEGOODIESBF26</code></td>
       <td>Nov 20 - Nov 30, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://betterstage.app/pricing?utm_source=themacapps&amp;utm_campaign=bf2026">BetterStage</a></td>
+      <td>Window manager (macOS)</td>
+      <td>Native macOS window and workspace manager: named Stages that span all your monitors, automatic tiling with tabs, a Stage-aware ⌘Tab switcher, and Saved Workspaces. Submitted by the maker.</td>
+      <td><strong>20% OFF</strong> Lifetime Pro · $19.99 → $15.99 (1 Mac), $39.99 → $31.99 (3 Macs), $49.99 → $39.99 (5 Macs) · <code>BLACKFRIDAY20</code></td>
+      <td>Nov 23 - Nov 30, 2026</td>
+    </tr>
   </tbody>
 </table>
 
