@@ -18,6 +18,16 @@ A curated list of **Mac-friendly app deals** for Black Friday / Cyber Monday 202
 | 💎 | 20–49% |
 | ✨ | Under 20% |
 
+## Categories
+
+- [Finance](#finance)
+- [Productivity](#productivity)
+- [Content Creation](#content-creation)
+- [AI Tools](#ai-tools)
+- [Design Tools](#design-tools)
+- [System Utilities](#system-utilities)
+- [Developer Tools](#developer-tools)
+
 ## Sponsored Deals — From the Maintainer
 
 Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on [X](https://x.com/sintoneli).
@@ -56,16 +66,6 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
     </td>
   </tr>
 </table>
-
-## Categories
-
-- [Finance](#finance)
-- [Productivity](#productivity)
-- [Content Creation](#content-creation)
-- [AI Tools](#ai-tools)
-- [Design Tools](#design-tools)
-- [System Utilities](#system-utilities)
-- [Developer Tools](#developer-tools)
 
 ## Productivity
 
