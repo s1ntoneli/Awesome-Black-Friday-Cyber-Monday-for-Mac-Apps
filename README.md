@@ -49,6 +49,10 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
 
 | 💎 | [Daily Time Tracking](https://dailytimetracking.com/?utm_source=bf2026-themacapps) | Time tracker (native macOS) | Tracks time by periodically asking what you're doing, without timers or activity monitoring. Export CSV, JSON and PDF; integrate via API or MCP; automate via Zapier or AppleScript. | Annual: US$39.99 → US$29.99 (25%) for one upcoming year with **DAILYBF2026**, then standard renewal; new, existing and expired subscribers subject to Apple terms. Lifetime: US$99.99 → US$69.99 (30%), one-time in-app purchase, **no code needed**. Same EUR prices; local savings vary. Compare preserved rates before redeeming. | Nov 23–30, 2026 |
 
+| 🔥 | [Starlie](https://starlie.app/) | Jira client (macOS) | Native SwiftUI Mac app for Jira Cloud and self-hosted Jira: JQL search, sprint boards, issue editing. Submitted by the maker. | **50% OFF** Lifetime, no code needed ($49.99 → $24.99, Mac App Store) | Nov 24 - Dec 1, 2026 |
+| 💎 | [MuteDeck](https://mutedeck.com) | Meeting Controls (macOS & Windows) | One-press mute, camera, screen share and recording controls across Zoom, Teams, Google Meet, Webex, Slack and more, with live status on your Stream Deck or screen. | **35% OFF** lifetime licenses (one-time purchase) with code **BFCM2026** | Nov 26 - Dec 12, 2026 |
+| 💎 | [Ratio](https://useratio.app/?ref=s1ntoneli) | Calculator | Notepad calculator: write sums like a note and see the answer as you type, with 160+ live currencies, units, dates and time zones. Native Mac app, also on Windows and Linux. One-time purchase. | **30% OFF** with code **BLACKFRIDAY26** ($9.99 → $6.99, 2 computers $14.99 → $10.49, 3 computers $19.99 → $13.99), direct purchase from the website | Nov 24 - Dec 1, 2026 |
+
 ## Content Creation
 
 | Badge | App | Type | Description | Offer | 2026 dates |
@@ -63,6 +67,8 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
 
 | 🔥 | [MotionShine](https://motionshine.com/?utm_source=github&utm_medium=deal-list&utm_campaign=black-friday-2026) | Screen Recorder & Video Editor (macOS) | Native Mac screen recorder that adds auto zoom, a smooth cursor, backgrounds and captions for you, with a built-in editor. Free version with no watermark. | **50% OFF** every paid plan with code **BF50** (Pro Forever $99 → $49.50, one-time), direct purchase from the website | Nov 12 - Dec 5, 2026 |
 
+| 💎 | [KwaFlux](https://kwaflux.com/pricing?utm_source=github&utm_medium=referral&utm_campaign=github-s1ntoneli-bf2026) | AI Video, Photo & Audio Enhancer (macOS, Windows) | Local AI upscaling, restoration and frame interpolation for video, photos and audio, plus converter, compressor and file repair. Apple silicon Macs and Windows PCs. | **Up to 35% OFF**: Perpetual License $129.99 (was $199.99), 1 Year $59.99 first year, 1 Month $19.99 first month; no code needed | Nov 27 - Nov 30, 2026 |
+
 ## AI Tools
 
 | Badge | App | Type | Description | Offer | 2026 dates |
@@ -73,6 +79,8 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
 | 💎 | [Outlier](https://outlier.host/pricing/?utm_source=s1ntoneli&utm_medium=deals) | Local AI (native Mac) | Runs open AI models on your own Mac, so your chats and code stay on it, even offline: chat, plus a coding agent for your own codebase. Free to start. Apple silicon, macOS 15+. | **Black Friday sale: $16.99 once, 31% off our November price of $24.50, through December 2. Then $29.** One-time purchase, no code needed (the Buy button applies it) | Nov 13 - Dec 2, 2026 |
 
 | 🔥 | [Wovo](https://wovo.one/#pricing) | AI Agent / MCP Connector (macOS & Linux) | One MCP address lets your AI work across approved Mac and Linux computers remotely, without SSH or tunnels. | **50% OFF Pro yearly** ($144 → $72/year), **no code needed**; founding rate locked while subscribed | Nov 12 - Dec 15, 2026 |
+
+| 💎 | [MeetingDebrief](https://meetingdebrief.com) | Meeting Notes (macOS & Windows) | Record, transcribe and summarize meetings on your own Mac. No bot joins the call and nothing is uploaded. Works with Zoom, Teams, Google Meet or in person. | **35% OFF** lifetime licenses (one-time purchase) with code **BFCM2026** | Nov 26 - Dec 12, 2026 |
 
 ## Design Tools
 
@@ -99,6 +107,10 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
 | 💎 | [Stage View](https://noteifyapp.com/stage-view/) | Window manager | Shows window previews for your Stage Manager groups so you can find and switch windows faster. | 30% OFF with code **MACPLUSBLACKFRIDAY26** ($7.99 → $5.59, Lifetime $19.99 → $13.99) | Nov 1 - Nov 30, 2026 |
 | 🔥 | [WheelClick](https://wheelclick.app/?ref=s1ntoneli) | Mouse & Trackpad | Click with three fingers, and your Mac finally has a middle button: open links in new tabs, close tabs, pan in Blender and CAD. On the trackpad and, in the download from the site, the Magic Mouse. Native macOS app from the maker of MiddleClick. | **50% OFF** the one-time unlock ($4.99 → $2.49): the Magic Mouse, fn+click, Force Click, Middle-Drag, Autoscroll and per-app rules. No code needed, on wheelclick.app and the Mac App Store. Three-finger click and tap stay free | Nov 20 - Dec 3, 2026 |
 
+| 💎 | [WhatPulse](https://whatpulse.org) | Usage Stats (macOS, Windows & Linux) | See how you use your Mac: keystrokes, mouse clicks, app usage and bandwidth as heatmaps and stats. Tracks activity, never content. | **35% OFF** the annual plan with code **BFCM2026** | Nov 26 - Dec 12, 2026 |
+| 💎 | [DockMagic](https://dockmagic.app/?utm_source=bf_s1ntoneli&utm_medium=directory&utm_campaign=bf2026) | Dock & Widgets | A second Dock beside the Apple Dock with Claude & Codex limits, 10 Cloudflare widgets with SSL alerts, screen recording with audio, a context-aware Pomodoro and system stats. 16 free widgets. Native macOS app. | **Up to 50% OFF** lifetime licenses: 1 Mac $25 → $12.99 (48%); 2 Macs $40 → $19.99 (50%); 3 Macs $60 → $29.99 (50%). Lifetime updates. **No code needed** | Nov 3 - Nov 30, 2026 (UTC) |
+| 💎 | [DisplayBuddy](https://displaybuddy.app) | Display control | Control external-monitor brightness, contrast, volume, input source, and presets directly from your Mac. | **33% OFF** all direct lifetime license tiers with code **BLACKFRIDAY26**; submitted by the maker | Nov 16 - Dec 31, 2026 |
+
 ## Developer Tools
 
 | Badge | App | Type | Description | Offer | 2026 dates |
@@ -108,6 +120,10 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
 | 💎 | [ContextClip](https://noteifyapp.com/contextclip/) | Developer tool | Captures screen context and hands it to your coding agents. | 30% OFF with code **MACPLUSBLACKFRIDAY26** ($9.99 → $6.99) | Nov 1 - Nov 30, 2026 |
 | 💎 | [JuxtaCode](https://juxtacode.app/black-friday/) | Git Diff & Merge | Native macOS app to compare Git branches and resolve merge conflicts with ease. | **40% OFF** ($40 → $24, one-time purchase) with code **BLACKFRIDAY26**; direct purchase only, not the Mac App Store | Nov 20 - Dec 1, 2026 |
 | 💎 | [Check Engine SEO](https://checkengineseo.com/pricing/?utm_source=s1ntoneli&utm_medium=deals) | SEO Audit (native Mac, also Windows) | Desktop SEO audit: 99 checks, including whether AI crawlers like GPTBot can read your site, ranked into a fix plan with the markup to paste. Free version available. macOS 12+. | **Black Friday sale: $19.99 once, 32% off our November price of $29.50, through December 2. Then $39.** One-time purchase, no code needed (the Buy button applies it) | Nov 13 - Dec 2, 2026 |
+
+| 🔥 | [Ascope](https://ascope.app/#pricing) | ASO & Keyword Tracker | Native app that tracks App Store and Google Play keyword rankings daily in 50+ countries, with popularity and difficulty for every keyword. Includes an MCP server for Cursor and Claude. Also on Windows. | **63% OFF** Lifetime license ($189 → $69, one-time), no code needed | Nov 1 - Nov 30, 2026 |
+| 💎 | [HackUtilities](https://hackutilities.com) | AI Agent Workspace (macOS & Windows) | Run dev servers, terminals and Claude Code, Codex, Gemini CLI or OpenCode sessions side by side, with a notification when an agent needs you, plus 46 developer tools that mostly work offline. | **35% OFF** lifetime licenses (one-time purchase) with code **BFCM2026** | Nov 26 - Dec 12, 2026 |
+| 💎 | [Perch](https://perch.run/black-friday?ref=s1ntoneli) | AI Agent Monitor | Native macOS menu bar app for Claude Code, Codex, Cursor and six more AI coding agents: see every session, and approve from your iPhone and Apple Watch. | **40% OFF** one-time licence ($29 → $17.40), solo or per team seat, code **BLACKFRIDAY2026**; first 500 orders | Nov 2 - Dec 1, 2026 |
 
 ## Archive & credits
 
