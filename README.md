@@ -59,6 +59,11 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
 | 💎 | [DropToDo](https://apps.apple.com/app/id6762462645?utm_source=awesomebflist&utm_medium=deal&utm_campaign=bf2026) | Menu Bar Timer (macOS) | Press the menu bar icon and drag down — the distance is the time. Glowing guide line, frosted-glass countdown card, live menu bar countdown. One-time purchase. | **40% OFF** ($4.99 → $2.99) on the Mac App Store, no code needed | Nov 26 - Dec 1, 2026 |
 | 🔥 | [Keymap](https://keymap.app?utm_source=awesomebflist&utm_medium=deal&utm_campaign=bf2026) | Shortcut Finder (macOS) | Double-press Command to see every shortcut of the current app in a floating panel. Conflict detection with smart suggestions, optional remapping. Data stays local, one-time purchase. | **50% OFF** ($6.99 → $3.49) with code **BF2026** | Nov 26 - Dec 1, 2026 |
 
+| 🔥 | [PastePal](https://indiegoodies.com/pastepal) | Clipboard Manager (macOS, iOS) | Clipboard manager for Mac, iPhone and iPad that keeps everything you copy searchable, organized and synced through iCloud. Native, private, one-time purchase. | **50% OFF** lifetime license ($14.99 → $7.49) with code **INDIEGOODIESBF26**, standalone Mac version | Nov 20 - Nov 30, 2026 |
+| 🔥 | [Overcal](https://indiegoodies.com/overcal) | Menu Bar Calendar (macOS) | Your calendar in the Mac menu bar: month view, agenda, world clocks, and a countdown with one-click join for your next meeting. | **50% OFF** lifetime license ($7.99 → $3.99) with code **INDIEGOODIESBF26** | Nov 20 - Nov 30, 2026 |
+| 💎 | [InfiniDesk](https://infinidesk.app/?ref=Awesome-Black-Friday-Cyber-Monday-for-Mac-Apps) | Multiple Desktops | Create multiple desktop 'surfaces' on your Mac, each with its own layout of file and folder icons, widget visibility, and wallpaper. | 30% OFF with code **INFINIBLACK** ($12.99 → $8.99) | Nov 25 - Dec 4, 2026 |
+| 🔥 | [SupaSidebar](https://supasidebar.com?r=s1n) | Tab & Bookmark Manager | Arc-like sidebar for all browsers. View or fuzzy search open tabs, bookmarks and Finder files, one shortcut away. | **50% OFF** Lifetime · code `SIDEBARBF50` | Nov 9 - Dec 7, 2026 |
+
 ## Content Creation
 
 | Badge | App | Type | Description | Offer | 2026 dates |
@@ -146,6 +151,8 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
 | 💎 | [WebDAV Lite](https://apps.apple.com/app/id6779282964?utm_source=awesomebflist&utm_medium=deal&utm_campaign=bf2026) | WebDAV Server (macOS) | Turn any Mac folder into a WebDAV server — browse, stream, and download from any device on your network, with HTTPS encryption. Free app; code unlocks Pro: read & write from Finder, Files app, Infuse. | **33% OFF** Full Unlock ($2.99 → $1.99) with code **BF2026**, limited to 5,000 redemptions | Nov 26 - Dec 1, 2026 |
 | 💎 | [Iruka](https://iruka.sh/black-friday) | File manager (macOS) | Native file manager with dual panes, previews, and a terminal that follows your folder. | **30% OFF** new licences with code **BF30** | Nov 6 - Dec 3, 2026 |
 | 💎 | [Wins](https://wins.cool/) | Window Manager | Native macOS window manager with window snapping, Dock previews, and keyboard shortcuts. | **40% OFF** Single, Pro, and X lifetime licenses and eligible update renewals with code **BF_26** | Nov 11 - Dec 1, 2026 |
+
+| 🔥 | [Almighty](https://indiegoodies.com/almighty) | Mac Tweaks & Utilities | Over 100 Mac tweaks and utilities in one native app, from hidden settings to notch actions. | **50% OFF** lifetime license ($14.99 → $7.49) with code **INDIEGOODIESBF26** | Nov 20 - Nov 30, 2026 |
 
 ## Developer Tools
 
