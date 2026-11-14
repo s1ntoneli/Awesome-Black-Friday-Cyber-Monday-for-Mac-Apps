@@ -761,7 +761,7 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td align="center">🔥</td>
       <td><a href="https://www.fileminutes.com/pricing/?utm_source=s1ntoneli">FileMinutes</a></td>
       <td>File Search</td>
-      <td>Everyday file search for Mac. Search inside a folder and its subfolders, browse results with your keyboard, and more.</td>
+      <td>Everyday file search for Mac. Search inside a folder, browse with your keyboard, filter by file type and more.</td>
       <td><strong>Up to 60% OFF</strong> Lifetime · No code</td>
       <td>Nov 14 - Nov 30, 2026</td>
     </tr>
