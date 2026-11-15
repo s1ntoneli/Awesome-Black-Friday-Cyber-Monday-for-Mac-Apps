@@ -499,6 +499,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>Up to 45% OFF</strong> Lifetime · No code</td>
       <td>Nov 6 - Nov 30, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://zerorank.ai">ZeroRank</a></td>
+      <td>AI visibility / Web SaaS</td>
+      <td>Track your brand in AI search, research buyer prompts and find optimization opportunities. Browser-based, not a native Mac app. Submitted by the ZeroRank team.</td>
+      <td><strong>Monthly:</strong> 28% off the first 3 monthly payments.<br><strong>Annual:</strong> about 45% off the first year vs 12 standard monthly payments.<br>First paid subscriptions; existing monthly customers may switch to the same or a higher annual plan. No code needed: click the Black Friday deal for automatic checkout savings. <a href="https://zerorank.ai/pricing">Terms on pricing page</a>.</td>
+      <td>Nov 2–30, 2026<br>Ends 23:59 Europe/Tirane</td>
+    </tr>
   </tbody>
 </table>
 
