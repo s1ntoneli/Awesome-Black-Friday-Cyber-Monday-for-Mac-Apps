@@ -773,6 +773,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> Lifetime · <code>INDIEGOODIESBF26</code></td>
       <td>Nov 20 - Nov 30, 2026</td>
     </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://www.fileminutes.com/?utm_source=s1ntoneli">FileMinutes</a></td>
+      <td>File Search</td>
+      <td>A Better Way to Find Files on Your Mac</td>
+      <td><strong>Up to 60% OFF</strong> Lifetime · Code auto-applied at checkout</td>
+      <td>Nov 14 - Nov 30, 2026</td>
+    </tr>
   </tbody>
 </table>
 
