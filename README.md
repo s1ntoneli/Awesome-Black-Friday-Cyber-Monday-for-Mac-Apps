@@ -787,7 +787,7 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td>Menu Bar Widgets</td>
       <td>Type what you want in plain English and your own AI builds a live widget in your Mac's menu bar, like an NVIDIA price alert or your train line's delays. A free ChatGPT account is enough. One-time purchase, macOS 13 or later.</td>
       <td><strong>Up to 48% OFF</strong> One-time · from $20 · No code</td>
-      <td>Nov 27 - Dec 1, 2026</td>
+      <td>Nov 16 - Dec 7, 2026</td>
     </tr>
   </tbody>
 </table>
