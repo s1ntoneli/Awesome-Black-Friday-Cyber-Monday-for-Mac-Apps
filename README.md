@@ -328,7 +328,7 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td>AI Video, Photo &amp; Audio Enhancer (macOS, Windows)</td>
       <td>Local AI upscaling, restoration and frame interpolation for video, photos and audio, plus converter, compressor and file repair. Apple silicon Macs and Windows PCs.</td>
       <td><strong>Up to 35% OFF</strong> · from $19.99 (first month) · No code</td>
-      <td>Nov 27 - Nov 30, 2026</td>
+      <td>Nov 17 - Nov 30, 2026</td>
     </tr>
     <tr>
       <td align="center">🔥</td>
