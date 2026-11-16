@@ -241,7 +241,16 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>30% OFF</strong> one-time license ($9.99 → $6.99, 5 devices) · <code>BLACKFRIDAY30</code></td>
       <td>Nov 27 - Dec 1, 2026</td>
     </tr>
-      <tr>      <td align="center">💎</td>      <td><a href="https://cloisterink.com/">Cloister Ink</a></td>      <td>Markdown Editor (macOS, iPad, iPhone)</td>      <td>Markdown writing app for Mac, iPad and iPhone. Plain markdown files in iCloud, no account, no subscription. Submitted by the maker.</td>      <td><strong>33% OFF</strong> one-time unlock · $39.99 (regular $59.99) · No code</td>      <td>Nov 27 - Dec 7, 2026</td>    </tr>  </tbody>
+      <tr>      <td align="center">💎</td>      <td><a href="https://cloisterink.com/">Cloister Ink</a></td>      <td>Markdown Editor (macOS, iPad, iPhone)</td>      <td>Markdown writing app for Mac, iPad and iPhone. Plain markdown files in iCloud, no account, no subscription. Submitted by the maker.</td>      <td><strong>33% OFF</strong> one-time unlock · $39.99 (regular $59.99) · No code</td>      <td>Nov 27 - Dec 7, 2026</td>    </tr>
+    <tr>
+          <td align="center">🔥</td>
+          <td><a href="https://apps.apple.com/app/apple-store/id6448658165?pt=126247175&amp;ct=bf2026-gh-s1ntoneli&amp;mt=12">TimeGo Clock</a></td>
+          <td>Timer (macOS)</td>
+          <td>Lightweight, minimalist timer and reminder app with a countdown HUD and combinable timer groups.</td>
+          <td><strong>50% OFF</strong> · $3.99 → $1.99 on the Mac App Store · No code needed</td>
+          <td>Nov 20 - Dec 6, 2026</td>
+        </tr>
+  </tbody>
 </table>
 
 ## Content Creation
@@ -515,6 +524,15 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> first year of Pro annual ($60 → $30) · <code>TYPEBOOST50</code></td>
       <td>Nov 23 - Nov 30, 2026</td>
     </tr>
+    <tr>
+          <td align="center">💎</td>
+          <td><a href="https://orchard.5km.tech/black-friday?utm_source=gh-s1ntoneli&amp;utm_medium=github&amp;utm_campaign=bf2026">Orchard</a></td>
+          <td>AI Assistant Bridge (macOS)</td>
+          <td>Menu-bar app that lets AI assistants read and control 11 Apple apps (Mail, Notes, Calendar, Reminders, Messages and more) through Agent Skills, MCP or a CLI, all locally.</td>
+          <td><strong>33% OFF</strong> Pro Annual (first year, $24.99 → $16.74) and Lifetime ($39.99 → $26.79) · <code>BF2026</code></td>
+          <td>Nov 20 - Dec 6, 2026</td>
+        </tr>
+
   </tbody>
 </table>
 
@@ -588,6 +606,24 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> one time purchase - <strong>30% OFF</strong> subs first year (automatically applied)</td>
       <td>Nov 17 - Dec 8, 2026</td>
     </tr>
+    <tr>
+          <td align="center">💎</td>
+          <td><a href="https://zipic.app/black-friday?utm_source=gh-s1ntoneli&amp;utm_medium=github&amp;utm_campaign=bf2026">Zipic</a></td>
+          <td>Image Compression (macOS, Windows)</td>
+          <td>Compress, convert (JPEG, PNG, WebP, HEIC, AVIF, JPEG XL and more) and resize whole folders of images locally, with folder monitoring and clipboard auto-compress. One license works on Mac and Windows.</td>
+          <td><strong>33% OFF</strong> one-time licenses · Solo $13.39, Personal $20.09, Team $87.09 · <code>BF2026</code></td>
+          <td>Nov 20 - Dec 6, 2026</td>
+        </tr>
+    <tr>
+          <td align="center">🔥</td>
+          <td><a href="https://lottiego.com/black-friday?utm_source=gh-s1ntoneli&amp;utm_medium=github&amp;utm_campaign=bf2026">LottieGo</a></td>
+          <td>Lottie Optimizer (macOS)</td>
+          <td>Shrinks Lottie JSON files and exports them as MP4, transparent MOV or GIF, processed locally. Free to download.</td>
+          <td><strong>50% OFF</strong> Pro Lifetime · $4.99 → $2.49 · No code needed</td>
+          <td>Nov 20 - Dec 6, 2026</td>
+        </tr>
+
+
   </tbody>
 </table>
 
@@ -910,6 +946,15 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>65% OFF</strong> · $6.99 · <code>YATTADEAL</code></td>
       <td>Nov 9 - Dec 7, 2026</td>
     </tr>
+    <tr>
+          <td align="center">🔥</td>
+          <td><a href="https://keygengo.5km.tech/black-friday?utm_source=gh-s1ntoneli&amp;utm_medium=github&amp;utm_campaign=bf2026">KeygenGo</a></td>
+          <td>Keygen.sh Client (macOS)</td>
+          <td>Native Mac client for Keygen.sh: manage products, policies, licenses, users and machines for Keygen Cloud or self-hosted accounts.</td>
+          <td><strong>50% OFF</strong> · Annual first year $19.99 → $9.99 with <code>BF2026YEAR</code> · Lifetime $39.99 → $19.99, no code needed</td>
+          <td>Nov 20 - Dec 6, 2026</td>
+        </tr>
+
   </tbody>
 </table>
 
