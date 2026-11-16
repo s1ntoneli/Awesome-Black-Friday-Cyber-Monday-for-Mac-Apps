@@ -782,11 +782,11 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td>Nov 14 - Nov 30, 2026</td>
     </tr>
     <tr>
-      <td align="center">💎</td>
+      <td align="center">🔥</td>
       <td><a href="https://wishbar.app/black-friday?ref=s1ntoneli">Wishbar</a></td>
       <td>Menu Bar Widgets</td>
       <td>Type what you want in plain English and your own AI builds a live widget in your Mac's menu bar, like an NVIDIA price alert or your train line's delays. A free ChatGPT account is enough. One-time purchase, macOS 13 or later.</td>
-      <td><strong>Up to 48% OFF</strong> One-time · from $20 · No code</td>
+      <td><strong>50% OFF</strong> One-time · from $19 · No code</td>
       <td>Nov 16 - Dec 7, 2026</td>
     </tr>
   </tbody>
