@@ -312,6 +312,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>100% FREE</strong> · Open Source</td>
       <td>Always Free</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://emailmeapp.net">Email Me</a></td>
+      <td>Audio Notes (macOS, iOS)</td>
+      <td>Send voice and text notes, to-dos and reminders straight to your own inbox in one tap. Native Mac and iPhone/iPad app.</td>
+      <td><strong>23% OFF</strong> yearly plan ($12.99 → $9.99 US) · No code needed</td>
+      <td>Nov 27 - Dec 1, 2026</td>
+    </tr>
   </tbody>
 </table>
 
@@ -482,6 +490,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
           <td>Nov 16 – Dec 24, 2026 (ends 17:00 UTC)</td>
         </tr>
 
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://digitalphotoframeapp.com">Digital Photo Frame with Music</a></td>
+      <td>Photo Frame (macOS, iOS, tvOS)</td>
+      <td>Turns a Mac, iPhone, iPad or Apple TV into a digital photo frame with music and slideshows of your albums.</td>
+      <td><strong>50% OFF</strong> yearly plan ($19.99 → $9.99 US) · No code needed</td>
+      <td>Nov 27 - Dec 1, 2026</td>
+    </tr>
   </tbody>
 </table>
 
@@ -1160,4 +1176,5 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
 Thanks to the 2026 contributors whose submitted deal details informed this refresh: [#94](https://github.com/s1ntoneli/Awesome-Black-Friday-Cyber-Monday-for-Mac-Apps/pull/94), [#98](https://github.com/s1ntoneli/Awesome-Black-Friday-Cyber-Monday-for-Mac-Apps/pull/98), [#101](https://github.com/s1ntoneli/Awesome-Black-Friday-Cyber-Monday-for-Mac-Apps/pull/101), [#103](https://github.com/s1ntoneli/Awesome-Black-Friday-Cyber-Monday-for-Mac-Apps/pull/103), [#104](https://github.com/s1ntoneli/Awesome-Black-Friday-Cyber-Monday-for-Mac-Apps/pull/104), [#105](https://github.com/s1ntoneli/Awesome-Black-Friday-Cyber-Monday-for-Mac-Apps/pull/105), [#106](https://github.com/s1ntoneli/Awesome-Black-Friday-Cyber-Monday-for-Mac-Apps/pull/106), [#99](https://github.com/s1ntoneli/Awesome-Black-Friday-Cyber-Monday-for-Mac-Apps/pull/99), [#100](https://github.com/s1ntoneli/Awesome-Black-Friday-Cyber-Monday-for-Mac-Apps/pull/100), [#107](https://github.com/s1ntoneli/Awesome-Black-Friday-Cyber-Monday-for-Mac-Apps/pull/107).
 
 *Only the seller can confirm whether a deal is active and which plans qualify.*
+
 
