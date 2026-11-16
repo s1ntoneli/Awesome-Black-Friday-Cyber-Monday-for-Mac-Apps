@@ -394,6 +394,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td>Pro <strong>€4.99</strong> (regular €9.99; 30-day low €4.99) · No code</td>
       <td>Nov 27 - Nov 30, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://www.aivideoeditor.app/pro/">AVE AI Video Editor</a></td>
+      <td>Video Editor &amp; Screen Recorder (macOS)</td>
+      <td>Record tutorials with camera and editable zooms, cut footage using the transcript, and add captions in the same Mac editor.</td>
+      <td><strong>30% OFF</strong> Pro Lifetime ($99 → $69.30 USD before tax) · No code needed</td>
+      <td>Nov 16 – Dec 24, 2026 (ends 17:00 UTC)</td>
+    </tr>
   </tbody>
 </table>
 
