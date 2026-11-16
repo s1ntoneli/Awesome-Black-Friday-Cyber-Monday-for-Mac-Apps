@@ -290,6 +290,15 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
           <td><strong>100% FREE</strong> Open Source</td>
           <td>Always Free</td>
         </tr>
+    <tr>
+          <td align="center">💎</td>
+          <td><a href="https://onemaxagent.com/en?utm_source=bfcm&amp;utm_medium=deals&amp;utm_campaign=bfcm2026&amp;utm_content=s1ntoneli">OneMax</a></td>
+          <td>Voice dictation (macOS)</td>
+          <td>Speak in any Mac app and get clean, punctuated text; every note also lands in a cloud notebook that groups it into topics and next steps. Free plan: 5,000 words/week.</td>
+          <td><strong>33% OFF</strong> Pro, no code needed: $30 → $20/month, $300 → $200/year, locked while subscribed. First 100 subscribers. Submitted by the maker.</td>
+          <td>Now - Dec 31, 2026</td>
+        </tr>
+
 
 
 
