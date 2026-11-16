@@ -891,6 +891,15 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
           <td><strong>60% OFF</strong> · $2.00 (was $4.99), one-time · <code>BLACKFRIDAY26</code></td>
           <td>Nov 14 - Dec 1, 2026</td>
         </tr>
+    <tr>
+          <td align="center">💎</td>
+          <td><a href="https://www.teekamsuthar.com/duobar?utm_source=themacapps&amp;utm_medium=referral&amp;utm_campaign=black-friday-2026">DuoBar</a></td>
+          <td>Menu Bar</td>
+          <td>Merges your Mac's native menu bar icons (battery, Wi-Fi, memory and more) into one glanceable icon; hover to see them separately again. Works on macOS 27 Golden Gate.</td>
+          <td><strong>29% OFF</strong> Pro one-time upgrade ($6.99 → $4.99) · No code needed · Mac App Store</td>
+          <td>Nov 24 - Dec 1, 2026</td>
+        </tr>
+
 
 
 
