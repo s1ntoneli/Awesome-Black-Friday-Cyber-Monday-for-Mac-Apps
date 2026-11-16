@@ -394,6 +394,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td>Pro <strong>€4.99</strong> (regular €9.99; 30-day low €4.99) · No code</td>
       <td>Nov 27 - Nov 30, 2026</td>
     </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://aiteleprompterapp.com/">AI Teleprompter · Voice Sync</a></td>
+      <td>Teleprompter (iPhone/iPad; iPad app on Apple silicon Mac, Not verified for macOS)</td>
+      <td>Voice-synced teleprompter for video recording and speeches. iPhone and iPad app; on Apple silicon Mac it runs as an iPad app, and the App Store marks it “Not verified for macOS.” <a href="https://aiteleprompterapp.com/holiday-sale/">Deal</a> · <a href="https://apps.apple.com/us/app/id6749378913">App Store</a></td>
+      <td><strong>50% OFF</strong> first year of annual subscription (US$39.99 → US$19.99), eligible new subscribers only; <strong>50% OFF</strong> Lifetime (US$99.99 → US$49.99) · No code</td>
+      <td>Nov 20, 2026 - Jan 1, 2027 (Beijing Time)</td>
+    </tr>
   </tbody>
 </table>
 
@@ -563,6 +571,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td>Redact text in images on Mac before you share them. One-time purchase.</td>
       <td><strong>40% OFF</strong> · $3 · <code>BLACKFRIDAY26</code></td>
       <td>Nov 1 - Dec 2, 2026</td>
+    </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://batchmark.dispatchcat.com/">BatchMark</a></td>
+      <td>Photo Watermark &amp; Frame Editor (iPhone/iPad; iPad app on Apple silicon Mac, Not verified for macOS)</td>
+      <td>Add text or logo watermarks and frames to batches of photos on iPhone and iPad. On Apple silicon Mac it runs as an iPad app; the App Store marks it “Not verified for macOS.” <a href="https://batchmark.dispatchcat.com/holiday-sale/">Deal</a> · <a href="https://apps.apple.com/us/app/id6759683285">App Store</a></td>
+      <td><strong>50% OFF</strong> Lifetime · US$79.99 → US$39.99 · No code</td>
+      <td>Nov 15 - Dec 25, 2026</td>
     </tr>
   </tbody>
 </table>
