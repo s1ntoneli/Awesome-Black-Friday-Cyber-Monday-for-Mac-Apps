@@ -894,6 +894,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>60% OFF</strong> · $3.82 · <code>BLACKFRIDAY</code></td>
       <td>Nov 27 - Nov 28, 2026</td>
     </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://supayatta.com?ref=s1n">SupaYatta</a></td>
+      <td>AI Agent Monitor</td>
+      <td>Know when your AI agents need you, right from your Mac's notch. Alerts for Claude, Cursor, Cowork and more.</td>
+      <td><strong>65% OFF</strong> · $6.99 · <code>YATTADEAL</code></td>
+      <td>Nov 9 - Dec 7, 2026</td>
+    </tr>
   </tbody>
 </table>
 
