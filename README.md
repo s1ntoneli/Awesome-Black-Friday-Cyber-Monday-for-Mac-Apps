@@ -241,7 +241,7 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>30% OFF</strong> one-time license ($9.99 → $6.99, 5 devices) · <code>BLACKFRIDAY30</code></td>
       <td>Nov 27 - Dec 1, 2026</td>
     </tr>
-  </tbody>
+      <tr>      <td align="center">💎</td>      <td><a href="https://cloisterink.com/">Cloister Ink</a></td>      <td>Markdown Editor (macOS, iPad, iPhone)</td>      <td>Markdown writing app for Mac, iPad and iPhone. Plain markdown files in iCloud, no account, no subscription. Submitted by the maker.</td>      <td><strong>33% OFF</strong> one-time unlock · $39.99 (regular $59.99) · No code</td>      <td>Nov 27 - Dec 7, 2026</td>    </tr>  </tbody>
 </table>
 
 ## Content Creation
