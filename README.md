@@ -564,6 +564,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>40% OFF</strong> · $3 · <code>BLACKFRIDAY26</code></td>
       <td>Nov 1 - Dec 2, 2026</td>
     </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://sitely.app">Sitely 8</a></td>
+      <td>AI+Visual Website Builder (macOS, iPad)</td>
+      <td>Build the website you always wanted, visually or using AI with MCP</td>
+      <td><strong>50% OFF</strong> one time purchase - <strong>30% OFF</strong> subs first year (automatically applied)</td>
+      <td>Nov 17 - Dec 8, 2026</td>
+    </tr>
   </tbody>
 </table>
 
