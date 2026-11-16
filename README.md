@@ -266,6 +266,33 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
           <td><strong>60% OFF</strong> · Mac App Store $1.99 (was $4.99), no code · loshadki.app $2.00 with <code>BLACKFRIDAY26</code></td>
           <td>Nov 14 - Dec 1, 2026</td>
         </tr>
+    <tr>
+          <td align="center">🆓</td>
+          <td><a href="https://github.com/Yvsleyen00941/Cockpit">Cockpit</a></td>
+          <td>Menu Bar HUD (macOS)</td>
+          <td>Native macOS menu bar productivity HUD with calendar, timer, and notes.</td>
+          <td><strong>100% FREE</strong> Open Source</td>
+          <td>Always Free</td>
+        </tr>
+    <tr>
+          <td align="center">🆓</td>
+          <td><a href="https://github.com/Yvsleyen00941/Tape">Tape</a></td>
+          <td>Desktop Ticker (macOS)</td>
+          <td>Native macOS stock ticker living in the unused corner space beside the Dock.</td>
+          <td><strong>100% FREE</strong> Open Source</td>
+          <td>Always Free</td>
+        </tr>
+    <tr>
+          <td align="center">🆓</td>
+          <td><a href="https://github.com/Yvsleyen00941/Rime">Rime</a></td>
+          <td>Markdown Reader (macOS)</td>
+          <td>Distraction-free native markdown editor and reader for macOS.</td>
+          <td><strong>100% FREE</strong> Open Source</td>
+          <td>Always Free</td>
+        </tr>
+
+
+
 
 
   </tbody>
