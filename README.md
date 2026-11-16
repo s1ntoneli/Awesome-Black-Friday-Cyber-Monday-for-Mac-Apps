@@ -304,6 +304,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
 
 
 
+    <tr>
+      <td align="center">🆓</td>
+      <td><a href="https://github.com/Yvsleyen00941/Needle">Needle</a></td>
+      <td>Now Playing Widget (native macOS)</td>
+      <td>Shows current music artwork and title beside the Dock, built with Swift, AppKit and SwiftUI.</td>
+      <td><strong>100% FREE</strong> · Open Source</td>
+      <td>Always Free</td>
+    </tr>
   </tbody>
 </table>
 
@@ -1153,5 +1161,3 @@ Thanks to the 2026 contributors whose submitted deal details informed this refre
 
 *Only the seller can confirm whether a deal is active and which plans qualify.*
 
-
-- [Needle](https://github.com/Yvsleyen00941/Needle) - 100% Free: What's playing in the corner beside the Dock on macOS.
