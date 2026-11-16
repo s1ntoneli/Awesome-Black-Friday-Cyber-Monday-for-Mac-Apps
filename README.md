@@ -499,6 +499,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>Up to 45% OFF</strong> Lifetime · No code</td>
       <td>Nov 6 - Nov 30, 2026</td>
     </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://typeboost.ai/?ref=s1ntoneli">TypeBoost</a></td>
+      <td>Productivity</td>
+      <td>AI writing in every app on your Mac, plus an iPhone keyboard. Fix, rewrite or dictate text anywhere. Free plan available. Web checkout only, not in the App Store.</td>
+      <td><strong>50% OFF</strong> first year of Pro annual ($60 → $30) · <code>TYPEBOOST50</code></td>
+      <td>Nov 23 - Nov 30, 2026</td>
+    </tr>
   </tbody>
 </table>
 
