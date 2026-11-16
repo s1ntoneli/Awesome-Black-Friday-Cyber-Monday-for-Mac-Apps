@@ -550,6 +550,15 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
           <td><strong>33% OFF</strong> Pro Annual (first year, $24.99 → $16.74) and Lifetime ($39.99 → $26.79) · <code>BF2026</code></td>
           <td>Nov 20 - Dec 6, 2026</td>
         </tr>
+    <tr>
+          <td align="center">💎</td>
+          <td><a href="https://notchlive.app/pricing#plans">NotchLive</a></td>
+          <td>Live captions &amp; transcription (macOS)</td>
+          <td>On-device live captions for meetings, videos, and microphone audio. Pro adds live translation, saved recordings, and transcript export.</td>
+          <td><strong>20% OFF</strong> one-time Pro license · US$29 → US$23.20 before tax · Automatically applied, no code needed</td>
+          <td>Nov 15 (Bangkok) – Dec 17, 2026 at 17:00 UTC</td>
+        </tr>
+
 
   </tbody>
 </table>
