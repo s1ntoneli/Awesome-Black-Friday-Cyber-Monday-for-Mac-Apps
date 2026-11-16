@@ -250,6 +250,24 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
           <td><strong>50% OFF</strong> · $3.99 → $1.99 on the Mac App Store · No code needed</td>
           <td>Nov 20 - Dec 6, 2026</td>
         </tr>
+    <tr>
+          <td align="center">🔥</td>
+          <td><a href="https://loshadki.app/renameninja/">RenameNinja</a></td>
+          <td>Batch File Renamer</td>
+          <td>Rename hundreds of files in one go, with fields from names and photo, video, audio and PDF metadata, your own JavaScript, and Undo.</td>
+          <td><strong>60% OFF</strong> · Mac App Store $3.99 (was $9.99), no code · loshadki.app $4.00 with <code>BLACKFRIDAY26</code></td>
+          <td>Nov 14 - Dec 1, 2026</td>
+        </tr>
+    <tr>
+          <td align="center">🔥</td>
+          <td><a href="https://loshadki.app/smartinbox/">SmartInbox</a></td>
+          <td>Mail Spam Filter (macOS 26)</td>
+          <td>Spam, phishing and cold sales out of your Inbox in Mail, decided by Apple Intelligence on your Mac or a model you choose.</td>
+          <td><strong>60% OFF</strong> · Mac App Store $1.99 (was $4.99), no code · loshadki.app $2.00 with <code>BLACKFRIDAY26</code></td>
+          <td>Nov 14 - Dec 1, 2026</td>
+        </tr>
+
+
   </tbody>
 </table>
 
@@ -849,6 +867,33 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> One-time · from $19 · No code</td>
       <td>Nov 16 - Dec 7, 2026</td>
     </tr>
+    <tr>
+          <td align="center">🔥</td>
+          <td><a href="https://loshadki.app/openin4/">OpenIn</a></td>
+          <td>Link &amp; Browser Picker</td>
+          <td>Choose the browser, profile or app each link opens in, by rules or with a quick picker.</td>
+          <td><strong>60% OFF</strong> · Mac App Store $4.79 (was $11.99), no code · loshadki.app $4.80 with <code>BLACKFRIDAY26</code></td>
+          <td>Nov 14 - Dec 1, 2026</td>
+        </tr>
+    <tr>
+          <td align="center">🔥</td>
+          <td><a href="https://loshadki.app/paddock/">Paddock</a></td>
+          <td>Menu Bar System Monitor</td>
+          <td>Everything about your Mac in the menu bar. Paddock is free; Pro adds a year of history, app alerts and your other Macs.</td>
+          <td><strong>60% OFF</strong> Paddock Pro · $4.00 (was $9.99), one-time, up to 5 Macs · <code>BLACKFRIDAY26</code></td>
+          <td>Nov 14 - Dec 1, 2026</td>
+        </tr>
+    <tr>
+          <td align="center">🔥</td>
+          <td><a href="https://loshadki.app/profilelauncher/">ProfileLauncher</a></td>
+          <td>Browser Profile Launcher</td>
+          <td>Open Safari, Chrome, Edge, Brave and Firefox profiles from the menu bar, a keyboard shortcut or Spotlight.</td>
+          <td><strong>60% OFF</strong> · $2.00 (was $4.99), one-time · <code>BLACKFRIDAY26</code></td>
+          <td>Nov 14 - Dec 1, 2026</td>
+        </tr>
+
+
+
   </tbody>
 </table>
 
@@ -954,6 +999,24 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
           <td><strong>50% OFF</strong> · Annual first year $19.99 → $9.99 with <code>BF2026YEAR</code> · Lifetime $39.99 → $19.99, no code needed</td>
           <td>Nov 20 - Dec 6, 2026</td>
         </tr>
+    <tr>
+          <td align="center">🔥</td>
+          <td><a href="https://loshadki.app/shellhistory/">ShellHistory</a></td>
+          <td>Shell History (macOS &amp; iOS)</td>
+          <td>Keep, search and sync your zsh, bash and fish history on Mac, iPhone and iPad, with statistics, notebooks and Explain Command.</td>
+          <td><strong>60% OFF</strong> · Mac App Store $5.59 (was $13.99), no code · loshadki.app $5.60 with <code>BLACKFRIDAY26</code></td>
+          <td>Nov 14 - Dec 1, 2026</td>
+        </tr>
+    <tr>
+          <td align="center">🔥</td>
+          <td><a href="https://loshadki.app/regexp/">RegExp</a></td>
+          <td>Regex Tester (macOS &amp; iOS)</td>
+          <td>Write and test regular expressions in Swift Regex, NSRegularExpression, JavaScript, PCRE2 and Go. RegExp is free; Pro adds Explain, test cases, Apple Intelligence and every flavor's advanced options.</td>
+          <td><strong>60% OFF</strong> RegExp Pro (in-app purchase) · $1.19 (was $2.99) · No code</td>
+          <td>Nov 14 - Dec 1, 2026</td>
+        </tr>
+
+
 
   </tbody>
 </table>
@@ -988,6 +1051,15 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>40% OFF</strong> website license · $19.99 → $11.99 · <code>BLACKFRIDAY</code></td>
       <td>Nov 20 - Dec 1, 2026</td>
     </tr>
+    <tr>
+          <td align="center">🔥</td>
+          <td><a href="https://loshadki.app/checkcraft/">CheckCraft</a></td>
+          <td>Check Printing (macOS &amp; iOS)</td>
+          <td>Print checks from your Mac, iPhone or iPad: several at once, void and duplicate checks, a test page to line up your printer, and export to Quicken.</td>
+          <td><strong>60% OFF</strong> · App Store $1.99 (was $4.99), one purchase for Mac, iPhone and iPad · No code</td>
+          <td>Nov 14 - Dec 1, 2026</td>
+        </tr>
+
   </tbody>
 </table>
 
