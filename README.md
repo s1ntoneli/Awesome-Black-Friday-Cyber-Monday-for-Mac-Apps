@@ -1042,6 +1042,15 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
           <td><strong>60% OFF</strong> RegExp Pro (in-app purchase) · $1.19 (was $2.99) · No code</td>
           <td>Nov 14 - Dec 1, 2026</td>
         </tr>
+    <tr>
+          <td align="center">💎</td>
+          <td><a href="https://akev.dev/pricing">Akev</a></td>
+          <td>HTTP Debugging Proxy (macOS, also Windows and Linux)</td>
+          <td>Open-source HTTP(S) debugging proxy to inspect, mock and rewrite traffic from browsers, apps, phones and containers. Free version available.</td>
+          <td><strong>30% OFF</strong> Pro licence · $34.30 one-time · <code>BLACKFRIDAY</code></td>
+          <td>Nov 15 - Dec 6, 2026</td>
+        </tr>
+
 
 
 
