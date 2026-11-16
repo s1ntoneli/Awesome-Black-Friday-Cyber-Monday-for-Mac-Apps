@@ -241,14 +241,15 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>30% OFF</strong> one-time license ($9.99 → $6.99, 5 devices) · <code>BLACKFRIDAY30</code></td>
       <td>Nov 27 - Dec 1, 2026</td>
     </tr>
+      <tr>      <td align="center">💎</td>      <td><a href="https://cloisterink.com/">Cloister Ink</a></td>      <td>Markdown Editor (macOS, iPad, iPhone)</td>      <td>Markdown writing app for Mac, iPad and iPhone. Plain markdown files in iCloud, no account, no subscription. Submitted by the maker.</td>      <td><strong>33% OFF</strong> one-time unlock · $39.99 (regular $59.99) · No code</td>      <td>Nov 27 - Dec 7, 2026</td>    </tr>
     <tr>
-      <td align="center">🔥</td>
-      <td><a href="https://apps.apple.com/app/apple-store/id6448658165?pt=126247175&amp;ct=bf2026-gh-s1ntoneli&amp;mt=12">TimeGo Clock</a></td>
-      <td>Timer (macOS)</td>
-      <td>Lightweight, minimalist timer and reminder app with a countdown HUD and combinable timer groups.</td>
-      <td><strong>50% OFF</strong> · $3.99 → $1.99 on the Mac App Store · No code needed</td>
-      <td>Nov 20 - Dec 6, 2026</td>
-    </tr>
+          <td align="center">🔥</td>
+          <td><a href="https://apps.apple.com/app/apple-store/id6448658165?pt=126247175&amp;ct=bf2026-gh-s1ntoneli&amp;mt=12">TimeGo Clock</a></td>
+          <td>Timer (macOS)</td>
+          <td>Lightweight, minimalist timer and reminder app with a countdown HUD and combinable timer groups.</td>
+          <td><strong>50% OFF</strong> · $3.99 → $1.99 on the Mac App Store · No code needed</td>
+          <td>Nov 20 - Dec 6, 2026</td>
+        </tr>
   </tbody>
 </table>
 
@@ -336,7 +337,7 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td>AI Video, Photo &amp; Audio Enhancer (macOS, Windows)</td>
       <td>Local AI upscaling, restoration and frame interpolation for video, photos and audio, plus converter, compressor and file repair. Apple silicon Macs and Windows PCs.</td>
       <td><strong>Up to 35% OFF</strong> · from $19.99 (first month) · No code</td>
-      <td>Nov 27 - Nov 30, 2026</td>
+      <td>Nov 17 - Nov 30, 2026</td>
     </tr>
     <tr>
       <td align="center">🔥</td>
@@ -401,6 +402,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td>Detects and trims leading and trailing silence from whole folders of MP3, WAV, FLAC, AIFF, AAC/ALAC and Ogg files without re-encoding. Free for single files; Pro adds batches. One-time purchase on the Mac App Store.</td>
       <td>Pro <strong>€4.99</strong> (regular €9.99; 30-day low €4.99) · No code</td>
       <td>Nov 27 - Nov 30, 2026</td>
+    </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://www.palmscreen.app/black-friday/">palmscreen</a></td>
+      <td>Native Mac</td>
+      <td>palmscreen brings screenshots and screen recordings together in one beautifully simple Mac app. Capture, edit and share, and everything looks polished without extra work. macOS 15+, 14-day free trial. Maker disclosure: submitted by palmstudio GmbH, the maker.</td>
+      <td>One-time license for one Mac <strong>$19</strong> (regular $29, 34% off) · code <code>BLACKWEEK</code> (active from Nov 23)</td>
+      <td>Nov 23 - Nov 30, 2026</td>
     </tr>
   </tbody>
 </table>
@@ -508,13 +517,22 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td>Nov 6 - Nov 30, 2026</td>
     </tr>
     <tr>
-      <td align="center">💎</td>
-      <td><a href="https://orchard.5km.tech/black-friday?utm_source=gh-s1ntoneli&amp;utm_medium=github&amp;utm_campaign=bf2026">Orchard</a></td>
-      <td>AI Assistant Bridge (macOS)</td>
-      <td>Menu-bar app that lets AI assistants read and control 11 Apple apps (Mail, Notes, Calendar, Reminders, Messages and more) through Agent Skills, MCP or a CLI, all locally.</td>
-      <td><strong>33% OFF</strong> Pro Annual (first year, $24.99 → $16.74) and Lifetime ($39.99 → $26.79) · <code>BF2026</code></td>
-      <td>Nov 20 - Dec 6, 2026</td>
+      <td align="center">🔥</td>
+      <td><a href="https://typeboost.ai/?ref=s1ntoneli">TypeBoost</a></td>
+      <td>Productivity</td>
+      <td>AI writing in every app on your Mac, plus an iPhone keyboard. Fix, rewrite or dictate text anywhere. Free plan available. Web checkout only, not in the App Store.</td>
+      <td><strong>50% OFF</strong> first year of Pro annual ($60 → $30) · <code>TYPEBOOST50</code></td>
+      <td>Nov 23 - Nov 30, 2026</td>
     </tr>
+    <tr>
+          <td align="center">💎</td>
+          <td><a href="https://orchard.5km.tech/black-friday?utm_source=gh-s1ntoneli&amp;utm_medium=github&amp;utm_campaign=bf2026">Orchard</a></td>
+          <td>AI Assistant Bridge (macOS)</td>
+          <td>Menu-bar app that lets AI assistants read and control 11 Apple apps (Mail, Notes, Calendar, Reminders, Messages and more) through Agent Skills, MCP or a CLI, all locally.</td>
+          <td><strong>33% OFF</strong> Pro Annual (first year, $24.99 → $16.74) and Lifetime ($39.99 → $26.79) · <code>BF2026</code></td>
+          <td>Nov 20 - Dec 6, 2026</td>
+        </tr>
+
   </tbody>
 </table>
 
@@ -581,21 +599,31 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td>Nov 1 - Dec 2, 2026</td>
     </tr>
     <tr>
-      <td align="center">💎</td>
-      <td><a href="https://zipic.app/black-friday?utm_source=gh-s1ntoneli&amp;utm_medium=github&amp;utm_campaign=bf2026">Zipic</a></td>
-      <td>Image Compression (macOS, Windows)</td>
-      <td>Compress, convert (JPEG, PNG, WebP, HEIC, AVIF, JPEG XL and more) and resize whole folders of images locally, with folder monitoring and clipboard auto-compress. One license works on Mac and Windows.</td>
-      <td><strong>33% OFF</strong> one-time licenses · Solo $13.39, Personal $20.09, Team $87.09 · <code>BF2026</code></td>
-      <td>Nov 20 - Dec 6, 2026</td>
+      <td align="center">🔥</td>
+      <td><a href="https://sitely.app">Sitely 8</a></td>
+      <td>AI+Visual Website Builder (macOS, iPad)</td>
+      <td>Build the website you always wanted, visually or using AI with MCP</td>
+      <td><strong>50% OFF</strong> one time purchase - <strong>30% OFF</strong> subs first year (automatically applied)</td>
+      <td>Nov 17 - Dec 8, 2026</td>
     </tr>
     <tr>
-      <td align="center">🔥</td>
-      <td><a href="https://lottiego.com/black-friday?utm_source=gh-s1ntoneli&amp;utm_medium=github&amp;utm_campaign=bf2026">LottieGo</a></td>
-      <td>Lottie Optimizer (macOS)</td>
-      <td>Shrinks Lottie JSON files and exports them as MP4, transparent MOV or GIF, processed locally. Free to download.</td>
-      <td><strong>50% OFF</strong> Pro Lifetime · $4.99 → $2.49 · No code needed</td>
-      <td>Nov 20 - Dec 6, 2026</td>
-    </tr>
+          <td align="center">💎</td>
+          <td><a href="https://zipic.app/black-friday?utm_source=gh-s1ntoneli&amp;utm_medium=github&amp;utm_campaign=bf2026">Zipic</a></td>
+          <td>Image Compression (macOS, Windows)</td>
+          <td>Compress, convert (JPEG, PNG, WebP, HEIC, AVIF, JPEG XL and more) and resize whole folders of images locally, with folder monitoring and clipboard auto-compress. One license works on Mac and Windows.</td>
+          <td><strong>33% OFF</strong> one-time licenses · Solo $13.39, Personal $20.09, Team $87.09 · <code>BF2026</code></td>
+          <td>Nov 20 - Dec 6, 2026</td>
+        </tr>
+    <tr>
+          <td align="center">🔥</td>
+          <td><a href="https://lottiego.com/black-friday?utm_source=gh-s1ntoneli&amp;utm_medium=github&amp;utm_campaign=bf2026">LottieGo</a></td>
+          <td>Lottie Optimizer (macOS)</td>
+          <td>Shrinks Lottie JSON files and exports them as MP4, transparent MOV or GIF, processed locally. Free to download.</td>
+          <td><strong>50% OFF</strong> Pro Lifetime · $4.99 → $2.49 · No code needed</td>
+          <td>Nov 20 - Dec 6, 2026</td>
+        </tr>
+
+
   </tbody>
 </table>
 
@@ -813,6 +841,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>Up to 60% OFF</strong> Lifetime · Code auto-applied at checkout</td>
       <td>Nov 14 - Nov 30, 2026</td>
     </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://wishbar.app/black-friday?ref=s1ntoneli">Wishbar</a></td>
+      <td>Menu Bar Widgets</td>
+      <td>Type what you want in plain English and your own AI builds a live widget in your Mac's menu bar, like an NVIDIA price alert or your train line's delays. A free ChatGPT account is enough. One-time purchase, macOS 13 or later.</td>
+      <td><strong>50% OFF</strong> One-time · from $19 · No code</td>
+      <td>Nov 16 - Dec 7, 2026</td>
+    </tr>
   </tbody>
 </table>
 
@@ -904,12 +940,21 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
     </tr>
     <tr>
       <td align="center">🔥</td>
-      <td><a href="https://keygengo.5km.tech/black-friday?utm_source=gh-s1ntoneli&amp;utm_medium=github&amp;utm_campaign=bf2026">KeygenGo</a></td>
-      <td>Keygen.sh Client (macOS)</td>
-      <td>Native Mac client for Keygen.sh: manage products, policies, licenses, users and machines for Keygen Cloud or self-hosted accounts.</td>
-      <td><strong>50% OFF</strong> · Annual first year $19.99 → $9.99 with <code>BF2026YEAR</code> · Lifetime $39.99 → $19.99, no code needed</td>
-      <td>Nov 20 - Dec 6, 2026</td>
+      <td><a href="https://supayatta.com?ref=s1n">SupaYatta</a></td>
+      <td>AI Agent Monitor</td>
+      <td>Know when your AI agents need you, right from your Mac's notch. Alerts for Claude, Cursor, Cowork and more.</td>
+      <td><strong>65% OFF</strong> · $6.99 · <code>YATTADEAL</code></td>
+      <td>Nov 9 - Dec 7, 2026</td>
     </tr>
+    <tr>
+          <td align="center">🔥</td>
+          <td><a href="https://keygengo.5km.tech/black-friday?utm_source=gh-s1ntoneli&amp;utm_medium=github&amp;utm_campaign=bf2026">KeygenGo</a></td>
+          <td>Keygen.sh Client (macOS)</td>
+          <td>Native Mac client for Keygen.sh: manage products, policies, licenses, users and machines for Keygen Cloud or self-hosted accounts.</td>
+          <td><strong>50% OFF</strong> · Annual first year $19.99 → $9.99 with <code>BF2026YEAR</code> · Lifetime $39.99 → $19.99, no code needed</td>
+          <td>Nov 20 - Dec 6, 2026</td>
+        </tr>
+
   </tbody>
 </table>
 
@@ -935,6 +980,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> SubManager+ Lifetime</td>
       <td>Nov 27 - Nov 30, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://www.pulseticker.app/?utm_source=awesomebflist&amp;utm_medium=deal&amp;utm_campaign=bf2026">Pulse</a></td>
+      <td>Market tracker (native macOS)</td>
+      <td>Menu bar app for stocks, crypto and prediction markets: live quotes, intraday charts, watchlists and position P&amp;L. One-time purchase with a 30-day free trial. Submitted by the maker.</td>
+      <td><strong>40% OFF</strong> website license · $19.99 → $11.99 · <code>BLACKFRIDAY</code></td>
+      <td>Nov 20 - Dec 1, 2026</td>
+    </tr>
   </tbody>
 </table>
 
@@ -946,3 +999,6 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
 Thanks to the 2026 contributors whose submitted deal details informed this refresh: [#94](https://github.com/s1ntoneli/Awesome-Black-Friday-Cyber-Monday-for-Mac-Apps/pull/94), [#98](https://github.com/s1ntoneli/Awesome-Black-Friday-Cyber-Monday-for-Mac-Apps/pull/98), [#101](https://github.com/s1ntoneli/Awesome-Black-Friday-Cyber-Monday-for-Mac-Apps/pull/101), [#103](https://github.com/s1ntoneli/Awesome-Black-Friday-Cyber-Monday-for-Mac-Apps/pull/103), [#104](https://github.com/s1ntoneli/Awesome-Black-Friday-Cyber-Monday-for-Mac-Apps/pull/104), [#105](https://github.com/s1ntoneli/Awesome-Black-Friday-Cyber-Monday-for-Mac-Apps/pull/105), [#106](https://github.com/s1ntoneli/Awesome-Black-Friday-Cyber-Monday-for-Mac-Apps/pull/106), [#99](https://github.com/s1ntoneli/Awesome-Black-Friday-Cyber-Monday-for-Mac-Apps/pull/99), [#100](https://github.com/s1ntoneli/Awesome-Black-Friday-Cyber-Monday-for-Mac-Apps/pull/100), [#107](https://github.com/s1ntoneli/Awesome-Black-Friday-Cyber-Monday-for-Mac-Apps/pull/107).
 
 *Only the seller can confirm whether a deal is active and which plans qualify.*
+
+
+- [Needle](https://github.com/Yvsleyen00941/Needle) - 100% Free: What's playing in the corner beside the Dock on macOS.
