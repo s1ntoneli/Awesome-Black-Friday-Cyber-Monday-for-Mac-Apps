@@ -298,6 +298,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
           <td><strong>33% OFF</strong> Pro, no code needed: $30 → $20/month, $300 → $200/year, locked while subscribed. First 100 subscribers. Submitted by the maker.</td>
           <td>Now - Dec 31, 2026</td>
         </tr>
+    <tr>
+          <td align="center">💎</td>
+          <td><a href="https://bytemailapp.com/black-friday">bytemail</a></td>
+          <td>Email Client (native macOS)</td>
+          <td>Fast, native email app for Mac with a unified inbox, smart search, snooze, rules, an AI assistant and MCP support so AI apps can work with your mail.</td>
+          <td><strong>30% OFF</strong> Lifetime · $99 → $69, one payment, up to 5 devices · No code needed. Submitted by the maker.</td>
+          <td>Nov 17 - Dec 7, 2026</td>
+        </tr>
 
 
 
