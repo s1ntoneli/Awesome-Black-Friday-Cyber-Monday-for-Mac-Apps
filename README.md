@@ -969,6 +969,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
           <td><strong>20% OFF</strong> Lifetime Pro · $19.99 → $15.99 (1 Mac), $39.99 → $31.99 (3 Macs), $49.99 → $39.99 (5 Macs) · <code>BLACKFRIDAY20</code></td>
           <td>Nov 23 - Nov 30, 2026</td>
         </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://apps.apple.com/app/id6821715348">Storage Menu Bar</a></td>
+      <td>Disk space monitor (macOS)</td>
+      <td>Mac menu bar app that shows used and free space on every internal and external drive, warns you per volume, and maps the folders that fill each disk. Submitted by the maker.</td>
+      <td><strong>50% OFF</strong> one-time purchase · $1.99 → $0.99 on the Mac App Store · No code needed</td>
+      <td>Nov 17 - Nov 30, 2026</td>
+    </tr>
 
 
 
