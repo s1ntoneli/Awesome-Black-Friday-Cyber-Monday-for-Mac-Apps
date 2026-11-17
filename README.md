@@ -845,8 +845,8 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td align="center">💎</td>
       <td><a href="https://dockmagic.app/?utm_source=bf_s1ntoneli&amp;utm_medium=directory&amp;utm_campaign=bf2026">DockMagic</a></td>
       <td>Dock &amp; Widgets</td>
-      <td>A second Dock beside the Apple Dock with Claude &amp; Codex limits, 10 Cloudflare widgets with SSL alerts, screen recording with audio, a context-aware Pomodoro and system stats. 16 free widgets. Native macOS app.</td>
-      <td><strong>Up to 50% OFF</strong> Lifetime · from $12.99 · No code</td>
+      <td>A second Dock beside the Apple Dock with Dock profiles, pinned apps, window management, Claude &amp; Codex agent sessions and usage limits, screen recording, and everyday tools. 19 free widgets. Native macOS app.</td>
+      <td><strong>Up to 50% OFF</strong> Lifetime · 1 Mac $25 → $12.99; 2 Macs $40 → $19.99; 3 Macs $60 → $29.99 · No code</td>
       <td>Nov 3 - Nov 30, 2026 (UTC)</td>
     </tr>
     <tr>
