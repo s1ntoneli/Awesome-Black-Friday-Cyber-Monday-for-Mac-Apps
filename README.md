@@ -635,6 +635,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
           <td><strong>20% OFF</strong> one-time Pro license · US$29 → US$23.20 before tax · Automatically applied, no code needed</td>
           <td>Nov 15 (Bangkok) – Dec 17, 2026 at 17:00 UTC</td>
         </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://refine.sh/#pricing">Refine</a></td>
+      <td>Writing Assistant (macOS)</td>
+      <td>Offline AI writing assistant for Mac. Grammar, autocomplete, rewrites, translation and explanations in 36 languages across your apps, using local models. Grammar checks are free; full features are a 7-day free trial, no account. Submitted by the maker.</td>
+      <td><strong>35% OFF</strong> one-time license · No code needed, applied at checkout</td>
+      <td>Nov 15 - Nov 30, 2026 (11:59 PM PST)</td>
+    </tr>
 
 
   </tbody>
