@@ -312,6 +312,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>100% FREE</strong> · Open Source</td>
       <td>Always Free</td>
     </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://aqibjaved.dev/apps/notchet/?ref=bf-gh-s1ntoneli">Notchet</a></td>
+      <td>Clipboard Manager (macOS, iOS)</td>
+      <td>Clipboard manager in the MacBook notch: press Option Command V, pick what you copied, and it pastes where you were. Pins, snippets and search; also on iPhone and iPad. Native, one-time purchase.</td>
+      <td><strong>50% OFF</strong> Lifetime · $4.99 · <code>NOTCHET50</code></td>
+      <td>Nov 17 - Dec 2, 2026</td>
+    </tr>
   </tbody>
 </table>
 
