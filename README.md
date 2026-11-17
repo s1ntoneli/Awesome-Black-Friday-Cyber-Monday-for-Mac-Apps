@@ -1022,6 +1022,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>30% OFF</strong> first year: $25 &rarr; $17.50, then $25/year · <code>BLACKFRIDAY</code> (applied automatically from pangalin.com)</td>
       <td>Nov 16 - Nov 30, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://getscrubs.app/black-friday?ref=s1nbf">Scrubs</a></td>
+      <td>Disk Space</td>
+      <td>Disk space analyzer: a map of your whole drive that shows what fills it, with deletes that go to the Trash first and undo. Native macOS app, Apple silicon, macOS 15+.</td>
+      <td><strong>40% OFF</strong> ($14.99 → $8.99) one-time license for 3 Macs · <code>BLACKFRIDAY26</code></td>
+      <td>Nov 27 - Dec 1, 2026</td>
+    </tr>
   </tbody>
 </table>
 
