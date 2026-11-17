@@ -974,6 +974,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
 
 
 
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://pangalin.com/space-manager/">Pangalin Space Manager</a></td>
+      <td>Storage Manager</td>
+      <td>Moves what&#39;s too big to delete to your external drive and keeps it working through shortcuts, merges duplicate files instead of deleting them, and clears WhatsApp, Teams and Slack media month by month while keeping your messages. Tells you if an item comes back before you clear it; removals go to the Trash first. Free to scan, your first 5 GB freed free. Apple silicon, macOS 13+. Native macOS app. Submitted by the maker.</td>
+      <td><strong>30% OFF</strong> first year: $25 &rarr; $17.50, then $25/year · <code>BLACKFRIDAY</code> (applied automatically from pangalin.com)</td>
+      <td>Nov 16 - Nov 30, 2026</td>
+    </tr>
   </tbody>
 </table>
 
