@@ -336,6 +336,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>15% OFF</strong> · <code>Y2NTAXNQ</code></td>
       <td>Nov 23 - Nov 30, 2026</td>
     </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://pasteapp.io/black-friday-2026?ref=s1ntoneli">Paste</a></td>
+      <td>Clipboard manager</td>
+      <td>Paste is a productivity app for Mac, iPhone, and iPad that remembers everything you copy.</td>
+      <td><strong>50% OFF</strong> the first year of Annual ($29.99 → $14.99) · <code>BLACKFRIDAY2026</code> on the website; no code needed for new subscribers in the App Store app</td>
+      <td>Nov 20 - Dec 1, 2026</td>
+    </tr>
   </tbody>
 </table>
 
