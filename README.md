@@ -974,6 +974,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
 
 
 
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://kahsenglee.gumroad.com/l/FlexiBackup/BLACK2026">FlexiBackup</a></td>
+      <td>Backup</td>
+      <td>Mac app to back up your iPhone and iPad straight to an external drive, freeing up Mac storage and relying less on iCloud.</td>
+      <td><strong>50% OFF</strong> one-time purchase ($5.99 → $2.99) · <code>BLACK2026</code></td>
+      <td>Nov 8 - Dec 6, 2026</td>
+    </tr>
   </tbody>
 </table>
 
