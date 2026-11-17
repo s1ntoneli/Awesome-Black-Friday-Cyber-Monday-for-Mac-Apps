@@ -312,6 +312,22 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>100% FREE</strong> · Open Source</td>
       <td>Always Free</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://www.dynamiclake.com">DynamicLake</a></td>
+      <td>Dynamic Island (native macOS)</td>
+      <td>Dynamic Island for Mac with iPhone Live Activities. Submitted by the maker.</td>
+      <td><strong>30% OFF</strong> · <code>BLACKFRIDAY2026</code></td>
+      <td>Nov 23 - Nov 30, 2026</td>
+    </tr>
+    <tr>
+      <td align="center">✨</td>
+      <td><a href="https://www.liqoria.com">Liqoria</a></td>
+      <td>Music Player (native macOS)</td>
+      <td>Music player for Mac for Apple Music, Spotify, YouTube Music and more. Submitted by the maker.</td>
+      <td><strong>15% OFF</strong> · <code>Y2NTAXNQ</code></td>
+      <td>Nov 23 - Nov 30, 2026</td>
+    </tr>
   </tbody>
 </table>
 
