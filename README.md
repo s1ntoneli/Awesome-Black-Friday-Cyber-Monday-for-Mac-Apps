@@ -312,6 +312,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>100% FREE</strong> · Open Source</td>
       <td>Always Free</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://usericly.com/?utm_source=github&amp;utm_campaign=felix">Ricly</a></td>
+      <td>Finder Tools (native macOS)</td>
+      <td>Finder right-click tools for Mac: remove backgrounds, convert images and audio, compress and merge PDFs.</td>
+      <td><strong>40% OFF</strong> Founding (Pro for life) · <code>FOUNDERBF26</code> · one-time $59 instead of $99 (59 € in the EU); lowest price in the last 30 days: $69</td>
+      <td>Nov 27 - Nov 30, 2026 (PT)</td>
+    </tr>
   </tbody>
 </table>
 
