@@ -969,6 +969,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
           <td><strong>20% OFF</strong> Lifetime Pro · $19.99 → $15.99 (1 Mac), $39.99 → $31.99 (3 Macs), $49.99 → $39.99 (5 Macs) · <code>BLACKFRIDAY20</code></td>
           <td>Nov 23 - Nov 30, 2026</td>
         </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://getconsul.app/?ref=awesome-black-friday">Consul</a></td>
+      <td>File Converter (native macOS)</td>
+      <td>Change a file's extension in Finder and Consul converts the file, for example photo.heic to photo.jpg. Images, video, audio and documents, converted locally on your Mac. Menu bar app with a 14-day free trial.</td>
+      <td><strong>26–34% OFF</strong> one-time license · $19 → $14 (1 Mac), $29 → $19 (3 Macs) · No code needed · Optional lifetime updates +$19, sold during the sale only</td>
+      <td>Nov 23 - Nov 27, 2026</td>
+    </tr>
 
 
 
