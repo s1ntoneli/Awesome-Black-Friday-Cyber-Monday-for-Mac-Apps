@@ -969,6 +969,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
           <td><strong>20% OFF</strong> Lifetime Pro · $19.99 → $15.99 (1 Mac), $39.99 → $31.99 (3 Macs), $49.99 → $39.99 (5 Macs) · <code>BLACKFRIDAY20</code></td>
           <td>Nov 23 - Nov 30, 2026</td>
         </tr>
+    <tr>
+          <td align="center">🔥</td>
+          <td><a href="https://lidnight.app/en/buy/">Lidnight</a></td>
+          <td>Keep-awake (macOS)</td>
+          <td>Native macOS menu bar app that keeps a MacBook awake with the lid closed while AI coding agents (Claude Code, Codex) run, shows what each one is doing, and lets the Mac sleep when they finish. Submitted by the maker.</td>
+          <td><strong>50% OFF</strong> one-time license · $9.99 → $4.99 (1 Mac), $14.99 → $7.50 (3 Macs) · <code>BF50</code></td>
+          <td>Nov 23 - Dec 1, 2026</td>
+        </tr>
 
 
 
