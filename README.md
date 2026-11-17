@@ -1151,7 +1151,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
           <td><strong>30% OFF</strong> Pro licence · $34.30 one-time · <code>BLACKFRIDAY</code></td>
           <td>Nov 15 - Dec 6, 2026</td>
         </tr>
-
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://www.git-tower.com/">Tower</a></td>
+      <td>Git Client</td>
+      <td>The most powerful Git client for Mac and Windows, with undo, drag and drop, and built-in GitHub and GitLab integration.</td>
+      <td><strong>Up to 50% OFF</strong> · Pro $129 → $64.50/yr, Basic $69 → $48.30/yr · no code</td>
+      <td>Nov 23 - Dec 6, 2026</td>
+    </tr>
 
 
 
