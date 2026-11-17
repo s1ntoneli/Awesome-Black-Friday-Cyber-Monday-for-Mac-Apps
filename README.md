@@ -312,6 +312,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>100% FREE</strong> · Open Source</td>
       <td>Always Free</td>
     </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://screensky.io/pricing/">ScreenSky</a></td>
+      <td>Tasks &amp; screen breaks (native macOS)</td>
+      <td>Local task board, quick task entry, Smart Pause, and screen break, posture and blink reminders. Requires Apple silicon and macOS 14.4+.</td>
+      <td><strong>50% OFF</strong>: $19.99 → $9.99 for 1 Mac with 1 year of updates; or $200 → $99.99 with lifetime updates. Both one-time purchases. No code needed. Submitted on behalf of the maker.</td>
+      <td>Nov 17 – Dec 2, 2026</td>
+    </tr>
   </tbody>
 </table>
 
