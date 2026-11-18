@@ -336,6 +336,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>15% OFF</strong> · <code>Y2NTAXNQ</code></td>
       <td>Nov 23 - Nov 30, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://saymurmur.app/?utm_source=s1ntoneli&amp;utm_campaign=bf2026">Murmur</a></td>
+      <td>Voice dictation (native macOS)</td>
+      <td>Hold right Command, talk, and clean text lands in any Mac app. Speech runs on your Mac (Parakeet or Whisper, up to 99 languages), plus meeting notes with no bot in the call. One-time purchase, up to 3 Macs. Submitted by the maker.</td>
+      <td><strong>37% OFF</strong> · $19 → $12 (regular $29) · <code>BF2026</code></td>
+      <td>Nov 24 - Dec 1, 2026</td>
+    </tr>
   </tbody>
 </table>
 
