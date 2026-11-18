@@ -1151,6 +1151,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
           <td><strong>30% OFF</strong> Pro licence · $34.30 one-time · <code>BLACKFRIDAY</code></td>
           <td>Nov 15 - Dec 6, 2026</td>
         </tr>
+    <tr>
+          <td align="center">💎</td>
+          <td><a href="https://blob0.com">blob0</a></td>
+          <td>S3 / R2 Desktop Client (native macOS)</td>
+          <td>A cloud-drive style file manager for Cloudflare R2 and S3-compatible storage: browse prefixes like folders, upload with progress, preview files, share presigned links, read a storage dashboard, and drive the bucket from a bundled CLI with an Agent Skill for Claude Code, Codex and Cursor. Credentials stay in the macOS Keychain. Free for one connection. Submitted by the maker.</td>
+          <td><strong>20% OFF</strong> Personal and Team one-time licenses · <code>BLACKFRIDAY20</code></td>
+          <td>Nov 14 - Nov 30, 2026</td>
+        </tr>
 
 
 
