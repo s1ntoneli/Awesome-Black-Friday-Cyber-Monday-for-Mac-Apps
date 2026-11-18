@@ -1177,6 +1177,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
           <td><strong>30% OFF</strong> Pro licence · $34.30 one-time · <code>BLACKFRIDAY</code></td>
           <td>Nov 15 - Dec 6, 2026</td>
         </tr>
+        <tr>
+          <td align="center">💎</td>
+          <td><a href="https://mailscope.app/blackfriday/">MailScope</a></td>
+          <td>Email debugging (native Mac)</td>
+          <td>Native email debugging for Mac. Catch, preview and check development emails locally before they reach your users.</td>
+          <td><strong>34% OFF</strong> the one-time licence · $19 USD (regular $29, save $10) · <code>bf2026</code> (prefilled on the checkout link)</td>
+          <td>Nov 18 - Nov 30, 2026</td>
+        </tr>
 
 
 
