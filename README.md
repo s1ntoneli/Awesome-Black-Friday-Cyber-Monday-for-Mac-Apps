@@ -1230,6 +1230,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
           <td><strong>60% OFF</strong> · App Store $1.99 (was $4.99), one purchase for Mac, iPhone and iPad · No code</td>
           <td>Nov 14 - Dec 1, 2026</td>
         </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://apps.apple.com/app/apple-store/id6818196607?pt=129536448&amp;ct=community&amp;mt=8">Subscout</a></td>
+      <td>Native Mac + iPhone app</td>
+      <td>Subscription tracker that isn't a subscription: reminders before every renewal and free-trial end, this month's total in the menu bar, no bank login, no account, no tracking.</td>
+      <td><strong>40% OFF</strong> the one-time unlock ($14.99 → $8.99), no code needed</td>
+      <td>Nov 27 - Nov 30, 2026. (Disclosure: I'm the developer.)</td>
+    </tr>
 
   </tbody>
 </table>
