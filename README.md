@@ -1056,6 +1056,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>40% OFF</strong> ($14.99 → $8.99) one-time license for 3 Macs · <code>BLACKFRIDAY26</code></td>
       <td>Nov 27 - Dec 1, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://getspacepal.com/black-friday/">Spacepal</a></td>
+      <td>Spaces / Desktops</td>
+      <td>Native macOS menu bar app that names your desktops (Spaces), shows them all with live previews on Option-Tab and switches without the slide animation. Free; Pro adds the overview and Mission Control names.</td>
+      <td><strong>20% OFF</strong> Pro ($9.99 → $7.99) · <code>BLACKFRIDAY</code>, applied automatically</td>
+      <td>Nov 27 - Dec 1, 2026</td>
+    </tr>
   </tbody>
 </table>
 
