@@ -337,6 +337,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td>Nov 23 - Nov 30, 2026</td>
     </tr>
     <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://qrgenie.app/black-friday">QRGenie</a></td>
+      <td>QR Code Generator (macOS, iPhone, iPad)</td>
+      <td>QR code generator for iPhone, iPad and Mac. Codes are made on your device and never expire. Export PNG, JPG, PDF or SVG with no watermark</td>
+      <td><strong>50% OFF</strong> Lifetime · $19.99 → $9.99, one payment · No code needed</td>
+      <td>Nov 18 - Dec 4, 2026</td>
+    </tr>
+    <tr>
       <td align="center">💎</td>
       <td><a href="https://www.craft.do/pricing">Craft</a></td>
       <td>Notes &amp; Docs (macOS, iOS)</td>
@@ -513,6 +521,15 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
           <td><strong>30% OFF</strong> Pro Lifetime ($99 → $69.30 USD before tax) · No code needed</td>
           <td>Nov 16 – Dec 24, 2026 (ends 17:00 UTC)</td>
         </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://aiteleprompterapp.com/">AI Teleprompter · Voice Sync</a></td>
+      <td>Teleprompter (iPhone/iPad; iPad app on Apple silicon Mac, Not verified for macOS)</td>
+      <td>Voice-synced teleprompter for video recording and speeches. iPhone and iPad app; on Apple silicon Mac it runs as an iPad app, and the App Store marks it “Not verified for macOS.” <a href="https://aiteleprompterapp.com/holiday-sale/">Deal</a> · <a href="https://apps.apple.com/us/app/id6749378913">App Store</a></td>
+      <td><strong>50% OFF</strong> first year of annual subscription (US$39.99 → US$19.99), eligible new subscribers only; <strong>50% OFF</strong> Lifetime (US$99.99 → US$49.99) · No code</td>
+      <td>Nov 20, 2026 - Jan 1, 2027 (Beijing Time)</td>
+    </tr>
+
 
   </tbody>
 </table>
@@ -742,6 +759,15 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
           <td><strong>50% OFF</strong> Pro Lifetime · $4.99 → $2.49 · No code needed</td>
           <td>Nov 20 - Dec 6, 2026</td>
         </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://batchmark.dispatchcat.com/">BatchMark</a></td>
+      <td>Photo Watermark &amp; Frame Editor (iPhone/iPad; iPad app on Apple silicon Mac, Not verified for macOS)</td>
+      <td>Add text or logo watermarks and frames to batches of photos on iPhone and iPad. On Apple silicon Mac it runs as an iPad app; the App Store marks it “Not verified for macOS.” <a href="https://batchmark.dispatchcat.com/holiday-sale/">Deal</a> · <a href="https://apps.apple.com/us/app/id6759683285">App Store</a></td>
+      <td><strong>50% OFF</strong> Lifetime · US$79.99 → US$39.99 · No code</td>
+      <td>Nov 15 - Dec 25, 2026</td>
+    </tr>
+
 
 
   </tbody>
@@ -1030,6 +1056,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>30% OFF</strong> first year: $25 &rarr; $17.50, then $25/year · <code>BLACKFRIDAY</code> (applied automatically from pangalin.com)</td>
       <td>Nov 16 - Nov 30, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://getscrubs.app/black-friday?ref=s1nbf">Scrubs</a></td>
+      <td>Disk Space</td>
+      <td>Disk space analyzer: a map of your whole drive that shows what fills it, with deletes that go to the Trash first and undo. Native macOS app, Apple silicon, macOS 15+.</td>
+      <td><strong>40% OFF</strong> ($14.99 → $8.99) one-time license for 3 Macs · <code>BLACKFRIDAY26</code></td>
+      <td>Nov 27 - Dec 1, 2026</td>
+    </tr>
   </tbody>
 </table>
 
@@ -1159,6 +1193,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
           <td><strong>30% OFF</strong> Pro licence · $34.30 one-time · <code>BLACKFRIDAY</code></td>
           <td>Nov 15 - Dec 6, 2026</td>
         </tr>
+        <tr>
+          <td align="center">💎</td>
+          <td><a href="https://mailscope.app/blackfriday/">MailScope</a></td>
+          <td>Email debugging (native Mac)</td>
+          <td>Native email debugging for Mac. Catch, preview and check development emails locally before they reach your users.</td>
+          <td><strong>34% OFF</strong> the one-time licence · $19 USD (regular $29, save $10) · <code>bf2026</code> (prefilled on the checkout link)</td>
+          <td>Nov 18 - Nov 30, 2026</td>
+        </tr>
 
 
 
@@ -1204,6 +1246,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
           <td><strong>60% OFF</strong> · App Store $1.99 (was $4.99), one purchase for Mac, iPhone and iPad · No code</td>
           <td>Nov 14 - Dec 1, 2026</td>
         </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://apps.apple.com/app/apple-store/id6818196607?pt=129536448&amp;ct=community&amp;mt=8">Subscout</a></td>
+      <td>Native Mac + iPhone app</td>
+      <td>Subscription tracker that isn't a subscription: reminders before every renewal and free-trial end, this month's total in the menu bar, no bank login, no account, no tracking.</td>
+      <td><strong>40% OFF</strong> the one-time unlock ($14.99 → $8.99), no code needed</td>
+      <td>Nov 27 - Nov 30, 2026. (Disclosure: I'm the developer.)</td>
+    </tr>
 
   </tbody>
 </table>
