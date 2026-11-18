@@ -5,6 +5,7 @@ A curated list of **Mac-friendly app deals** for Black Friday / Cyber Monday 202
 > **Check before purchasing:** Discounts, coupon codes, and dates are creator-submitted and not independently checkout-verified. Some sales start later in November; don't assume an offer is live yet. Prices and terms may change.
 
 **Browse:** [TheMacApps — Black Friday](https://themacapps.com/topics/black-friday) · [IndieMarkdowns — Mac Black Friday 2026](https://indiemarkdowns.com/mac-black-friday-2026/) · [2025 archive](Black-Friday-Cyber-Monday-for-Mac-Apps-2025.md) · [2024 archive](Black-Friday-Cyber-Monday-for-Mac-Apps-2024.md)
+
 ## Submit a deal
 
 [Open a pull request](https://github.com/s1ntoneli/Awesome-Black-Friday-Cyber-Monday-for-Mac-Apps/compare) or read [the contribution rules](CONTRIBUTING.md). Include a **product link, exact discount, coupon (or "no code"), eligible plan, and 2026 start/end dates**. Please update an existing listing rather than adding duplicates.
