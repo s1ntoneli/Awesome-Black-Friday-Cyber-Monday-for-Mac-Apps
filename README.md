@@ -336,6 +336,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>15% OFF</strong> · <code>Y2NTAXNQ</code></td>
       <td>Nov 23 - Nov 30, 2026</td>
     </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://qrgenie.app/black-friday">QRGenie</a></td>
+      <td>QR Code Generator (macOS, iPhone, iPad)</td>
+      <td>QR code generator for iPhone, iPad and Mac. Codes are made on your device and never expire. Export PNG, JPG, PDF or SVG with no watermark</td>
+      <td><strong>50% OFF</strong> Lifetime · $19.99 → $9.99, one payment · No code needed</td>
+      <td>Nov 18 - Dec 4, 2026</td>
+    </tr>
   </tbody>
 </table>
 
