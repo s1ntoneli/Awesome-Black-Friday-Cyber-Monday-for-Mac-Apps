@@ -344,6 +344,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> Lifetime · $19.99 → $9.99, one payment · No code needed</td>
       <td>Nov 18 - Dec 4, 2026</td>
     </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://sponge.computer/pricing">Sponge</a></td>
+      <td>Read-later library (macOS, Linux, web, iPhone)</td>
+      <td>Local-first read-later library: save articles and PDFs, highlight them and export Markdown. Sponge Plus syncs your whole library to the web and iPhone</td>
+      <td><strong>50% OFF</strong> Sponge Plus for your first 12 months · $5 → $2.50/month on the web · New subscribers · <code>SPONGEBF26</code></td>
+      <td>Nov 18 - Dec 2, 2026</td>
+    </tr>
   </tbody>
 </table>
 
@@ -523,6 +531,22 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
     </tr>
 
 
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://yaptake.com/#pricing">Yaptake</a></td>
+      <td>Video editor (macOS)</td>
+      <td>Video editor that works like a document: delete words in the transcript to cut them from the video, tighten pauses and burn in captions. The models run on your Mac</td>
+      <td><strong>50% OFF</strong> your first year · Monthly $9.99 → $4.99 for 12 months, Yearly $79 → $39.50 · New subscribers · <code>YAPTAKEBF26</code></td>
+      <td>Nov 18 - Dec 2, 2026</td>
+    </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://textmock.com/pricing">Textmock</a></td>
+      <td>Conversation mockups (macOS, web)</td>
+      <td>Make iMessage-style conversation mockups and save them as images or videos</td>
+      <td><strong>50% OFF</strong> Textmock Pro for your first 12 months · $5 → $2.50/month · New subscribers · <code>TEXTMOCKBF26</code></td>
+      <td>Nov 18 - Dec 2, 2026</td>
+    </tr>
   </tbody>
 </table>
 
