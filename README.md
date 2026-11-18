@@ -336,6 +336,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>15% OFF</strong> · <code>Y2NTAXNQ</code></td>
       <td>Nov 23 - Nov 30, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://float.gilla.fun/?utm_source=s1ntoneli#pricing">Float</a></td>
+      <td>Scratchpad (native macOS)</td>
+      <td>Floating Markdown scratchpad on a global hotkey. Stays on top of full-screen apps and saves notes as plain .md files. Free and open source. Submitted by the maker.</td>
+      <td><strong>40% OFF</strong> Pro lifetime · $4.99 → $2.99 one-time · <code>BF26FLOAT</code></td>
+      <td>Nov 26 - Dec 1, 2026</td>
+    </tr>
   </tbody>
 </table>
 
@@ -1151,6 +1159,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
           <td><strong>30% OFF</strong> Pro licence · $34.30 one-time · <code>BLACKFRIDAY</code></td>
           <td>Nov 15 - Dec 6, 2026</td>
         </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://www.datapeek.dev/pricing?utm_source=s1ntoneli">data-peek</a></td>
+      <td>SQL Client (macOS, also Windows and Linux)</td>
+      <td>Fast, keyboard-first SQL client for PostgreSQL, MySQL, SQL Server, SQLite and ClickHouse. Free for personal use. Submitted by the maker.</td>
+      <td><strong>40% OFF</strong> Pro (commercial-use licence) · $29 → $17.40/year · <code>BF26PEEK</code>, applied automatically</td>
+      <td>Nov 26 - Dec 1, 2026</td>
+    </tr>
 
 
 
