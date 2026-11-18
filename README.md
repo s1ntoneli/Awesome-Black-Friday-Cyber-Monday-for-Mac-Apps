@@ -1035,6 +1035,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>26–34% OFF</strong> one-time license · $19 → $14 (1 Mac), $29 → $19 (3 Macs) · No code needed · Optional lifetime updates +$19, sold during the sale only</td>
       <td>Nov 23 - Nov 27, 2026</td>
     </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://fswitcher.app/demo/?utm_source=s1ntoneli-awesome&utm_medium=listing&utm_campaign=black-friday-2026">fswitcher</a></td>
+      <td>App switcher</td>
+      <td>cmd+tab with per-display switching that shows apps or windows, always opens apps, and takes you to the window you picked instead of the one macOS chooses. Native macOS app, macOS 26+. Submitted by the maker.</td>
+      <td><strong>60% OFF</strong> ($14.99 → $5.99) one-time purchase · <code>BLACKFRIDAY</code></td>
+      <td>Nov 18 - Nov 30, 2026</td>
+    </tr>
 
 
 
