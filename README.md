@@ -298,6 +298,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
           <td><strong>33% OFF</strong> Pro, no code needed: $30 → $20/month, $300 → $200/year, locked while subscribed. First 100 subscribers. Submitted by the maker.</td>
           <td>Now - Dec 31, 2026</td>
         </tr>
+    <tr>
+          <td align="center">💎</td>
+          <td><a href="https://bytemailapp.com/black-friday">bytemail</a></td>
+          <td>Email Client (native macOS)</td>
+          <td>Fast, native email app for Mac with a unified inbox, smart search, snooze, rules, an AI assistant and MCP support so AI apps can work with your mail.</td>
+          <td><strong>30% OFF</strong> Lifetime · $99 → $69, one payment, up to 5 devices · No code needed. Submitted by the maker.</td>
+          <td>Nov 17 - Dec 7, 2026</td>
+        </tr>
 
 
 
@@ -314,9 +322,25 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
     </tr>
     <tr>
       <td align="center">💎</td>
+      <td><a href="https://www.dynamiclake.com">DynamicLake</a></td>
+      <td>Dynamic Island (native macOS)</td>
+      <td>Dynamic Island for Mac with iPhone Live Activities. Submitted by the maker.</td>
+      <td><strong>30% OFF</strong> · <code>BLACKFRIDAY2026</code></td>
+      <td>Nov 23 - Nov 30, 2026</td>
+    </tr>
+    <tr>
+      <td align="center">✨</td>
+      <td><a href="https://www.liqoria.com">Liqoria</a></td>
+      <td>Music Player (native macOS)</td>
+      <td>Music player for Mac for Apple Music, Spotify, YouTube Music and more. Submitted by the maker.</td>
+      <td><strong>15% OFF</strong> · <code>Y2NTAXNQ</code></td>
+      <td>Nov 23 - Nov 30, 2026</td>
+    </tr>
+    <tr>
+      <td align="center">💎</td>
       <td><a href="https://usericly.com/?utm_source=github&amp;utm_campaign=felix">Ricly</a></td>
       <td>Finder Tools (native macOS)</td>
-      <td>Finder right-click tools for Mac: remove backgrounds, convert images and audio, compress and merge PDFs.</td>
+      <td>Finder right-click tools for Mac: remove backgrounds, convert images and audio, compress and merge PDFs. Submitted by the maker.</td>
       <td><strong>40% OFF</strong> Founding (Pro for life) · <code>FOUNDERBF26</code> · one-time $59 instead of $99 (59 € in the EU); lowest price in the last 30 days: $69</td>
       <td>Nov 27 - Nov 30, 2026 (PT)</td>
     </tr>
@@ -619,6 +643,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
           <td><strong>20% OFF</strong> one-time Pro license · US$29 → US$23.20 before tax · Automatically applied, no code needed</td>
           <td>Nov 15 (Bangkok) – Dec 17, 2026 at 17:00 UTC</td>
         </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://refine.sh/#pricing">Refine</a></td>
+      <td>Writing Assistant (macOS)</td>
+      <td>Offline AI writing assistant for Mac. Grammar, autocomplete, rewrites, translation and explanations in 36 languages across your apps, using local models. Grammar checks are free; full features are a 7-day free trial, no account. Submitted by the maker.</td>
+      <td><strong>35% OFF</strong> one-time license · No code needed, applied at checkout</td>
+      <td>Nov 15 - Nov 30, 2026 (11:59 PM PST)</td>
+    </tr>
 
 
   </tbody>
@@ -853,8 +885,8 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td align="center">💎</td>
       <td><a href="https://dockmagic.app/?utm_source=bf_s1ntoneli&amp;utm_medium=directory&amp;utm_campaign=bf2026">DockMagic</a></td>
       <td>Dock &amp; Widgets</td>
-      <td>A second Dock beside the Apple Dock with Claude &amp; Codex limits, 10 Cloudflare widgets with SSL alerts, screen recording with audio, a context-aware Pomodoro and system stats. 16 free widgets. Native macOS app.</td>
-      <td><strong>Up to 50% OFF</strong> Lifetime · from $12.99 · No code</td>
+      <td>A second Dock beside the Apple Dock with Dock profiles, pinned apps, window management, Claude &amp; Codex agent sessions and usage limits, screen recording, and everyday tools. 19 free widgets. Native macOS app.</td>
+      <td><strong>Up to 50% OFF</strong> Lifetime · 1 Mac $25 → $12.99; 2 Macs $40 → $19.99; 3 Macs $60 → $29.99 · No code</td>
       <td>Nov 3 - Nov 30, 2026 (UTC)</td>
     </tr>
     <tr>
@@ -977,11 +1009,27 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
           <td><strong>20% OFF</strong> Lifetime Pro · $19.99 → $15.99 (1 Mac), $39.99 → $31.99 (3 Macs), $49.99 → $39.99 (5 Macs) · <code>BLACKFRIDAY20</code></td>
           <td>Nov 23 - Nov 30, 2026</td>
         </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://getconsul.app/?ref=awesome-black-friday">Consul</a></td>
+      <td>File Converter (native macOS)</td>
+      <td>Change a file's extension in Finder and Consul converts the file, for example photo.heic to photo.jpg. Images, video, audio and documents, converted locally on your Mac. Menu bar app with a 14-day free trial.</td>
+      <td><strong>26–34% OFF</strong> one-time license · $19 → $14 (1 Mac), $29 → $19 (3 Macs) · No code needed · Optional lifetime updates +$19, sold during the sale only</td>
+      <td>Nov 23 - Nov 27, 2026</td>
+    </tr>
 
 
 
 
 
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://pangalin.com/space-manager/">Pangalin Space Manager</a></td>
+      <td>Storage Manager</td>
+      <td>Moves what&#39;s too big to delete to your external drive and keeps it working through shortcuts, merges duplicate files instead of deleting them, and clears WhatsApp, Teams and Slack media month by month while keeping your messages. Tells you if an item comes back before you clear it; removals go to the Trash first. Free to scan, your first 5 GB freed free. Apple silicon, macOS 13+. Native macOS app. Submitted by the maker.</td>
+      <td><strong>30% OFF</strong> first year: $25 &rarr; $17.50, then $25/year · <code>BLACKFRIDAY</code> (applied automatically from pangalin.com)</td>
+      <td>Nov 16 - Nov 30, 2026</td>
+    </tr>
   </tbody>
 </table>
 
