@@ -336,6 +336,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>15% OFF</strong> · <code>Y2NTAXNQ</code></td>
       <td>Nov 23 - Nov 30, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://tryvoiceink.com/black-friday">VoiceInk</a></td>
+      <td>Dictation (macOS)</td>
+      <td>Open-source macOS dictation with on-device speech recognition and app-specific modes.</td>
+      <td><strong>40% OFF Mac lifetime licenses</strong> · <code>BFVI2640</code></td>
+      <td>Nov 11 - Dec 5, 2026</td>
+    </tr>
   </tbody>
 </table>
 
