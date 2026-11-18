@@ -759,6 +759,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> Lifetime · US$79.99 → US$39.99 · No code</td>
       <td>Nov 15 - Dec 25, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://withlinger.com/black-friday/">Linger</a></td>
+      <td>Design Reference Library (macOS, Apple Silicon)</td>
+      <td>Local-first Tauri Mac app for saving design references, notes, and sources on your own computer. Apple Silicon, macOS 11+; Intel Macs are not supported, and the app is not AppKit-native. 14-day trial, no card required. Submitted by the maker.</td>
+      <td><strong>36% OFF</strong> Personal one-time · US$39 → US$25; <strong>38% OFF</strong> Lifetime · US$79 → US$49; <strong>50% OFF</strong> Studio Duo (two Lifetime licenses only) · US$158 → US$79 · No code</td>
+      <td>Nov 19 - Dec 1, 2026 (ends 23:59 PST)</td>
+    </tr>
 
 
 
