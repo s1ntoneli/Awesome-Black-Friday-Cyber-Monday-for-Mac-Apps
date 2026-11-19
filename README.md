@@ -344,6 +344,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> Lifetime · $19.99 → $9.99, one payment · No code needed</td>
       <td>Nov 18 - Dec 4, 2026</td>
     </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://apps.apple.com/app/apple-store/id6458535284">Capture</a></td>
+      <td>Quick Notes (macOS, iOS)</td>
+      <td>Capture thoughts and ideas in one tap from the menu bar, Spotlight or Raycast, then send them to your favourite apps.</td>
+      <td><strong>50% OFF</strong> Lifetime ($19.99 → $9.99) · No code needed</td>
+      <td>Nov 23 - Nov 30, 2026</td>
+    </tr>
   </tbody>
 </table>
 
