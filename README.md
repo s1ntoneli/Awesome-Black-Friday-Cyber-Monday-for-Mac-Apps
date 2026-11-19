@@ -360,6 +360,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> Lifetime ($19.99 → $9.99) · No code needed</td>
       <td>Nov 23 - Nov 30, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://glifa.app/?ref=bf-mac">Glifa</a></td>
+      <td>Markdown Editor (macOS)</td>
+      <td>Markdown editor you can ask for anything: AI changes come as proposals you keep or undo, using the AI you already have. Plain .md files. Submitted by the maker.</td>
+      <td><strong>33% OFF</strong> one-time, up to 3 Macs · $9.99 (lowest price before the offer $14.99) · No code needed</td>
+      <td>Nov 20 - Nov 30, 2026</td>
+    </tr>
   </tbody>
 </table>
 
