@@ -300,6 +300,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
         </tr>
     <tr>
           <td align="center">💎</td>
+          <td><a href="https://halopen.com/pricing/">Halopen</a></td>
+          <td>Voice dictation (native macOS)</td>
+          <td>Hold fn, talk, and what you said is typed at your cursor in any Mac app, terminals and editors included. Verbatim by default; optional on-device transcription on Apple Silicon. 14-day trial, no card.</td>
+          <td><strong>30% OFF</strong> the first payment on any Pro plan with code <strong>HOLIDAY</strong>: Lifetime $499 → $349.30 (one-time), Annual $179 → $125.30 first year, Monthly $19 → $13.30 first month. Not student plans. Submitted by the maker.</td>
+          <td>Nov 19 - Dec 31, 2026</td>
+        </tr>
+    <tr>
+          <td align="center">💎</td>
           <td><a href="https://bytemailapp.com/black-friday">bytemail</a></td>
           <td>Email Client (native macOS)</td>
           <td>Fast, native email app for Mac with a unified inbox, smart search, snooze, rules, an AI assistant and MCP support so AI apps can work with your mail.</td>
