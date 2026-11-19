@@ -521,6 +521,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> first year of annual subscription (US$39.99 → US$19.99), eligible new subscribers only; <strong>50% OFF</strong> Lifetime (US$99.99 → US$49.99) · No code</td>
       <td>Nov 20, 2026 - Jan 1, 2027 (Beijing Time)</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://tapelark.com/black-friday/">Tapelark</a></td>
+      <td>Radio &amp; Audio Recorder (macOS, Windows, Linux)</td>
+      <td>Records internet radio, one file per song, also on a schedule, plus TV channels from a public list, podcasts and the sound of any app, into a tagged library on your Mac. Native macOS app; also for Windows 11 and Linux. Submitted by the maker.</td>
+      <td><strong>25% OFF</strong> one-time licence ($39 → $29) · No code needed</td>
+      <td>Nov 27 - Nov 30, 2026</td>
+    </tr>
 
 
   </tbody>
