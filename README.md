@@ -344,6 +344,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> Lifetime · $19.99 → $9.99, one payment · No code needed</td>
       <td>Nov 18 - Dec 4, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://thinkdown.app">Thinkdown</a></td>
+      <td>AI Voice Journal (macOS, iOS, iPadOS, watchOS, web)</td>
+      <td>AI voice journal and voice notes for iPhone, iPad, Mac, Apple Watch and web.</td>
+      <td><strong>33% OFF</strong> first year of Pro Yearly · $59.99 → $39.99 · No code needed</td>
+      <td>Nov 18 - Dec 31, 2026</td>
+    </tr>
   </tbody>
 </table>
 
