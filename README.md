@@ -1035,6 +1035,25 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>26–34% OFF</strong> one-time license · $19 → $14 (1 Mac), $29 → $19 (3 Macs) · No code needed · Optional lifetime updates +$19, sold during the sale only</td>
       <td>Nov 23 - Nov 27, 2026</td>
     </tr>
+    <tr>
+      <td align="center">🎉</td>
+      <td><a href="https://plomer.app/?ref=awesome-black-friday">Plomer</a></td>
+      <td>Website uptime and domain monitoring (macOS)</td>
+      <td>Website uptime and domain monitoring from your Mac. Track and monitor your websites, web services and domains. Take control of your internet infrastructure with Plomer. Monitor website uptime, downtime, domain health, and custom application events from your iPhone, iPad, Mac, or Apple Watch. Get instant alerts when something breaks, investigate issues with detailed logs and monitoring history, and stay on top of everything with Home Screen widgets and AI-powered insights. Know when something goes wrong, act before users notice, and keep your services running. </td>
+      <td><strong>30% OFF</strong> yearly plan · $59.99 → $41.99 (1 Mac) · <code>BLACKFRIDAY2026</code> · </td>
+      <td>Nov 20 - Dec 7, 2026</td>
+    </tr>
+    <tr>
+      <td align="center">🎨</td>
+      <td><a href="https://litur.app/?ref=awesome-black-friday">Plomer</a></td>
+      <td>A color library for the real world. (macOS)</td>
+      <td>Find, collect and organize all the colors around you. A designer’s best-kept secret, a developer's best friend.</td>
+      <td><strong>20% OFF</strong> one-time purchase · $9.99 → $7.99 (1 Mac) · No code needed · </td>
+      <td>Nov 20 - Dec 7, 2026</td>
+    </tr>
+
+
+    
 
 
 
