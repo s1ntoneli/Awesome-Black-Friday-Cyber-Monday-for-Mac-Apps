@@ -1193,6 +1193,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
           <td><strong>34% OFF</strong> the one-time licence · $19 USD (regular $29, save $10) · <code>bf2026</code> (prefilled on the checkout link)</td>
           <td>Nov 18 - Nov 30, 2026</td>
         </tr>
+        <tr>
+          <td align="center">—</td>
+          <td><a href="https://gadwal.dev">Gadwal</a></td>
+          <td>Database Client</td>
+          <td>Native Mac database client for PostgreSQL, MySQL, MariaDB, SQLite, DuckDB, Cloudflare D1, ClickHouse and BigQuery. Built-in local MCP server: AI proposes SQL, you approve each write.</td>
+          <td><strong>Launch price</strong> · Lifetime $9.99, then $29.99 · No code needed</td>
+          <td>Nov 18 - Dec 5, 2026</td>
+        </tr>
 
 
 
