@@ -759,6 +759,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> Lifetime · US$79.99 → US$39.99 · No code</td>
       <td>Nov 15 - Dec 25, 2026</td>
     </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://www.pixpa.com/?via=blfpixpa55">Pixpa</a></td>
+      <td>Website Builder</td>
+      <td>Pixpa is a no-code website builder for creatives and small businesses to showcase work, run blogs, sell online, and manage client galleries.</td>
+      <td><strong>55%</strong> discount on Pixpa’s annual plans · Code: <code>BLFPIXPA55</code></td>
+      <td>Nov 27 - Dec 31, 2026</td>
+    </tr>
 
 
 
