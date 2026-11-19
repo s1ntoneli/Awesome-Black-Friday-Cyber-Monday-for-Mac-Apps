@@ -661,7 +661,38 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td>Nov 15 - Nov 30, 2026 (11:59 PM PST)</td>
     </tr>
 
-
+<tr>
+  <td align="center">💎</td>
+  <td><a href="https://www.exploitpack.com/products/exploit-pack">Exploit Pack</a></td>
+  <td>Mac-compatible security tool</td>
+  <td>AI-assisted exploit-development framework with 46,000+ exploits, zero-days and debugger integration. Runs on macOS, Windows and Linux with Java JDK 21.</td>
+  <td><strong>20% OFF</strong> · €1,200 → €960 · Lifetime licence with <code>LIFETIME</code></td>
+  <td>Now - Nov 30, 2026</td>
+</tr>
+<tr>
+  <td align="center">💎</td>
+  <td><a href="https://www.exploitpack.com/products/control-pack">Control Pack</a></td>
+  <td>Mac-compatible C2 tool</td>
+  <td>Cross-platform command-and-control framework for stealthy post-exploitation and AI-assisted red-team operations.</td>
+  <td><strong>20% OFF</strong> · €1,200 → €960 · Lifetime licence with <code>LIFETIME</code></td>
+  <td>Now - Nov 30, 2026</td>
+</tr>
+<tr>
+  <td align="center">💎</td>
+  <td><a href="https://www.exploitpack.com/products/kernel-pack">Kernel Pack</a></td>
+  <td>Mac-compatible kernel security tool</td>
+  <td>Kernel exploitation and C2 framework with 100+ LPE exploits, Ring-0 control and Data-Only Gadget tooling.</td>
+  <td><strong>20% OFF</strong> · €1,200 → €960 · Lifetime licence with <code>LIFETIME</code></td>
+  <td>Now - Nov 30, 2026</td>
+</tr>
+<tr>
+  <td align="center">—</td>
+  <td><a href="https://www.exploitpack.com/products/ultimate-pack-discount">Ultimate Pack + AI</a></td>
+  <td>Mac-compatible security suite</td>
+  <td>All-in-one offensive-security suite combining exploit development, C2 and kernel operations with integrated AI workflows.</td>
+  <td><strong>Black Friday bundle €4,000</strong> · No code</td>
+  <td>Now - Nov 30, 2026</td>
+</tr>
   </tbody>
 </table>
 
