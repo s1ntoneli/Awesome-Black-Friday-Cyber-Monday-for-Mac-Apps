@@ -344,6 +344,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> Lifetime · $19.99 → $9.99, one payment · No code needed</td>
       <td>Nov 18 - Dec 4, 2026</td>
     </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://appsthere.com/apps/purescribe">PureScribe</a></td>
+      <td>Speech to text (macOS, iPhone, iPad)</td>
+      <td>On-device speech to text for Mac and iPhone. Audio never leaves the device, no account, no subscription.</td>
+      <td><strong>50% OFF</strong> Pro, one-time purchase · $9.99 → $4.99 · No code needed, applied in the App Store · Covers Mac, iPhone and iPad · Submitted by the maker</td>
+      <td>Nov 27 - Dec 1, 2026</td>
+    </tr>
   </tbody>
 </table>
 
