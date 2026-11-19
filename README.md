@@ -1043,6 +1043,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>30% OFF</strong> yearly plan · $59.99 → $41.99 (1 Mac) · <code>BLACKFRIDAY2026</code> · </td>
       <td>Nov 20 - Dec 7, 2026</td>
     </tr>
+    <tr>
+      <td align="center">🎨</td>
+      <td><a href="https://litur.app/?ref=awesome-black-friday">Plomer</a></td>
+      <td>A color library for the real world. (macOS)</td>
+      <td>Find, collect and organize all the colors around you. A designer’s best-kept secret, a developer's best friend.</td>
+      <td><strong>20% OFF</strong> one-time purchase · $9.99 → $7.99 (1 Mac) · No code needed · </td>
+      <td>Nov 20 - Dec 7, 2026</td>
+    </tr>
 
 
     
