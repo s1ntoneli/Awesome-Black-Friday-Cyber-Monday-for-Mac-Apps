@@ -344,7 +344,15 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> Lifetime · $19.99 → $9.99, one payment · No code needed</td>
       <td>Nov 18 - Dec 4, 2026</td>
     </tr>
-  </tbody>
+      <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://launchosapp.com/?utm_source=mac-apps-black-friday&amp;utm_medium=referral&amp;utm_campaign=bf2026">LaunchOS</a></td>
+      <td>Launchpad (native macOS)</td>
+      <td>The best launchpad alternative for macOS 26 (Tahoe). Built to feel instantly familiar, effortlessly smooth, and surprisingly powerful.</td>
+      <td><strong>55%–62.5% OFF</strong>, plus an additional <strong>8% off the discounted price</strong> with code <code>BLACKFRIDAY2026</code></td>
+      <td>Nov 23 - Dec 2, 2026</td>
+    </tr>
+</tbody>
 </table>
 
 ## Content Creation
