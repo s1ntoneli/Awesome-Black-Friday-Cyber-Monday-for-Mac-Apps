@@ -1303,6 +1303,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td>Nov 27 - Nov 30, 2026. (Disclosure: I'm the developer.)</td>
     </tr>
 
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://moneywiz.onfastspring.com/subscribe">MoneyWiz</a></td>
+      <td>Personal finance (Mac, iPhone, iPad)</td>
+      <td>Personal finance for Mac, iPhone and iPad: budgets, a bills calendar that forecasts future balances, 30+ reports, investments, multi-currency, and optional bank sync. Apple-only. Submitted by the maker.</td>
+      <td><strong>20% OFF</strong> first year of Standard and Premium on the website · Standard $23.99 (was $29.99), Premium $47.99 (was $59.99), Premium monthly $4.79 first month (was $5.99) · <code>BFCM26</code> · new website purchases only, no App Store discount, renews at regular price</td>
+      <td>Nov 13 - Dec 1, 2026</td>
+    </tr>
   </tbody>
 </table>
 
