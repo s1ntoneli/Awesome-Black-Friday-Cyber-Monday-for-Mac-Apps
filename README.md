@@ -545,6 +545,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>25% OFF</strong> one-time licence ($39 → $29) · No code needed</td>
       <td>Nov 27 - Nov 30, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://xgetter.com/?utm_source=s1ntoneli#pricing">XGetter</a></td>
+      <td>Video &amp; Audio Downloader (macOS, Windows, Linux)</td>
+      <td>Download video and audio from 70+ platforms like YouTube, TikTok, Facebook, Instagram, X and Bilibili in up to 8K, with playlist/channel and batch downloads, no watermark. Desktop app for macOS, Windows and Linux. Submitted by the maker.</td>
+      <td><strong>30% OFF</strong> all plans (Pro $10 → $7, Extended $15 → $10.50) · <code>BF2026</code></td>
+      <td>Nov 20 - Dec 2, 2026</td>
+    </tr>
 
 
   </tbody>
