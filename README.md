@@ -684,6 +684,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>35% OFF</strong> one-time license · No code needed, applied at checkout</td>
       <td>Nov 15 - Nov 30, 2026 (11:59 PM PST)</td>
     </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://apps.apple.com/us/app/advanced-ai-actions/id6743052292">Advanced AI Actions</a></td>
+      <td>Apple Shortcuts AI Actions (native Mac, iOS)</td>
+      <td>Use OpenAI, Claude, Gemini, GitHub Copilot, and custom AI providers inside Apple Shortcuts on Mac, iPhone, and iPad.</td>
+      <td><strong>50% OFF</strong> one-time App Store purchase ($2.99 → $1.49) · No code needed</td>
+      <td>Nov 20 - Dec 1, 2026</td>
+    </tr>
 
 
   </tbody>
@@ -1104,6 +1112,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>20% OFF</strong> Pro ($9.99 → $7.99) · <code>BLACKFRIDAY</code>, applied automatically</td>
       <td>Nov 27 - Dec 1, 2026</td>
     </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://maskedmail.app/">Masked Email Manager</a></td>
+      <td>Fastmail Privacy Utility (native Mac, iOS)</td>
+      <td>Create, manage, and toggle Fastmail masked email addresses from your Mac, iPhone, and iPad, with Apple Shortcuts support.</td>
+      <td><strong>50% OFF</strong> Full Version one-time unlock ($2.99 → $1.49 on the App Store) · No code needed</td>
+      <td>Nov 20 - Dec 1, 2026</td>
+    </tr>
   </tbody>
 </table>
 
@@ -1248,6 +1264,22 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
           <td>Native Mac database client for PostgreSQL, MySQL, MariaDB, SQLite, DuckDB, Cloudflare D1, ClickHouse and BigQuery. Built-in local MCP server: AI proposes SQL, you approve each write.</td>
           <td><strong>Launch price</strong> · Lifetime $9.99, then $29.99 · No code needed</td>
           <td>Nov 18 - Dec 5, 2026</td>
+        </tr>
+        <tr>
+          <td align="center">🔥</td>
+          <td><a href="https://synclet.dev/">Synclet</a></td>
+          <td>Dotfile &amp; Config Sync (native Mac)</td>
+          <td>End-to-end encrypted dotfile and Mac app config sync across macOS and Linux, using Synclet Cloud or your own Dropbox.</td>
+          <td><strong>50% OFF</strong> one-time license ($14.99 → $7.49) · No code needed, applied automatically at checkout</td>
+          <td>Nov 20 - Dec 1, 2026</td>
+        </tr>
+        <tr>
+          <td align="center">💎</td>
+          <td><a href="https://warplet.app/">Warplet</a></td>
+          <td>Local MCP Tunnel (native Mac)</td>
+          <td>Native macOS app that connects hosted AI clients like ChatGPT, Claude, Perplexity, and Grok to your local MCP servers.</td>
+          <td><strong>40% OFF</strong> first year of Annual ($14.99 → $8.99, renews at $14.99/yr) · <code>BLACKFRIDAY2026</code></td>
+          <td>Nov 20 - Dec 1, 2026</td>
         </tr>
 
 
