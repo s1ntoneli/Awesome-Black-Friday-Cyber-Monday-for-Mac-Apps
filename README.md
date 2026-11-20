@@ -686,6 +686,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
     </tr>
 
 
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://yix.ai/pricing">YIX</a></td>
+      <td>AI Image &amp; Video Generator (web)</td>
+      <td>Create and edit images and generate videos from text or photos in your browser.</td>
+      <td><strong>50% OFF</strong> the first month on monthly plans · No code needed · Starter $9.95 → $19.90/mo, Pro $24.95 → $49.90/mo, Max $49.95 → $99.90/mo (USD)</td>
+      <td>Nov 20, 2026 00:00 UTC to Dec 1, 2026 00:00 UTC (exclusive)</td>
+    </tr>
   </tbody>
 </table>
 
