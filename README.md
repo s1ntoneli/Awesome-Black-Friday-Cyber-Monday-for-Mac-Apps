@@ -360,6 +360,22 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> Lifetime ($19.99 → $9.99) · No code needed</td>
       <td>Nov 23 - Nov 30, 2026</td>
     </tr>
+    <tr>
+      <td align="center">—</td>
+      <td><a href="https://apps.apple.com/us/app/poop-tracker-log-ease/id6661017261">Poop Tracker &amp; Log: Ease</a></td>
+      <td>Digestion journal (iPhone app on Apple silicon Mac; Not verified for macOS)</td>
+      <td>Log bowel movements, symptoms and food, review trends and export reports. Requires Apple M1 or later and macOS 15.0+. Submitted by the maker.</td>
+      <td>Scheduled Black Friday lifetime <strong>US$7.49</strong> (normally from US$14.99). One-time in-app purchase · No code needed. Local prices vary.</td>
+      <td>Nov 23–30, 2026 UTC (starts Nov 23 at 00:00 UTC; ends Dec 1 at 00:00 UTC)</td>
+    </tr>
+    <tr>
+      <td align="center">—</td>
+      <td><a href="https://apps.apple.com/us/app/visual-timer-for-kids-tim/id6771034858">Visual Timer for Kids: Tim</a></td>
+      <td>Visual timer (iPad app on Apple silicon Mac; Not verified for macOS)</td>
+      <td>Visual countdowns and first-then routines for children. Requires Apple M1 or later and macOS 14.0+. Submitted by the maker.</td>
+      <td>Scheduled Black Friday lifetime <strong>US$2.49</strong> (normally from US$4.99). One-time in-app purchase · No code needed. Local prices vary.</td>
+      <td>Nov 23–30, 2026 UTC (starts Nov 23 at 00:00 UTC; ends Dec 1 at 00:00 UTC)</td>
+    </tr>
   </tbody>
 </table>
 
