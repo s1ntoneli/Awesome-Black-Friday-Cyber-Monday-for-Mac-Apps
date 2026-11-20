@@ -686,6 +686,78 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
     </tr>
 
 
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://scifig.ai/black-friday">SciFig</a></td>
+      <td>Web app</td>
+      <td>Web app for creating editable scientific figures and diagrams for papers and presentations. Runs in a browser on Mac.</td>
+      <td><strong>Extra 20% off</strong> the first billing period of new subscriptions, eligible upgrades and credit packs. No code needed. Starter annual: $80 first year, then $100/year.</td>
+      <td>Oct 22 to Dec 1, 2026 (23:59 PT)</td>
+    </tr>
+    <tr>
+      <td align="center">—</td>
+      <td><a href="https://imgvid.net/black-friday">ImgVid</a></td>
+      <td>Web app</td>
+      <td>ImgVid gives creators a browser workspace to generate still images and short clips from a prompt or a photo. Submitted by the maker.</td>
+      <td>Double credits in the first month or year of new subscriptions and on eligible subscriber packs. Same prices and normal renewal allowance. No code needed.</td>
+      <td>Nov 1 to Dec 1, 2026 (23:59 PT)</td>
+    </tr>
+    <tr>
+      <td align="center">—</td>
+      <td><a href="https://picvideo.net/black-friday">PicVideo</a></td>
+      <td>Web app</td>
+      <td>Use a still image or a text prompt to make a short video clip in PicVideo. Submitted by the maker.</td>
+      <td>Double credits in the first month or year of new subscriptions and on eligible subscriber packs. Same prices and normal renewal allowance. No code needed.</td>
+      <td>Nov 1 to Dec 1, 2026 (23:59 PT)</td>
+    </tr>
+    <tr>
+      <td align="center">—</td>
+      <td><a href="https://imageto3dai.org/black-friday">Image to 3D AI</a></td>
+      <td>Web app</td>
+      <td>Image to 3D AI makes models from photos or a text prompt and exports GLB, OBJ and STL files. Submitted by the maker.</td>
+      <td>Double credits in the first month or year of new subscriptions and on eligible subscriber packs. Same prices and normal renewal allowance. No code needed.</td>
+      <td>Nov 1 to Dec 1, 2026 (23:59 PT)</td>
+    </tr>
+    <tr>
+      <td align="center">—</td>
+      <td><a href="https://fiximage.net/black-friday">FixImage</a></td>
+      <td>Web app</td>
+      <td>FixImage is a photo editing web app with tools for retouching portraits and refining images. Submitted by the maker.</td>
+      <td>Double credits in the first month or year of new subscriptions and on eligible subscriber packs. Same prices and normal renewal allowance. No code needed.</td>
+      <td>Nov 1 to Dec 1, 2026 (23:59 PT)</td>
+    </tr>
+    <tr>
+      <td align="center">—</td>
+      <td><a href="https://textanimation.org/black-friday">Text Animation</a></td>
+      <td>Web app</td>
+      <td>Text Animation creates animated text that you can export as a video at 1080p. Submitted by the maker.</td>
+      <td>Double credits for AI features as they launch, in the first term of new subscriptions and on subscriber packs. Same prices and normal renewal allowance. No code needed.</td>
+      <td>Nov 1 to Dec 1, 2026 (23:59 PT)</td>
+    </tr>
+    <tr>
+      <td align="center">—</td>
+      <td><a href="https://superresolution.pro/black-friday">Super Resolution</a></td>
+      <td>Web app</td>
+      <td>Super Resolution enlarges photos in a browser, with models for different kinds of images. Submitted by the maker.</td>
+      <td>Double credits in the first month or year of new subscriptions and on eligible subscriber packs. Same prices and normal renewal allowance. No code needed.</td>
+      <td>Nov 3 to Dec 1, 2026 (23:59 PT)</td>
+    </tr>
+    <tr>
+      <td align="center">—</td>
+      <td><a href="https://removevideobg.com/black-friday">RemoveVideoBG (removevideobg.com)</a></td>
+      <td>Web app</td>
+      <td>RemoveVideoBG removes a video background automatically and can export a clip with a transparent background. Submitted by the maker.</td>
+      <td>Double credits on packs and the first month of a new monthly plan. New annual plans include six extra months of credits. Same prices. No code needed.</td>
+      <td>Nov 3 to Dec 1, 2026 (23:59 PT)</td>
+    </tr>
+    <tr>
+      <td align="center">—</td>
+      <td><a href="https://removevideobg.net/black-friday">RemoveVideoBG (removevideobg.net)</a></td>
+      <td>Web app</td>
+      <td>RemoveVideoBG is a browser tool that separates a subject from the background of a video. Submitted by the maker.</td>
+      <td>Double credits on packs and the first month of a new monthly plan. New annual plans include six extra months of credits. Same prices. No code needed.</td>
+      <td>Nov 3 to Dec 1, 2026 (23:59 PT)</td>
+    </tr>
   </tbody>
 </table>
 
