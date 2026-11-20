@@ -545,6 +545,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>25% OFF</strong> one-time licence ($39 → $29) · No code needed</td>
       <td>Nov 27 - Nov 30, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://sightlinemac.com/black-friday/">Sightline</a></td>
+      <td>Screenshot &amp; Screen Recording (macOS)</td>
+      <td>Native Mac screenshot and screen-recording app with an image and video editor, Show Differences design-diff, and an MCP server and CLI for Claude Code and Codex. Submitted on behalf of the maker.</td>
+      <td><strong>23% OFF</strong> lifetime ($29.99 → $22.99, €29.99 → €24.99) with App Store offer code <code>SIGHTLINELIFEDISCOUNT26</code> (<a href="https://apps.apple.com/redeem/?code=SIGHTLINELIFEDISCOUNT26&amp;id=6812521593">Redeem</a>, until Dec 31, 2026) · or <strong>3 months free</strong> on the yearly plan, then $24.99/year, with <code>SIGHTLINEEARLY</code> (<a href="https://apps.apple.com/redeem?ctx=offercodes&amp;id=6812521593&amp;code=SIGHTLINEEARLY">Redeem</a>) · Monthly not included</td>
+      <td>Nov 20, 2026 - Jan 7, 2027</td>
+    </tr>
 
 
   </tbody>
