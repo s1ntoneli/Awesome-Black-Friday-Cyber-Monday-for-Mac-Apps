@@ -1104,6 +1104,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>20% OFF</strong> Pro ($9.99 → $7.99) · <code>BLACKFRIDAY</code>, applied automatically</td>
       <td>Nov 27 - Dec 1, 2026</td>
     </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://cadranapp.com">Cadran</a></td>
+      <td>Desktop Clock</td>
+      <td>Puts a live clock on your desktop wallpaper, behind your icons, on every Space and display. Also works as a screen saver. Native macOS app with a free version.</td>
+      <td><strong>50% OFF</strong> Pro (one-time) · <code>BF50</code></td>
+      <td>Nov 20 - Dec 1, 2026</td>
+    </tr>
   </tbody>
 </table>
 
