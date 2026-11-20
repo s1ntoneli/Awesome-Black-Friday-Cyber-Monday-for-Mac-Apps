@@ -547,6 +547,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
     </tr>
 
 
+    <tr>
+      <td align="center">—</td>
+      <td><a href="https://fastscribe.org/pricing">FastScribe</a></td>
+      <td>Transcription (web, browser-only)</td>
+      <td>Turn audio, video and social links into editable transcripts, subtitles and AI summaries.</td>
+      <td><strong>$31 OFF</strong> Pro first year: $89 (regular and renewal $120/year), plus 6,500 bonus credits valid 365 days. Accounts without active subscription only. No code needed.</td>
+      <td>Nov 17 - Nov 30, 2026; ends 11:59 PM Pacific</td>
+    </tr>
   </tbody>
 </table>
 
