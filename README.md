@@ -587,6 +587,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>30% OFF</strong> Lifetime $399 → $279.30 · 60-minute pack $30 → $21 · No code needed</td>
       <td>Nov 20 - Dec 1, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://lumiere.artsvit.com/">Lumière</a></td>
+      <td>Media player (native macOS, iPhone, iPad, Apple TV)</td>
+      <td>Browse and play your personal media from Jellyfin, Plex, or a Lumière Server. Submitted by the maker.</td>
+      <td><strong>About 20% OFF</strong> Lifetime on the App Store (US$59.99 → US$47.99). Available worldwide to eligible customers; local prices may vary. <a href="https://apps.apple.com/redeem?ctx=offercodes&amp;id=6830332402&amp;code=ARTSVITBF20">Redeem <code>ARTSVITBF20</code></a> (500 redemptions total).</td>
+      <td>Nov 20–30, 2026 (Pacific Time)</td>
+    </tr>
   </tbody>
 </table>
 
@@ -1176,6 +1184,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> one-time · $7.99 → $3.99 · No code needed</td>
       <td>Nov 20 - Dec 6, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://openpi.uk/">Open Pi</a></td>
+      <td>Raspberry Pi manager (iPhone, iPad, Apple silicon Mac)</td>
+      <td>Monitor health, manage Docker containers, and use SSH to control your Raspberry Pi. Submitted by the maker.</td>
+      <td><strong>About 20% OFF</strong> Single (Lifetime) on the App Store (US$5.99 → US$4.79). Available worldwide to eligible customers; local prices may vary. <a href="https://apps.apple.com/redeem?ctx=offercodes&amp;id=6762019524&amp;code=ARTSVITBF20">Redeem <code>ARTSVITBF20</code></a> (500 redemptions total).</td>
+      <td>Nov 20–30, 2026 (Pacific Time)</td>
+    </tr>
   </tbody>
 </table>
 
@@ -1333,6 +1349,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
 
 
 
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://apps.apple.com/us/app/teago-for-gitea/id6805488091">TeaGo for Gitea</a></td>
+      <td>Gitea client (iPhone, iPad; iPad app on Apple silicon Mac)</td>
+      <td>Browse repositories, pull requests, issues and releases from your own Gitea instance. Submitted by the maker.</td>
+      <td><strong>About 20% OFF</strong> Single (Lifetime) on the App Store (US$4.99 → US$3.99). Available worldwide to eligible customers; local prices may vary. <a href="https://apps.apple.com/redeem?ctx=offercodes&amp;id=6805488091&amp;code=ARTSVITBF20">Redeem <code>ARTSVITBF20</code></a> (500 redemptions total).</td>
+      <td>Nov 20–30, 2026 (Pacific Time)</td>
+    </tr>
   </tbody>
 </table>
 
