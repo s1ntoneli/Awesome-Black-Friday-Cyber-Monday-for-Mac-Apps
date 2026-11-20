@@ -300,6 +300,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
         </tr>
     <tr>
           <td align="center">💎</td>
+          <td><a href="https://halopen.com/pricing/">Halopen</a></td>
+          <td>Voice dictation (native macOS)</td>
+          <td>Hold fn, talk, and what you said is typed at your cursor in any Mac app, terminals and editors included. Verbatim by default; optional on-device transcription on Apple Silicon. 14-day trial, no card.</td>
+          <td><strong>30% OFF</strong> the first payment on any Pro plan with code <strong>HOLIDAY</strong>: Lifetime $499 → $349.30 (one-time), Annual $179 → $125.30 first year, Monthly $19 → $13.30 first month. Not student plans. Submitted by the maker.</td>
+          <td>Nov 19 - Dec 31, 2026</td>
+        </tr>
+    <tr>
+          <td align="center">💎</td>
           <td><a href="https://bytemailapp.com/black-friday">bytemail</a></td>
           <td>Email Client (native macOS)</td>
           <td>Fast, native email app for Mac with a unified inbox, smart search, snooze, rules, an AI assistant and MCP support so AI apps can work with your mail.</td>
@@ -343,6 +351,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td>QR code generator for iPhone, iPad and Mac. Codes are made on your device and never expire. Export PNG, JPG, PDF or SVG with no watermark</td>
       <td><strong>50% OFF</strong> Lifetime · $19.99 → $9.99, one payment · No code needed</td>
       <td>Nov 18 - Dec 4, 2026</td>
+    </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://apps.apple.com/app/apple-store/id6458535284">Capture</a></td>
+      <td>Quick Notes (macOS, iOS)</td>
+      <td>Capture thoughts and ideas in one tap from the menu bar, Spotlight or Raycast, then send them to your favourite apps.</td>
+      <td><strong>50% OFF</strong> Lifetime ($19.99 → $9.99) · No code needed</td>
+      <td>Nov 23 - Nov 30, 2026</td>
     </tr>
     <tr>
       <td align="center">💎</td>
@@ -528,6 +544,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td>Voice-synced teleprompter for video recording and speeches. iPhone and iPad app; on Apple silicon Mac it runs as an iPad app, and the App Store marks it “Not verified for macOS.” <a href="https://aiteleprompterapp.com/holiday-sale/">Deal</a> · <a href="https://apps.apple.com/us/app/id6749378913">App Store</a></td>
       <td><strong>50% OFF</strong> first year of annual subscription (US$39.99 → US$19.99), eligible new subscribers only; <strong>50% OFF</strong> Lifetime (US$99.99 → US$49.99) · No code</td>
       <td>Nov 20, 2026 - Jan 1, 2027 (Beijing Time)</td>
+    </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://tapelark.com/black-friday/">Tapelark</a></td>
+      <td>Radio &amp; Audio Recorder (macOS, Windows, Linux)</td>
+      <td>Records internet radio, one file per song, also on a schedule, plus TV channels from a public list, podcasts and the sound of any app, into a tagged library on your Mac. Native macOS app; also for Windows 11 and Linux. Submitted by the maker.</td>
+      <td><strong>25% OFF</strong> one-time licence ($39 → $29) · No code needed</td>
+      <td>Nov 27 - Nov 30, 2026</td>
     </tr>
 
 
@@ -766,6 +790,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td>Add text or logo watermarks and frames to batches of photos on iPhone and iPad. On Apple silicon Mac it runs as an iPad app; the App Store marks it “Not verified for macOS.” <a href="https://batchmark.dispatchcat.com/holiday-sale/">Deal</a> · <a href="https://apps.apple.com/us/app/id6759683285">App Store</a></td>
       <td><strong>50% OFF</strong> Lifetime · US$79.99 → US$39.99 · No code</td>
       <td>Nov 15 - Dec 25, 2026</td>
+    </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://withlinger.com/black-friday/">Linger</a></td>
+      <td>Design Reference Library (macOS, Apple Silicon)</td>
+      <td>Local-first Tauri Mac app for saving design references, notes, and sources on your own computer. Apple Silicon, macOS 11+; Intel Macs are not supported, and the app is not AppKit-native. 14-day trial, no card required. Submitted by the maker.</td>
+      <td><strong>36% OFF</strong> Personal one-time · US$39 → US$25; <strong>38% OFF</strong> Lifetime · US$79 → US$49; <strong>50% OFF</strong> Studio Duo (two Lifetime licenses only) · US$158 → US$79 · No code</td>
+      <td>Nov 19 - Dec 1, 2026 (ends 23:59 PST)</td>
     </tr>
 
 
@@ -1043,6 +1075,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>26–34% OFF</strong> one-time license · $19 → $14 (1 Mac), $29 → $19 (3 Macs) · No code needed · Optional lifetime updates +$19, sold during the sale only</td>
       <td>Nov 23 - Nov 27, 2026</td>
     </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://fswitcher.app/demo/?utm_source=s1ntoneli-awesome&utm_medium=listing&utm_campaign=black-friday-2026">fswitcher</a></td>
+      <td>App switcher</td>
+      <td>cmd+tab with per-display switching that shows apps or windows, always opens apps, and takes you to the window you picked instead of the one macOS chooses. Native macOS app, macOS 26+. Submitted by the maker.</td>
+      <td><strong>60% OFF</strong> ($14.99 → $5.99) one-time purchase · <code>BLACKFRIDAY</code></td>
+      <td>Nov 18 - Nov 30, 2026</td>
+    </tr>
 
 
 
@@ -1062,6 +1102,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td>Disk Space</td>
       <td>Disk space analyzer: a map of your whole drive that shows what fills it, with deletes that go to the Trash first and undo. Native macOS app, Apple silicon, macOS 15+.</td>
       <td><strong>40% OFF</strong> ($14.99 → $8.99) one-time license for 3 Macs · <code>BLACKFRIDAY26</code></td>
+      <td>Nov 27 - Dec 1, 2026</td>
+    </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://getspacepal.com/black-friday/">Spacepal</a></td>
+      <td>Spaces / Desktops</td>
+      <td>Native macOS menu bar app that names your desktops (Spaces), shows them all with live previews on Option-Tab and switches without the slide animation. Free; Pro adds the overview and Mission Control names.</td>
+      <td><strong>20% OFF</strong> Pro ($9.99 → $7.99) · <code>BLACKFRIDAY</code>, applied automatically</td>
       <td>Nov 27 - Dec 1, 2026</td>
     </tr>
   </tbody>
@@ -1200,6 +1248,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
           <td>Native email debugging for Mac. Catch, preview and check development emails locally before they reach your users.</td>
           <td><strong>34% OFF</strong> the one-time licence · $19 USD (regular $29, save $10) · <code>bf2026</code> (prefilled on the checkout link)</td>
           <td>Nov 18 - Nov 30, 2026</td>
+        </tr>
+        <tr>
+          <td align="center">—</td>
+          <td><a href="https://gadwal.dev">Gadwal</a></td>
+          <td>Database Client</td>
+          <td>Native Mac database client for PostgreSQL, MySQL, MariaDB, SQLite, DuckDB, Cloudflare D1, ClickHouse and BigQuery. Built-in local MCP server: AI proposes SQL, you approve each write.</td>
+          <td><strong>Launch price</strong> · Lifetime $9.99, then $29.99 · No code needed</td>
+          <td>Nov 18 - Dec 5, 2026</td>
         </tr>
 
 
