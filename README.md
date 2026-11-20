@@ -686,6 +686,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
     </tr>
 
 
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://scifig.ai/black-friday">SciFig</a></td>
+      <td>Web app</td>
+      <td>Web app for creating editable scientific figures and diagrams for papers and presentations. Runs in a browser on Mac.</td>
+      <td><strong>Extra 20% off</strong> the first billing period of new subscriptions, eligible upgrades and credit packs. No code needed. Starter annual: $80 first year, then $100/year.</td>
+      <td>Oct 22 to Dec 1, 2026 (23:59 PT)</td>
+    </tr>
   </tbody>
 </table>
 
