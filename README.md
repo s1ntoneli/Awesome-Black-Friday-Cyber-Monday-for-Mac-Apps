@@ -360,6 +360,30 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> Lifetime ($19.99 → $9.99) · No code needed</td>
       <td>Nov 23 - Nov 30, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://www.apptorium.com/sidenotes">SideNotes</a></td>
+      <td>Notes (native macOS)</td>
+      <td>Quick-access notes that slide in from the screen edge, with folders, hidden Markdown, iCloud sync, Shortcuts and AppleScript. Submitted by the maker.</td>
+      <td><strong>35% OFF</strong> one-time · $19.99 → $12.99 · No code needed</td>
+      <td>Nov 20 - Dec 6, 2026</td>
+    </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://www.apptorium.com/fivenotes">FiveNotes</a></td>
+      <td>Menu Bar Notes (native macOS)</td>
+      <td>Exactly five quick notes in the menu bar, with Markdown, themes, iCloud sync, Shortcuts, AppleScript and a URL API. Submitted by the maker.</td>
+      <td><strong>50% OFF</strong> one-time · $7.99 → $3.99 · No code needed</td>
+      <td>Nov 20 - Dec 6, 2026</td>
+    </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://www.apptorium.com/workspaces">Workspaces</a></td>
+      <td>Project Launcher (native macOS)</td>
+      <td>Group files, folders, apps, websites, emails and Shortcuts by project, then open everything needed with one click. Submitted by the maker.</td>
+      <td><strong>50% OFF</strong> one-time · $19.99 → $9.99 · No code needed</td>
+      <td>Nov 20 - Dec 6, 2026</td>
+    </tr>
   </tbody>
 </table>
 
@@ -426,11 +450,11 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td>Nov 4 - Dec 2, 2026</td>
     </tr>
     <tr>
-      <td align="center">💎</td>
+      <td align="center">—</td>
       <td><a href="https://crispvideo.app/pricing/?utm_source=s1ntoneli&amp;utm_medium=deals">Crisp</a></td>
       <td>Video Enhancer (native Mac, also Windows)</td>
       <td>Restores, denoises and upscales old video to 4K on your own Mac or Windows PC, offline, with a timeline editor. Free version available. Mac needs Apple silicon and macOS 14+.</td>
-      <td><strong>31% OFF</strong> November price · $9.99 · No code</td>
+      <td><strong>Black Friday sale: $9.99 once through December 2. Then $29.</strong> · No code</td>
       <td>Nov 13 - Dec 2, 2026</td>
     </tr>
     <tr>
@@ -545,8 +569,24 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>25% OFF</strong> one-time licence ($39 → $29) · No code needed</td>
       <td>Nov 27 - Nov 30, 2026</td>
     </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://checkout.snapperon.com/?discount=BLACKFRIDAY26">Snapperon</a></td>
+      <td>Screenshot &amp; Annotation (native macOS)</td>
+      <td>Annotate screenshots, redact private details, and copy text from images on your Mac. Submitted by Snapperon Team.</td>
+      <td><strong>50% off</strong> Pro with code <code>BLACKFRIDAY26</code>. Monthly $2 → $1/month for 12 months, annual $19.99 → $10 for the first year, or lifetime $38.99 → $19.50 once (USD).</td>
+      <td>Nov 20, 2026 - Dec 1, 2026</td>
+    </tr>
 
 
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://cutfa.st/#pricing">CutFast</a></td>
+      <td>Native Mac app + Web / AI Video Editor</td>
+      <td>Highlight the subtitle lines you want to keep, cut filler words and silence, and export clips. Native macOS app (Apple Silicon, notarized); same account on Windows and web.</td>
+      <td><strong>30% OFF</strong> Lifetime $399 → $279.30 · 60-minute pack $30 → $21 · No code needed</td>
+      <td>Nov 20 - Dec 1, 2026</td>
+    </tr>
   </tbody>
 </table>
 
@@ -589,11 +629,11 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td>Nov 2 - Dec 15, 2026</td>
     </tr>
     <tr>
-      <td align="center">💎</td>
+      <td align="center">—</td>
       <td><a href="https://outlier.host/pricing/?utm_source=s1ntoneli&amp;utm_medium=deals">Outlier</a></td>
       <td>Local AI (native Mac)</td>
       <td>Runs open AI models on your own Mac, so your chats and code stay on it, even offline: chat, plus a coding agent for your own codebase. Free to start. Apple silicon, macOS 15+.</td>
-      <td><strong>31% OFF</strong> November price · $16.99 · No code</td>
+      <td><strong>Black Friday sale: $16.99 once through December 2. Then $39.</strong> · No code</td>
       <td>Nov 13 - Dec 2, 2026</td>
     </tr>
     <tr>
@@ -686,6 +726,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
     </tr>
 
 
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://bibigpt.co/en/shop?ref=BLACKFRIDAY">BibiGPT</a></td>
+      <td>Native Mac app + Web / AI Summarizer</td>
+      <td>Summarize YouTube videos, podcasts and local audio or video files into timestamped summaries, transcripts and mind maps, then ask follow-up questions. Native macOS app (Apple Silicon and Intel, notarized) from <a href="https://bibigpt.co/en/apps/desktop">bibigpt.co/apps/desktop</a>; same account on Windows and web.</td>
+      <td><strong>50% OFF</strong> Plus and Pro, first payment · <code>BLACKFRIDAY</code> (auto-applied from the link) · Plus yearly $142.56 → $71.28</td>
+      <td>Nov 12 - Dec 1, 2026</td>
+    </tr>
   </tbody>
 </table>
 
@@ -787,7 +835,7 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td align="center">💎</td>
       <td><a href="https://withlinger.com/black-friday/">Linger</a></td>
       <td>Design Reference Library (macOS, Apple Silicon)</td>
-      <td>Local-first Tauri Mac app for saving design references, notes, and sources on your own computer. Apple Silicon, macOS 11+; Intel Macs are not supported, and the app is not AppKit-native. 14-day trial, no card required. Submitted by the maker.</td>
+      <td>Local-first native Mac app for saving design references, notes, and sources on your own computer. Apple Silicon, macOS 14+; Intel Macs are not supported. 7-day trial, no card required. Submitted by the maker.</td>
       <td><strong>36% OFF</strong> Personal one-time · US$39 → US$25; <strong>38% OFF</strong> Lifetime · US$79 → US$49; <strong>50% OFF</strong> Studio Duo (two Lifetime licenses only) · US$158 → US$79 · No code</td>
       <td>Nov 19 - Dec 1, 2026 (ends 23:59 PST)</td>
     </tr>
@@ -1106,6 +1154,30 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
     </tr>
     <tr>
       <td align="center">🔥</td>
+      <td><a href="https://www.apptorium.com/license-store">License Store</a></td>
+      <td>License Manager (native macOS)</td>
+      <td>Keep software license keys, files, invoices, receipts, download links, notes and expiration dates in one searchable library. Submitted by the maker.</td>
+      <td><strong>50% OFF</strong> one-time · $7.99 → $3.99 · No code needed</td>
+      <td>Nov 20 - Dec 6, 2026</td>
+    </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://www.apptorium.com/desktop-composer">Desktop Composer</a></td>
+      <td>Appearance Profiles (native macOS)</td>
+      <td>Save and switch complete Mac appearance profiles for wallpaper, system appearance, colors, Dock, menu bar, Stage Manager and supported app themes. Submitted by the maker.</td>
+      <td><strong>50% OFF</strong> one-time · $19.99 → $9.99 · No code needed</td>
+      <td>Nov 20 - Dec 6, 2026</td>
+    </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://www.apptorium.com/cursor-teleporter">Cursor Teleporter</a></td>
+      <td>Multi-display Cursor Utility (native macOS)</td>
+      <td>Move the pointer instantly between displays or saved positions using a keyboard shortcut or programmable mouse button. Submitted by the maker.</td>
+      <td><strong>50% OFF</strong> one-time · $7.99 → $3.99 · No code needed</td>
+      <td>Nov 20 - Dec 6, 2026</td>
+    </tr>
+    <tr>
+      <td align="center">🔥</td>
       <td><a href="https://cadranapp.com">Cadran</a></td>
       <td>Desktop Clock</td>
       <td>Puts a live clock on your desktop wallpaper, behind your icons, on every Space and display. Also works as a screen saver. Native macOS app with a free version.</td>
@@ -1162,11 +1234,11 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td>Nov 20 - Dec 1, 2026</td>
     </tr>
     <tr>
-      <td align="center">💎</td>
+      <td align="center">—</td>
       <td><a href="https://checkengineseo.com/pricing/?utm_source=s1ntoneli&amp;utm_medium=deals">Check Engine SEO</a></td>
       <td>SEO Audit (native Mac, also Windows)</td>
       <td>Desktop SEO audit: 99 checks, including whether AI crawlers like GPTBot can read your site, ranked into a fix plan with the markup to paste. Free version available. macOS 12+.</td>
-      <td><strong>32% OFF</strong> November price · $19.99 · No code</td>
+      <td><strong>Black Friday sale: $19.99 once through December 2. Then $39.</strong> · No code</td>
       <td>Nov 13 - Dec 2, 2026</td>
     </tr>
     <tr>
@@ -1257,6 +1329,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
           <td><strong>Launch price</strong> · Lifetime $9.99, then $29.99 · No code needed</td>
           <td>Nov 18 - Dec 5, 2026</td>
         </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://toplify.app">Toplify</a></td>
+      <td>App Store Analytics (macOS &amp; iOS)</td>
+      <td>Track App Store chart positions in 175 countries, with ranking history and alerts for your own and competing apps.</td>
+      <td><strong>Save $40 USD</strong> on Lifetime ($89.99 → $49.99) · <a href="https://apps.apple.com/redeem?ctx=offercodes&amp;id=6782706682&amp;code=BLKFR2026"><code>BLKFR2026</code></a> · available to everyone</td>
+      <td>Nov 15 - Dec 1, 2026</td>
+    </tr>
 
 
 
@@ -1310,7 +1390,23 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>40% OFF</strong> the one-time unlock ($14.99 → $8.99), no code needed</td>
       <td>Nov 27 - Nov 30, 2026. (Disclosure: I'm the developer.)</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://subsday.appps.od.ua">SubsDay</a></td>
+      <td>Subscription Calendar (macOS &amp; iOS)</td>
+      <td>See renewals in a calendar, import subscriptions from the App Store and other sources, and track recurring costs.</td>
+      <td><strong>Lifetime discounts</strong>, available to everyone · Single $19.99 → $11.99 USD with <a href="https://apps.apple.com/redeem?ctx=offercodes&amp;id=6743316600&amp;code=BLKFR2026"><code>BLKFR2026</code></a> · Family $26.99 → $15.99 USD with <a href="https://apps.apple.com/redeem?ctx=offercodes&amp;id=6743316600&amp;code=BLKFR2026FAMILY"><code>BLKFR2026FAMILY</code></a></td>
+      <td>Nov 15 - Dec 1, 2026</td>
+    </tr>
 
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://moneywiz.onfastspring.com/subscribe">MoneyWiz</a></td>
+      <td>Personal finance (Mac, iPhone, iPad)</td>
+      <td>Personal finance for Mac, iPhone and iPad: budgets, a bills calendar that forecasts future balances, 30+ reports, investments, multi-currency, and optional bank sync. Apple-only. Submitted by the maker.</td>
+      <td><strong>20% OFF</strong> first year of Standard and Premium on the website · Standard $23.99 (was $29.99), Premium $47.99 (was $59.99), Premium monthly $4.79 first month (was $5.99) · <code>BFCM26</code> · new website purchases only, no App Store discount, renews at regular price</td>
+      <td>Nov 13 - Dec 1, 2026</td>
+    </tr>
   </tbody>
 </table>
 
