@@ -426,11 +426,11 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td>Nov 4 - Dec 2, 2026</td>
     </tr>
     <tr>
-      <td align="center">💎</td>
+      <td align="center">—</td>
       <td><a href="https://crispvideo.app/pricing/?utm_source=s1ntoneli&amp;utm_medium=deals">Crisp</a></td>
       <td>Video Enhancer (native Mac, also Windows)</td>
       <td>Restores, denoises and upscales old video to 4K on your own Mac or Windows PC, offline, with a timeline editor. Free version available. Mac needs Apple silicon and macOS 14+.</td>
-      <td><strong>31% OFF</strong> November price · $9.99 · No code</td>
+      <td><strong>Black Friday sale: $9.99 once through December 2. Then $29.</strong> · No code</td>
       <td>Nov 13 - Dec 2, 2026</td>
     </tr>
     <tr>
@@ -589,11 +589,11 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td>Nov 2 - Dec 15, 2026</td>
     </tr>
     <tr>
-      <td align="center">💎</td>
+      <td align="center">—</td>
       <td><a href="https://outlier.host/pricing/?utm_source=s1ntoneli&amp;utm_medium=deals">Outlier</a></td>
       <td>Local AI (native Mac)</td>
       <td>Runs open AI models on your own Mac, so your chats and code stay on it, even offline: chat, plus a coding agent for your own codebase. Free to start. Apple silicon, macOS 15+.</td>
-      <td><strong>31% OFF</strong> November price · $16.99 · No code</td>
+      <td><strong>Black Friday sale: $16.99 once through December 2. Then $39.</strong> · No code</td>
       <td>Nov 13 - Dec 2, 2026</td>
     </tr>
     <tr>
@@ -1154,11 +1154,11 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td>Nov 20 - Dec 1, 2026</td>
     </tr>
     <tr>
-      <td align="center">💎</td>
+      <td align="center">—</td>
       <td><a href="https://checkengineseo.com/pricing/?utm_source=s1ntoneli&amp;utm_medium=deals">Check Engine SEO</a></td>
       <td>SEO Audit (native Mac, also Windows)</td>
       <td>Desktop SEO audit: 99 checks, including whether AI crawlers like GPTBot can read your site, ranked into a fix plan with the markup to paste. Free version available. macOS 12+.</td>
-      <td><strong>32% OFF</strong> November price · $19.99 · No code</td>
+      <td><strong>Black Friday sale: $19.99 once through December 2. Then $39.</strong> · No code</td>
       <td>Nov 13 - Dec 2, 2026</td>
     </tr>
     <tr>
