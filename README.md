@@ -1104,6 +1104,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>20% OFF</strong> Pro ($9.99 → $7.99) · <code>BLACKFRIDAY</code>, applied automatically</td>
       <td>Nov 27 - Dec 1, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://tutti.barrybarrywu.com/#pricing">Tutti</a></td>
+      <td>Audio Utility</td>
+      <td>Native macOS menu bar app for multi-output audio, per-app volume, and display controls. Submitted by the maker.</td>
+      <td><strong>30.8% OFF</strong> Pro one-time, 1 Mac · US$12.99 → US$8.99 · No code needed</td>
+      <td>Nov 20 - Nov 30, 2026 (ends 23:59 PST)</td>
+    </tr>
   </tbody>
 </table>
 
