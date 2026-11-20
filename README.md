@@ -1249,6 +1249,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
           <td><strong>Launch price</strong> · Lifetime $9.99, then $29.99 · No code needed</td>
           <td>Nov 18 - Dec 5, 2026</td>
         </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://toplify.app">Toplify</a></td>
+      <td>App Store Analytics (macOS &amp; iOS)</td>
+      <td>Track App Store chart positions in 175 countries, with ranking history and alerts for your own and competing apps.</td>
+      <td><strong>Save $40 USD</strong> on Lifetime ($89.99 → $49.99) · <a href="https://apps.apple.com/redeem?ctx=offercodes&amp;id=6782706682&amp;code=BLKFR2026"><code>BLKFR2026</code></a> · available to everyone</td>
+      <td>Nov 15 - Dec 1, 2026</td>
+    </tr>
 
 
 
@@ -1301,6 +1309,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td>Subscription tracker that isn't a subscription: reminders before every renewal and free-trial end, this month's total in the menu bar, no bank login, no account, no tracking.</td>
       <td><strong>40% OFF</strong> the one-time unlock ($14.99 → $8.99), no code needed</td>
       <td>Nov 27 - Nov 30, 2026. (Disclosure: I'm the developer.)</td>
+    </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://subsday.appps.od.ua">SubsDay</a></td>
+      <td>Subscription Calendar (macOS &amp; iOS)</td>
+      <td>See renewals in a calendar, import subscriptions from the App Store and other sources, and track recurring costs.</td>
+      <td><strong>Lifetime discounts</strong>, available to everyone · Single $19.99 → $11.99 USD with <a href="https://apps.apple.com/redeem?ctx=offercodes&amp;id=6743316600&amp;code=BLKFR2026"><code>BLKFR2026</code></a> · Family $26.99 → $15.99 USD with <a href="https://apps.apple.com/redeem?ctx=offercodes&amp;id=6743316600&amp;code=BLKFR2026FAMILY"><code>BLKFR2026FAMILY</code></a></td>
+      <td>Nov 15 - Dec 1, 2026</td>
     </tr>
 
   </tbody>
