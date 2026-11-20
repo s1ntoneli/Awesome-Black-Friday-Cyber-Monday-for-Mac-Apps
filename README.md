@@ -1104,6 +1104,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>20% OFF</strong> Pro ($9.99 → $7.99) · <code>BLACKFRIDAY</code>, applied automatically</td>
       <td>Nov 27 - Dec 1, 2026</td>
     </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://appgridmac.com/pricing/">AppGrid</a></td>
+      <td>App Launcher</td>
+      <td>Native macOS Launchpad replacement. Arrange apps in folders and pages, move several at once, and save or restore layouts. Submitted by the maker.</td>
+      <td><strong>50% off lifetime Direct Pro</strong> for up to five Macs ($25 → $12.50 USD before tax). The pricing page applies <code>BF2026</code> at checkout.</td>
+      <td>Nov 20 – Nov 30, 2026</td>
+    </tr>
   </tbody>
 </table>
 
