@@ -315,11 +315,11 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
           <td>Nov 17 - Dec 7, 2026</td>
         </tr>
     <tr>
-          <td align="center">💎</td>
+          <td align="center">—</td>
           <td><a href="https://briskmail.app">Briskmail</a></td>
           <td>Gmail Client (native macOS)</td>
           <td>Native Mac app for Gmail built on the Gmail API, so labels, snooze and Send Later match the web. Keyboard-first, no server of its own.</td>
-          <td><strong>34% OFF</strong> One-time purchase · $59 → $39, no subscription · No code needed (applied at checkout). Submitted by the maker.</td>
+          <td><strong>Launch price $39</strong> · One-time purchase, no subscription · No code needed (applied at checkout). Submitted by the maker.</td>
           <td>Nov 20 - Dec 1, 2026</td>
         </tr>
 
