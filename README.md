@@ -571,6 +571,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
     </tr>
 
 
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://cutfa.st/#pricing">CutFast</a></td>
+      <td>Native Mac app + Web / AI Video Editor</td>
+      <td>Highlight the subtitle lines you want to keep, cut filler words and silence, and export clips. Native macOS app (Apple Silicon, notarized); same account on Windows and web.</td>
+      <td><strong>30% OFF</strong> Lifetime $399 → $279.30 · 60-minute pack $30 → $21 · No code needed</td>
+      <td>Nov 20 - Dec 1, 2026</td>
+    </tr>
   </tbody>
 </table>
 
