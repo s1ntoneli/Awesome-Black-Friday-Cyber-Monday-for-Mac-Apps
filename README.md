@@ -1249,6 +1249,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
           <td><strong>Launch price</strong> · Lifetime $9.99, then $29.99 · No code needed</td>
           <td>Nov 18 - Dec 5, 2026</td>
         </tr>
+        <tr>
+          <td align="center">🔥</td>
+          <td><a href="https://devkito.com/pricing">Devkito</a></td>
+          <td>Developer Toolbox (native Mac app, also Windows and Linux)</td>
+          <td>122 offline developer tools in one desktop app behind one shortcut: JSON, JWT, regex, Base64, hashes, cURL to code, HTTP client, DNS and more.</td>
+          <td><strong>50% OFF</strong> one-time licence · $5 (regular $10), 2 Macs $7.50, 5 Macs $15 · <code>BF2026</code> (applied by the pricing page's Buy buttons)</td>
+          <td>Nov 20 - Dec 2, 2026</td>
+        </tr>
 
 
 
