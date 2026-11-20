@@ -1176,6 +1176,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> one-time · $7.99 → $3.99 · No code needed</td>
       <td>Nov 20 - Dec 6, 2026</td>
     </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://scanify.to/pricing">Scanify</a></td>
+      <td>Web App / Link &amp; File Security Scanner</td>
+      <td>Check a link, file, QR code or IP before you open it: antivirus engine results, domain age, redirect chain and a live screenshot of the page in one risk score. Web-based, not a native Mac app; works in any Mac browser. Submitted by the maker.</td>
+      <td><strong>95% OFF</strong> first month · Pro $20 → $1, then $20/mo · No code needed. Or <strong>50% OFF</strong> Lifetime $29 → $14.50 · <code>BLACKFRIDAY</code> (until Dec 9)</td>
+      <td>Nov 19 - Dec 19, 2026</td>
+    </tr>
   </tbody>
 </table>
 
