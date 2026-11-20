@@ -545,6 +545,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>25% OFF</strong> one-time licence ($39 → $29) · No code needed</td>
       <td>Nov 27 - Nov 30, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://upscales.app/black-friday.html">UScale</a></td>
+      <td>Photo &amp; Video Enhancer (iPhone, iPad, Apple silicon Mac)</td>
+      <td>Upscale photos and videos, sharpen blurry images, and restore old photos with AI. Submitted by the maker.</td>
+      <td><strong>40% OFF</strong> the first year of Premium Annual (US$44.99 → US$26.99) with App Store code <code>BF26</code>. For new and lapsed subscribers. Renews at the regular annual price. Local prices vary.</td>
+      <td>Nov 20 - Nov 30, 2026 (Pacific Time)</td>
+    </tr>
 
 
   </tbody>
