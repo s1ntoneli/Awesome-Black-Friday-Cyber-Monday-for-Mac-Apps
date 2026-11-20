@@ -360,6 +360,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> Lifetime ($19.99 → $9.99) · No code needed</td>
       <td>Nov 23 - Nov 30, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://www.craft.do/pricing">Craft</a></td>
+      <td>Notes &amp; Docs (macOS, iOS)</td>
+      <td>Notes, docs and tasks in one native app for Mac, iPhone and iPad. Nest pages inside pages, plan your day in daily notes, and add tasks that sync with Apple Reminders. Works offline. Submitted by the maker.</td>
+      <td><strong>40% OFF</strong> yearly Plus ($8 → $4.80/mo) and Family · <code>BLACKFRIDAY26-A</code><br><strong>20% OFF</strong> monthly · <code>BLACKFRIDAY26-M</code><br>Kept on every renewal · US price; local prices vary</td>
+      <td>Nov 16 - Dec 9, 2026</td>
+    </tr>
   </tbody>
 </table>
 
