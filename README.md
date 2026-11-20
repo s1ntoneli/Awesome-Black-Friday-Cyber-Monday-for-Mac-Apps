@@ -686,6 +686,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
     </tr>
 
 
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://bibigpt.co/en/shop?ref=BLACKFRIDAY">BibiGPT</a></td>
+      <td>Native Mac app + Web / AI Summarizer</td>
+      <td>Summarize YouTube videos, podcasts and local audio or video files into timestamped summaries, transcripts and mind maps, then ask follow-up questions. Native macOS app (Apple Silicon and Intel, notarized) from <a href="https://bibigpt.co/en/apps/desktop">bibigpt.co/apps/desktop</a>; same account on Windows and web.</td>
+      <td><strong>50% OFF</strong> Plus and Pro, first payment · <code>BLACKFRIDAY</code> (auto-applied from the link) · Plus yearly $142.56 → $71.28</td>
+      <td>Nov 12 - Dec 1, 2026</td>
+    </tr>
   </tbody>
 </table>
 
