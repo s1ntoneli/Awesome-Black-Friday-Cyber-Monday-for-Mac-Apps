@@ -360,6 +360,30 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> Lifetime ($19.99 → $9.99) · No code needed</td>
       <td>Nov 23 - Nov 30, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://www.apptorium.com/sidenotes">SideNotes</a></td>
+      <td>Notes (native macOS)</td>
+      <td>Quick-access notes that slide in from the screen edge, with folders, hidden Markdown, iCloud sync, Shortcuts and AppleScript. Submitted by the maker.</td>
+      <td><strong>35% OFF</strong> one-time · $19.99 → $12.99 · No code needed</td>
+      <td>Nov 20 - Dec 6, 2026</td>
+    </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://www.apptorium.com/fivenotes">FiveNotes</a></td>
+      <td>Menu Bar Notes (native macOS)</td>
+      <td>Exactly five quick notes in the menu bar, with Markdown, themes, iCloud sync, Shortcuts, AppleScript and a URL API. Submitted by the maker.</td>
+      <td><strong>50% OFF</strong> one-time · $7.99 → $3.99 · No code needed</td>
+      <td>Nov 20 - Dec 6, 2026</td>
+    </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://www.apptorium.com/workspaces">Workspaces</a></td>
+      <td>Project Launcher (native macOS)</td>
+      <td>Group files, folders, apps, websites, emails and Shortcuts by project, then open everything needed with one click. Submitted by the maker.</td>
+      <td><strong>50% OFF</strong> one-time · $19.99 → $9.99 · No code needed</td>
+      <td>Nov 20 - Dec 6, 2026</td>
+    </tr>
   </tbody>
 </table>
 
@@ -1103,6 +1127,30 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td>Native macOS menu bar app that names your desktops (Spaces), shows them all with live previews on Option-Tab and switches without the slide animation. Free; Pro adds the overview and Mission Control names.</td>
       <td><strong>20% OFF</strong> Pro ($9.99 → $7.99) · <code>BLACKFRIDAY</code>, applied automatically</td>
       <td>Nov 27 - Dec 1, 2026</td>
+    </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://www.apptorium.com/license-store">License Store</a></td>
+      <td>License Manager (native macOS)</td>
+      <td>Keep software license keys, files, invoices, receipts, download links, notes and expiration dates in one searchable library. Submitted by the maker.</td>
+      <td><strong>50% OFF</strong> one-time · $7.99 → $3.99 · No code needed</td>
+      <td>Nov 20 - Dec 6, 2026</td>
+    </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://www.apptorium.com/desktop-composer">Desktop Composer</a></td>
+      <td>Appearance Profiles (native macOS)</td>
+      <td>Save and switch complete Mac appearance profiles for wallpaper, system appearance, colors, Dock, menu bar, Stage Manager and supported app themes. Submitted by the maker.</td>
+      <td><strong>50% OFF</strong> one-time · $19.99 → $9.99 · No code needed</td>
+      <td>Nov 20 - Dec 6, 2026</td>
+    </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://www.apptorium.com/cursor-teleporter">Cursor Teleporter</a></td>
+      <td>Multi-display Cursor Utility (native macOS)</td>
+      <td>Move the pointer instantly between displays or saved positions using a keyboard shortcut or programmable mouse button. Submitted by the maker.</td>
+      <td><strong>50% OFF</strong> one-time · $7.99 → $3.99 · No code needed</td>
+      <td>Nov 20 - Dec 6, 2026</td>
     </tr>
   </tbody>
 </table>
