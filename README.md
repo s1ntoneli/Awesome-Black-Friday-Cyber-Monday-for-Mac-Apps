@@ -1218,6 +1218,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> first year of Pro Yearly ($14.99 → $7.49) · <code>NINJABF26</code></td>
       <td>Nov 24 - Dec 2, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://spatialtap.com">SpatialTap</a></td>
+      <td>Spatial Audio (native macOS)</td>
+      <td>Menu-bar app that turns on Apple's own spatial audio, with head tracking, for Spotify, Chrome, Firefox, VLC and other Mac apps on AirPods and Beats. No audio driver. Apple silicon, macOS 14.2+. 7-day free trial. Submitted by the maker.</td>
+      <td><strong>30% OFF</strong> one-time license (3 Macs) · $9.99 → $6.99 · <code>BLACKFRIDAY26</code></td>
+      <td>Nov 27 - Nov 30, 2026</td>
+    </tr>
   </tbody>
 </table>
 
