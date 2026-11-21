@@ -384,6 +384,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> one-time · $19.99 → $9.99 · No code needed</td>
       <td>Nov 20 - Dec 6, 2026</td>
     </tr>
+    <tr>
+      <td align="center">✨</td>
+      <td><a href="https://roostmail.app/black-friday">Roost</a></td>
+      <td>Email Client (native macOS)</td>
+      <td>Mail app for people with many inboxes: several Gmails, Outlook, iCloud, Zoho, Yandex and any IMAP in one keyboard-first window. Mail stays on your Mac, with no server. macOS 15+. Submitted by the maker.</td>
+      <td><strong>14% OFF</strong> Lifetime · $29 → $25, one payment · 3 Macs, every update · No code needed</td>
+      <td>Nov 27 - Dec 1, 2026</td>
+    </tr>
   </tbody>
 </table>
 
