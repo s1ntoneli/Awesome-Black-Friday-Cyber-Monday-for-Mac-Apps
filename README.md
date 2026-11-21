@@ -400,6 +400,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> Pro one-time license · $12 → $6 · <code>BF2026</code> at checkout</td>
       <td>Nov 22 - Nov 30, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://psychosonicconsulting.com/bibliome">Bibliome Library</a></td>
+      <td>PDF Library (native macOS)</td>
+      <td>A Mac PDF library that files, searches and answers questions about your documents with an on device model. Nothing is uploaded. Submitted by the maker.</td>
+      <td><strong>33% OFF</strong> one-time purchase on the Mac App Store · $29.99 → $19.99 · No code needed</td>
+      <td>Nov 27 - Dec 1, 2026</td>
+    </tr>
   </tbody>
 </table>
 
