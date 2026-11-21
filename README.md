@@ -1363,7 +1363,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>Save $40 USD</strong> on Lifetime ($89.99 → $49.99) · <a href="https://apps.apple.com/redeem?ctx=offercodes&amp;id=6782706682&amp;code=BLKFR2026"><code>BLKFR2026</code></a> · available to everyone</td>
       <td>Nov 15 - Dec 1, 2026</td>
     </tr>
-
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://runjs.app">RunJS</a></td>
+      <td>Code Playground</td>
+      <td>JavaScript and TypeScript playground. Zero config needed. Write and run code with instant feedback.</td>
+      <td><strong>30% OFF</strong> with code <code>BLACKFRIDAY2026</code></td>
+      <td>Nov 20 - Dec 1, 2026</td>
+    </tr>
 
 
 
