@@ -1176,6 +1176,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> one-time · $7.99 → $3.99 · No code needed</td>
       <td>Nov 20 - Dec 6, 2026</td>
     </tr>
+    <tr>
+      <td align="center">—</td>
+      <td><a href="https://thumbwise.app">Thumbwise</a></td>
+      <td>iPhone Home Screen</td>
+      <td>Organize your iPhone Home Screen from your Mac: see every page side by side, get a layout with fewer swipes based on your app usage, or let an AI assistant like Claude arrange it for you, then apply it to your iPhone. Native macOS app.</td>
+      <td><strong>30% OFF</strong> one-time license · <code>BLACKFRIDAY</code></td>
+      <td>Nov 27 - Dec 1, 2026</td>
+    </tr>
   </tbody>
 </table>
 
