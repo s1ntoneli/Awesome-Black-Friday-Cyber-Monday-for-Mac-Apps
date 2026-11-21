@@ -587,6 +587,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>30% OFF</strong> Lifetime $399 → $279.30 · 60-minute pack $30 → $21 · No code needed</td>
       <td>Nov 20 - Dec 1, 2026</td>
     </tr>
+    <tr>
+      <td align="center">—</td>
+      <td><a href="https://cursorclip.com/pricing/?ref=bf-macapps">CursorClip</a></td>
+      <td>Screen Recorder &amp; Video Editor (native macOS)</td>
+      <td>Native Mac screen recorder for tutorials, courses and product demos. It adds smooth zooms where you click while you record. New in 2.3: 86 backgrounds, a mic and camera check before you start, and captions made on your Mac. Recording and editing are free; export needs a licence. Submitted by the maker.</td>
+      <td>Lifetime for <strong>$49</strong>, one-time payment, no subscription · No code needed (<code>BLACKFRIDAY</code> is applied automatically at checkout)</td>
+      <td>Nov 15 - Nov 30, 2026 (ends 11:59 p.m. PT)</td>
+    </tr>
   </tbody>
 </table>
 
