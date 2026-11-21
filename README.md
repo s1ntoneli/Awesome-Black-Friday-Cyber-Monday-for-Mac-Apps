@@ -1329,6 +1329,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>Save $40 USD</strong> on Lifetime ($89.99 → $49.99) · <a href="https://apps.apple.com/redeem?ctx=offercodes&amp;id=6782706682&amp;code=BLKFR2026"><code>BLKFR2026</code></a> · available to everyone</td>
       <td>Nov 15 - Dec 1, 2026</td>
     </tr>
+    <tr>
+          <td align="center">💎</td>
+          <td><a href="https://blob0.com">blob0</a></td>
+          <td>S3 / R2 Desktop Client (native macOS)</td>
+          <td>A cloud-drive style file manager for Cloudflare R2 and S3-compatible storage: browse prefixes like folders, upload with progress, preview files, share presigned links, read a storage dashboard, and drive the bucket from a bundled CLI with an Agent Skill for Claude Code, Codex and Cursor. Credentials stay in the macOS Keychain. Free for one connection. Submitted by the maker.</td>
+          <td><strong>20% OFF</strong> Personal and Team one-time licenses · <code>BLACKFRIDAY20</code></td>
+          <td>Nov 14 - Nov 30, 2026</td>
+        </tr>
 
 
 
