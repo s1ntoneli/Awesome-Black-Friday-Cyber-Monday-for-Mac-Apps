@@ -736,7 +736,7 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
     </tr>
     <tr>
       <td align="center">💎</td>
-      <td><a href="https://enconvo.com/pricing">Enconvo</a></td>
+      <td><a href="https://enconvo.com">Enconvo</a></td>
       <td>AI Assistant &amp; Agent (macOS)</td>
       <td>Native AI assistant and agent for Mac: automates tasks across your apps, dictates, searches your documents, and runs cloud AI or local models. Submitted by the maker.</td>
       <td><strong>30% OFF</strong> every Lifetime license (Standard $59 → $41.30, Premium $119 → $83.30, Teams $159 → $111.30) and the first payment of an Enconvo Cloud plan · No code needed, applied at checkout</td>
