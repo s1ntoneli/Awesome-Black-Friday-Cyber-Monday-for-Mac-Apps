@@ -384,6 +384,22 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> one-time · $19.99 → $9.99 · No code needed</td>
       <td>Nov 20 - Dec 6, 2026</td>
     </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://tryreplay.online/?utm_source=themacapps&amp;utm_medium=deals&amp;utm_campaign=bf2026">Replay</a></td>
+      <td>Call Recorder (native macOS)</td>
+      <td>Bot-free call recorder: records Zoom, Google Meet, Teams, Slack, WhatsApp, Telegram and Signal calls right on your Mac, with no bot joining the call. Requires macOS 26+ on Apple silicon. Submitted by the maker.</td>
+      <td><strong>50% OFF</strong> one-time · $10 → $5 · <code>REPLAYBF50</code></td>
+      <td>Nov 21 - Dec 31, 2026</td>
+    </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://www.trylasso.online/?utm_source=themacapps&amp;utm_medium=deals&amp;utm_campaign=bf2026">Lasso</a></td>
+      <td>Screen Annotation (native macOS)</td>
+      <td>Draw arrows, circles and highlights over any app while you present, teach or share your screen: press a shortcut, draw, press Esc. macOS 14+, Apple silicon and Intel. Submitted by the maker.</td>
+      <td><strong>50% OFF</strong> one-time · $9.99 → $4.99 · <code>LASSOBF50</code></td>
+      <td>Nov 21 - Dec 31, 2026</td>
+    </tr>
   </tbody>
 </table>
 
