@@ -1399,6 +1399,15 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>20% OFF</strong> first year of Standard and Premium on the website · Standard $23.99 (was $29.99), Premium $47.99 (was $59.99), Premium monthly $4.79 first month (was $5.99) · <code>BFCM26</code> · new website purchases only, no App Store discount, renews at regular price</td>
       <td>Nov 13 - Dec 1, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://studio.oiloil.org/en/">Oil Studio</a></td>
+      <td>Screen Recorder &amp; Video Editor (native macOS)</td>
+      <td>Native Apple Silicon (macOS 15+) screen recorder &amp; video editor with click auto-zoom, local on-device Whisper transcript editing, and a built-in CLI + Agent Skill for Claude Code / Codex. One-time purchase for 2 Macs, no subscription. Submitted by the maker.</td>
+      <td><strong>20% OFF</strong> one-time license ($31.20 on top of the $39 launch price, regular $49) · <code>BFCM2026</code></td>
+      <td>Nov 20 - Dec 2, 2026</td>
+    </tr>
+
   </tbody>
 </table>
 
