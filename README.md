@@ -1176,6 +1176,30 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> one-time · $7.99 → $3.99 · No code needed</td>
       <td>Nov 20 - Dec 6, 2026</td>
     </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://bytesweep.app/">ByteSweep</a></td>
+      <td>Disk Cleaner (native macOS, also Windows and Linux)</td>
+      <td>Shows what fills your disk, removes only what you pick, and every clean can be undone for 7 days. Free trial. Submitted by the maker.</td>
+      <td><strong>50% OFF</strong> one-time · $29.99 → $15 · No code needed</td>
+      <td>Nov 17 - Dec 31, 2026</td>
+    </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://earmix.app/">Earmix</a></td>
+      <td>Volume Mixer (native macOS)</td>
+      <td>Menu bar volume mixer: set the volume for each app and each browser tab, send each app to its own output, and add EQ. Free trial. Submitted by the maker.</td>
+      <td><strong>50% OFF</strong> one-time · $12.99 → $6.50 · <code>BLACKFRIDAY50</code></td>
+      <td>Now - Dec 1, 2026</td>
+    </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://findowmac.com/">Findow</a></td>
+      <td>Window Manager (native macOS)</td>
+      <td>Scrolling window manager with tiling, a window switcher and saved workspaces. Free trial. Submitted by the maker.</td>
+      <td><strong>75% OFF</strong> one-time · $19.99 → $5 · No code needed</td>
+      <td>Now - Dec 1, 2026</td>
+    </tr>
   </tbody>
 </table>
 
