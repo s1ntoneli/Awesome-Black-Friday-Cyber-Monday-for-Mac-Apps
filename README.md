@@ -657,7 +657,7 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td align="center">—</td>
       <td><a href="https://outlier.host/pricing/?utm_source=s1ntoneli&amp;utm_medium=deals">Outlier</a></td>
       <td>Local AI (native Mac)</td>
-      <td>Runs open AI models on your own Mac, so your chats and code stay on it, even offline: chat, plus a coding agent for your own codebase. Free to start. Apple silicon, macOS 15+.</td>
+      <td>Runs open AI models on your own Mac, even offline; chats stay on your Mac unless you use web search or Research. Chat, plus a coding agent for your own codebase. Free to start. Apple silicon, macOS 15+.</td>
       <td><strong>Black Friday sale: $16.99 once through December 2. Then $39.</strong> · No code</td>
       <td>Nov 13 - Dec 2, 2026</td>
     </tr>
