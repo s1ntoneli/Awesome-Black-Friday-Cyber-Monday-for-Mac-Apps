@@ -384,6 +384,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> one-time · $19.99 → $9.99 · No code needed</td>
       <td>Nov 20 - Dec 6, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://poxture.com/">Poxture App</a></td>
+      <td>Posture App (macOS)</td>
+      <td>Checks your posture through the camera and nudges you with the fix. No account, no subscription, works without internet. No pictures, ever. Apple Silicon, macOS 15 or later. Submitted by the maker.</td>
+      <td><strong>34% OFF</strong> one-time licence for one Mac · $29 → $19 · <code>BLACKFRIDAY</code></td>
+      <td>Nov 27 - Nov 30, 2026 (ends 23:59 IST)</td>
+    </tr>
   </tbody>
 </table>
 
