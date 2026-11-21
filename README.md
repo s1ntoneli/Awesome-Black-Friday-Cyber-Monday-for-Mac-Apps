@@ -384,6 +384,38 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> one-time · $19.99 → $9.99 · No code needed</td>
       <td>Nov 20 - Dec 6, 2026</td>
     </tr>
+    <tr>
+      <td align="center">—</td>
+      <td><a href="https://www.witt-software.com/black-friday-2026/">Rocket Typist Pro</a></td>
+      <td>Text expander (macOS)</td>
+      <td>Expand a few keystrokes into reusable replies, email templates and signatures on your Mac.</td>
+      <td><strong>Save $9.99</strong> · US $19.99 → $10.00 · One-time direct Mac license · No code needed</td>
+      <td>Nov 20 - Nov 30, 2026</td>
+    </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://www.witt-software.com/black-friday-2026/">Link Cluster</a></td>
+      <td>Bookmark manager (macOS)</td>
+      <td>Organize bookmarks with notes and offline copies so you can find and read saved pages later.</td>
+      <td><strong>50% off</strong> · US $7.90 → $3.95 · One-time direct Mac license · No code needed</td>
+      <td>Nov 20 - Nov 30, 2026</td>
+    </tr>
+    <tr>
+      <td align="center">—</td>
+      <td><a href="https://www.witt-software.com/black-friday-2026/">PDF Protector</a></td>
+      <td>PDF security (macOS)</td>
+      <td>Password-protect a PDF or apply the same protection settings to a whole folder of documents.</td>
+      <td><strong>Save $4.99</strong> · US $9.99 → $5.00 · One-time direct Mac license · No code needed</td>
+      <td>Nov 20 - Nov 30, 2026</td>
+    </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://www.witt-software.com/black-friday-2026/">PDF Text Include</a></td>
+      <td>PDF text recognition (macOS)</td>
+      <td>Add a searchable text layer to scanned PDFs so you can find and copy passages while preserving the original pages.</td>
+      <td><strong>Save $2.50</strong> · US $4.99 → $2.49 · One-time Mac App Store purchase · No code needed</td>
+      <td>Nov 20 - Nov 29, 2026</td>
+    </tr>
   </tbody>
 </table>
 
@@ -586,6 +618,22 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td>Highlight the subtitle lines you want to keep, cut filler words and silence, and export clips. Native macOS app (Apple Silicon, notarized); same account on Windows and web.</td>
       <td><strong>30% OFF</strong> Lifetime $399 → $279.30 · 60-minute pack $30 → $21 · No code needed</td>
       <td>Nov 20 - Dec 1, 2026</td>
+    </tr>
+    <tr>
+      <td align="center">—</td>
+      <td><a href="https://www.witt-software.com/black-friday-2026/">Image Stack</a></td>
+      <td>Batch image editor (macOS)</td>
+      <td>Resize, convert and rename a folder of photos in one batch, then save the settings as a preset.</td>
+      <td><strong>Save $4.99</strong> · US $9.99 → $5.00 · One-time direct Mac license · No code needed</td>
+      <td>Nov 20 - Nov 30, 2026</td>
+    </tr>
+    <tr>
+      <td align="center">—</td>
+      <td><a href="https://www.witt-software.com/black-friday-2026/">Readable Voice</a></td>
+      <td>Audio transcription (macOS)</td>
+      <td>Transcribe interviews and voice memos on your Mac so your recordings stay on your device.</td>
+      <td><strong>Save $2.49</strong> · US $4.99 → $2.50 · One-time direct Mac license · No code needed</td>
+      <td>Nov 20 - Nov 30, 2026</td>
     </tr>
   </tbody>
 </table>
@@ -1175,6 +1223,22 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td>Move the pointer instantly between displays or saved positions using a keyboard shortcut or programmable mouse button. Submitted by the maker.</td>
       <td><strong>50% OFF</strong> one-time · $7.99 → $3.99 · No code needed</td>
       <td>Nov 20 - Dec 6, 2026</td>
+    </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://www.witt-software.com/black-friday-2026/">Network Radar</a></td>
+      <td>Network monitor (macOS)</td>
+      <td>See which devices are on your network and get notified on your Mac when a device joins or goes offline.</td>
+      <td><strong>50% off</strong> · US $19.90 → $9.95 · One-time direct Mac license · No code needed</td>
+      <td>Nov 20 - Nov 30, 2026</td>
+    </tr>
+    <tr>
+      <td align="center">—</td>
+      <td><a href="https://www.witt-software.com/black-friday-2026/">Remote Wake Up</a></td>
+      <td>Remote power management (macOS)</td>
+      <td>Wake a sleeping computer from your Mac and keep commands for each host in one place.</td>
+      <td><strong>Save $4.99</strong> · US $9.99 → $5.00 · One-time direct Mac license · No code needed</td>
+      <td>Nov 20 - Nov 30, 2026</td>
     </tr>
   </tbody>
 </table>
