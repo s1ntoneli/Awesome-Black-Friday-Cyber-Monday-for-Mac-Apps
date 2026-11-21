@@ -579,7 +579,7 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
     </tr>
     <tr>
       <td align="center">🔥</td>
-      <td><a href="https://checkout.snapperon.com/?discount=BLACKFRIDAY26">Snapperon</a></td>
+      <td><a href="https://snapperon.com/#pricing">Snapperon</a></td>
       <td>Screenshot &amp; Annotation (native macOS)</td>
       <td>Annotate screenshots, redact private details, and copy text from images on your Mac. Submitted by Snapperon Team.</td>
       <td><strong>50% off</strong> Pro with code <code>BLACKFRIDAY26</code>. Monthly $2 → $1/month for 12 months, annual $19.99 → $10 for the first year, or lifetime $38.99 → $19.50 once (USD).</td>
