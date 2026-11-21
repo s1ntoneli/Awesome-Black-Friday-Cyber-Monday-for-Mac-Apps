@@ -384,6 +384,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> one-time · $19.99 → $9.99 · No code needed</td>
       <td>Nov 20 - Dec 6, 2026</td>
     </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://fadeclock.app/">Fadeclock</a></td>
+      <td>Slide Timer (native macOS)</td>
+      <td>Floating timer for teaching with slides: shows when the activity ends ("until 2:30 PM") and fades music from a YouTube link out before time's up. Free download, not notarized by Apple yet. Submitted by the maker.</td>
+      <td><strong>50% OFF</strong> Pro one-time license · $12 → $6 · <code>BF2026</code> at checkout</td>
+      <td>Nov 22 - Nov 30, 2026</td>
+    </tr>
   </tbody>
 </table>
 
