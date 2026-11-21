@@ -1329,6 +1329,7 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>Save $40 USD</strong> on Lifetime ($89.99 → $49.99) · <a href="https://apps.apple.com/redeem?ctx=offercodes&amp;id=6782706682&amp;code=BLKFR2026"><code>BLKFR2026</code></a> · available to everyone</td>
       <td>Nov 15 - Dec 1, 2026</td>
     </tr>
+    <tr><td align="center">🔥</td><td><a href="https://doubles.dev/pricing">Doubles</a></td><td>Remote Pair Programming</td><td>Remote pair programming app for Mac: share your screen sharp enough to read code, let your pair drive when you allow it, and talk and draw together. Guests join from a browser.</td><td><strong>50% OFF</strong> · $84.50 one-time (was $169) · <code>DOUBLES50</code> (website)</td><td>Nov 20 - Dec 1, 2026</td></tr>
 
 
 
