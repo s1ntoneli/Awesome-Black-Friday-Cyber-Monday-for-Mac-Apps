@@ -587,6 +587,15 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>30% OFF</strong> Lifetime $399 → $279.30 · 60-minute pack $30 → $21 · No code needed</td>
       <td>Nov 20 - Dec 1, 2026</td>
     </tr>
+
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://wispim.com/black-friday">Wispim: Voice Teleprompter</a></td>
+      <td>Teleprompter (Mac, iPhone, iPad)</td>
+      <td>Teleprompter that follows your voice: the script scrolls as you speak and waits while you pause. It can float over your camera app. Submitted by the maker.</td>
+      <td><strong>50% OFF</strong> Lifetime Pro, a one-time purchase: $199.99 → $99.99 in the App Store · No code needed</td>
+      <td>Nov 27 - Nov 30, 2026</td>
+    </tr>
   </tbody>
 </table>
 
@@ -733,6 +742,15 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td>Summarize YouTube videos, podcasts and local audio or video files into timestamped summaries, transcripts and mind maps, then ask follow-up questions. Native macOS app (Apple Silicon and Intel, notarized) from <a href="https://bibigpt.co/en/apps/desktop">bibigpt.co/apps/desktop</a>; same account on Windows and web.</td>
       <td><strong>50% OFF</strong> Plus and Pro, first payment · <code>BLACKFRIDAY</code> (auto-applied from the link) · Plus yearly $142.56 → $71.28</td>
       <td>Nov 12 - Dec 1, 2026</td>
+    </tr>
+
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://cvder.app/pricing">CVder</a></td>
+      <td>Web app (browser-only) / AI Job Application Tool</td>
+      <td>Paste a job posting and CVder tailors your CV to it, checks the ATS score and writes the cover letter. Runs in the browser, no Mac app. Submitted by the maker.</td>
+      <td><strong>50% OFF</strong> the first payment on any Pro plan with code <code>BF2026</code> · monthly €14 → €7, annual €84 → €42 (EUR)</td>
+      <td>Nov 27 - Dec 1, 2026</td>
     </tr>
   </tbody>
 </table>
