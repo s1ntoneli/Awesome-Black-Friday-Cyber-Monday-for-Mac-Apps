@@ -1176,6 +1176,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> one-time · $7.99 → $3.99 · No code needed</td>
       <td>Nov 20 - Dec 6, 2026</td>
     </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://diskninja.app/blackfriday/?ref=s1ntoneli">DiskNinja</a></td>
+      <td>Disk Analyzer</td>
+      <td>Mac app (also on Windows and Linux) that maps your disk in seconds, free. Pro adds a sorted list of big files you might not need, each with a reason, and plain answers about any file. Maker submission.</td>
+      <td><strong>50% OFF</strong> first year of Pro Yearly ($14.99 → $7.49) · <code>NINJABF26</code></td>
+      <td>Nov 24 - Dec 2, 2026</td>
+    </tr>
   </tbody>
 </table>
 
