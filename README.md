@@ -461,7 +461,7 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td align="center">—</td>
       <td><a href="https://crispvideo.app/pricing/?utm_source=s1ntoneli&amp;utm_medium=deals">Crisp</a></td>
       <td>Video Enhancer (native Mac, also Windows)</td>
-      <td>Restores, denoises and upscales old video to 4K on your own Mac or Windows PC, offline, with a timeline editor. Free version available. Mac needs Apple silicon and macOS 14+.</td>
+      <td>Restores, denoises and upscales old video up to 4K on your own Mac or Windows PC, offline, with a timeline editor. Free version available. Mac needs Apple silicon and macOS 14+.</td>
       <td><strong>Black Friday sale: $9.99 once through December 2. Then $29.</strong> · No code</td>
       <td>Nov 13 - Dec 2, 2026</td>
     </tr>
