@@ -1379,6 +1379,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>30% OFF</strong> with code <code>BLACKFRIDAY2026</code></td>
       <td>Nov 20 - Dec 1, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://termal.in/pricing/?utm_source=s1ntoneli&amp;utm_medium=deals&amp;utm_campaign=bf2026">Termalin</a></td>
+      <td>SSH Client (Mac app, also Windows, Linux, iOS)</td>
+      <td>SSH, SFTP and RDP client with end-to-end encrypted sync. Also lets ChatGPT and Claude run commands on your servers without SSH keys, with a command allowlist and an audit log. The desktop app is free.</td>
+      <td><strong>16 months for the price of 12</strong> on yearly Pro ($96, $8 → $6/mo) + 100 GB cloud storage · No code needed. Submitted by the maker.</td>
+      <td>Nov 23 - Dec 1, 2026</td>
+    </tr>
 
 
 
