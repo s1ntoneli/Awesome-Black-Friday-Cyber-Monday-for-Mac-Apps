@@ -1219,11 +1219,11 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td>Nov 24 - Dec 2, 2026</td>
     </tr>
     <tr>
-      <td align="center">🔥</td>
+      <td align="center">💎</td>
       <td><a href="https://thermport.com/">ThermPort</a></td>
       <td>System Monitor</td>
       <td>Native menu bar monitor for Apple Silicon Macs: CPU and GPU temperature, fan speed, memory, power, network and disk, with history charts, threshold alerts and PDF/HTML reports. About 20 MB of memory.</td>
-      <td>50% off: $9.99 → $4.99, one-time license for up to 3 Macs, free upgrades for life. Code <code>BF2026</code> (applied automatically from the site)</td>
+      <td>29% off: $6.99 → $4.99, one-time license for up to 3 Macs, free upgrades for life. Code <code>BF2026</code> (applied automatically from the site)</td>
       <td>Nov 21 - Dec 1, 2026</td>
     </tr>
   </tbody>
