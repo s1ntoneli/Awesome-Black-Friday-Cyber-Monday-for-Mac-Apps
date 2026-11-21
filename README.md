@@ -384,6 +384,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> one-time · $19.99 → $9.99 · No code needed</td>
       <td>Nov 20 - Dec 6, 2026</td>
     </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://timemator.com/">Timemator</a></td>
+      <td>Time tracker (native macOS)</td>
+      <td>Automatic time tracking that records working time from your project files, apps and websites and turns it into timesheets. Submitted by the maker.</td>
+      <td><strong>50% OFF</strong> Lifetime, one-time · $39 → $19.50 · <code>TM-BLACKFRIDAY26</code></td>
+      <td>Nov 21 - Dec 5, 2026</td>
+    </tr>
   </tbody>
 </table>
 
