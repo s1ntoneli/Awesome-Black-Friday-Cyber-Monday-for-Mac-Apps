@@ -513,14 +513,6 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>30% OFF</strong> · from $4.89 · <code>BFKEYSTRO26</code></td>
       <td>Nov 22 - Dec 4, 2026</td>
     </tr>
-
-
-
-
-
-
-
-
     <tr>
       <td align="center">💎</td>
       <td><a href="https://smoothcut.studio/pricing">SmoothCut</a></td>
