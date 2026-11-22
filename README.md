@@ -1218,6 +1218,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> first year of Pro Yearly ($14.99 → $7.49) · <code>NINJABF26</code></td>
       <td>Nov 24 - Dec 2, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://spacepeek.space/">SpacePeek</a></td>
+      <td>Finder Quick Look Utility (macOS)</td>
+      <td>Press Space in Finder to browse, search and preview folders and archives for free. Pro adds single-file archive copying. Submitted by the maker.</td>
+      <td>About 30% off the one-time Pro upgrade in the US (US$3.99 to US$2.79). Local prices vary across 175 App Store regions. First SpacePeek in-app purchase only. <a href="https://apps.apple.com/redeem?ctx=offercodes&amp;id=6777129953&amp;code=SPACEPEEKBF30">Redeem SPACEPEEKBF30</a>. Limited to 1,000 redemptions. Apple Account and <a href="https://www.apple.com/legal/internet-services/itunes/ww">terms</a> acceptance required. No resale or cash value. Offer and content by Fu Wang.</td>
+      <td>Nov 22–30, 2026 (Pacific Time). Ends Dec 1 at 08:00 UTC or when the limit is reached.</td>
+    </tr>
   </tbody>
 </table>
 
