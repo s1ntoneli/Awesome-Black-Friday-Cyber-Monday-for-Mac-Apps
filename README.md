@@ -400,6 +400,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> Pro one-time license · $12 → $6 · <code>BF2026</code> at checkout</td>
       <td>Nov 22 - Nov 30, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://apps.lifehacker.tw/emojicue/en/">EmojiCue</a></td>
+      <td>Emoji Picker (native macOS)</td>
+      <td>Type a colon and a keyword to insert emoji, kaomoji, and symbols right where you're typing. macOS 14+ on Apple silicon and Intel. Submitted by the maker.</td>
+      <td><strong>29% OFF</strong> Pro one-time license for up to two Macs · US$9.90 → US$6.99 before applicable tax · FIRST100 applied automatically from the official site, no code needed</td>
+      <td>Nov 27–30, 2026, or until the first 100 redemptions are used</td>
+    </tr>
   </tbody>
 </table>
 
