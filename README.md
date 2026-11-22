@@ -400,6 +400,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> Pro one-time license · $12 → $6 · <code>BF2026</code> at checkout</td>
       <td>Nov 22 - Nov 30, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://toastkaraoke.app/?utm_source=awesome-bf-mac&amp;utm_medium=list&amp;utm_campaign=bf2026">Toast Karaoke</a></td>
+      <td>Karaoke Player (Mac app built with Electron, also Windows)</td>
+      <td>Plays your own karaoke video files full screen on your TV, with guide-vocal on/off (multi-audio-track files) and key change; guests queue songs from their phones by scanning a QR code. Also plays YouTube. macOS 12+, Apple silicon and Intel. Free 3-day trial. Submitted by the maker.</td>
+      <td><strong>30% OFF</strong> Lifetime $199 → $139.21 · <strong>25% OFF</strong> Yearly first year $59.99 → $44.92 · No code needed</td>
+      <td>Nov 20 - Nov 30, 2026</td>
+    </tr>
   </tbody>
 </table>
 
