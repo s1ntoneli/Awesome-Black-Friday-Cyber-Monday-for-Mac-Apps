@@ -1218,6 +1218,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> first year of Pro Yearly ($14.99 → $7.49) · <code>NINJABF26</code></td>
       <td>Nov 24 - Dec 2, 2026</td>
     </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://getpinset.com/?src=macbflist">PinSet</a></td>
+      <td>Menu Bar (native macOS)</td>
+      <td>Type or say a Mac problem in plain words. PinSet opens the exact System Settings page and circles the right switch in gold. 2,400+ checked fixes for macOS 26 and 27, works offline, 7 fixes free. Submitted by the maker.</td>
+      <td><strong>50% OFF</strong> one-time · $9.99 → $4.99 · <code>BF2026</code> (applied automatically from the Buy button)</td>
+      <td>Nov 23 - Dec 1, 2026</td>
+    </tr>
   </tbody>
 </table>
 
