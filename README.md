@@ -400,6 +400,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> Pro one-time license · $12 → $6 · <code>BF2026</code> at checkout</td>
       <td>Nov 22 - Nov 30, 2026</td>
     </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://apps.apple.com/app/apple-store/id6812925073?pt=128976951&amp;ct=bf-s1ntoneli&amp;mt=12&amp;platform=mac">MarsDawn</a></td>
+      <td>Markdown Editor (native macOS)</td>
+      <td>Read and review your AI agent's Markdown, JSON and YAML on the Mac, with live preview and Mermaid.</td>
+      <td><strong>50% OFF</strong> the one-time unlock (US$4.99 → US$2.49). No code needed</td>
+      <td>Nov 24 - Nov 30, 2026</td>
+    </tr>
   </tbody>
 </table>
 
