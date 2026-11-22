@@ -507,6 +507,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
     </tr>
     <tr>
       <td align="center">💎</td>
+      <td><a href="https://keystro.app">Keystro</a></td>
+      <td>Keystroke visualizer (macOS, Windows)</td>
+      <td>Shows your keystrokes on screen, highlights the cursor and plays mechanical keyboard sounds, for presentations, tutorials and streams. macOS and Windows. One-time purchase.</td>
+      <td><strong>30% OFF</strong> · from $4.89 · <code>BFKEYSTRO26</code></td>
+      <td>Nov 22 - Dec 4, 2026</td>
+    </tr>
+    <tr>
+      <td align="center">💎</td>
       <td><a href="https://smoothcut.studio/pricing">SmoothCut</a></td>
       <td>Screen Recorder (macOS, Windows)</td>
       <td>Screen recorder that auto-zooms on your clicks, smooths the cursor and adds a camera bubble and on-device captions, so recordings look edited without editing. Free to use; one-time purchase, no subscription.</td>
