@@ -1196,6 +1196,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
     </tr>
     <tr>
       <td align="center">🔥</td>
+      <td><a href="https://appgridmac.com/pricing/">AppGrid</a></td>
+      <td>App Launcher</td>
+      <td>Native macOS Launchpad replacement. Arrange apps in folders and pages, move several at once, and save or restore layouts. Submitted by the maker.</td>
+      <td><strong>50% off lifetime Direct Pro</strong> for up to five Macs ($25 → $12.50 USD before tax). The pricing page applies <code>BF2026</code> at checkout.</td>
+      <td>Nov 20 – Nov 30, 2026</td>
+    </tr>
+    <tr>
+      <td align="center">🔥</td>
       <td><a href="https://www.apptorium.com/desktop-composer">Desktop Composer</a></td>
       <td>Appearance Profiles (native macOS)</td>
       <td>Save and switch complete Mac appearance profiles for wallpaper, system appearance, colors, Dock, menu bar, Stage Manager and supported app themes. Submitted by the maker.</td>
