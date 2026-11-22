@@ -321,7 +321,7 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
           <td>Native Mac app for Gmail built on the Gmail API, so labels, snooze and Send Later match the web. Keyboard-first, no server of its own.</td>
           <td><strong>Launch price $39</strong> · One-time purchase, no subscription · No code needed (applied at checkout). Submitted by the maker.</td>
           <td>Nov 20 - Dec 1, 2026</td>
-        </tr>
+</tr><tr><td align="center">🔥</td><td><a href="https://www.babapic.cc/">BabaPic</a></td><td>Image Compressor & Converter (macOS)</td><td>Batch compress, convert, resize and rename images on Mac in one pass. Fully local, no uploads. Submitted by the maker.</td><td><strong>50% OFF</strong> one-time · $19 → $9.50 · <code>BABAPIC2026</code></td><td>Nov 22 - Dec 31, 2026</td></tr>
 
 
 
