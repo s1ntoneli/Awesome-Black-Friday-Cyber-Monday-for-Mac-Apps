@@ -1218,6 +1218,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> first year of Pro Yearly ($14.99 → $7.49) · <code>NINJABF26</code></td>
       <td>Nov 24 - Dec 2, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://deskstag.com/black-friday.html">DeskStag</a></td>
+      <td>Desktop Names (native macOS)</td>
+      <td>Name your Mac desktops: your own names and colours on each desktop, right inside Mission Control. Apple Silicon, macOS 13+, 14-day free trial. Submitted by the maker.</td>
+      <td><strong>30% OFF</strong> one-time · $23.99 → $16.79 · <code>FRIDAY30</code></td>
+      <td>Nov 22 - Dec 1, 2026</td>
+    </tr>
   </tbody>
 </table>
 
