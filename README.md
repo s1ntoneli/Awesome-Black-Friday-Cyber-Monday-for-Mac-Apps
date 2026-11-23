@@ -1218,6 +1218,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> first year of Pro Yearly ($14.99 → $7.49) · <code>NINJABF26</code></td>
       <td>Nov 24 - Dec 2, 2026</td>
     </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://diskmate.app">DiskMate</a></td>
+      <td>Disk Space Analyzer & Cleaner</td>
+      <td>Native macOS disk space analyzer &amp; cleaner. Visual treemaps, sunburst, duplicate finder, Quick Wins cleanup (caches, Xcode DerivedData, node_modules), and leftover app uninstaller. Built with Swift for Apple Silicon. Maker submission.</td>
+      <td><strong>50% OFF</strong> lifetime · $10 → $5 · No code needed</td>
+      <td>Nov 20 - Dec 2, 2026</td>
+    </tr>
   </tbody>
 </table>
 
