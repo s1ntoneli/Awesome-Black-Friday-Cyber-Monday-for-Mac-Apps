@@ -873,6 +873,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>36% OFF</strong> Personal one-time · US$39 → US$25; <strong>38% OFF</strong> Lifetime · US$79 → US$49; <strong>50% OFF</strong> Studio Duo (two Lifetime licenses only) · US$158 → US$79 · No code</td>
       <td>Nov 19 - Dec 1, 2026 (ends 23:59 PST)</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://cindori.com/backdrop">Backdrop</a></td>
+      <td>Live Wallpapers</td>
+      <td>Interactive live wallpapers for your Mac's Lock Screen and desktop. Native macOS app. Submitted by the maker.</td>
+      <td><strong>30% OFF</strong> Lifetime ($29.99 → $20.99) · No code needed</td>
+      <td>Nov 24 - Dec 1, 2026</td>
+    </tr>
 
 
 
@@ -1217,6 +1225,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td>Mac app (also on Windows and Linux) that maps your disk in seconds, free. Pro adds a sorted list of big files you might not need, each with a reason, and plain answers about any file. Maker submission.</td>
       <td><strong>50% OFF</strong> first year of Pro Yearly ($14.99 → $7.49) · <code>NINJABF26</code></td>
       <td>Nov 24 - Dec 2, 2026</td>
+    </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://cindori.com/sensei">Sensei</a></td>
+      <td>System Monitor</td>
+      <td>System performance monitoring for the Mac. Native macOS app. Submitted by the maker.</td>
+      <td><strong>50% OFF</strong> ($59 → $29.50) · No code needed</td>
+      <td>Nov 24 - Dec 1, 2026</td>
     </tr>
   </tbody>
 </table>
