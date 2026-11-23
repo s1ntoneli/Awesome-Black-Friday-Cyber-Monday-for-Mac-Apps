@@ -390,7 +390,7 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td>Posture App (macOS)</td>
       <td>Checks your posture through the camera and nudges you with the fix. No account, no subscription, works without internet. No pictures, ever. Apple Silicon, macOS 15 or later. Submitted by the maker.</td>
       <td><strong>34% OFF</strong> one-time licence for one Mac · $29 → $19 · <code>BLACKFRIDAY</code></td>
-      <td>Nov 27 - Nov 30, 2026 (ends 23:59 IST)</td>
+      <td>Nov 23 - Nov 30, 2026 (ends 23:59 IST)</td>
     </tr>
   </tbody>
 </table>
