@@ -768,6 +768,15 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> the first payment on any Pro plan with code <code>BF2026</code> · monthly €14 → €7, annual €84 → €42 (EUR)</td>
       <td>Nov 27 - Dec 1, 2026</td>
     </tr>
+
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://atatapp.com/black-friday?ref=bf-s1ntoneli">AtAt</a></td>
+      <td>Native Mac AI Assistant</td>
+      <td>@ for people. @@ for AI. Call in Claude Code, Codex, Ollama, Siri AI, or your own API key anywhere you type on Mac — emails, chats, docs, or code — with screen, clipboard, and Finder context and no copy-paste, plus an <code>atat</code> CLI for terminal agents. Native macOS 15+ (Apple silicon), 14-day free trial with no account. Submitted by the maker.</td>
+      <td><strong>34% OFF</strong> Yearly first year ($59 → $39, then $59/yr) · Lifetime <strong>$89</strong> once ($119 early-bird, $169 regular) · No code needed (auto-applied)</td>
+      <td>Nov 24 - Dec 15, 2026 (UTC)</td>
+    </tr>
   </tbody>
 </table>
 
