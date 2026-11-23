@@ -612,6 +612,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> Lifetime Pro, a one-time purchase: $199.99 → $99.99 in the App Store · No code needed</td>
       <td>Nov 27 - Nov 30, 2026</td>
     </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://snapapp.im/pricing?utm_source=bf-mac-apps&utm_medium=deal-list&utm_campaign=black-friday-2026">SnapApp</a></td>
+      <td>Screenshot &amp; Annotation (native macOS)</td>
+      <td>Snipping tool for Mac: one shortcut snips any area, then mark it up with arrows, shapes, text and highlights and copy it in one click. Pro adds blur, redaction, text recognition and numbered steps. macOS 14+, signed and notarized. Submitted by the maker.</td>
+      <td><strong>50% OFF</strong> Pro with code <code>SNAPAPPBF26</code>: Lifetime $89 → $44.50 once, Yearly $29 → $14.50 for the first year, Monthly $2.90 → $1.45/month for 12 months (USD). First-time buyers on snapapp.im. Mac App Store: Pro Lifetime $89 → $44.99 Nov 24 - Dec 1, no code (bought inside the free app).</td>
+      <td>Nov 23 - Dec 1, 2026</td>
+    </tr>
   </tbody>
 </table>
 
