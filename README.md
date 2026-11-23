@@ -612,6 +612,15 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> Lifetime Pro, a one-time purchase: $199.99 → $99.99 in the App Store · No code needed</td>
       <td>Nov 27 - Nov 30, 2026</td>
     </tr>
+
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://fotilo.app/?utm_source=gh-s1ntoneli-mac-bf&amp;utm_campaign=bf2026">Fotilo</a></td>
+      <td>Screenshot &amp; Screen Recorder (macOS)</td>
+      <td>Native Mac app for screenshots and screen recording: put several shots on one annotated canvas where every note moves with its image, and dub recordings into another language in your own voice. Free version with no watermark. (I'm the maker.)</td>
+      <td><strong>50% OFF</strong> Lifetime · Screenshot &amp; Recording Pro $29.50 (was $59), Screenshot Pro $9.50 (was $19) · No code needed</td>
+      <td>Nov 23 - Dec 1, 2026</td>
+    </tr>
   </tbody>
 </table>
 
