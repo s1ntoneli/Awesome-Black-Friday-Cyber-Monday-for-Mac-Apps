@@ -1218,6 +1218,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> first year of Pro Yearly ($14.99 → $7.49) · <code>NINJABF26</code></td>
       <td>Nov 24 - Dec 2, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://blackoutapp.io/">Blackout</a></td>
+      <td>Display Utility (native macOS)</td>
+      <td>Turn off your MacBook's built-in display while using an external monitor with the lid open. Submitted by the maker.</td>
+      <td><strong>40% OFF</strong> Lifetime · <code>BLACKFRIDAY40</code></td>
+      <td>Nov 23 - Nov 30, 2026</td>
+    </tr>
   </tbody>
 </table>
 
