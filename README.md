@@ -400,7 +400,15 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> Pro one-time license · $12 → $6 · <code>BF2026</code> at checkout</td>
       <td>Nov 22 - Nov 30, 2026</td>
     </tr>
-  </tbody>
+  <tr>
+  <td align="center">🔥</td>
+  <td><a href="https://meetmic.app/buy">MeetMic</a></td>
+  <td>Transcription, Dictation & AI Summaries (macOS)</td>
+  <td>Record and transcribe meetings, files and online videos, dictate into any app, and create AI summaries. On-device by default, with no meeting bots. Submitted by the maker.</td>
+  <td><strong>55% OFF</strong> MeetMic Pro lifetime licences, one-time purchase · <code>BF26</code></td>
+  <td>Nov 23 - Dec 10, 2026</td>
+</tr>
+</tbody>
 </table>
 
 ## Content Creation
