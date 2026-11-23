@@ -400,6 +400,22 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> Pro one-time license · $12 → $6 · <code>BF2026</code> at checkout</td>
       <td>Nov 22 - Nov 30, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://automailsender.app/black-friday.html?utm_source=s1ntoneli-awesome&amp;utm_medium=deal-list&amp;utm_campaign=bf26">AutoMailSender</a></td>
+      <td>Email automation (native macOS)</td>
+      <td>Emails a file as soon as you drop it on the app, to one recipient or several. First 25 emails free. Submitted by the maker.</td>
+      <td><strong>40% OFF</strong> Unlimited, a one-time purchase: €9.99 → €5.99 in the Mac App Store · No code needed</td>
+      <td>Nov 27 - Nov 30, 2026</td>
+    </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://porabar.com/?utm_source=s1ntoneli-awesome&amp;utm_medium=deal-list&amp;utm_campaign=bf26">PoRaBar</a></td>
+      <td>Menu bar player (macOS, iPhone)</td>
+      <td>Radio, podcasts, audiobooks and your own Jellyfin music in the menu bar, with an iPhone app. Free for 60 days. Submitted by the maker.</td>
+      <td><strong>40% OFF</strong> the one-time unlock: $2.99 → $1.79 in the App Store, covers Mac and iPhone · No code needed</td>
+      <td>Nov 27 - Nov 30, 2026</td>
+    </tr>
   </tbody>
 </table>
 
@@ -610,6 +626,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td>Teleprompter (Mac, iPhone, iPad)</td>
       <td>Teleprompter that follows your voice: the script scrolls as you speak and waits while you pause. It can float over your camera app. Submitted by the maker.</td>
       <td><strong>50% OFF</strong> Lifetime Pro, a one-time purchase: $199.99 → $99.99 in the App Store · No code needed</td>
+      <td>Nov 27 - Nov 30, 2026</td>
+    </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://shotscreen.app/?utm_source=s1ntoneli-awesome&amp;utm_medium=deal-list&amp;utm_campaign=bf26">ShotScreen</a></td>
+      <td>Screenshot &amp; recording (native macOS)</td>
+      <td>Scrolling capture, OCR, annotation and screen recording in one flow. Free version with 5 captures a day. Submitted by the maker.</td>
+      <td><strong>40% OFF</strong> Pro, a one-time purchase: €8.99 → €5.39 · <code>BLACKFRIDAY</code> on Gumroad, or the sale price automatically in the Mac App Store</td>
       <td>Nov 27 - Nov 30, 2026</td>
     </tr>
   </tbody>
