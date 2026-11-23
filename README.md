@@ -1218,6 +1218,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> first year of Pro Yearly ($14.99 → $7.49) · <code>NINJABF26</code></td>
       <td>Nov 24 - Dec 2, 2026</td>
     </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://metrix.bar/pricing">Metrix.Bar</a></td>
+      <td>Dashboard (native macOS 13+)</td>
+      <td>Build dashboards for your Mac’s menu bar, notch, and widgets to track Claude Code and Codex usage, GitHub activity, or system metrics. Submitted by the maker.</td>
+      <td><strong>50% OFF</strong> Plus Lifetime for up to 3 devices · US$19.99 → US$10.00 one-time before tax · <a href="https://creem.io/payment/prod_3r8a2pKPdVbNZJcgQEQLGt?discount_code=BF2026LT">Creem checkout</a> with <code>BF2026LT</code></td>
+      <td>Nov 25–Dec 5, 2026</td>
+    </tr>
   </tbody>
 </table>
 
