@@ -1218,6 +1218,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> first year of Pro Yearly ($14.99 → $7.49) · <code>NINJABF26</code></td>
       <td>Nov 24 - Dec 2, 2026</td>
     </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://www.wallper.app/pricing">Wallper</a></td>
+      <td>Live Wallpapers (macOS)</td>
+      <td>Moving 4K wallpapers for your Mac desktop and Lock Screen. Pick from more than 3,200 scenes or use a video of your own. Play a song and the desktop plays along, with the cover, its colors or the lyrics line by line. One-time purchase, 7-day free trial. Submitted by the maker.</td>
+      <td><strong>50% OFF</strong> · Pro (3 Macs) <del>$14.99</del> $7.49 · Pro+ (5 Macs) <del>$24.99</del> $12.49 · No code needed</td>
+      <td>Nov 23 - Nov 30, 2026</td>
+    </tr>
   </tbody>
 </table>
 
