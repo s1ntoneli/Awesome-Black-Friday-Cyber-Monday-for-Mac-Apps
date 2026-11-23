@@ -400,6 +400,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> Pro one-time license · $12 → $6 · <code>BF2026</code> at checkout</td>
       <td>Nov 22 - Nov 30, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://www.getvoibe.com/pricing/">Voibe</a></td>
+      <td>AI Dictation &amp; Meeting Notes (macOS, Windows)</td>
+      <td>Private AI dictation and bot-free meeting notes. Open-source models, on-device or zero-retention cloud, never used to train AI. Submitted by the maker.</td>
+      <td><strong>25% OFF</strong> every plan (Dictation and Work, monthly, annual and lifetime) · <code>BFCM26</code>. Monthly keeps 25% off every month.</td>
+      <td>Live as of Nov 23 – Nov 30, 2026</td>
+    </tr>
   </tbody>
 </table>
 
