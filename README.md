@@ -1218,6 +1218,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> first year of Pro Yearly ($14.99 → $7.49) · <code>NINJABF26</code></td>
       <td>Nov 24 - Dec 2, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://butterflyformac.com/?utm_source=blackfriday&amp;utm_campaign=bf2026">Butterfly</a></td>
+      <td>Window Manager</td>
+      <td>Scrolling window manager for macOS: windows sit side by side on a strip you slide with a three-finger swipe, ⌃⌥ and the mouse wheel, or the keyboard. Native Swift app, 7-day free trial.</td>
+      <td><strong>37% OFF</strong> launch price, 1 Mac $7.99 → $4.99 · No code needed</td>
+      <td>Nov 17 - Nov 30, 2026</td>
+    </tr>
   </tbody>
 </table>
 
