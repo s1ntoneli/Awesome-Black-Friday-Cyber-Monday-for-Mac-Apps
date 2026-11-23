@@ -400,6 +400,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> Pro one-time license · $12 → $6 · <code>BF2026</code> at checkout</td>
       <td>Nov 22 - Nov 30, 2026</td>
     </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://peektheday.com/?ref=s1n">PeekTheDay</a></td>
+      <td>Day Planner (native macOS)</td>
+      <td>A thin line under your Mac's menu bar shows your whole day. Peek to see what's next, drag on it to block time. Submitted by the maker.</td>
+      <td><strong>67% OFF</strong> one-time · $15 → $5 · No code needed</td>
+      <td>Nov 24 - Nov 30, 2026</td>
+    </tr>
   </tbody>
 </table>
 
