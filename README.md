@@ -1379,6 +1379,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>30% OFF</strong> with code <code>BLACKFRIDAY2026</code></td>
       <td>Nov 20 - Dec 1, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://asoatlas.com/">ASO Atlas</a></td>
+      <td>App Store Optimization</td>
+      <td>App Store keyword research and rank tracking for iOS, Mac and Google Play apps: popularity, difficulty, competitors and daily ranks. Native Mac app plus web app, and MCP for AI agents.</td>
+      <td><strong>30% OFF</strong> first year of Yearly · $70 (was $100) · <code>BLACKWEEK30</code> or no code needed</td>
+      <td>Nov 23 - Nov 30, 2026</td>
+    </tr>
 
 
 
