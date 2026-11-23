@@ -1220,7 +1220,7 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
     </tr>
     <tr>
       <td align="center">🔥</td>
-      <td><a href="https://www.wallper.app/pricing?utm_source=awesome-bf-mac-apps">Wallper</a></td>
+      <td><a href="https://www.wallper.app/pricing">Wallper</a></td>
       <td>Live Wallpapers (macOS)</td>
       <td>Live 4K video wallpapers for the Mac desktop and Lock Screen: 3,200+ wallpapers, your own videos, and a desktop that follows the music you play, with synced lyrics. One-time purchase, 7-day free trial. Submitted by the maker.</td>
       <td><strong>50% OFF</strong> · Pro (3 Macs) <del>$14.99</del> $7.49 · Pro+ (5 Macs) <del>$24.99</del> $12.49 · No code needed</td>
