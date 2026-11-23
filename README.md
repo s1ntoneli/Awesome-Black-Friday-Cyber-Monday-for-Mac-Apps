@@ -173,17 +173,17 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td align="center">💎</td>
       <td><a href="https://apps.apple.com/app/id6762462645?utm_source=awesomebflist&amp;utm_medium=deal&amp;utm_campaign=bf2026">DropToDo</a></td>
       <td>Menu Bar Timer (macOS)</td>
-      <td>Press the menu bar icon and drag down — the distance is the time. Glowing guide line, frosted-glass countdown card, live menu bar countdown. One-time purchase.</td>
-      <td><strong>40% OFF</strong> · $2.99 · No code</td>
+      <td>Press the menu bar icon and drag down — the distance is the time. Glowing guide line, frosted-glass countdown card, live menu bar countdown. One-time purchase. Submitted by the maker.</td>
+      <td><strong>40% OFF</strong> · $4.99 → $2.99 · No code</td>
       <td>Nov 26 - Dec 1, 2026</td>
     </tr>
     <tr>
       <td align="center">🔥</td>
       <td><a href="https://keymap.app?utm_source=awesomebflist&amp;utm_medium=deal&amp;utm_campaign=bf2026">Keymap</a></td>
       <td>Shortcut Finder (macOS)</td>
-      <td>Double-press Command to see every shortcut of the current app in a floating panel. Conflict detection with smart suggestions, optional remapping. Data stays local, one-time purchase.</td>
-      <td><strong>50% OFF</strong> · $3.49 · <code>BF2026</code></td>
-      <td>Nov 26 - Dec 1, 2026</td>
+      <td>Double-press Command to see every shortcut of the current app in a floating panel. Conflict detection with smart suggestions, optional remapping. Data stays local, one-time purchase. Submitted by the maker.</td>
+      <td><strong>50% OFF</strong> · $6.99 → $3.49 · <code>BF2026</code></td>
+      <td>Nov 21 - Dec 1, 2026</td>
     </tr>
     <tr>
       <td align="center">🔥</td>
@@ -533,9 +533,9 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td align="center">🔥</td>
       <td><a href="https://picxure.app?utm_source=awesomebflist&amp;utm_medium=deal&amp;utm_campaign=bf2026">PicXure</a></td>
       <td>Screenshot &amp; Annotation (macOS)</td>
-      <td>Region/window/scrolling capture with a 9-tool annotator. OCR and mosaic are free forever; Pro adds Backdrop, Pin, and Watermark. 1 license = 3 Macs, lifetime updates.</td>
-      <td><strong>50% OFF</strong> · $9.49 · <code>BF2026</code></td>
-      <td>Nov 26 - Dec 1, 2026</td>
+      <td>Region/window/scrolling capture with a 9-tool annotator. OCR and mosaic are free forever; Pro adds Backdrop, Pin, and Watermark. 1 license = 3 Macs, lifetime updates. Submitted by the maker.</td>
+      <td><strong>50% OFF</strong> · $14.99 → $7.49 · <code>BF2026</code></td>
+      <td>Nov 21 - Dec 1, 2026</td>
     </tr>
     <tr>
       <td align="center">💎</td>
@@ -805,16 +805,16 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td align="center">💎</td>
       <td><a href="https://apps.apple.com/app/id6763493579?utm_source=awesomebflist&amp;utm_medium=deal&amp;utm_campaign=bf2026">PixelColor</a></td>
       <td>Color Picker (macOS)</td>
-      <td>Pick any color from your screen and edit it in RGB, HSB, or HSL. Save favorites, copy in HEX/rgb()/hsl(), zero network access. macOS 14+, Universal.</td>
-      <td><strong>43% OFF</strong> · $3.99 · No code</td>
+      <td>Pick any color from your screen and edit it in RGB, HSB, or HSL. Save favorites, copy in HEX/rgb()/hsl(), zero network access. macOS 14+, Universal. Submitted by the maker.</td>
+      <td><strong>43% OFF</strong> · $6.99 → $3.99 · No code</td>
       <td>Nov 26 - Dec 1, 2026</td>
     </tr>
     <tr>
       <td align="center">🔥</td>
       <td><a href="https://apps.apple.com/app/id6768883420?utm_source=awesomebflist&amp;utm_medium=deal&amp;utm_campaign=bf2026">FloatViewer</a></td>
       <td>Image Viewer (macOS)</td>
-      <td>Borderless floating image viewer with 32+ formats (RAW, PSD, AVIF, SVG), EXIF inspector, histogram, and OCR. Smooth on 100MB+ images. Free app; code unlocks Lifetime.</td>
-      <td><strong>50% OFF</strong> Lifetime · <code>BF2026</code></td>
+      <td>Borderless floating image viewer with 32+ formats (RAW, PSD, AVIF, SVG), EXIF inspector, histogram, and OCR. Smooth on 100MB+ images. Free app; code unlocks Lifetime. Submitted by the maker.</td>
+      <td><strong>50% OFF</strong> Lifetime · $29.99 → $14.99 · <code>BF2026</code></td>
       <td>Nov 26 - Dec 1, 2026</td>
     </tr>
     <tr>
@@ -1049,16 +1049,16 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td align="center">💎</td>
       <td><a href="https://apps.apple.com/app/id6763036198?utm_source=awesomebflist&amp;utm_medium=deal&amp;utm_campaign=bf2026">VibeCursor</a></td>
       <td>Cursor Effects (macOS)</td>
-      <td>Smooth cursor trails, click particles, and sound effects — with zero system permissions. 120Hz smooth, multi-display, native Metal rendering.</td>
-      <td><strong>33% OFF</strong> · $1.99 · No code</td>
+      <td>Smooth cursor trails, click particles, and sound effects — with zero system permissions. 120Hz smooth, multi-display, native Metal rendering. Submitted by the maker.</td>
+      <td><strong>33% OFF</strong> · $2.99 → $1.99 · No code</td>
       <td>Nov 26 - Dec 1, 2026</td>
     </tr>
     <tr>
       <td align="center">💎</td>
       <td><a href="https://apps.apple.com/app/id6779282964?utm_source=awesomebflist&amp;utm_medium=deal&amp;utm_campaign=bf2026">WebDAV Lite</a></td>
       <td>WebDAV Server (macOS)</td>
-      <td>Turn any Mac folder into a WebDAV server — browse, stream, and download from any device on your network, with HTTPS encryption. Free app; code unlocks Pro: read &amp; write from Finder, Files app, Infuse.</td>
-      <td><strong>33% OFF</strong> unlock · $1.99 · <code>BF2026</code> (5,000 uses)</td>
+      <td>Turn any Mac folder into a WebDAV server — browse, stream, and download from any device on your network, with HTTPS encryption. Free app; code unlocks Pro: read &amp; write from Finder, Files app, Infuse. Submitted by the maker.</td>
+      <td><strong>33% OFF</strong> unlock · $2.99 → $1.99 · <code>BF2026</code> (5,000 uses)</td>
       <td>Nov 26 - Dec 1, 2026</td>
     </tr>
     <tr>
