@@ -749,6 +749,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>35% OFF</strong> one-time license · No code needed, applied at checkout</td>
       <td>Nov 15 - Nov 30, 2026 (11:59 PM PST)</td>
     </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://meetsabi.com/pages/blackfriday?utm_source=github&amp;utm_medium=deal-list&amp;utm_campaign=blackfriday2026&amp;utm_content=s1ntoneli">Sabi</a></td>
+      <td>Web SaaS + iOS / AI employee</td>
+      <td>AI employee for small business owners that you text like a person: answers your email, runs your calendar, follows up with leads and posts to your social media. Works over iMessage and SMS, web and iPhone; not a native Mac app.</td>
+      <td><strong>50% OFF</strong> 6 months of Sabi Pro ($995 → $495) · No code needed</td>
+      <td>Nov 20 - Nov 30, 2026</td>
+    </tr>
 
 
     <tr>
