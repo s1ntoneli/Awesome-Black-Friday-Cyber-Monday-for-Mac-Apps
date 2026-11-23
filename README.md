@@ -742,6 +742,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
           <td>Nov 15 (Bangkok) – Dec 17, 2026 at 17:00 UTC</td>
         </tr>
     <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://band.je/">Band·je</a></td>
+      <td>Call recording &amp; transcription (native Mac, iPhone, iPad)</td>
+      <td>Records calls in any app on your Mac (Zoom, Teams, Meet, FaceTime) without a bot joining, and transcribes them on device in 25 languages with who said what. Fast dictation for prompting. Also on iPhone, iPad and Apple Watch. Open source (GPL). Submitted by the maker.</td>
+      <td><strong>50% OFF</strong> Unlimited, one-time · €19.99 → €9.99 · App Store: no code · band.je download: <code>BLACKFRIDAY</code></td>
+      <td>Nov 27 - Dec 1, 2026</td>
+    </tr>
+    <tr>
       <td align="center">💎</td>
       <td><a href="https://refine.sh/#pricing">Refine</a></td>
       <td>Writing Assistant (macOS)</td>
