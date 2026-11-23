@@ -1218,6 +1218,22 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> first year of Pro Yearly ($14.99 → $7.49) · <code>NINJABF26</code></td>
       <td>Nov 24 - Dec 2, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://keyecho.app">KeyEcho</a></td>
+      <td>Keyboard Sound Utility (macOS, Windows, Linux)</td>
+      <td>Mechanical keyboard sound app with press-and-release keystroke audio, 18 free sound packs, and 70+ switch profiles. Runs locally with no account required. Maker submission.</td>
+      <td><strong>40% OFF</strong> All Sounds Forever ($9.99 → $5.99, one-time) · <code>BF2026</code></td>
+      <td>Nov 24 - Dec 2, 2026</td>
+    </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://reelloft.com">Reelloft</a></td>
+      <td>Local Video Caster (macOS, Windows)</td>
+      <td>Point at a local video folder, watch in your phone browser via QR code, or cast straight to DLNA, Chromecast, and AirPlay TVs over Wi-Fi. No account or cloud; 5-minute free preview per cast. Maker submission.</td>
+      <td><strong>40% OFF</strong> Lifetime license ($15 → $9, one-time) · <code>REELLOFTBF</code></td>
+      <td>Nov 24 - Dec 2, 2026</td>
+    </tr>
   </tbody>
 </table>
 
