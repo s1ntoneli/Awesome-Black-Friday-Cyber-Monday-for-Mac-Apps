@@ -1379,6 +1379,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>30% OFF</strong> with code <code>BLACKFRIDAY2026</code></td>
       <td>Nov 20 - Dec 1, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://moordeck.com/pricing">Moordeck</a></td>
+      <td>Anti-Detect Browser / AI Dev Tool (native macOS)</td>
+      <td>Local-first anti-detect browser with Zero-CDP AI agent control, 12-tool local MCP &amp; CLI. Ships as an Apple Silicon, macOS 13+, notarized <code>.dmg</code>; platforms: macOS Apple Silicon &amp; Linux x64 (Windows coming soon). Submitted by the maker.</td>
+      <td><strong>25% OFF</strong> Pro/Team Annual Year 1 (Pro $108 → $81/yr [$6.75/mo], Team $348 → $261/yr [$21.75/mo, 5 seats]; renews at $108/$348) · <code>BF2026</code> auto-applied · Founding Solo Lifetime $129 → $79 (first 200 seats)</td>
+      <td>Nov 24 - Nov 30, 2026</td>
+    </tr>
 
 
 
