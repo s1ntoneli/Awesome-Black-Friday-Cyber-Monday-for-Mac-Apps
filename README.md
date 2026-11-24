@@ -1379,6 +1379,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>30% OFF</strong> with code <code>BLACKFRIDAY2026</code></td>
       <td>Nov 20 - Dec 1, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://dashcanvas.dev/?utm_source=github&utm_medium=deal-list&utm_campaign=bf&utm_content=macapps-list">DASH</a></td>
+      <td>AI Coding Agents (macOS &amp; Windows)</td>
+      <td>Desktop canvas that runs Claude Code, Codex, Cursor, Gemini CLI and other agent CLIs side by side on your own subscriptions, with a face on every agent that shows who is working and who needs you. Submitted by the maker.</td>
+      <td><strong>40% OFF</strong> Lifetime · $29.99 · <code>BLACKFRIDAY</code></td>
+      <td>Nov 27 - Nov 30, 2026</td>
+    </tr>
 
 
 
