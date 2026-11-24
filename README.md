@@ -873,6 +873,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>36% OFF</strong> Personal one-time · US$39 → US$25; <strong>38% OFF</strong> Lifetime · US$79 → US$49; <strong>50% OFF</strong> Studio Duo (two Lifetime licenses only) · US$158 → US$79 · No code</td>
       <td>Nov 19 - Dec 1, 2026 (ends 23:59 PST)</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://www.foliosort.app/pricing?utm_source=bf26-s1ntoneli">FolioSort</a></td>
+      <td>Photo Organizer (macOS, Windows)</td>
+      <td>Organizes photos and videos by real EXIF date, camera and place, repairs Google Photos Takeout exports, cleans duplicates and blurry shots, and searches your library with on-device AI. Works on your existing folders, no import. Free version available. Submitted by the maker.</td>
+      <td><strong>25% OFF</strong> Elite one-time license · €39.99 → €29.99 · Code <code>BLACKFRIDAY</code> (applied automatically on the site)</td>
+      <td>Nov 26 - Nov 30, 2026</td>
+    </tr>
 
 
 
