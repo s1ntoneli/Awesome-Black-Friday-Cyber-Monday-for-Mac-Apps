@@ -593,8 +593,6 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% off</strong> Pro with code <code>BLACKFRIDAY26</code>. Monthly $2 → $1/month for 12 months, annual $19.99 → $10 for the first year, or lifetime $38.99 → $19.50 once (USD).</td>
       <td>Nov 20, 2026 - Dec 1, 2026</td>
     </tr>
-
-
     <tr>
       <td align="center">💎</td>
       <td><a href="https://cutfa.st/#pricing">CutFast</a></td>
@@ -603,7 +601,6 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>30% OFF</strong> Lifetime $399 → $279.30 · 60-minute pack $30 → $21 · No code needed</td>
       <td>Nov 20 - Dec 1, 2026</td>
     </tr>
-
     <tr>
       <td align="center">🔥</td>
       <td><a href="https://wispim.com/black-friday">Wispim: Voice Teleprompter</a></td>
