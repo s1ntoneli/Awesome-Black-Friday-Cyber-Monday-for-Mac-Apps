@@ -1218,6 +1218,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> first year of Pro Yearly ($14.99 → $7.49) · <code>NINJABF26</code></td>
       <td>Nov 24 - Dec 2, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://headroomapp.shop">Headroom for Mac</a></td>
+      <td>Disk Cleaner &amp; Mac Health (native macOS)</td>
+      <td>Shows what fills your disk, what slows your Mac and what starts without asking, and fixes only what you tick: cleaner (caches, logs, build folders, Xcode DerivedData, node_modules), byte-exact duplicate finder, disk space map, speed and battery history, security check, startup items and app permissions. Free download and scan. Apple silicon, macOS 14+. Submitted by the maker.</td>
+      <td><strong>30% OFF</strong> one-time · $19 → $13.30 · No code needed · up to 3 Macs, 30-day refund</td>
+      <td>Nov 23 - Dec 1, 2026</td>
+    </tr>
   </tbody>
 </table>
 
