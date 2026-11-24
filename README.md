@@ -768,6 +768,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> the first payment on any Pro plan with code <code>BF2026</code> · monthly €14 → €7, annual €84 → €42 (EUR)</td>
       <td>Nov 27 - Dec 1, 2026</td>
     </tr>
+    <tr>
+      <td align="center">—</td>
+      <td><a href="https://meboki.com/?ref=s1ntoneli#pricing">Meboki</a></td>
+      <td>Grammar Checker (native macOS)</td>
+      <td>Open-source (GPL-3.0) grammar checker that works offline. Checks English as you type in any app with an open-weight model that runs on the Mac, so text never leaves it; underlines mistakes and fixes them in place. No account, no subscription. Apple silicon, macOS 14+, 7-day free trial. Submitted by the maker.</td>
+      <td><strong>Black Friday price $29</strong> one-time license (1 Mac), then $39 · Every future update included · No code needed (applied at checkout)</td>
+      <td>Nov 21 - Dec 1, 2026 (Pacific)</td>
+    </tr>
   </tbody>
 </table>
 
