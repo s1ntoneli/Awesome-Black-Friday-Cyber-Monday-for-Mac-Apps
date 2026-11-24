@@ -1379,6 +1379,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>30% OFF</strong> with code <code>BLACKFRIDAY2026</code></td>
       <td>Nov 20 - Dec 1, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://repoflock.com/?utm_source=github&utm_medium=organic&utm_campaign=black-friday-2026#pricing">RepoFlock</a></td>
+      <td>Git Client</td>
+      <td>Desktop Git client for many repositories and submodules: which repo is behind or dirty, bulk fetch/pull/push, search across every repo. Apple Silicon and Intel; also Windows and Linux. Free version for personal and commercial use.</td>
+      <td><strong>$10 OFF</strong> Pro · $39 → $29 one-time · No code needed</td>
+      <td>Nov 27 - Dec 1, 2026</td>
+    </tr>
 
 
 
