@@ -1218,6 +1218,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> first year of Pro Yearly ($14.99 → $7.49) · <code>NINJABF26</code></td>
       <td>Nov 24 - Dec 2, 2026</td>
     </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://transommac.com/pricing?ref=themacapps">Transom</a></td>
+      <td>Window Manager (native macOS)</td>
+      <td>Snap windows with shortcuts or by dragging, or scroll them as columns. Saves your layout and puts it back when you plug in or unplug a monitor. Apple silicon, macOS 14+. 14-day free trial. Submitted by the maker.</td>
+      <td><strong>52% OFF</strong> one-time · $19 → $9 (1 Mac), $29 → $14 (3 Macs) · No code needed</td>
+      <td>Nov 24 - Dec 1, 2026</td>
+    </tr>
   </tbody>
 </table>
 
