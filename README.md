@@ -1244,7 +1244,7 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
     </tr>
     <tr>
       <td align="center">💎</td>
-      <td><a href="https://tidyware.app/staylit/?utm_source=github">StayLit</a></td>
+      <td><a href="https://tidyware.app/awakelet/?utm_source=github">Awakelet</a></td>
       <td>Keep Awake (macOS)</td>
       <td>Menu bar app that keeps your Mac awake for a set time, until an app quits or downloads finish. Native macOS app. Submitted by the maker (Tidyware).</td>
       <td><strong>30% OFF</strong> one-time license, all customers ($9 → $6.30 USD) · <code>BF2026</code></td>
