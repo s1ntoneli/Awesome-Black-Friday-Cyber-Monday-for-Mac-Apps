@@ -400,6 +400,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> Pro one-time license · $12 → $6 · <code>BF2026</code> at checkout</td>
       <td>Nov 22 - Nov 30, 2026</td>
     </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://shepetal.app/blog/black-friday-dictation-note-taking-deals?ref=themacapps-bf">shepetal</a></td>
+      <td>Dictation &amp; Meeting Notes (native macOS)</td>
+      <td>Dictation and meeting notes for the Mac that run on your Mac. Speech recognition works offline. Apple silicon and macOS 14.4 or later, 30-day free trial. Submitted by the maker.</td>
+      <td><strong>80% OFF</strong> lifetime license · €24 → €4.80 once · <code>BLACKFRIDAY</code></td>
+      <td>Nov 24 - Nov 30, 2026</td>
+    </tr>
   </tbody>
 </table>
 
