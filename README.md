@@ -1379,6 +1379,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>30% OFF</strong> with code <code>BLACKFRIDAY2026</code></td>
       <td>Nov 20 - Dec 1, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://apprankhero.com/pricing?utm_source=gh-s1ntoneli&amp;utm_medium=deal&amp;utm_campaign=black_friday_2026">AppRankHero</a></td>
+      <td>ASO &amp; Keyword Tracker</td>
+      <td>Native Mac app for ASO that tracks your App Store and Google Play keyword ranks every morning, with keyword research, competitor tracking and an MCP server for AI tools. Free plan for 1 app and 500 keywords. Made by us.</td>
+      <td><strong>30% OFF</strong> first year of annual Pro ($49.99 → $34.99) and Studio ($124.99 → $87.49) · <code>BLACKFRIDAY30</code></td>
+      <td>Nov 27 - Dec 1, 2026</td>
+    </tr>
 
 
 
