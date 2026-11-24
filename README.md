@@ -1218,6 +1218,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> first year of Pro Yearly ($14.99 → $7.49) · <code>NINJABF26</code></td>
       <td>Nov 24 - Dec 2, 2026</td>
     </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://getdock.space/#pricing">Dockspace</a></td>
+      <td>Dock &amp; Widgets (native macOS)</td>
+      <td>Native Swift macOS Dock replacement and Liquid Glass widget bar with 174 live widgets (10 free forever), live Claude Code/Codex/Antigravity quotas, Disk Doctor cache cleaner, live 4K wallpapers, and a notch clipboard shelf. Signed and notarized. Submitted by the maker.</td>
+      <td><strong>50% OFF</strong> all Pro plans · Lifetime $19.99 → $9.99, Forever $49.99 → $24.99, Yearly $11.99 → $5.99 · <code>BLACKFRIDAY2026</code> (auto-applied)</td>
+      <td>Nov 18 - Dec 1, 2026</td>
+    </tr>
   </tbody>
 </table>
 
