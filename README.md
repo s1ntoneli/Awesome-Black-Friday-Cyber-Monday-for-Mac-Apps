@@ -400,6 +400,30 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> Pro one-time license · $12 → $6 · <code>BF2026</code> at checkout</td>
       <td>Nov 22 - Nov 30, 2026</td>
     </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://www.yuzool.com/apps/suzume/">Suzume Mail</a></td>
+      <td>Email Client (native macOS, iOS)</td>
+      <td>Email that reads like a chat, with on-device summaries and reply help; works with your existing IMAP accounts. Free download. Submitted by the maker.</td>
+      <td><strong>50% OFF</strong> one unlock for all devices · $19.99 → $9.99 · No code needed (App Store price)</td>
+      <td>Nov 25 - Dec 2, 2026</td>
+    </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://www.yuzool.com/apps/cadence/">Cadence</a></td>
+      <td>Weekly Planner (native macOS, iOS)</td>
+      <td>A calm weekly board: lay the week out day by day, roll over what did not get done, sync with iCloud. Submitted by the maker.</td>
+      <td><strong>50% OFF</strong> Mac $19.99 → $9.99, iPhone and iPad $9.99 → $4.99 · No code needed (App Store price)</td>
+      <td>Nov 25 - Dec 2, 2026</td>
+    </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://www.yuzool.com/apps/dripsend.html">Drip Send</a></td>
+      <td>Email Outreach (native macOS)</td>
+      <td>Small, personal outreach sequences sent from your own mailbox, not a bulk sender. Submitted by the maker.</td>
+      <td><strong>50%+ OFF</strong> one-time · $34.99 → $16.99 · No code needed (Mac App Store price)</td>
+      <td>Nov 25 - Dec 2, 2026</td>
+    </tr>
   </tbody>
 </table>
 
