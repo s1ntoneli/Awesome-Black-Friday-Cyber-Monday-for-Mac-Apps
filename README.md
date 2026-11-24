@@ -768,6 +768,22 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> the first payment on any Pro plan with code <code>BF2026</code> · monthly €14 → €7, annual €84 → €42 (EUR)</td>
       <td>Nov 27 - Dec 1, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://tidyware.app/localvoice/?utm_source=github">LocalVoice</a></td>
+      <td>Transcription (macOS)</td>
+      <td>Transcribe audio and video on your Mac without uploading it; export TXT, SRT, VTT or Markdown, and read text or PDFs aloud. Native macOS app. Submitted by the maker (Tidyware).</td>
+      <td><strong>30% OFF</strong> one-time license, all customers ($19 → $13.30 USD) · <code>BF2026</code></td>
+      <td>Nov 24 - Dec 2, 2026</td>
+    </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://tidyware.app/noteporter/?utm_source=github">NotePorter</a></td>
+      <td>MCP Server (macOS)</td>
+      <td>Local MCP server that lets Claude, Cursor and Shortcuts search, read, create and append to Apple Notes on your Mac. Native macOS app. Submitted by the maker (Tidyware).</td>
+      <td><strong>30% OFF</strong> one-time license, all customers ($15 → $10.50 USD) · <code>BF2026</code></td>
+      <td>Nov 24 - Dec 2, 2026</td>
+    </tr>
   </tbody>
 </table>
 
@@ -876,6 +892,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
 
 
 
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://tidyware.app/batchshift/?utm_source=github">BatchShift</a></td>
+      <td>Image Converter (macOS)</td>
+      <td>Batch convert HEIC and WebP photos to JPG or PNG, with resize, compression and GPS removal. Native macOS app. Submitted by the maker (Tidyware).</td>
+      <td><strong>30% OFF</strong> one-time license, all customers ($9 → $6.30 USD) · <code>BF2026</code></td>
+      <td>Nov 24 - Dec 2, 2026</td>
+    </tr>
   </tbody>
 </table>
 
@@ -1216,6 +1240,22 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td>Disk Analyzer</td>
       <td>Mac app (also on Windows and Linux) that maps your disk in seconds, free. Pro adds a sorted list of big files you might not need, each with a reason, and plain answers about any file. Maker submission.</td>
       <td><strong>50% OFF</strong> first year of Pro Yearly ($14.99 → $7.49) · <code>NINJABF26</code></td>
+      <td>Nov 24 - Dec 2, 2026</td>
+    </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://tidyware.app/staylit/?utm_source=github">StayLit</a></td>
+      <td>Keep Awake (macOS)</td>
+      <td>Menu bar app that keeps your Mac awake for a set time, until an app quits or downloads finish. Native macOS app. Submitted by the maker (Tidyware).</td>
+      <td><strong>30% OFF</strong> one-time license, all customers ($9 → $6.30 USD) · <code>BF2026</code></td>
+      <td>Nov 24 - Dec 2, 2026</td>
+    </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://tidyware.app/twinsweep/?utm_source=github">TwinSweep</a></td>
+      <td>Duplicate Finder (macOS)</td>
+      <td>Find and remove duplicate files and photos, including in your Photos library (beta). Native macOS app. Submitted by the maker (Tidyware).</td>
+      <td><strong>30% OFF</strong> one-time license, all customers ($19 → $13.30 USD) · <code>BF2026</code></td>
       <td>Nov 24 - Dec 2, 2026</td>
     </tr>
   </tbody>
