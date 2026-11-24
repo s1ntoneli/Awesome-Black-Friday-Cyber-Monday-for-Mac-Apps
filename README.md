@@ -17,6 +17,7 @@ A curated list of **Mac-friendly app deals** for Black Friday / Cyber Monday 202
 | 🔥 | 50% or more |
 | 💎 | 20–49% |
 | ✨ | Under 20% |
+| 💎 | [SimpleFill](https://simplefill.app) | Text expander and form filler (browser extension for Chrome, Firefox, and Edge; Safari via the Mac App Store) | Expand shortcuts into snippets, run AI actions, and fill whole web forms in one click. | **25% OFF** one-time purchase with code **LAUNCH** (Standard $29 → $21.75, Pro $59 → $44.25), on the Chrome, Firefox, and Edge checkout | Nov 10 - Dec 7, 2026 |
 
 ## Categories
 
