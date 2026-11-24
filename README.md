@@ -400,6 +400,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> Pro one-time license · $12 → $6 · <code>BF2026</code> at checkout</td>
       <td>Nov 22 - Nov 30, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://smolkapps.com/flowspeak/?utm_source=s1ntoneli-bf2026&amp;utm_medium=deal-list&amp;utm_campaign=bf2026#pricing">FlowSpeak</a></td>
+      <td>Voice Dictation (native macOS &amp; Linux)</td>
+      <td>Hold-Ctrl push-to-talk dictation in Go + AppKit running whisper.cpp locally on Apple Silicon Metal &amp; Intel (macOS 12+) plus Linux x86_64. Strips um/uh stutters, preserves clipboard, and keeps Ctrl+C/Ctrl+Click intact. Free 25-dictation trial, macOS notarization pending (right-click &rarr; Open); native Linux x86_64 included. Submitted by the maker.</td>
+      <td><strong>34% OFF</strong> Lifetime Pro one-time · $29 → $19 (up to 3 computers) · No code needed</td>
+      <td>Nov 24 - Dec 1, 2026</td>
+    </tr>
   </tbody>
 </table>
 
