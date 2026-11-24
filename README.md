@@ -593,8 +593,6 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% off</strong> Pro with code <code>BLACKFRIDAY26</code>. Monthly $2 → $1/month for 12 months, annual $19.99 → $10 for the first year, or lifetime $38.99 → $19.50 once (USD).</td>
       <td>Nov 20, 2026 - Dec 1, 2026</td>
     </tr>
-
-
     <tr>
       <td align="center">💎</td>
       <td><a href="https://cutfa.st/#pricing">CutFast</a></td>
@@ -603,7 +601,6 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>30% OFF</strong> Lifetime $399 → $279.30 · 60-minute pack $30 → $21 · No code needed</td>
       <td>Nov 20 - Dec 1, 2026</td>
     </tr>
-
     <tr>
       <td align="center">🔥</td>
       <td><a href="https://wispim.com/black-friday">Wispim: Voice Teleprompter</a></td>
@@ -611,6 +608,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td>Teleprompter that follows your voice: the script scrolls as you speak and waits while you pause. It can float over your camera app. Submitted by the maker.</td>
       <td><strong>50% OFF</strong> Lifetime Pro, a one-time purchase: $199.99 → $99.99 in the App Store · No code needed</td>
       <td>Nov 27 - Nov 30, 2026</td>
+    </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://transcrybe.app/">Transcrybe</a></td>
+      <td>Live Translation &amp; Subtitles (macOS)</td>
+      <td>Show live translated subtitles to a multilingual audience or follow meetings and videos in another language. Audio from your microphone or any Mac app is processed on-device, so it is super fast and completely private.</td>
+      <td><strong>50% OFF</strong> lifetime (US$29.99 → US$14.99) · Mac App Store and direct checkout · Automatically applied · No code needed</td>
+      <td>Nov 16 - Dec 2, 2026</td>
     </tr>
   </tbody>
 </table>
