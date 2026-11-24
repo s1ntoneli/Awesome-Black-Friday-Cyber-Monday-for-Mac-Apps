@@ -439,7 +439,7 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td>Screen annotation</td>
       <td>Draw and annotate on your screen, highlight your cursor and clicks, spotlight, and zoom. For presentations, calls, demos, and teaching. Native Mac app, featured by Apple, one-time purchase.</td>
       <td><strong>30% OFF</strong> · <code>PRESENTIFY30</code> (website)</td>
-      <td>Nov 18 - Dec 2, 2026</td>
+      <td>Nov 18 - Dec 7, 2026</td>
     </tr>
     <tr>
       <td align="center">💎</td>
@@ -447,7 +447,7 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td>Live cam</td>
       <td>Floating camera overlay plus a text overlay (name, handle) and a ring light, for screen recordings and video calls. Mac, iPhone, and iPad, one-time purchase.</td>
       <td><strong>30% OFF</strong> · <code>FACESCREEN30</code> (website)</td>
-      <td>Nov 18 - Dec 2, 2026</td>
+      <td>Nov 18 - Dec 7, 2026</td>
     </tr>
     <tr>
       <td align="center">💎</td>
@@ -455,7 +455,7 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td>Keystroke</td>
       <td>Shows the keys you press on screen, for tutorials, streams, and live demos. Native Mac app, one-time purchase.</td>
       <td><strong>30% OFF</strong> · <code>KEYSCREEN30</code> (website)</td>
-      <td>Nov 18 - Dec 2, 2026</td>
+      <td>Nov 18 - Dec 7, 2026</td>
     </tr>
     <tr>
       <td align="center">💎</td>
