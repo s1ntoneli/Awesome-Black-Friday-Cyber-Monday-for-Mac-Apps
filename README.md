@@ -768,7 +768,15 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> the first payment on any Pro plan with code <code>BF2026</code> · monthly €14 → €7, annual €84 → €42 (EUR)</td>
       <td>Nov 27 - Dec 1, 2026</td>
     </tr>
-  </tbody>
+      <tr>
+      <td align="center">💎</td>
+      <td><a href="https://screenpipe.com/black-friday?utm_source=github&amp;utm_medium=deal-list&amp;utm_campaign=black_friday_2026&amp;utm_content=s1ntoneli">Screenpipe</a></td>
+      <td>Native Mac app / AI Memory and Productivity</td>
+      <td>Records your screen and audio locally and turns it into searchable memory, reusable skills and workflows for Claude, Codex, Cursor and teams. Native apps for macOS, Windows and Linux; data stays local. Submitted by the maker.</td>
+      <td><strong>20% OFF</strong> the first year of annual plans · Basic $250 → $200, Business $500 → $400/seat · no code needed, applied automatically at checkout</td>
+      <td>Nov 25 - Nov 30, 2026</td>
+    </tr>
+</tbody>
 </table>
 
 ## Design Tools
