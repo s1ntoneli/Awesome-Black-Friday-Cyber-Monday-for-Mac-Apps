@@ -400,6 +400,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> Pro one-time license · $12 → $6 · <code>BF2026</code> at checkout</td>
       <td>Nov 22 - Nov 30, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://paste-formatter.app/?utm_source=bf2026-themacapps&amp;discount=BLACKFRIDAY">Paste Formatter</a></td>
+      <td>Clipboard utility</td>
+      <td>Native Mac app that removes unwanted fonts and colors from pasted text while keeping links and lists. Maker submission.</td>
+      <td><strong>€2 off</strong> a one-time purchase (<del>€4.99</del> → <strong>€2.99</strong>) · <code>BLACKFRIDAY</code> (auto-applied)</td>
+      <td>Nov 24 - Nov 30, 2026</td>
+    </tr>
   </tbody>
 </table>
 
