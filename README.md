@@ -400,6 +400,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> Pro one-time license · $12 → $6 · <code>BF2026</code> at checkout</td>
       <td>Nov 22 - Nov 30, 2026</td>
     </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://apps.apple.com/app/id6822129255">bitPDF</a></td>
+      <td>PDF Editor (macOS)</td>
+      <td>Save client PDF packets as reusable checklists, catch missing or ambiguous files before export, and make scans searchable with on-device OCR. One-time purchase. Listed by the maker.</td>
+      <td><strong>50% OFF</strong> · $39.99 → $19.99 · No code needed</td>
+      <td>Nov 27 - Nov 30, 2026</td>
+    </tr>
   </tbody>
 </table>
 
@@ -610,6 +618,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td>Teleprompter (Mac, iPhone, iPad)</td>
       <td>Teleprompter that follows your voice: the script scrolls as you speak and waits while you pause. It can float over your camera app. Submitted by the maker.</td>
       <td><strong>50% OFF</strong> Lifetime Pro, a one-time purchase: $199.99 → $99.99 in the App Store · No code needed</td>
+      <td>Nov 27 - Nov 30, 2026</td>
+    </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://apps.apple.com/app/id6822924026">bitLight</a></td>
+      <td>RAW Photo Editor (macOS)</td>
+      <td>Native RAW editor for culling and non-destructive developing: masks with Select Subject and Select Sky, lens corrections, healing, HDR editing and bracket merge. One-time purchase. Listed by the maker.</td>
+      <td><strong>50% OFF</strong> · $29.99 → $14.99 · No code needed</td>
       <td>Nov 27 - Nov 30, 2026</td>
     </tr>
   </tbody>
