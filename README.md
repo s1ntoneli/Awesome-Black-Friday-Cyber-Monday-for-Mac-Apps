@@ -400,6 +400,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> Pro one-time license · $12 → $6 · <code>BF2026</code> at checkout</td>
       <td>Nov 22 - Nov 30, 2026</td>
     </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://shiftapp.com/black-friday">ShiftApp</a></td>
+      <td>Employee Scheduling (web browser on macOS)</td>
+      <td>Plan employee shifts, manage time off and share schedules with staff. Submitted by the maker.</td>
+      <td><strong>88% OFF</strong> the first 8 months on new Essential monthly orders · E10 US$24 → US$2.88/month for 8 months, then US$24/month, before tax · <code>BLACKFRIDAY2026</code> applied automatically</td>
+      <td>Nov 23 - Dec 12, 2026</td>
+    </tr>
   </tbody>
 </table>
 
