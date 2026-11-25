@@ -1218,6 +1218,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> first year of Pro Yearly ($14.99 → $7.49) · <code>NINJABF26</code></td>
       <td>Nov 24 - Dec 2, 2026</td>
     </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://hazeover.com">HazeOver</a></td>
+      <td>Window focus</td>
+      <td>Dims background windows to highlight the active one, so you always know where you’re typing. Native macOS app. Maker submission.</td>
+      <td><strong>60% OFF</strong> One-time ($4.99 → $1.99) · No code needed</td>
+      <td>Nov 27 - Dec 1, 2026</td>
+    </tr>
   </tbody>
 </table>
 
