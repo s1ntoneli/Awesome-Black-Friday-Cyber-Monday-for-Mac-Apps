@@ -322,12 +322,6 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
           <td><strong>Launch price $39</strong> · One-time purchase, no subscription · No code needed (applied at checkout). Submitted by the maker.</td>
           <td>Nov 20 - Dec 1, 2026</td>
         </tr>
-
-
-
-
-
-
     <tr>
       <td align="center">🆓</td>
       <td><a href="https://github.com/Yvsleyen00941/Needle">Needle</a></td>
@@ -749,8 +743,6 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>35% OFF</strong> one-time license · No code needed, applied at checkout</td>
       <td>Nov 15 - Nov 30, 2026 (11:59 PM PST)</td>
     </tr>
-
-
     <tr>
       <td align="center">🔥</td>
       <td><a href="https://bibigpt.co/en/shop?ref=BLACKFRIDAY">BibiGPT</a></td>
@@ -759,7 +751,6 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> Plus and Pro, first payment · <code>BLACKFRIDAY</code> (auto-applied from the link) · Plus yearly $142.56 → $71.28</td>
       <td>Nov 12 - Dec 1, 2026</td>
     </tr>
-
     <tr>
       <td align="center">🔥</td>
       <td><a href="https://cvder.app/pricing">CVder</a></td>
@@ -1157,11 +1148,6 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>60% OFF</strong> ($14.99 → $5.99) one-time purchase · <code>BLACKFRIDAY</code></td>
       <td>Nov 18 - Nov 30, 2026</td>
     </tr>
-
-
-
-
-
     <tr>
       <td align="center">💎</td>
       <td><a href="https://pangalin.com/space-manager/">Pangalin Space Manager</a></td>
@@ -1439,7 +1425,6 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>Lifetime discounts</strong>, available to everyone · Single $19.99 → $11.99 USD with <a href="https://apps.apple.com/redeem?ctx=offercodes&amp;id=6743316600&amp;code=BLKFR2026"><code>BLKFR2026</code></a> · Family $26.99 → $15.99 USD with <a href="https://apps.apple.com/redeem?ctx=offercodes&amp;id=6743316600&amp;code=BLKFR2026FAMILY"><code>BLKFR2026FAMILY</code></a></td>
       <td>Nov 15 - Dec 1, 2026</td>
     </tr>
-
     <tr>
       <td align="center">💎</td>
       <td><a href="https://moneywiz.onfastspring.com/subscribe">MoneyWiz</a></td>
@@ -1456,7 +1441,6 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>20% OFF</strong> one-time license ($31.20 on top of the $39 launch price, regular $49) · <code>BFCM2026</code></td>
       <td>Nov 20 - Dec 2, 2026</td>
     </tr>
-
   </tbody>
 </table>
 
