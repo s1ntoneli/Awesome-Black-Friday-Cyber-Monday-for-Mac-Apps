@@ -1220,10 +1220,10 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
     </tr>
     <tr>
       <td align="center">💎</td>
-      <td><a href="https://thehorcrux.com/">Horcrux Email Backup</a></td>
+      <td><a href="https://thehorcrux.com/pricing/#black-friday-2026">Horcrux Email Backup</a></td>
       <td>Email Backup (native macOS)</td>
       <td>Back up Gmail, Outlook, and IMAP mail on your Mac, search saved messages offline, and restore them to another mailbox. Submitted by the maker.</td>
-      <td><strong>30% OFF</strong> the Horcrux 5 one-time purchase (US $49.99 → $34.99) · <code>BLACKFRIDAY2026</code> direct or on the <a href="https://apps.apple.com/redeem?ctx=offercodes&amp;id=557880555&amp;code=BLACKFRIDAY2026">Mac App Store</a></td>
+      <td><strong>30% OFF</strong> the Horcrux 5 one-time purchase (US $49.99 → $34.99) · <code>BLACKFRIDAY2026</code> direct or on the Mac App Store</td>
       <td>Nov 25 - Dec 1, 2026</td>
     </tr>
   </tbody>
