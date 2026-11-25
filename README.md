@@ -1218,6 +1218,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> first year of Pro Yearly ($14.99 → $7.49) · <code>NINJABF26</code></td>
       <td>Nov 24 - Dec 2, 2026</td>
     </tr>
+    <tr>
+      <td align="center">—</td>
+      <td><a href="https://lunille.com/?ref=bf-s1ntoneli">Lunille</a></td>
+      <td>Notch App</td>
+      <td>Native Mac notch app with a little moon, Luni, living behind the camera. It dances to your music, puts its earbuds in when your AirPods connect and follows the real moon phase. Underneath: music with synced lyrics, calls, notifications, calendar and a file tray. Submitted by the maker.</td>
+      <td><strong>Launch price</strong> · $9.99 one-time for up to 3 Macs, then $14.99 from Dec 1 · 14-day free trial · No code needed</td>
+      <td>Nov 25 - Nov 30, 2026</td>
+    </tr>
   </tbody>
 </table>
 
