@@ -1384,10 +1384,10 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
 
     <tr>
       <td align="center">💎</td>
-      <td><a href="https://vibeisland.app/#pricing">Vibe Island</a></td>
+      <td><a href="https://vibeisland.app">Vibe Island</a></td>
       <td>AI Agent Monitor (macOS)</td>
-      <td>Shows what Claude Code, Codex, Cursor and other coding agents are doing in your Mac's notch. Approve permission requests from there, or click to jump back to the right terminal tab.</td>
-      <td><strong>40% OFF</strong> · $19.99 → $11.99 one-time, 1 year of updates · No code needed</td>
+      <td>Native Swift app that puts your AI coding agents in the Mac notch. See what Claude Code, Codex and others are doing, approve requests or answer their questions there, and click to jump back to the right terminal. Out since March 2026, 50+ updates.</td>
+      <td><strong>40% OFF</strong> 1 Mac ($19.99 → $11.99), 2 Macs $21.99, 3 Macs $31.99. No code needed.</td>
       <td>Nov 25 - Dec 1, 2026. (Disclosure: I'm the developer.)</td>
     </tr>
   </tbody>
