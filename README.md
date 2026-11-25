@@ -768,6 +768,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> the first payment on any Pro plan with code <code>BF2026</code> · monthly €14 → €7, annual €84 → €42 (EUR)</td>
       <td>Nov 27 - Dec 1, 2026</td>
     </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://zeptap.com/pricing">Zeptap</a></td>
+      <td>Native Mac / AI Agents</td>
+      <td>Native Mac app that lets Claude, Codex or any MCP agent use your real iPhone and its apps. No Xcode, no developer account, nothing to install on the phone.</td>
+      <td><strong>50% OFF</strong> every plan · Lifetime $99 once (was $199) · No code needed</td>
+      <td>Nov 25 - Dec 1, 2026</td>
+    </tr>
   </tbody>
 </table>
 
