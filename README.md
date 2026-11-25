@@ -400,6 +400,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> Pro one-time license · $12 → $6 · <code>BF2026</code> at checkout</td>
       <td>Nov 22 - Nov 30, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://stepfinch.app/?utm_source=s1ntoneli-bf&utm_campaign=bf2026#pricing">Stepfinch</a></td>
+      <td>Step-by-step guides (native macOS)</td>
+      <td>Do a task once and it writes a step-by-step guide with a screenshot of every click. Blurs emails and card numbers by itself; exports PDF, Word, PowerPoint and video. Apple silicon, macOS 14+. Submitted by the maker.</td>
+      <td><strong>26% OFF</strong> Lifetime · $39 → $29, one payment · 3 Macs, every update · No code needed</td>
+      <td>Nov 23 - Dec 1, 2026</td>
+    </tr>
   </tbody>
 </table>
 
