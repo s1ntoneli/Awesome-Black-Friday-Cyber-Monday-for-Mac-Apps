@@ -612,6 +612,8 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> Lifetime Pro, a one-time purchase: $199.99 → $99.99 in the App Store · No code needed</td>
       <td>Nov 27 - Nov 30, 2026</td>
     </tr>
+
+    <tr><td align="center">💎</td><td><a href="https://blendcue.com/?ref=bf-macapps">BlendCue</a></td><td>DJ Tool (native macOS, also Windows)</td><td>Companion app for Serato DJ Pro: follows the track on each deck and shortlists what mixes next from your own library by key, BPM, energy and genre, with headphone preview and one-click load. Submitted by the maker.</td><td><strong>40% OFF</strong> one-time licence: Solo $49 → $29 · <code>FOUNDINGSOLO</code>; Pro (2 computers) $79 → $49 · <code>FOUNDINGPRO</code> · first 25 buyers · 7-day free trial</td><td>Nov 24 - Dec 31, 2026</td></tr>
   </tbody>
 </table>
 
