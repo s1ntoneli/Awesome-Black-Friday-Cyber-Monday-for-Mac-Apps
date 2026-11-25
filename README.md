@@ -1218,6 +1218,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> first year of Pro Yearly ($14.99 → $7.49) · <code>NINJABF26</code></td>
       <td>Nov 24 - Dec 2, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://thehorcrux.com/pricing/#black-friday-2026">Horcrux Email Backup</a></td>
+      <td>Email Backup (native macOS)</td>
+      <td>Back up Gmail, Outlook, and IMAP mail on your Mac, search saved messages offline, and restore them to another mailbox. Submitted by the maker.</td>
+      <td><strong>30% OFF</strong> the Horcrux 5 one-time purchase (US $49.99 → $34.99) · <code>BLACKFRIDAY2026</code> direct or on the Mac App Store</td>
+      <td>Nov 25 - Dec 1, 2026</td>
+    </tr>
   </tbody>
 </table>
 
