@@ -400,6 +400,22 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> Pro one-time license · $12 → $6 · <code>BF2026</code> at checkout</td>
       <td>Nov 22 - Nov 30, 2026</td>
     </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://apps.apple.com/us/app/focusito-lofi-pomodoro-timer/id1473808464?ct=bf26_s1ntoneli&amp;mt=12">Focusito</a></td>
+      <td>Pomodoro timer (native Mac)</td>
+      <td>Mac-native Pomodoro timer with a built-in LoFi player and ambient sounds. Paste a YouTube link to add your own station. Maker submission.</td>
+      <td><strong>50% OFF</strong> the full version (one-time purchase) ($9.99 → $4.99) · No code</td>
+      <td>Nov 26 - Dec 1, 2026</td>
+    </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://apps.apple.com/us/app/mochi-type-typing-practice/id6766949692?ct=bf26_s1ntoneli&amp;mt=12">Mochi Type</a></td>
+      <td>Typing trainer (native Mac)</td>
+      <td>Typing trainer for Mac: a guided touch-typing course from the first key, plus practice on real words in 21 languages, on your own keyboard layout. Maker submission.</td>
+      <td><strong>54% OFF</strong> Mochi Unlock (one-time purchase) ($12.99 → $5.99) · No code</td>
+      <td>Nov 26 - Dec 1, 2026</td>
+    </tr>
   </tbody>
 </table>
 
@@ -611,6 +627,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td>Teleprompter that follows your voice: the script scrolls as you speak and waits while you pause. It can float over your camera app. Submitted by the maker.</td>
       <td><strong>50% OFF</strong> Lifetime Pro, a one-time purchase: $199.99 → $99.99 in the App Store · No code needed</td>
       <td>Nov 27 - Nov 30, 2026</td>
+    </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://apps.apple.com/us/app/audiobo-m4b-audiobook-maker/id6754019673?ct=bf26_s1ntoneli&amp;mt=12">AudioBo</a></td>
+      <td>Audiobook maker (native Mac)</td>
+      <td>Turns audio files into M4B audiobooks with proper chapters and clean metadata, ready for Apple Books, Music, CarPlay and classic iPods. Maker submission.</td>
+      <td><strong>50% OFF</strong> the app (one-time purchase) ($9.99 → $4.99) · No code</td>
+      <td>Nov 26 - Dec 1, 2026</td>
     </tr>
   </tbody>
 </table>
@@ -1217,6 +1241,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td>Mac app (also on Windows and Linux) that maps your disk in seconds, free. Pro adds a sorted list of big files you might not need, each with a reason, and plain answers about any file. Maker submission.</td>
       <td><strong>50% OFF</strong> first year of Pro Yearly ($14.99 → $7.49) · <code>NINJABF26</code></td>
       <td>Nov 24 - Dec 2, 2026</td>
+    </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://apps.apple.com/us/app/filebo-recent-files-items/id6785596150?ct=bf26_s1ntoneli&amp;mt=12">FileBo</a></td>
+      <td>File utility (native Mac)</td>
+      <td>A pop-up window with the files and folders you recently used, changed, saved or downloaded on your Mac. Open them or drag them into any app. Maker submission.</td>
+      <td><strong>50% OFF</strong> FileBo Unlock (one-time purchase) ($9.99 → $4.99) · No code</td>
+      <td>Nov 26 - Dec 1, 2026</td>
     </tr>
   </tbody>
 </table>
