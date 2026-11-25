@@ -1218,6 +1218,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> first year of Pro Yearly ($14.99 → $7.49) · <code>NINJABF26</code></td>
       <td>Nov 24 - Dec 2, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://easyswitch.realbrain.cc/pricing">EasySwitch</a></td>
+      <td>Software KVM (macOS, Windows, Linux)</td>
+      <td>One keyboard and mouse across your computers on the local network, with a shared clipboard and file transfer, end-to-end encrypted. Pro and above also turn a linked computer into a second monitor. Free for two computers. Submitted by the maker.</td>
+      <td><strong>34–51% OFF</strong> one-time · every plan at the price of the one below (Pro $49 → $29) · No code needed</td>
+      <td>Nov 27 - Nov 30, 2026</td>
+    </tr>
   </tbody>
 </table>
 
