@@ -400,6 +400,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> Pro one-time license · $12 → $6 · <code>BF2026</code> at checkout</td>
       <td>Nov 22 - Nov 30, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://deskminder.appps.od.ua/">DeskMinder</a></td>
+      <td>Reminders &amp; Task Timers (native macOS)</td>
+      <td>Create quick desktop reminders and task timers, with optional full-screen alerts to stay on track. Submitted by the maker.</td>
+      <td><strong>43% OFF Pro Lifetime</strong> · $6.99 → $3.99 USD · Available to everyone · <a href="https://apps.apple.com/redeem?ctx=offercodes&amp;id=6740942938&amp;code=BLKFR2026"><code>BLKFR2026</code></a></td>
+      <td>Nov 15 - Dec 1, 2026</td>
+    </tr>
   </tbody>
 </table>
 
