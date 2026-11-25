@@ -1218,6 +1218,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> first year of Pro Yearly ($14.99 → $7.49) · <code>NINJABF26</code></td>
       <td>Nov 24 - Dec 2, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://ejectify.app/?utm_source=bf2026-themacapps&amp;discount=BLACKFRIDAY">Ejectify 2</a></td>
+      <td>Drive management</td>
+      <td>Native Mac app that unmounts external drives before sleep and remounts them on wake. Maker submission.</td>
+      <td><strong>€2 off</strong> a one-time purchase (<del>€6.99</del> → <strong>€4.99</strong>) · <code>BLACKFRIDAY</code> (auto-applied)</td>
+      <td>Nov 24 - Nov 30, 2026</td>
+    </tr>
   </tbody>
 </table>
 
