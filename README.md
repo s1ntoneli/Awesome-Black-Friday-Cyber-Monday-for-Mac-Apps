@@ -768,6 +768,15 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> the first payment on any Pro plan with code <code>BF2026</code> · monthly €14 → €7, annual €84 → €42 (EUR)</td>
       <td>Nov 27 - Dec 1, 2026</td>
     </tr>
+
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://www.blipai.app/black-friday?utm_source=s1ntoneli&utm_campaign=bf2026">Blip AI</a></td>
+      <td>Mac app + Windows, Linux, iPhone, Android / AI Dictation &amp; Meeting Notes</td>
+      <td>The Wispr Flow and Granola alternative in one app: hold a key, talk, and polished text lands in any app; the Meetings notetaker writes notes and action items for any call, with no bot. Free plan, no card. Submitted by the maker.</td>
+      <td><strong>Flat 50% OFF</strong> all plans, on every bill · <code>BLACKFRIDAY2026</code> · Pro yearly $144 → $72, monthly $15 → $7.50</td>
+      <td>Nov 23 - Dec 2, 2026</td>
+    </tr>
   </tbody>
 </table>
 
