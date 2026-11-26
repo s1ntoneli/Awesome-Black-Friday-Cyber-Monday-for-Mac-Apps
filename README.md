@@ -1219,11 +1219,11 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td>Nov 24 - Dec 2, 2026</td>
     </tr>
     <tr>
-      <td align="center">💎</td>
+      <td align="center">🔥</td>
       <td><a href="https://edgebar.xyz">EdgeBar</a></td>
       <td>Trackpad Utility (native macOS)</td>
       <td>Turns the unused edges of your MacBook trackpad or Magic Trackpad into volume and brightness sliders, with a light haptic tick and the same macOS HUD as the keyboard keys. Slide the top edge for keyboard backlight, double-tap a corner to mute or run a Shortcut, swipe the bottom edge to skip tracks. Lives in the menu bar, uses almost no CPU, macOS 13+. Submitted by the maker.</td>
-      <td><strong>30% OFF</strong> the $9 Black Friday price (goes to $14 after) · $6.30 one-time · <code>BLACKFRIDAY</code></td>
+      <td><strong>55% OFF</strong> one-time · $14 → $6.30 ($9 Black Friday price + 30% off with code) · <code>BLACKFRIDAY</code></td>
       <td>Nov 16 - Dec 1, 2026</td>
     </tr>
   </tbody>
