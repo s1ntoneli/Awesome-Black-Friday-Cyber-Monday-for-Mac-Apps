@@ -612,6 +612,15 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> Lifetime Pro, a one-time purchase: $199.99 → $99.99 in the App Store · No code needed</td>
       <td>Nov 27 - Nov 30, 2026</td>
     </tr>
+
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://www.truecinemaentertainment.com/captions">True Cinema Captions</a></td>
+      <td>Caption App (macOS)</td>
+      <td>Mac app that auto-generates styled captions for reels, with 32 looks and word-by-word editing. By the maker of this submission.</td>
+      <td><strong>$10 OFF</strong> one-time license ($39 → $29) · No code needed</td>
+      <td>Nov 25 - Dec 1, 2026</td>
+    </tr>
   </tbody>
 </table>
 
