@@ -1218,6 +1218,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> first year of Pro Yearly ($14.99 → $7.49) · <code>NINJABF26</code></td>
       <td>Nov 24 - Dec 2, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://www.cacheflo.net/">CacheFlo</a></td>
+      <td>Mac Cleaner</td>
+      <td>Mac cleaner built for privacy and security: cleans junk and app leftovers, finds duplicates and checks your Mac's security. Sends nothing about your Mac anywhere; you tick every item and everything goes to the Trash first. Apple silicon, macOS 13+. Native macOS app. Submitted by the maker.</td>
+      <td><strong>20% OFF</strong> one-time licence: €39.99 &rarr; €31.99 (1 Mac), €59.99 &rarr; €47.99 (2 Macs) · <code>CYBERMONDAY26</code></td>
+      <td>Nov 27 - Nov 30, 2026</td>
+    </tr>
   </tbody>
 </table>
 
