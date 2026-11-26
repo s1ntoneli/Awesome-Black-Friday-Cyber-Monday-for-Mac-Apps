@@ -400,6 +400,22 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> Pro one-time license · $12 → $6 · <code>BF2026</code> at checkout</td>
       <td>Nov 22 - Nov 30, 2026</td>
     </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://1audiotool.com">1AudioTool</a></td>
+      <td>Dictation</td>
+      <td>Local dictation for macOS and Windows that learns your own words and never uploads audio.</td>
+      <td><strong>50% OFF</strong> one-time Pro licence · $29 → $14.50 · <code>BFDEALS50</code> · bundles 30% OFF (<a href="https://stoicsoft.com/pricing">Complete</a> $199 → $139.30) · <code>BFDEALSBUNDLE30</code></td>
+      <td>Nov 19 - Nov 29, 2026</td>
+    </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://stoicbrowser.com">Stoic Browser</a></td>
+      <td>Browser</td>
+      <td>A browser for founders with a workspace per product and coding agents working inside it.</td>
+      <td><strong>50% OFF</strong> one-time Pro licence · $29 → $14.50 · <code>BFDEALS50</code> · bundles 30% OFF (<a href="https://stoicsoft.com/pricing">Complete</a> $199 → $139.30) · <code>BFDEALSBUNDLE30</code></td>
+      <td>Nov 19 - Nov 29, 2026</td>
+    </tr>
   </tbody>
 </table>
 
@@ -612,6 +628,30 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> Lifetime Pro, a one-time purchase: $199.99 → $99.99 in the App Store · No code needed</td>
       <td>Nov 27 - Nov 30, 2026</td>
     </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://1videotool.com">1VideoTool</a></td>
+      <td>Video</td>
+      <td>Describe a video, preview a free draft, then render the finished MP4 on your own machine.</td>
+      <td><strong>50% OFF</strong> one-time Pro licence · $29 → $14.50 · <code>BFDEALS50</code> · bundles 30% OFF (<a href="https://stoicsoft.com/pricing">Complete</a> $199 → $139.30) · <code>BFDEALSBUNDLE30</code></td>
+      <td>Nov 19 - Nov 29, 2026</td>
+    </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://1showcasetool.com">1ShowcaseTool</a></td>
+      <td>Product demos</td>
+      <td>Record a product flow once and turn it into a guide, a film, a 3D mockup or a click-through demo, with secrets hidden.</td>
+      <td><strong>50% OFF</strong> one-time Pro licence · $29 → $14.50 · <code>BFDEALS50</code> · bundles 30% OFF (<a href="https://stoicsoft.com/pricing">Complete</a> $199 → $139.30) · <code>BFDEALSBUNDLE30</code></td>
+      <td>Nov 19 - Nov 29, 2026</td>
+    </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://1marketingtool.com">1MarketingTool</a></td>
+      <td>Marketing</td>
+      <td>Local-first marketing desktop app for AI campaigns, publishing to 17 networks and SEO audits.</td>
+      <td><strong>50% OFF</strong> one-time Pro licence · $29 → $14.50 · <code>BFDEALS50</code> · bundles 30% OFF (<a href="https://stoicsoft.com/pricing">Complete</a> $199 → $139.30) · <code>BFDEALSBUNDLE30</code></td>
+      <td>Nov 19 - Nov 29, 2026</td>
+    </tr>
   </tbody>
 </table>
 
@@ -768,6 +808,22 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> the first payment on any Pro plan with code <code>BF2026</code> · monthly €14 → €7, annual €84 → €42 (EUR)</td>
       <td>Nov 27 - Dec 1, 2026</td>
     </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://1aivault.com">1AIVault</a></td>
+      <td>AI memory</td>
+      <td>One local memory vault for all your AI tools, served back to them over MCP.</td>
+      <td><strong>50% OFF</strong> one-time Pro licence · $29 → $14.50 · <code>BFDEALS50</code> · bundles 30% OFF (<a href="https://stoicsoft.com/pricing">Complete</a> $199 → $139.30) · <code>BFDEALSBUNDLE30</code></td>
+      <td>Nov 19 - Nov 29, 2026</td>
+    </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://1localaitool.com">1LocalAITool</a></td>
+      <td>Local AI</td>
+      <td>Private AI chat, PDF summaries, transcription and image generation that run offline on your own computer.</td>
+      <td><strong>50% OFF</strong> one-time Pro licence · $29 → $14.50 · <code>BFDEALS50</code> · bundles 30% OFF (<a href="https://stoicsoft.com/pricing">Complete</a> $199 → $139.30) · <code>BFDEALSBUNDLE30</code></td>
+      <td>Nov 19 - Nov 29, 2026</td>
+    </tr>
   </tbody>
 </table>
 
@@ -872,6 +928,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td>Local-first native Mac app for saving design references, notes, and sources on your own computer. Apple Silicon, macOS 14+; Intel Macs are not supported. 7-day trial, no card required. Submitted by the maker.</td>
       <td><strong>36% OFF</strong> Personal one-time · US$39 → US$25; <strong>38% OFF</strong> Lifetime · US$79 → US$49; <strong>50% OFF</strong> Studio Duo (two Lifetime licenses only) · US$158 → US$79 · No code</td>
       <td>Nov 19 - Dec 1, 2026 (ends 23:59 PST)</td>
+    </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://1designtool.com">1DesignTool</a></td>
+      <td>Design studio</td>
+      <td>Local design studio your coding agents drive to make slides, app screens and brand kits as real files.</td>
+      <td><strong>50% OFF</strong> one-time Pro licence · $29 → $14.50 · <code>BFDEALS50</code> · bundles 30% OFF (<a href="https://stoicsoft.com/pricing">Complete</a> $199 → $139.30) · <code>BFDEALSBUNDLE30</code></td>
+      <td>Nov 19 - Nov 29, 2026</td>
     </tr>
 
 
@@ -1218,6 +1282,22 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> first year of Pro Yearly ($14.99 → $7.49) · <code>NINJABF26</code></td>
       <td>Nov 24 - Dec 2, 2026</td>
     </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://1filetool.com">1FileTool</a></td>
+      <td>File tools</td>
+      <td>Nearly 300 offline file tools for compressing, converting and cleaning files on Mac, Windows and Linux.</td>
+      <td><strong>50% OFF</strong> one-time Pro licence · $29 → $14.50 · <code>BFDEALS50</code> · bundles 30% OFF (<a href="https://stoicsoft.com/pricing">Complete</a> $199 → $139.30) · <code>BFDEALSBUNDLE30</code></td>
+      <td>Nov 19 - Nov 29, 2026</td>
+    </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://1machinetool.com">1MachineTool</a></td>
+      <td>System care</td>
+      <td>Finds out why your computer is slow, hot, full or draining and fixes it, replacing ten system utilities.</td>
+      <td><strong>50% OFF</strong> one-time Pro licence · $29 → $14.50 · <code>BFDEALS50</code> · bundles 30% OFF (<a href="https://stoicsoft.com/pricing">Complete</a> $199 → $139.30) · <code>BFDEALSBUNDLE30</code></td>
+      <td>Nov 19 - Nov 29, 2026</td>
+    </tr>
   </tbody>
 </table>
 
@@ -1378,6 +1458,22 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td>JavaScript and TypeScript playground. Zero config needed. Write and run code with instant feedback.</td>
       <td><strong>30% OFF</strong> with code <code>BLACKFRIDAY2026</code></td>
       <td>Nov 20 - Dec 1, 2026</td>
+    </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://1devtool.com">1DevTool</a></td>
+      <td>Coding agents</td>
+      <td>Desktop workbench that runs Claude Code, Codex and other coding agents side by side, with a browser, database client and git built in.</td>
+      <td><strong>50% OFF</strong> one-time Pro licence · $29 → $14.50 · <code>BFDEALS50</code> · bundles 30% OFF (<a href="https://stoicsoft.com/pricing">Complete</a> $199 → $139.30) · <code>BFDEALSBUNDLE30</code></td>
+      <td>Nov 19 - Nov 29, 2026</td>
+    </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://servercompass.app">Server Compass</a></td>
+      <td>Deployment</td>
+      <td>Deploy any repo to your own VPS without the terminal: zero-downtime deploys, SSL and rollbacks.</td>
+      <td><strong>50% OFF</strong> one-time Pro licence · $29 → $14.50 · <code>BFDEALS50</code> · bundles 30% OFF (<a href="https://stoicsoft.com/pricing">Complete</a> $199 → $139.30) · <code>BFDEALSBUNDLE30</code></td>
+      <td>Nov 19 - Nov 29, 2026</td>
     </tr>
 
 
