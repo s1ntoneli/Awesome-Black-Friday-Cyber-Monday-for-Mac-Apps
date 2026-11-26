@@ -1218,6 +1218,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> first year of Pro Yearly ($14.99 → $7.49) · <code>NINJABF26</code></td>
       <td>Nov 24 - Dec 2, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://apps.apple.com/app/apple-store/id6816598058?pt=117978951&amp;ct=bf-s1ntoneli&amp;mt=8">Melt</a></td>
+      <td>Menu Bar (native macOS)</td>
+      <td>Keeps your recent screenshots and screen recordings one click away in the menu bar, ready to drag, copy or pin, and can move old ones to the Trash on a schedule. Submitted by the maker.</td>
+      <td><strong>40% OFF</strong> · $4.99 → $2.99, one-time · No code needed · Mac App Store</td>
+      <td>Nov 26 - Nov 30, 2026</td>
+    </tr>
   </tbody>
 </table>
 
