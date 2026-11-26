@@ -1218,6 +1218,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> first year of Pro Yearly ($14.99 → $7.49) · <code>NINJABF26</code></td>
       <td>Nov 24 - Dec 2, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://edgebar.xyz">EdgeBar</a></td>
+      <td>Trackpad Utility (native macOS)</td>
+      <td>Turns the edges of your MacBook trackpad into volume and brightness sliders: swipe along an edge, with the native macOS HUD. Submitted by the maker.</td>
+      <td><strong>30% OFF</strong> one-time · $9 → $6.30 · <code>BLACKFRIDAY</code></td>
+      <td>Nov 16 - Dec 1, 2026</td>
+    </tr>
   </tbody>
 </table>
 
