@@ -308,6 +308,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
         </tr>
     <tr>
           <td align="center">💎</td>
+          <td><a href="https://www.speakmac.app/buy?utm_source=github_s1ntoneli&amp;utm_medium=deal_list&amp;utm_campaign=bf2026">Speakmac</a></td>
+          <td>Voice dictation &amp; meeting notes (native macOS)</td>
+          <td>Private, 100% offline voice dictation in any Mac app plus bot-free meeting notes. On-device speech recognition &amp; local text cleanup; audio never leaves your Mac. Free tier included.</td>
+          <td><strong>35% OFF</strong> one-time licenses with code <strong>BF2026</strong> (auto-applied at checkout): Personal (1 Mac) $29 → $18.85, Pro (2 Macs) $39 → $25.35. No subscription. Submitted by the maker.</td>
+          <td>Nov 26 - Dec 7, 2026</td>
+        </tr>
+    <tr>
+          <td align="center">💎</td>
           <td><a href="https://bytemailapp.com/black-friday">bytemail</a></td>
           <td>Email Client (native macOS)</td>
           <td>Fast, native email app for Mac with a unified inbox, smart search, snooze, rules, an AI assistant and MCP support so AI apps can work with your mail.</td>
