@@ -182,7 +182,7 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><a href="https://keymap.app?utm_source=awesomebflist&amp;utm_medium=deal&amp;utm_campaign=bf2026">Keymap</a></td>
       <td>Shortcut Finder (macOS)</td>
       <td>Double-press Command to see every shortcut of the current app in a floating panel. Conflict detection with smart suggestions, optional remapping. Data stays local, one-time purchase. Submitted by the maker.</td>
-      <td><strong>50% OFF</strong> · $6.99 → $3.49 · <code>BF2026</code></td>
+      <td><strong>50% OFF</strong> · $6.99 → $3.50 · <code>BF2026</code></td>
       <td>Nov 21 - Dec 1, 2026</td>
     </tr>
     <tr>
@@ -518,7 +518,7 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><a href="https://picxure.app?utm_source=awesomebflist&amp;utm_medium=deal&amp;utm_campaign=bf2026">PicXure</a></td>
       <td>Screenshot &amp; Annotation (macOS)</td>
       <td>Region/window/scrolling capture with a 9-tool annotator. OCR and mosaic are free forever; Pro adds Backdrop, Pin, and Watermark. 1 license = 3 Macs, lifetime updates. Submitted by the maker.</td>
-      <td><strong>50% OFF</strong> · $14.99 → $7.49 · <code>BF2026</code></td>
+      <td><strong>50% OFF</strong> · $14.99 → $7.50 · <code>BF2026</code></td>
       <td>Nov 21 - Dec 1, 2026</td>
     </tr>
     <tr>
