@@ -400,6 +400,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> Pro one-time license · $12 → $6 · <code>BF2026</code> at checkout</td>
       <td>Nov 22 - Nov 30, 2026</td>
     </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://pastenotch.com/black-friday">PasteNotch</a></td>
+      <td>Clipboard Manager (native macOS)</td>
+      <td>The clipboard manager in your notch: unlimited history for text, links, images and files, with search, filters, pins and iCloud sync. Open it from the notch or ⇧⌘V; works on Macs with or without a notch. macOS 14+, 14-day free trial, no account needed. Submitted by the maker.</td>
+      <td><strong>50% OFF</strong> one-time · $4.99 → $2.49, new purchases only · <code>BLACKFRIDAY50</code> (pre-filled by the Buy button)</td>
+      <td>Nov 23 - Dec 1, 2026</td>
+    </tr>
   </tbody>
 </table>
 
