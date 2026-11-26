@@ -400,6 +400,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> Pro one-time license · $12 → $6 · <code>BF2026</code> at checkout</td>
       <td>Nov 22 - Nov 30, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://arturwitkowski.com/lockabulary/">Lockabulary</a></td>
+      <td>Vocabulary Quiz (macOS, iPhone)</td>
+      <td>Menu bar app that blurs your Mac every so often until you answer a few European Portuguese, Spanish or French words. On iPhone it locks the apps you pick the same way. Spaced repetition (FSRS), no account, no ads. 14-day free trial. Submitted by the maker.</td>
+      <td><strong>35% OFF</strong> Lifetime · $19.99 → $12.99 on the Mac App Store and App Store · No code needed</td>
+      <td>Nov 26 - Dec 1, 2026</td>
+    </tr>
   </tbody>
 </table>
 
