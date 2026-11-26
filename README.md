@@ -1218,6 +1218,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> first year of Pro Yearly ($14.99 → $7.49) · <code>NINJABF26</code></td>
       <td>Nov 24 - Dec 2, 2026</td>
     </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://getswitchy.app/black-friday">Switchy</a></td>
+      <td>Menu Bar (native macOS)</td>
+      <td>Menu bar utility with 31 one-click Mac switches (Dark Mode, Keep Awake, hide desktop icons and more), plus deploy status, 2FA codes and Claude/Codex usage limits. macOS 14+, free 7-day trial. Submitted by the maker.</td>
+      <td><strong>50% OFF</strong> one-time · $4.99 → $2.49, up to 3 Macs · <code>BLACKFRIDAY50</code> (pre-filled by the Buy button)</td>
+      <td>Nov 23 - Dec 1, 2026</td>
+    </tr>
   </tbody>
 </table>
 
