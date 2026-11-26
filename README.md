@@ -1218,6 +1218,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> first year of Pro Yearly ($14.99 → $7.49) · <code>NINJABF26</code></td>
       <td>Nov 24 - Dec 2, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://mole.fit/?utm_source=s1ntoneli-awesome&utm_campaign=bf2026">Mole</a></td>
+      <td>Cleaner &amp; Uninstaller (native macOS)</td>
+      <td>Cleans caches and old AI tool data, uninstalls and updates apps with their leftovers, maps your disk and shows live CPU, temperature and fan stats. From the maker of the open-source Mole CLI; also on Windows. Submitted by the maker.</td>
+      <td><strong>20% OFF</strong> one-time · <s>$19</s> $15.20 · No code needed</td>
+      <td>Nov 25 - Nov 30, 2026</td>
+    </tr>
   </tbody>
 </table>
 
