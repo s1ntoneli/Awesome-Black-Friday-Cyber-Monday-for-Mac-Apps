@@ -400,6 +400,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> Pro one-time license · $12 → $6 · <code>BF2026</code> at checkout</td>
       <td>Nov 22 - Nov 30, 2026</td>
     </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://apps.apple.com/app/apple-store/id6792581826?pt=129192922&ct=bf26-gh-si&mt=8">MDash — Markdown to PDF</a></td>
+      <td>Markdown to PDF (native macOS)</td>
+      <td>Turns Markdown into a clean, print-ready PDF: sensible page breaks, clickable links, tables and code that fit the page, and a table of contents in one click. Also exports to Word. Free 7-day trial.</td>
+      <td><strong>50% OFF</strong> one-time unlock · $39.99 → $19.99 · No code needed</td>
+      <td>Nov 25 - Dec 7, 2026</td>
+    </tr>
   </tbody>
 </table>
 
