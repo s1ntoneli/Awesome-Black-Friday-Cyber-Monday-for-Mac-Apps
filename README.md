@@ -400,6 +400,30 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> Pro one-time license · $12 → $6 · <code>BF2026</code> at checkout</td>
       <td>Nov 22 - Nov 30, 2026</td>
     </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://unclutterapp.com/bundle/?coupon=UN-BLACKFRIDAY-2026&s=git">Once Upon Your Mac</a></td>
+      <td>Mac App Bundle</td>
+      <td>A collection of 12 indie Mac apps, including DaisyDisk, Unclutter, Moom, Downie, AirBuddy, TextSniper and more.</td>
+      <td><strong>75% OFF</strong> the full bundle ($239 → $59.99), or 50% OFF individual apps. No code needed.</td>
+      <td>Nov 26 - Dec 10, 2026</td>
+    </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://unclutterapp.com/bundle/?coupon=UN-BLACKFRIDAY-2026&s=git#UNCLUTTER">Unclutter</a></td>
+      <td>Files, Notes &amp; Clipboard History</td>
+      <td>Your Mac&rsquo;s new favorite shelf. All your data — one gesture away.</td>
+      <td><strong>50% OFF</strong> ($30 → $15).</td>
+      <td>Nov 26 - Dec 10, 2026</td>
+    </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://unclutterapp.com/bundle/?coupon=UN-BLACKFRIDAY-2026&s=git#DAISYDISK">DaisyDisk</a></td>
+      <td>Disk Space Analyzer</td>
+      <td>Find out what’s taking up your disk space and recover it in the most efficient and easy way.</td>
+      <td><strong>50% OFF</strong> ($10 → $5).</td>
+      <td>Nov 26 - Dec 10, 2026</td>
+    </tr>
   </tbody>
 </table>
 
