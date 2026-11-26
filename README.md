@@ -1218,6 +1218,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> first year of Pro Yearly ($14.99 → $7.49) · <code>NINJABF26</code></td>
       <td>Nov 24 - Dec 2, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://falconrylabs.com/drive/">Falconry Drive</a></td>
+      <td>NTFS Driver</td>
+      <td>Read and write NTFS drives on macOS 27 (Apple silicon). Native app built on Apple&rsquo;s FSKit, with no kernel extension, so SIP stays on. Writes the NTFS journal the way Windows does, checked with Windows chkdsk. 14-day free trial. Maker disclosure: submitted by the developer.</td>
+      <td><strong>30% OFF</strong> the first year of the yearly licence ($27.99 &rarr; $19.60, renews at $27.99) · <code>BLACKFRIDAY30</code></td>
+      <td>Nov 26 - Dec 1, 2026</td>
+    </tr>
   </tbody>
 </table>
 
