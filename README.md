@@ -1218,6 +1218,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> first year of Pro Yearly ($14.99 → $7.49) · <code>NINJABF26</code></td>
       <td>Nov 24 - Dec 2, 2026</td>
     </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://solocraft.app/abctab">AbcTab</a></td>
+      <td>App &amp; Window Switcher</td>
+      <td>Native macOS ⌘-Tab switcher with instant first-letter jump, multi-window and terminal tab lists, and Ping-Pong pairing. Zero Screen Recording permission, zero telemetry, 14-day free trial. Signed and notarized. Maker submission.</td>
+      <td><strong>50% OFF</strong> Pro lifetime license · $9.99 → $4.99 · <code>BF50</code> at checkout</td>
+      <td>Nov 27 - Dec 2, 2026</td>
+    </tr>
   </tbody>
 </table>
 
