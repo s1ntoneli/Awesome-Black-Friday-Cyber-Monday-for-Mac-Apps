@@ -1218,6 +1218,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> first year of Pro Yearly ($14.99 → $7.49) · <code>NINJABF26</code></td>
       <td>Nov 24 - Dec 2, 2026</td>
     </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://getclearpane.app/?utm_source=s1ntoneli-bf&amp;utm_campaign=bf2026#pricing">Clearpane</a></td>
+      <td>System Monitor (native macOS)</td>
+      <td>Activity Monitor in plain English: one sentence on what's slowing your Mac, every process explained, and whether it's safe to quit. Everything stays on your Mac. macOS 14+. Submitted by the maker.</td>
+      <td><strong>53% OFF</strong> one-time, 2 Macs · $19 → $9 · No code needed</td>
+      <td>Nov 26 - Dec 1, 2026</td>
+    </tr>
   </tbody>
 </table>
 
