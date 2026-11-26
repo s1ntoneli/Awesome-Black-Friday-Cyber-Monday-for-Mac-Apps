@@ -1218,6 +1218,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> first year of Pro Yearly ($14.99 → $7.49) · <code>NINJABF26</code></td>
       <td>Nov 24 - Dec 2, 2026</td>
     </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://www.nosub.dev/noswitch?utm_source=github-awesome&amp;utm_medium=deal&amp;utm_campaign=bf2026">noswitch</a></td>
+      <td>Notch Utility</td>
+      <td>Turns your MacBook notch into a hub: clipboard history, screenshots, a file shelf, Claude Code and Codex agent status, and keep-awake, one hover away. Native Mac app.</td>
+      <td><strong>50% OFF</strong> one-time, $14.99 → $7.49 · no code, applied automatically</td>
+      <td>Nov 26 - Nov 30, 2026</td>
+    </tr>
   </tbody>
 </table>
 
