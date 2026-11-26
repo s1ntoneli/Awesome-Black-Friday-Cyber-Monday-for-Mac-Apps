@@ -612,6 +612,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> Lifetime Pro, a one-time purchase: $199.99 → $99.99 in the App Store · No code needed</td>
       <td>Nov 27 - Nov 30, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://loudwell.app/black-friday/?s=bf-s1n">Loudwell</a></td>
+      <td>Social media planner (Mac app, Electron, Apple silicon)</td>
+      <td>Plans a week of social posts from the photos and clips already on your Mac, writes the captions in your brand's voice with your own AI key, and posts nothing until you approve it. Free iPhone companion.</td>
+      <td><strong>40% OFF</strong> first year of either plan, new customers · <code>BF40</code></td>
+      <td>Nov 27 - Dec 1, 2026</td>
+    </tr>
   </tbody>
 </table>
 
