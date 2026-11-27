@@ -1218,6 +1218,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> first year of Pro Yearly ($14.99 → $7.49) · <code>NINJABF26</code></td>
       <td>Nov 24 - Dec 2, 2026</td>
     </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://getpaper.sh/mac/?ref=themacapps-bf">PaperMac</a></td>
+      <td>Window Manager</td>
+      <td>Public beta scrolling window manager for macOS 27 that works with your Desktops, not against them. Windows place themselves; scroll, zoom or jump to any of them. The free version has no time limit. Maker submission.</td>
+      <td><strong>50% OFF</strong> one-time Pro ($39 → $19.50) and Lifetime ($99 → $49.50) · <code>BF2026</code></td>
+      <td>Nov 27 through Dec 1, 2026</td>
+    </tr>
   </tbody>
 </table>
 
