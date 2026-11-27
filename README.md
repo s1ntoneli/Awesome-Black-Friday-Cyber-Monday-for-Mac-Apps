@@ -400,6 +400,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> Pro one-time license · $12 → $6 · <code>BF2026</code> at checkout</td>
       <td>Nov 22 - Nov 30, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://chatexhibit.me">Exhibit</a></td>
+      <td>Message Export (native macOS)</td>
+      <td>Exports iMessage, WhatsApp, Signal and more from your Mac or iPhone into one court-ready PDF. One-time purchase. Submitted by the maker.</td>
+      <td><strong>30% OFF</strong> one-time · Personal $19.99 → $13.99, Firm $59 → $41.30 · <code>EXHIBITBF30</code></td>
+      <td>Nov 27 - Dec 1, 2026</td>
+    </tr>
   </tbody>
 </table>
 
@@ -1468,4 +1476,3 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
 Thanks to the 2026 contributors whose submitted deal details informed this refresh: [#94](https://github.com/s1ntoneli/Awesome-Black-Friday-Cyber-Monday-for-Mac-Apps/pull/94), [#98](https://github.com/s1ntoneli/Awesome-Black-Friday-Cyber-Monday-for-Mac-Apps/pull/98), [#101](https://github.com/s1ntoneli/Awesome-Black-Friday-Cyber-Monday-for-Mac-Apps/pull/101), [#103](https://github.com/s1ntoneli/Awesome-Black-Friday-Cyber-Monday-for-Mac-Apps/pull/103), [#104](https://github.com/s1ntoneli/Awesome-Black-Friday-Cyber-Monday-for-Mac-Apps/pull/104), [#105](https://github.com/s1ntoneli/Awesome-Black-Friday-Cyber-Monday-for-Mac-Apps/pull/105), [#106](https://github.com/s1ntoneli/Awesome-Black-Friday-Cyber-Monday-for-Mac-Apps/pull/106), [#99](https://github.com/s1ntoneli/Awesome-Black-Friday-Cyber-Monday-for-Mac-Apps/pull/99), [#100](https://github.com/s1ntoneli/Awesome-Black-Friday-Cyber-Monday-for-Mac-Apps/pull/100), [#107](https://github.com/s1ntoneli/Awesome-Black-Friday-Cyber-Monday-for-Mac-Apps/pull/107).
 
 *Only the seller can confirm whether a deal is active and which plans qualify.*
-
