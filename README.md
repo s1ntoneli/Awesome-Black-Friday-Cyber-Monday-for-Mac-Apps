@@ -768,6 +768,15 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> the first payment on any Pro plan with code <code>BF2026</code> · monthly €14 → €7, annual €84 → €42 (EUR)</td>
       <td>Nov 27 - Dec 1, 2026</td>
     </tr>
+
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://atris.ai/black-friday?utm_source=macapps-bf&amp;utm_campaign=bf2026">Atris</a></td>
+      <td>Native Mac app + Web / AI Team</td>
+      <td>First AI team built for human improvement: monthly credits, team members, an agent computer and 60+ studio apps reachable from macOS, text, CLI, MCP or ChatGPT. Submitted by the maker.</td>
+      <td><strong>25%–75% OFF</strong> Pro Month 1 ($20 → $5–$15, at least 25% off guaranteed): Black Friday &amp; Cyber Monday Orb negotiation in 5 turns · No code needed · cancel anytime</td>
+      <td>Nov 27 - Dec 1, 2026</td>
+    </tr>
   </tbody>
 </table>
 
