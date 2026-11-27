@@ -400,6 +400,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> Pro one-time license · $12 → $6 · <code>BF2026</code> at checkout</td>
       <td>Nov 22 - Nov 30, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://pake.run/?utm_source=s1ntoneli-awesome&utm_campaign=bf2026">Pake</a></td>
+      <td>Website to App (macOS, Windows, Linux)</td>
+      <td>Turns any website into a lightweight desktop app with its own icon and window, no developer tools to install. From the maker of the open-source Pake CLI. Submitted by the maker.</td>
+      <td><strong>20% OFF</strong> one-time · <s>$19</s> $15.20 · No code needed</td>
+      <td>Nov 25 - Dec 15, 2026</td>
+    </tr>
   </tbody>
 </table>
 
@@ -1217,6 +1225,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td>Mac app (also on Windows and Linux) that maps your disk in seconds, free. Pro adds a sorted list of big files you might not need, each with a reason, and plain answers about any file. Maker submission.</td>
       <td><strong>50% OFF</strong> first year of Pro Yearly ($14.99 → $7.49) · <code>NINJABF26</code></td>
       <td>Nov 24 - Dec 2, 2026</td>
+    </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://yado.house/?utm_source=s1ntoneli-awesome&utm_campaign=bf2026">Yado</a></td>
+      <td>iPhone Manager (native macOS)</td>
+      <td>Cleans up an iPhone from the Mac: duplicate photos, large videos and unused apps, plus photo export, file transfer and backups kept on your own Mac. Submitted by the maker.</td>
+      <td><strong>20% OFF</strong> one-time · <s>$19</s> $15.20 · No code needed</td>
+      <td>Nov 25 - Dec 30, 2026</td>
     </tr>
   </tbody>
 </table>
