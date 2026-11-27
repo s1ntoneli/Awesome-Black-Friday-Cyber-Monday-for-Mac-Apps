@@ -1218,6 +1218,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> first year of Pro Yearly ($14.99 → $7.49) · <code>NINJABF26</code></td>
       <td>Nov 24 - Dec 2, 2026</td>
     </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://identity.purevpn.com/bfcm?utm_source=creatoros&utm_medium=github&utm_campaign=creatoros_bfcm&utm_content=s1ntoneli">PureVPN</a></td>
+      <td>VPN &amp; Privacy Suite (native macOS)</td>
+      <td>VPN for Mac (also Windows, iPhone, Android and Linux), 10 devices, 80+ locations. The Black Friday plan adds a tracker blocker, password manager, data broker removal and dark web monitoring. Submitted by the PureVPN team.</td>
+      <td><strong>92% OFF</strong> 1-year plan · $19.95 for the first year ($1.66/mo) · No code needed</td>
+      <td>Nov 27 - Nov 30, 2026</td>
+    </tr>
   </tbody>
 </table>
 
