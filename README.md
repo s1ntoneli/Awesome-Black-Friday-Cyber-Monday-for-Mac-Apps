@@ -574,7 +574,7 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><a href="https://aiteleprompterapp.com/">AI Teleprompter · Voice Sync</a></td>
       <td>Teleprompter (iPhone/iPad; iPad app on Apple silicon Mac, Not verified for macOS)</td>
       <td>Voice-synced teleprompter for video recording and speeches. iPhone and iPad app; on Apple silicon Mac it runs as an iPad app, and the App Store marks it “Not verified for macOS.” <a href="https://aiteleprompterapp.com/holiday-sale/">Deal</a> · <a href="https://apps.apple.com/us/app/id6749378913">App Store</a></td>
-      <td><strong>50% OFF</strong> first year of annual subscription (US$39.99 → US$19.99), eligible new subscribers only; <strong>50% OFF</strong> Lifetime (US$99.99 → US$49.99) · No code</td>
+      <td><strong>50% OFF</strong> first year of annual subscription (US$39.99 → US$19.99), eligible new subscribers only; <strong>50% OFF</strong> Lifetime (US$49.99 → US$24.99) · No code</td>
       <td>Nov 20, 2026 - Jan 1, 2027 (Beijing Time)</td>
     </tr>
     <tr>
