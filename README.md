@@ -1379,6 +1379,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>30% OFF</strong> with code <code>BLACKFRIDAY2026</code></td>
       <td>Nov 20 - Dec 1, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://apxy.dev/?utm_source=github&amp;utm_medium=bf_list&amp;utm_campaign=bfcm2026">APXY</a></td>
+      <td>HTTP Debugging Proxy (macOS &amp; Linux)</td>
+      <td>Local HTTP/HTTPS debugging proxy with a CLI and MCP server so coding agents (Claude Code, Cursor, Codex) can check the real requests their code sends. Also mocks, replays and diffs requests. Submitted by the maker.</td>
+      <td><strong>30% OFF</strong> Pro one-time licence for 3 devices ($99 → $69.30) · <code>APXY2026</code></td>
+      <td>Limited time</td>
+    </tr>
 
 
 
