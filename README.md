@@ -1379,6 +1379,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>30% OFF</strong> with code <code>BLACKFRIDAY2026</code></td>
       <td>Nov 20 - Dec 1, 2026</td>
     </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://wireway.dev/black-friday/">Wireway</a></td>
+      <td>HTTPS Proxy (Native macOS)</td>
+      <td>Native SwiftUI + Kotlin/Native HTTPS debugging proxy (alternative to Charles &amp; Proxyman, Linux &amp; Windows coming soon) with a built-in MCP server for AI coding agents.</td>
+      <td><strong>75% OFF</strong> first year (€39.99 → €9.99, perpetual fallback) · <code>BF2026</code></td>
+      <td>Nov 27 - Dec 1, 2026</td>
+    </tr>
 
 
 
