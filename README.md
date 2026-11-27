@@ -1218,6 +1218,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> first year of Pro Yearly ($14.99 → $7.49) · <code>NINJABF26</code></td>
       <td>Nov 24 - Dec 2, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://promaxdisplay.com/?utm_source=s1ntoneli-awesome">ProMax Display</a></td>
+      <td>Display</td>
+      <td>Makes full-screen apps on notched MacBooks use the whole screen, including the strip beside the notch. Plus the Dynamic Island on notched MacBooks, trackpad gestures and Window Corners. Native macOS app, 7-day free trial.</td>
+      <td><strong>30% OFF</strong> one-time purchase ($9.99 → $6.99) · No code needed · Direct from the website</td>
+      <td>Nov 27 - Nov 30, 2026</td>
+    </tr>
   </tbody>
 </table>
 
