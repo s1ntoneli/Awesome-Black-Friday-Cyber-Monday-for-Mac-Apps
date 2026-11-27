@@ -873,6 +873,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>36% OFF</strong> Personal one-time · US$39 → US$25; <strong>38% OFF</strong> Lifetime · US$79 → US$49; <strong>50% OFF</strong> Studio Duo (two Lifetime licenses only) · US$158 → US$79 · No code</td>
       <td>Nov 19 - Dec 1, 2026 (ends 23:59 PST)</td>
     </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://apps.apple.com/app/id6818370032?pt=129529936&ct=github-s1ntoneli&mt=8">Rindraw</a></td>
+      <td>Drawing &amp; Animation (native Mac, iPad, iPhone)</td>
+      <td>Drawing, painting and frame-by-frame animation app. Strokes stay editable, and it opens .procreate and .psd files with their layers. One purchase covers Mac, iPad and iPhone. Submitted by the maker.</td>
+      <td><strong>50% OFF</strong> one-time · $12.99 → $6.49 · No code</td>
+      <td>Nov 23 - Dec 1, 2026</td>
+    </tr>
 
 
 
