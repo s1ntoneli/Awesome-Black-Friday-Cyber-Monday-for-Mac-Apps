@@ -1047,6 +1047,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
     </tr>
     <tr>
       <td align="center">💎</td>
+      <td><a href="https://www.anttoolkit.com">ANT – Advanced Network Toolkit</a></td>
+      <td>Network Utility (native macOS)</td>
+      <td>VLAN switching, network scan, ping, traceroute and more. All in one native Mac app. Apple Silicon, macOS 27+.</td>
+      <td><strong>30% OFF</strong> Lifetime (2 Macs) · $34.30 · <code>BLACKFRIDAY26</code></td>
+      <td>Nov 27 - Dec 1, 2026</td>
+    </tr>
+    <tr>
+      <td align="center">💎</td>
       <td><a href="https://apps.apple.com/app/id6763036198?utm_source=awesomebflist&amp;utm_medium=deal&amp;utm_campaign=bf2026">VibeCursor</a></td>
       <td>Cursor Effects (macOS)</td>
       <td>Smooth cursor trails, click particles, and sound effects — with zero system permissions. 120Hz smooth, multi-display, native Metal rendering.</td>
