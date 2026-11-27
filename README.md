@@ -662,6 +662,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td>Nov 13 - Dec 2, 2026</td>
     </tr>
     <tr>
+      <td align="center">—</td>
+      <td><a href="https://eagerness.ai/?ref=themacapps">Eagerness</a></td>
+      <td>Local AI (native Mac)</td>
+      <td>A private AI for conversations and writing that runs entirely on your Mac: talk or type, make your own bots, write long with no word caps, even with the internet off. No account; setup picks and downloads the right AI for your Mac. 7-day free trial. Apple silicon, macOS 14+. Submitted by the maker.</td>
+      <td><strong>Launch price: $69 once through December 2. Then $99.</strong> · No code needed</td>
+      <td>Nov 27 - Dec 2, 2026</td>
+    </tr>
+    <tr>
       <td align="center">🔥</td>
       <td><a href="https://wovo.one/#pricing">Wovo</a></td>
       <td>AI Agent / MCP Connector (macOS &amp; Linux)</td>
