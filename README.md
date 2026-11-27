@@ -811,6 +811,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
     </tr>
     <tr>
       <td align="center">🔥</td>
+      <td><a href="https://propixel.app">ProPixel</a></td>
+      <td>Image Optimiser (macOS)</td>
+      <td>Native Mac app that resizes, converts and optimises images for websites, shops and social media. Processing stays on the Mac. Submitted by the maker.</td>
+      <td><strong>About 70% OFF</strong> one-time · €19.99 → €5.95 · No code needed</td>
+      <td>Nov 27 - Dec 4, 2026</td>
+    </tr>
+    <tr>
+      <td align="center">🔥</td>
       <td><a href="https://apps.apple.com/app/id6768883420?utm_source=awesomebflist&amp;utm_medium=deal&amp;utm_campaign=bf2026">FloatViewer</a></td>
       <td>Image Viewer (macOS)</td>
       <td>Borderless floating image viewer with 32+ formats (RAW, PSD, AVIF, SVG), EXIF inspector, histogram, and OCR. Smooth on 100MB+ images. Free app; code unlocks Lifetime.</td>
