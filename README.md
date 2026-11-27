@@ -612,6 +612,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> Lifetime Pro, a one-time purchase: $199.99 → $99.99 in the App Store · No code needed</td>
       <td>Nov 27 - Nov 30, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://jiffyrecord.com/pricing?utm_source=s1ntoneli&amp;utm_medium=github&amp;utm_campaign=bf2026&amp;ref=s1ntoneli">JiffyRecord</a></td>
+      <td>Screen Recorder &amp; Video Editor (macOS)</td>
+      <td>Native Mac screen recorder, screenshot tool and video editor (Apple silicon, macOS 14+): auto zoom, captions and an editable timeline, with sharing from your own Google Drive. Submitted by the maker.</td>
+      <td><strong>About 69% OFF per Mac</strong>: was $79 for 1 Mac, now $49 for a 2-Mac license ($24.50 per Mac) · <code>BLACKFRIDAY</code>, added at checkout from the site's Buy button</td>
+      <td>Nov 26 - Dec 1, 2026</td>
+    </tr>
   </tbody>
 </table>
 
@@ -1217,6 +1225,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td>Mac app (also on Windows and Linux) that maps your disk in seconds, free. Pro adds a sorted list of big files you might not need, each with a reason, and plain answers about any file. Maker submission.</td>
       <td><strong>50% OFF</strong> first year of Pro Yearly ($14.99 → $7.49) · <code>NINJABF26</code></td>
       <td>Nov 24 - Dec 2, 2026</td>
+    </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://macmelon.com/black-friday?utm_source=s1ntoneli&amp;utm_medium=github&amp;utm_campaign=bf2026&amp;ref=s1ntoneli">MacMelon Whole Melon</a></td>
+      <td>Utilities Bundle</td>
+      <td>Four native Mac utilities with one license key: AccessWatch (stop repeat permission pop-ups), Disk Housekeeper (free disk space, developer caches), Sentinely (memory freeze warnings) and ART (App Store keyword ranks). Submitted by the maker.</td>
+      <td><strong>62% OFF</strong> All 4 apps for $49 (regular $129 if bought separately: AccessWatch $12, ART $69, Disk Housekeeper $19, Sentinely $29) · <strong>No code needed</strong>. Duo $79, Trio $99, Studio $129</td>
+      <td>Nov 26 - Nov 30, 2026</td>
     </tr>
   </tbody>
 </table>
