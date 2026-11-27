@@ -400,6 +400,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> Pro one-time license · $12 → $6 · <code>BF2026</code> at checkout</td>
       <td>Nov 22 - Nov 30, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://www.macspencer.app">Spencer</a></td>
+      <td>Window manager (macOS)</td>
+      <td>Save and restore Mac window layouts across Spaces, full screen and multi-display desks.</td>
+      <td><strong>40% OFF</strong> one-time · $25 → $15 · BLACK26</td>
+      <td>Nov 20 - Nov 30, 2026</td>
+    </tr>
   </tbody>
 </table>
 
