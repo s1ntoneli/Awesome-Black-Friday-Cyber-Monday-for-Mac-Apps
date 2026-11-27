@@ -1218,6 +1218,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> first year of Pro Yearly ($14.99 → $7.49) · <code>NINJABF26</code></td>
       <td>Nov 24 - Dec 2, 2026</td>
     </tr>
+    <tr>
+      <td align="center">—</td>
+      <td><a href="https://pulsarmac.app/en/#early">Pulsar</a></td>
+      <td>System monitor (native macOS)</td>
+      <td>Replay a slowdown to see which processes were busiest. Find port owners and inspect app connections. Apple silicon, macOS 14+. Submitted by the maker.</td>
+      <td>One-time purchase · Pro US$9 → US$7 (up to 2 Macs) · Supporter US$29 → US$14.50 (up to 5 Macs) · No code needed. Ends Dec 7 at 08:00 UTC.</td>
+      <td>Nov 27 - Dec 7, 2026</td>
+    </tr>
   </tbody>
 </table>
 
