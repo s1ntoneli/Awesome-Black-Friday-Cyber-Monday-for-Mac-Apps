@@ -406,7 +406,7 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td>Website to App (macOS, Windows, Linux)</td>
       <td>Turns any website into a lightweight desktop app with its own icon and window, no developer tools to install. From the maker of the open-source Pake CLI. Submitted by the maker.</td>
       <td><strong>20% OFF</strong> one-time · <s>$19</s> $15.20 · No code needed</td>
-      <td>Nov 25 - Dec 15, 2026</td>
+      <td>Nov 25 - Nov 30, 2026</td>
     </tr>
   </tbody>
 </table>
@@ -1232,7 +1232,7 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td>iPhone Manager (native macOS)</td>
       <td>Cleans up an iPhone from the Mac: duplicate photos, large videos and unused apps, plus photo export, file transfer and backups kept on your own Mac. Submitted by the maker.</td>
       <td><strong>20% OFF</strong> one-time · <s>$19</s> $15.20 · No code needed</td>
-      <td>Nov 25 - Dec 30, 2026</td>
+      <td>Nov 25 - Nov 30, 2026</td>
     </tr>
   </tbody>
 </table>
