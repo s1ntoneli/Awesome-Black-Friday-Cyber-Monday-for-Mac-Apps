@@ -895,6 +895,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
   <tbody>
     <tr>
       <td align="center">💎</td>
+      <td><a href="https://igidu.app/">Igidu Pro</a></td>
+      <td>Utilities (native Mac)</td>
+      <td>Mouse controls, supported peripherals, DualSense Edge tools, recording and replay. Submitted by the developer.</td>
+      <td><strong>$5 OFF</strong> · $14.99 → $9.99 USD, one-time for Mac 1.x and 1.x updates on two personal Macs · No code needed · New checkouts; tax may apply</td>
+      <td>Nov 26–Dec 2, 2026; ends 11:59 p.m. Central</td>
+    </tr>
+    <tr>
+      <td align="center">💎</td>
       <td><a href="https://getneotiler.com/?utm_source=s1ntoneli-awesome">NeoTiler</a></td>
       <td>Window Manager</td>
       <td>Native macOS window manager with keyboard &amp; drag-to-edge snapping, Smart Workspaces, trackpad gestures, Shake to Focus, and Windows-style live Dock previews.</td>
