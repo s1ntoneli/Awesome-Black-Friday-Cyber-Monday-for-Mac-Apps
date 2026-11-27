@@ -400,6 +400,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> Pro one-time license · $12 → $6 · <code>BF2026</code> at checkout</td>
       <td>Nov 22 - Nov 30, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://cliptop.app/#pricing">Cliptop</a></td>
+      <td>Clipboard Manager (macOS, iPhone, iPad)</td>
+      <td>Searchable local clipboard history, pinboards for reusable clips, and optional private iCloud sync. Submitted by the maker.</td>
+      <td><strong>30% OFF</strong> website checkout only · Lifetime $29.99 → $20.99 once; yearly $14.99 → $10.49/year, including renewals · <code>BFCM2026</code> auto-applied</td>
+      <td>Nov 23 - Dec 1, 2026</td>
+    </tr>
   </tbody>
 </table>
 
