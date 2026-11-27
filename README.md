@@ -768,6 +768,15 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> the first payment on any Pro plan with code <code>BF2026</code> · monthly €14 → €7, annual €84 → €42 (EUR)</td>
       <td>Nov 27 - Dec 1, 2026</td>
     </tr>
+
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://ghostformac.com/black-friday?ref=bf-themacapps">Ghost</a></td>
+      <td>Native Mac app / AI Agent</td>
+      <td>Your Mac will never be the same: say one sentence and Ghost takes over your Mac to do the whole task across your apps, and writes as you. It learns you from your own texts and mail. Submitted by the maker.</td>
+      <td><strong>60% OFF</strong> the license · $249 → $99 once · No code needed · plus an AI plan from $19/mo</td>
+      <td>Nov 27 - Dec 1, 2026</td>
+    </tr>
   </tbody>
 </table>
 
