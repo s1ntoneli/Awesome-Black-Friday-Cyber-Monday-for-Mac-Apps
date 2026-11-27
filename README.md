@@ -1382,6 +1382,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
 
 
 
+    <tr>
+      <td align="center">💎</td>
+      <td><strong><a href="https://www.context.dev/pricing">Context.dev</a></strong></td>
+      <td>Web-based API</td>
+      <td>Web search, scraping and crawling APIs for AI agents; browser-based dashboard, usable from macOS.</td>
+      <td><strong>30% OFF</strong> new purchases of paid plans for <strong>1 year</strong> · No code needed, automatically applied · Developer $20 → $14/month</td>
+      <td>Nov 27 – Dec 1, 2026</td>
+    </tr>
   </tbody>
 </table>
 
