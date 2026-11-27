@@ -1218,6 +1218,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> first year of Pro Yearly ($14.99 → $7.49) · <code>NINJABF26</code></td>
       <td>Nov 24 - Dec 2, 2026</td>
     </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://pulsarmac.app/en/?utm_source=s1ntoneli_bf&amp;utm_medium=deals&amp;utm_campaign=black_friday_2026#early">Pulsar</a></td>
+      <td>System Monitor (native macOS)</td>
+      <td>Native macOS system monitor with an incident log and Replay: jump back to the moment your Mac stuttered and inspect the busiest processes. Free edition stays free; Pro adds 7-day Replay and domain history. Apple silicon, macOS 14+. Submitted by the maker.</td>
+      <td><strong>50% OFF</strong> one-time · Pro $14 → $7 (2 Macs), Supporter $29 → $14.50 (5 Macs), all future updates · No code needed</td>
+      <td>Nov 27 - Dec 7, 2026</td>
+    </tr>
   </tbody>
 </table>
 
