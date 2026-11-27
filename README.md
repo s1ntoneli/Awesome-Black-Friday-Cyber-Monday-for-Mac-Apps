@@ -400,6 +400,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> Pro one-time license · $12 → $6 · <code>BF2026</code> at checkout</td>
       <td>Nov 22 - Nov 30, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://aloudapp.app/black-friday/">Aloud</a></td>
+      <td>Text-to-speech (native macOS)</td>
+      <td>Reads selected text, PDFs, screenshots and web articles out loud on your Mac, with on-device voices. One-time purchase. Submitted by the maker.</td>
+      <td><strong>30% OFF</strong> one-time · $19 → $13.30 · <code>BF30</code></td>
+      <td>Nov 27 - Dec 1, 2026</td>
+    </tr>
   </tbody>
 </table>
 
