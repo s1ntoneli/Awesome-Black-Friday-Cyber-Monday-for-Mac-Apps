@@ -894,6 +894,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
   </thead>
   <tbody>
     <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://iknowmymac.com/?utm_source=s1ntoneli#pricing">iKnowMyMac</a></td>
+      <td>Utilities (native Mac, Apple silicon)</td>
+      <td>Menu bar app that watches CPU, memory, disk, network and battery and keeps the history: what was busy, what woke the Mac, what kept it awake. Explains 343 macOS processes in plain English. Submitted by the developer.</td>
+      <td><strong>80% OFF</strong> · $24.99 → $4.99 USD launch price, one-time · No code needed · While the 200 launch licenses last. Or iKnowMyMac + iKnowMyDisplay as the iKnow Suite: $7.99 → $5.99</td>
+      <td>Nov 27–Dec 1, 2026</td>
+    </tr>
+    <tr>
       <td align="center">💎</td>
       <td><a href="https://getneotiler.com/?utm_source=s1ntoneli-awesome">NeoTiler</a></td>
       <td>Window Manager</td>
