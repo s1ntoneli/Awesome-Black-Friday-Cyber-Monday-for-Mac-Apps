@@ -1218,6 +1218,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> first year of Pro Yearly ($14.99 → $7.49) · <code>NINJABF26</code></td>
       <td>Nov 24 - Dec 2, 2026</td>
     </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><a href="https://commandreopen.com/">Command Reopen</a></td>
+      <td>App Switcher Utility (native macOS)</td>
+      <td>Makes native Cmd+Tab bring back minimized windows or open a new window when apps have none. Submitted by the maker.</td>
+      <td><strong>50% OFF</strong> Lifetime in-app purchase · $9.99 → $4.99 USD · <a href="https://apps.apple.com/redeem?ctx=offercodes&amp;id=6757333924&amp;code=BF2026"><code>BF2026</code></a> · Ten selected Mac App Store regions</td>
+      <td>Nov 27 - Nov 30, 2026 (Pacific time)</td>
+    </tr>
   </tbody>
 </table>
 
