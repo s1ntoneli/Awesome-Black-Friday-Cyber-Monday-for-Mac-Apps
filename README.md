@@ -768,6 +768,14 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> the first payment on any Pro plan with code <code>BF2026</code> · monthly €14 → €7, annual €84 → €42 (EUR)</td>
       <td>Nov 27 - Dec 1, 2026</td>
     </tr>
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://voiceleap.ai">VoiceLeap</a></td>
+      <td>Voice translation (native macOS)</td>
+      <td>Near real-time voice-to-voice translation for calls, videos and shows, with live subtitles if you want them. Submitted by the maker.</td>
+      <td><strong>25% OFF</strong> Standard annual $29 → $21.75/year and Standard Lifetime $49 → $36.75 once · <code>HOLIDAY_26</code></td>
+      <td>Nov 28, 2026 - Jan 3, 2027</td>
+    </tr>
   </tbody>
 </table>
 
