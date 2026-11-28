@@ -612,6 +612,15 @@ Hi there! ❤️ I build Mac apps in public and maintain this repo. Follow me on
       <td><strong>50% OFF</strong> Lifetime Pro, a one-time purchase: $199.99 → $99.99 in the App Store · No code needed</td>
       <td>Nov 27 - Nov 30, 2026</td>
     </tr>
+  
+    <tr>
+      <td align="center">💎</td>
+      <td><a href="https://screencharm.com">Screen Charm</a></td>
+      <td>Screen Recorder (native macOS)</td>
+      <td>Mac screen recorder with auto-zoom on clicks, smooth cursor, auto captions, vertical exports and 4K export. One-time purchase, lifetime license. Submitted by the maker.</td>
+      <td><strong>39% OFF</strong> the $79 lifetime deal (~$49; regular $149) · No code needed</td>
+      <td>Nov 27 - Dec 1, 2026</td>
+    </tr>
   </tbody>
 </table>
 
